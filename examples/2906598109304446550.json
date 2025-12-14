@@ -1,0 +1,287 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "227-228",
+            "shortText": "227-228",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Strand",
+            "shortText": "Strand",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Temple",
+            "shortText": "Temple",
+            "types": [
+                "neighborhood",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2R 1BE",
+            "shortText": "WC2R 1BE",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Temple"
+                },
+                "name": "places/ChIJFxpJdLMEdkgRDlwTEZAvFIY",
+                "placeId": "ChIJFxpJdLMEdkgRDlwTEZAvFIY"
+            },
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Holborn"
+                },
+                "name": "places/ChIJA7_adjUbdkgR_XPGaE3twAI",
+                "placeId": "ChIJA7_adjUbdkgR_XPGaE3twAI"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Parking lot"
+                },
+                "name": "places/ChIJlb1Yr7QEdkgRQo37iEUa_cI",
+                "placeId": "ChIJlb1Yr7QEdkgRQo37iEUa_cI"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Instituto Cervantes of London"
+                },
+                "name": "places/ChIJO5-qKCMFdkgRn9cZgS2sw2k",
+                "placeId": "ChIJO5-qKCMFdkgRn9cZgS2sw2k",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 67.660484,
+                "travelDistanceMeters": 105.355484,
+                "types": [
+                    "establishment",
+                    "library",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Royal Courts of Justice"
+                },
+                "name": "places/ChIJheMywLQEdkgRbEEwYwdUwxc",
+                "placeId": "ChIJheMywLQEdkgRbEEwYwdUwxc",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 65.863304,
+                "travelDistanceMeters": 52.989475,
+                "types": [
+                    "courthouse",
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Central London County Court"
+                },
+                "name": "places/ChIJ0WT5H9cadkgRj4WAwTl6-rM",
+                "placeId": "ChIJ0WT5H9cadkgRj4WAwTl6-rM",
+                "spatialRelationship": "ACROSS_THE_ROAD",
+                "straightLineDistanceMeters": 103.52876,
+                "travelDistanceMeters": 20.266735,
+                "types": [
+                    "courthouse",
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Tesco Express"
+                },
+                "name": "places/ChIJVXBGmLQEdkgRb9qpe_aOFyk",
+                "placeId": "ChIJVXBGmLQEdkgRb9qpe_aOFyk",
+                "spatialRelationship": "BESIDE",
+                "straightLineDistanceMeters": 9.732244,
+                "travelDistanceMeters": 10.92873,
+                "types": [
+                    "convenience_store",
+                    "establishment",
+                    "food",
+                    "grocery_or_supermarket",
+                    "point_of_interest",
+                    "store",
+                    "supermarket"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Old Bank of England"
+                },
+                "name": "places/ChIJU2tLX7MEdkgRfnpop4S_WI8",
+                "placeId": "ChIJU2tLX7MEdkgRfnpop4S_WI8",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 72.24185,
+                "travelDistanceMeters": 66.90532,
+                "types": [
+                    "bar",
+                    "establishment",
+                    "point_of_interest"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "curbsidePickup": false,
+    "delivery": false,
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Le Nusa London"
+    },
+    "formattedAddress": "227-228 Strand, Temple, London WC2R 1BE, UK",
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x4876054ea46fa679:0x28564f94a1e9de56!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x4876054ea46fa679:0x28564f94a1e9de56!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=2906598109304446550&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x4876054ea46fa679:0x28564f94a1e9de56!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x4876054ea46fa679:0x28564f94a1e9de56!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=2906598109304446550&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJeaZvpE4FdkgRVt7poZRPVig",
+    "location": {
+        "latitude": 51.5133976,
+        "longitude": -0.1122237
+    },
+    "name": "places/ChIJeaZvpE4FdkgRVt7poZRPVig",
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Ludwina Fiadita",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWc8PeagYiXEJtwk_mnmira4FQyjhn-z1xARUq7cm0f9_FF8AgA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/103235210379262463386"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhD4G42EwldnM_GtZNuIvuNJ&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhD4G42EwldnM_GtZNuIvuNJ!2e10!4m2!3m1!1s0x4876054ea46fa679:0x28564f94a1e9de56",
+            "heightPx": 1032,
+            "name": "places/ChIJeaZvpE4FdkgRVt7poZRPVig/photos/AZLasHoUCI7JTV1lWGrM0_fwDQCI7c3kwXQ5ipjIKRMpEXZAoDB28cL58uXeZTJ2meXxuN5e6Q2-u6RZEvvH9-XhVn_Aq0S2drp-5E0-EGzfkwPj-BVLLP2IruMB9pbSI6B3vBW5Gvkq4zPIXvikhgdI2awvjaAXz1eKckrwByqPmnBDVpiUri1BPvnIm6OXtH6HzmrDvM7bW8XjM0Q7Z8C5xpzsRrB2ZLR0TZCcGdMAZ2iVaAFGe7KOtddzxHMpxjeGil0eZZxzwFomMdAG6We5BNufQP6rxByy0DZXzXfBe3CnSiW8u-hPPbNq1XRt3fccxbnNLhDO_SqCcEet4CDc6TZgWQsKU4I-C65JEw1_lKg5jxvS5cPDjy2aVp4fGbExUBcOgsKgmszSTECMI57s-FIr_BotfvYNZVb0Rtf-MWK_phdhOpnokbKU32ZxQO6c",
+            "widthPx": 1436
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Ludwina Fiadita",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWc8PeagYiXEJtwk_mnmira4FQyjhn-z1xARUq7cm0f9_FF8AgA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/103235210379262463386"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAFFIU0IQMPr1Nlc_DJHfG6&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAFFIU0IQMPr1Nlc_DJHfG6!2e10!4m2!3m1!1s0x4876054ea46fa679:0x28564f94a1e9de56",
+            "heightPx": 1052,
+            "name": "places/ChIJeaZvpE4FdkgRVt7poZRPVig/photos/AZLasHrU1STSij88-MouhMH7ywg998Q9Lyg3W5fJCnJU4cplPsnjla7jzEjyALmKm6Tl3kadzSLCZMm2rt3Z9zo-XXDIbHN5T7n-V_zoKYi2HcIho_qHj_bIYBF6F5G3nwWkpiGV-xjRqxz1p4wZsaVxP8vaApANrmFJsedL1tbOhyzvCRMt833kxB2FbfW7468Uu79R-1514OQAWY_wNwF8NrrykdpTn8_1UIW0mHaaNHjGmjTDuWEm9l2LCUCwlgwf9b9BeIRNN9j0XoCpo388Y21uvW_NI0TrLRqq981IVec3UIHRQnbhvMa5zb1_Obi0Kok3FrO8gYIW-dWvj7P65FE-9hrNJxHjLHBPItTWTHnI3B7EpLQ1vy8ZO7i45LyMk8QNqK0wHJhopXsiBDbUOvY6dfxQBWTq02prJlydpiRvScS6SRXz9WLs2YYNDbOE",
+            "widthPx": 1404
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV7Q+94 London, UK",
+        "globalCode": "9C3XGV7Q+94"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "227-228 Strand"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2R 1BE",
+        "regionCode": "GB"
+    },
+    "primaryType": "indonesian_restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Indonesian Restaurant"
+    },
+    "shortFormattedAddress": "227-228 Strand, London",
+    "takeout": true,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "indonesian_restaurant",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+    ],
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.5148234302915,
+            "longitude": -0.11094011970849794
+        },
+        "low": {
+            "latitude": 51.5121254697085,
+            "longitude": -0.11363808029150199
+        }
+    },
+    "timestamp": 1765447200
+}

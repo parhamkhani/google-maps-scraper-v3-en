@@ -1,0 +1,869 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "127",
+            "shortText": "127",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Charing Cross Road",
+            "shortText": "Charing Cross Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2H 0EW",
+            "shortText": "WC2H 0EW",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Soho"
+                },
+                "name": "places/ChIJm39Ln9QEdkgR0l1-U8xXTuQ",
+                "placeId": "ChIJm39Ln9QEdkgR0l1-U8xXTuQ"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Soho Square Gardens"
+                },
+                "name": "places/ChIJKcoH1iwbdkgRtY8CaIB5m1Y",
+                "placeId": "ChIJKcoH1iwbdkgRtY8CaIB5m1Y"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "TK Maxx"
+                },
+                "name": "places/ChIJC-dXrNIEdkgRRDkHwRzwoeY",
+                "placeId": "ChIJC-dXrNIEdkgRRDkHwRzwoeY",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 48.923847,
+                "travelDistanceMeters": 36.676537,
+                "types": [
+                    "department_store",
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "NBCUniversal"
+                },
+                "name": "places/ChIJv4f2tzIbdkgR9ockIRcTijo",
+                "placeId": "ChIJv4f2tzIbdkgR9ockIRcTijo",
+                "straightLineDistanceMeters": 234.05063,
+                "travelDistanceMeters": 265.75348,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Phoenix Theatre"
+                },
+                "name": "places/ChIJ4VJMr9IEdkgRpNfI8XrkKQk",
+                "placeId": "ChIJ4VJMr9IEdkgRpNfI8XrkKQk",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 78.66418,
+                "travelDistanceMeters": 76.97737,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Central Saint Giles"
+                },
+                "name": "places/ChIJ50g9uDIbdkgRlCV8K3CctEM",
+                "placeId": "ChIJ50g9uDIbdkgRlCV8K3CctEM",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 212.02092,
+                "travelDistanceMeters": 165.84671,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Tottenham Court Road"
+                },
+                "name": "places/ChIJUwzMay0bdkgR2il_ihMRcME",
+                "placeId": "ChIJUwzMay0bdkgR2il_ihMRcME",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 132.38506,
+                "travelDistanceMeters": 82.19293,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "subway_station",
+                    "train_station",
+                    "transit_station"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "curbsidePickup": false,
+    "currentOpeningHours": {
+        "nextOpenTime": "2025-11-25T12:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 14,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 14,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 14,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 – 2:30 PM, 5:00 – 10:00 PM",
+            "Tuesday: 12:00 – 2:30 PM, 5:00 – 10:00 PM",
+            "Wednesday: 12:00 – 2:30 PM, 5:00 – 10:00 PM",
+            "Thursday: 12:00 – 10:00 PM",
+            "Friday: 12:00 – 11:00 PM",
+            "Saturday: 12:00 – 11:00 PM",
+            "Sunday: 12:00 – 10:00 PM"
+        ]
+    },
+    "delivery": false,
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Tigermilk | London"
+    },
+    "formattedAddress": "127 Charing Cross Rd, London WC2H 0EW, UK",
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x48761b5d9cf1cc43:0x43ab16353d4c50d!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x48761b5d9cf1cc43:0x43ab16353d4c50d!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=304750964967261453&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x48761b5d9cf1cc43:0x43ab16353d4c50d!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x48761b5d9cf1cc43:0x43ab16353d4c50d!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=304750964967261453&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJQ8zxnF0bdkgRDcXUU2OxOgQ",
+    "location": {
+        "latitude": 51.5150759,
+        "longitude": -0.1301637
+    },
+    "name": "places/ChIJQ8zxnF0bdkgRDcXUU2OxOgQ",
+    "outdoorSeating": true,
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Tigermilk",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKvn3jbf784eJFhE_CXa6dHFYdR7kfaogzuwGI-cgkvkWSYgQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/109622050284938263991"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNntLxnyJ10d21e-_kSYQ1yaGY6Tg4vh7BtQcL4&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNntLxnyJ10d21e-_kSYQ1yaGY6Tg4vh7BtQcL4!2e10!4m2!3m1!1s0x48761b5d9cf1cc43:0x43ab16353d4c50d",
+            "heightPx": 3200,
+            "name": "places/ChIJQ8zxnF0bdkgRDcXUU2OxOgQ/photos/AWn5SU6AL8OGidZ_DQUAWJx90PWMtW4ldE6nkYPRQErm8jBDA2WZKxEPejwkcZ777aPKKhZbsu9hDpS6f11RheLXf-SWCgL7uHDGfnPzdRrDfVWwOxzXNvT3XtICrQEEHSn_nl8VMoB1nAVvdGkUe-lnzdLSKTjxXDSNEecGwa2yNViKve3McQpZ7Fst-2YAj5Kwcu-2WR_rKMT9vMbvQglm5zlcHpeYsA2Ud79jjlcc6HvupgvAikfXG_xQKczhEjCsoed60pnTvyHG5oFPdZ-tnqN3JbFCmKkYF9rd2nN4Q2WqMA",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Karolina Sobaniec Gajtka",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLNGda6kLPeEV_p1t1eVUihk7yl_5OYbASK9VCVgqP5X6t3=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/101783557274772810842"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBv8yKfLd9JoufSmo8luzEg&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBv8yKfLd9JoufSmo8luzEg!2e10!4m2!3m1!1s0x48761b5d9cf1cc43:0x43ab16353d4c50d",
+            "heightPx": 4032,
+            "name": "places/ChIJQ8zxnF0bdkgRDcXUU2OxOgQ/photos/AWn5SU44ySDvht9gtxVOpSs6XSY-AxPfF6DBM4tPJeVsVZzjfq4D6FDFfApTi5fmErmentWPgqKDKs9wGIuWGLFgSgrSeUVj1vpWDFyryglYXkUmMVMvODZltOk8bnsUKr0iq7485Cjf9DFw__KVqAWislps38I_qSm2ImzSjj18rMuO18KQgRYhhBK_WYIm-U8nonJMT5iNiZakdVjch68WHwUJ32lt7iaYeKTlJYGwBAsMcum61mR2PPvzYybx9XpEE0T_H3qe7GvBJW0hUAdfG1EjIIcKeJ6ZaJGVVRSQiQtwsfx5m2eDWRmGhXnh7YjyLDa3ndw45W-Sn4MgcKkO3Uzp3WHgUqUR7M18xrnRGnXwbHZ-HEpNmH5K9MfHIUEc9qeRkCY_VgiafJ_CVZvF_p2tS0BMnMvw9HMfzEiqjs3bgv_0rnGaM2hUJY1sEVK8",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Tigermilk",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKvn3jbf784eJFhE_CXa6dHFYdR7kfaogzuwGI-cgkvkWSYgQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/109622050284938263991"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOcJddxIozYFB2n-5ii8tyNWH0cHr4uZn5_Uwdy&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOcJddxIozYFB2n-5ii8tyNWH0cHr4uZn5_Uwdy!2e10!4m2!3m1!1s0x48761b5d9cf1cc43:0x43ab16353d4c50d",
+            "heightPx": 4800,
+            "name": "places/ChIJQ8zxnF0bdkgRDcXUU2OxOgQ/photos/AWn5SU7czRP4b2E_7cytFKQG64QlyiBsRbRztHe_-_KHwRvRIkMKMC6Yu-5lizYilfc_nKiABAAPuE7rBtdHtNYk-3X7cXX98abv5Of67Pl2w1mgfw5BRDX0skg23UJS1ftT8frmjdIvnYK7bUHTIXKjh-aUS3G7qJ6TtwiTnfQIyibKDTBEqWD6Br67uTs6lNJK2vxTrfNMXBmQHC1A1hjxsrNxinOBPjHLekKl90Gwm616C-iFJPdiP3y-GfGi5ZU0bl9rtFAiR6VVxDgMRqU5zoPc7gLqo5ewCLF9Nii1cZkkdg",
+            "widthPx": 3201
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Shambhavi Srivastava",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVU4tpknmBR-QtOHAeZwiKJrzaDLxkZSDxjVFbjnjuM0o_Z2Ts=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110218453082913558910"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCyjz6UPQOBtvT8NNSG7nky&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCyjz6UPQOBtvT8NNSG7nky!2e10!4m2!3m1!1s0x48761b5d9cf1cc43:0x43ab16353d4c50d",
+            "heightPx": 4800,
+            "name": "places/ChIJQ8zxnF0bdkgRDcXUU2OxOgQ/photos/AWn5SU7tuGXEVNf8nXCaMkG63-_6XIwIgDTfYdd8hvft9OVe6oMfceT87QdEvfNjIvjI__WnNS2pbnSz6zAu77IFQgTic0H2eTv8TkBHX4SuTmLyJRoUlLK0u4gDyONzhvDJx3fEywyG2SCSOQPqJpyXPL4x6uulGXNX3bRsecaPInKmqfhbSKLYj70YjsLp0j4f5GoBm5TrZV0F6KeUCvGSuKQVQ7zp3LUBjwzKG9DG721sugGbUVckMAon1hY_cM1ryt50QN89Df0MV7vESbErjSFrxaBl_SXs7W1AMCaSlwlXk-m_zhaZRz_HiNZAezlMT_xwjBG00_MqDV6oK2yDXso_cz8cZ7kcc-JVeezH847fVeCqh-E9T6vF2ZaP9zfg1tL1cssB3s02T57fEnZG591gSsqWk7xNzvqPPkgpY6Oo1dlj-MRo88N0ftIVYJfB",
+            "widthPx": 3600
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "David Geraghty",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXCocUXnrqfLCJZCZ37k08BOaivv28oRgozvKiJNKsqnGwZ3IPu=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/106344660813601315885"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCs2rjuRyphd8bRUNlVyGRZ&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCs2rjuRyphd8bRUNlVyGRZ!2e10!4m2!3m1!1s0x48761b5d9cf1cc43:0x43ab16353d4c50d",
+            "heightPx": 779,
+            "name": "places/ChIJQ8zxnF0bdkgRDcXUU2OxOgQ/photos/AWn5SU7mftUnIWXOt6OZpD64WbyvLTtkSqT-Pf2PvNst6P6HiBoYH5YwEXdqR7kXEFRR34lVnTAmpN0KVT3eMgvYuGCuhcUWXLel-OOymplcEkgTLShpn68I0p6iYOKwhI9Gfm0QCbo-zqFFu70-8RhwAXCEgiz4lnd6x0c_LUoJlAjEgPaDw4EDyq8IL07FgyrGbfBaRrTJPWo7Ye86m9QIuhjpsGpR1DsxKH8CCeYa-1cQxQZIrLtyy7986Aabnm9S8h8PVw_7LmIiwFXFAotqzkQaFMAtv9BusnGiNnye_d1sWf6TeZ2gTlZKQDa32yL3zALy_EWLV0i1J-sDTwO10ft2lhbGzB64ZsC9w_9ZYe4Gsgy8QyYgu-PFiW_Iz63uvustTfsL0E_BSa-nQfpoDumx75hnDgr1pBr5MZPRcvaiob2CBwWmxBg3GPWg5qcy",
+            "widthPx": 1179
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Ann T.",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLU4OF3pgLii24lVdVj-LYGiN1qfOc9D7mTarYJ51LyLhEn5g=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/114846867469227137121"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhD8J5XHYDbZxMfX7amnF-0B&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhD8J5XHYDbZxMfX7amnF-0B!2e10!4m2!3m1!1s0x48761b5d9cf1cc43:0x43ab16353d4c50d",
+            "heightPx": 4032,
+            "name": "places/ChIJQ8zxnF0bdkgRDcXUU2OxOgQ/photos/AWn5SU4kiVGausHV-gXbiLrjunruVxOUA-O3CBX0B_7HV28B42E85hQwrejPvsWGmi7cziPWmuDxIYAcU5NiF-twMdk2K_252OI-8P2IJR4FNjN-XLSuug2sAFIJvjhu92izdB1gCcbjv_2sYlzE_itAU74ATCpNvskICq3VZKur-9BCyeIeaupS6VALcZiHvX_j_CU360hXnNXuArq1qALpUMC-o3Vz4fdrLyjsCibHHneHRU-jIogK-fsNptvAmeMPuY631Aml-melUJqDMUMTNRjaY_UgQjFsoF2Q5cFW5W3f-CmTZNtZjvMfLas2FGqBay8_btoB79HHITmeQHAoUEm2fAxXKoFH6TJRkWVYoR1F071poKKeGAJjBNkcOF0UV17aZ4sagBxaTBW486XxpdGMQUI3mJQK9NL0PXBpp_Hvj14oCyv8kiX_YM0oLQ",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Rishi Patil",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU-svWE6mjg3mYLmP2XwvdjnbINWUhk2P3UacJPaaiLG7Aj1uIU=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/102412997328928731365"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEMPj2avA8uHtyQE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEMPj2avA8uHtyQE!2e10!4m2!3m1!1s0x48761b5d9cf1cc43:0x43ab16353d4c50d",
+            "heightPx": 2048,
+            "name": "places/ChIJQ8zxnF0bdkgRDcXUU2OxOgQ/photos/AWn5SU5i7_sju38Vk740pfPls7rabbOOwoYw64rNoitDrKNlJarzU25Hoz3vwNJ1IsQVKjaQlaKxIrf35IlKMoyCPvBv8VoNdir8upoq7CV7GkQTCh6P9s8P4WUBjxTW52gY1LYqjCLg3krofoVCAk9p2-_ylAu3UrisEbEqtWOD-BxB_7FtzvAh9LB48_g9g1qBwmgvT_LaBpkNzjnB6VMQAJUSMf-PEHM7TQiRR-24gnSnbKSfCnhFIrdxHrKQLaHqZCqfWNeIEmYSyT17oSgYBHPThptBnv2uNh8LCueDtcxtCLCznCJOXMcUwp5EimkuhPCOM5mA-Ve2FtbsDaveurv-D19mBUn13Umt6q7y8CC7WwMx7M2QgrJAnP3lP4IYat0XPib_mPDchpGOIQ9U8_yd0KxVYrE6IFVZyeJQhn66Jfg",
+            "widthPx": 1536
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Matt Chong",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV0Oinh8ilMFKWqmNLk4eHfM_RFdE8nfVNtc9BtpGE7mHd6ahTP=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/105468742904648501863"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBSRV0UcdNpMLZDBw5jn798&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBSRV0UcdNpMLZDBw5jn798!2e10!4m2!3m1!1s0x48761b5d9cf1cc43:0x43ab16353d4c50d",
+            "heightPx": 3600,
+            "name": "places/ChIJQ8zxnF0bdkgRDcXUU2OxOgQ/photos/AWn5SU6pGDZelMDk-8HA-ODwaqGbQymjH99NCznssexALqAHKBAjZXDDkA9kNvHK1Jbf_YaWtcrJIY5cW0v4139h2fVfxmo24dn6kNd3ddUmOqzH7ay3zEMeDTdX0OFgtxPgbDTBSFVbPiegL-m2OaiLLHIJVr9yrMPAejG3ne6VfW9jIonMUeIbEz93q9xDdBzSTWqvTV_fBefjsEbQQcln7tqxH04GospoxDegwxbFquIQ9LtXCDvLmQE4qHSiwZHBORrOQ9zkkaqYNQY7eiK0tMW4nZkx1pUsLeJk12s1p5SSFHIb7EEsKq-N-QghjramW-EU6MZK_IAZbbm6BzJN_Pms_IHok4djLuW7SQmW4HDKGv7vnjAZr-fumgRlk_mL1i6q1PG4ms5zM9mPmgqvWGRzCVGLv3hpg1xiPblATNadOxfFdaJfjp8xMBScJvhj",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Noemi Lanz",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJvkxSPAo2KQvveD7zu6NuUpz_BJqZaHF71GM5i9bcv95mYrA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/100438423804361658233"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADEMOY4ZdFGRsswMIelz4U&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADEMOY4ZdFGRsswMIelz4U!2e10!4m2!3m1!1s0x48761b5d9cf1cc43:0x43ab16353d4c50d",
+            "heightPx": 4032,
+            "name": "places/ChIJQ8zxnF0bdkgRDcXUU2OxOgQ/photos/AWn5SU6GHDJuGOEOO5EiE5ZCAerdg4glis5FZgiyJerL25MUDYDHGpIdIQS_IEaCcW6BnkgiUZZoR_33HhOnKydZ-Z0juSr8tnTWgu-UJGoGMAcvxLlVOxRfiuYkHZIyxurmw6m4CQ3WGsMRdXZAZFD0VSmrEh7Et94dZZhSIzDlaShdVAU7N76DXO4r1-doLQtPJ2gLF5VmawEumnmnkmzVcqPHsUQVc4c14aEc_ZSgap7I92mjxJl0xFwIiEtzc8cH_PtRhx1V2nnbDgVDWxLuII564oiDHUYEZ9kgKJQ9Uu21M8anJaT6qwqCQVjsVqYRCXF5tZChKnZK4A3JjYmLZdag3WE4XSqWrsT_ezzRS9wHMXcWXSvgum6wiJvMw9_1d6iN--0uV15AvGEQ6kj14i88TxUR2AYMp9MSNpt2PlJ3ldrLe-wyiCmuBzQbEiJy",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Lydia Rafferty-Flynn",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVFcyaJYVJzN-WSmFDY-j45TqIsZVWM3Qxm51Ytq9NKl-sr6lw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/108178037491343846895"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBigzm1iAhNEQ1ox30CEqxq&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBigzm1iAhNEQ1ox30CEqxq!2e10!4m2!3m1!1s0x48761b5d9cf1cc43:0x43ab16353d4c50d",
+            "heightPx": 4800,
+            "name": "places/ChIJQ8zxnF0bdkgRDcXUU2OxOgQ/photos/AWn5SU5f2euwO6z-0EfEJGZcTLjYt1uLe4UysWiYy1FAv54kEo_XYdZYK_8tjsSnEPk-gPGmNnL6ZxqBMnxkiN7Uk3xobI5Dz0aO3mfxIpCSJHRVRhY3U7MhxZYArjEZBy7z8vQ4QUCHxoS1a-vA1iDc9qgD-wnXDKF0lwqgveAA73nlaXksSgQ2uIdswK-tcJvbAf5J1T8-a_rTX0YGJ_mH6t64x6ZKKdNAaT0NXGJJ0UYFUA22Pvbo6jEagghYXJGlDgLZw3h-k9UxLYLEGeX1cfYyhXT_ZENV0Sf-F3kD3Yq2DuTGe30-qaeS9dAcSIOJJIXHJVt6L5uKwhia-r5XgNZhnGqkj90ENm705RgHWBJRAQtQxukXuUN9OwXaz7C4sKEKXryNm8tQ7Hmm-pLSNLWKeQATwrMgn4e3y7QbiV0iY515g-sfm38znhC58TiN",
+            "widthPx": 3600
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV89+2W London, UK",
+        "globalCode": "9C3XGV89+2W"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "127 Charing Cross Road"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2H 0EW",
+        "regionCode": "GB"
+    },
+    "primaryType": "restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Restaurant"
+    },
+    "rating": 4.7,
+    "regularOpeningHours": {
+        "nextOpenTime": "2025-11-25T12:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 14,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 14,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 14,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 – 2:30 PM, 5:00 – 10:00 PM",
+            "Tuesday: 12:00 – 2:30 PM, 5:00 – 10:00 PM",
+            "Wednesday: 12:00 – 2:30 PM, 5:00 – 10:00 PM",
+            "Thursday: 12:00 – 10:00 PM",
+            "Friday: 12:00 – 11:00 PM",
+            "Saturday: 12:00 – 11:00 PM",
+            "Sunday: 12:00 – 10:00 PM"
+        ]
+    },
+    "reviewSummary": {
+        "disclosureText": {
+            "languageCode": "en-US",
+            "text": "Summarized with Gemini"
+        },
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=5%401:CAIQACodChtyc19oOkdHMjVzUV81bjJmalV2cWJWcm00ekE%7CCAIQACorChtyc19oOkdHMjVzUV81bjJmalV2cWJWcm00ekESDAi_2OfEBhD44ZHwAg&d=17924085&t=8",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x48761b5d9cf1cc43:0x43ab16353d4c50d!9m1!1b1",
+        "text": {
+            "languageCode": "en-US",
+            "text": "People say this restaurant serves delicious ceviche, tacos, and quesadillas, with the carne asada and truffle nachos being highlights. They highlight the vibrant and Instagram-worthy decor, and the relaxed and fun atmosphere. They also like the friendly and attentive service."
+        }
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "David Geraghty",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXCocUXnrqfLCJZCZ37k08BOaivv28oRgozvKiJNKsqnGwZ3IPu=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/106344660813601315885/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25Kc1NHTTRaemxvY2pJeFQwVldYM2hDU1c0M2JFRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25Kc1NHTTRaemxvY2pJeFQwVldYM2hDU1c0M2JFRRAB!2m1!1s0x48761b5d9cf1cc43:0x43ab16353d4c50d",
+            "name": "places/ChIJQ8zxnF0bdkgRDcXUU2OxOgQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT25Kc1NHTTRaemxvY2pJeFQwVldYM2hDU1c0M2JFRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Superb restaurant offering a South American taste. The decor inside was superb. Very clean and staff were excellent. One negative. You can pay the bill on line. They did have a service charge, but they also asked if I wanted to leave a tip. I asked the waitress if they got the service charge and she told me they did. I am not sure why they want more? That aside we would definitely return when next in the area."
+            },
+            "publishTime": "2025-11-19T11:46:41.564634488Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "in the last week",
+            "text": {
+                "languageCode": "en",
+                "text": "Superb restaurant offering a South American taste. The decor inside was superb. Very clean and staff were excellent. One negative. You can pay the bill on line. They did have a service charge, but they also asked if I wanted to leave a tip. I asked the waitress if they got the service charge and she told me they did. I am not sure why they want more? That aside we would definitely return when next in the area."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Shambhavi Srivastava",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVU4tpknmBR-QtOHAeZwiKJrzaDLxkZSDxjVFbjnjuM0o_Z2Ts=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/110218453082913558910/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2swNFF6TjVVRlpCVG1WblkwZzRPRFowTjNKMlNXYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2swNFF6TjVVRlpCVG1WblkwZzRPRFowTjNKMlNXYxAB!2m1!1s0x48761b5d9cf1cc43:0x43ab16353d4c50d",
+            "name": "places/ChIJQ8zxnF0bdkgRDcXUU2OxOgQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2swNFF6TjVVRlpCVG1WblkwZzRPRFowTjNKMlNXYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "The restaurant is soo sooo beautiful, even the food, omg it was soo delicious, every thing on our table tasted amazing, it was my first time having Mexican cuisine and I must say we chose the best spot. The sweetest Tania and Andrea served us. They helped us select the dishes from the menu, service was quick. I would definitely recommend the place to everyone."
+            },
+            "publishTime": "2025-11-14T00:09:16.717999437Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a week ago",
+            "text": {
+                "languageCode": "en",
+                "text": "The restaurant is soo sooo beautiful, even the food, omg it was soo delicious, every thing on our table tasted amazing, it was my first time having Mexican cuisine and I must say we chose the best spot. The sweetest Tania and Andrea served us. They helped us select the dishes from the menu, service was quick. I would definitely recommend the place to everyone."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Urmimala Bose",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWWPRsPNoAqKmglVCpA2-AmXzmnMcFgL_cp808UwHO8zmwcdYdHEQ=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/116240016716852717144/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21WMFR6RTVTaTF5V0RWWmFUQlpPV05tYmtKSFRYYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WMFR6RTVTaTF5V0RWWmFUQlpPV05tYmtKSFRYYxAB!2m1!1s0x48761b5d9cf1cc43:0x43ab16353d4c50d",
+            "name": "places/ChIJQ8zxnF0bdkgRDcXUU2OxOgQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WMFR6RTVTaTF5V0RWWmFUQlpPV05tYmtKSFRYYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "An amazing ambience, lovely servers and delicious food & drinks.\nFrom tacos to salads to mains - everything was bursting with flavour and what a sight for sore eyes 😍\n\nI would say that the menu could possibly be a little more diverse… but hey for a fairly new restaurant in London serving up Mexican dishes, Tigermilk is an absolute MUST VISIT!"
+            },
+            "publishTime": "2025-11-16T23:04:41.095850357Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a week ago",
+            "text": {
+                "languageCode": "en",
+                "text": "An amazing ambience, lovely servers and delicious food & drinks.\nFrom tacos to salads to mains - everything was bursting with flavour and what a sight for sore eyes 😍\n\nI would say that the menu could possibly be a little more diverse… but hey for a fairly new restaurant in London serving up Mexican dishes, Tigermilk is an absolute MUST VISIT!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Iris Bamattre",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLjdanwjomfD8vjkXGH7xH5C8c0mcPskUZaAMX4m2fl2LN2-w=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/112876813918885545039/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t0VFZFRkpORFJNUzJOeFVWbG1TazlCVkZOSldsRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0VFZFRkpORFJNUzJOeFVWbG1TazlCVkZOSldsRRAB!2m1!1s0x48761b5d9cf1cc43:0x43ab16353d4c50d",
+            "name": "places/ChIJQ8zxnF0bdkgRDcXUU2OxOgQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0VFZFRkpORFJNUzJOeFVWbG1TazlCVkZOSldsRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "HOT HOT HOT! Sexy restaurant with even sexier food. I can’t recommend this place enough the food was divine and the produce was clearly fresh. We had the guacamole which was so creamy the flavours which topped the guac added a nice heat to the mix. We also had the tacos de cochinita pibil which were delicious the flavours went so well together and although they came as two tacos our waiter was able to make them into a three because we were a table of three so we were very grateful for that. You have to try the salmon tiradito it was so fresh with the touch of the onion and coriander it really brought out the flavour of the fish. Moving onto mains the coco loco was definitely a fan favourite for us the mango the coconut and the fish was delicious and it paired really well with the Spanish rice. We also had the smoky mole rojo wow this was incredible the chocolate with the chile although our tastebuds were a little confused they certainly paired well together and gave it that moreish taste also paired really well with the Spanish rice. And lastly for the mains but definitely not least were the carnitas quesadillas we all agreed that we have to come back for these the cheese was insanely good paired with the sauce and the meat spectacular I can’t recommend these enough. For dessert we had to try the cheesecake this did not disappoint so creamy and the biscuit base was so caramelly. We tried the passionfruit tiramisu this was so well done the fruit flavour was strong but not overpowering and finally we had the brioche Perdue which I would highly recommend it was so light and fluffy and the sauce was such a lovely touch. We all went for the Isabel sours for drinks and they were delicious definitely not one to miss. The atmosphere was incredible the lighting made it feel so warm and friendly the interior was incredible definitely photo worthy and the staff were incredibly friendly and helpful we requested a booth when booking and we got the perfect one. This is the perfect restaurant for sharing with friends or family and the presentation of the food and the restaurant was immaculate I cannot recommend this place enough. I can’t wait to come back again."
+            },
+            "publishTime": "2025-10-17T21:59:28.034075051Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "HOT HOT HOT! Sexy restaurant with even sexier food. I can’t recommend this place enough the food was divine and the produce was clearly fresh. We had the guacamole which was so creamy the flavours which topped the guac added a nice heat to the mix. We also had the tacos de cochinita pibil which were delicious the flavours went so well together and although they came as two tacos our waiter was able to make them into a three because we were a table of three so we were very grateful for that. You have to try the salmon tiradito it was so fresh with the touch of the onion and coriander it really brought out the flavour of the fish. Moving onto mains the coco loco was definitely a fan favourite for us the mango the coconut and the fish was delicious and it paired really well with the Spanish rice. We also had the smoky mole rojo wow this was incredible the chocolate with the chile although our tastebuds were a little confused they certainly paired well together and gave it that moreish taste also paired really well with the Spanish rice. And lastly for the mains but definitely not least were the carnitas quesadillas we all agreed that we have to come back for these the cheese was insanely good paired with the sauce and the meat spectacular I can’t recommend these enough. For dessert we had to try the cheesecake this did not disappoint so creamy and the biscuit base was so caramelly. We tried the passionfruit tiramisu this was so well done the fruit flavour was strong but not overpowering and finally we had the brioche Perdue which I would highly recommend it was so light and fluffy and the sauce was such a lovely touch. We all went for the Isabel sours for drinks and they were delicious definitely not one to miss. The atmosphere was incredible the lighting made it feel so warm and friendly the interior was incredible definitely photo worthy and the staff were incredibly friendly and helpful we requested a booth when booking and we got the perfect one. This is the perfect restaurant for sharing with friends or family and the presentation of the food and the restaurant was immaculate I cannot recommend this place enough. I can’t wait to come back again."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Daria Mal",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUUZ7_SP5X1vhoPuKZztyWY6licf6gSJWGA6QfphEHGCOu51g=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/111994436681521308463/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25oS2NqZDRSR3RyZVdSWFVIaHVNMkZ3ZHpsM09HYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oS2NqZDRSR3RyZVdSWFVIaHVNMkZ3ZHpsM09HYxAB!2m1!1s0x48761b5d9cf1cc43:0x43ab16353d4c50d",
+            "name": "places/ChIJQ8zxnF0bdkgRDcXUU2OxOgQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oS2NqZDRSR3RyZVdSWFVIaHVNMkZ3ZHpsM09HYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "I went to Tigermilk for dinner with a friend and had a fantastic experience. The food was absolutely delicious, and the interior is beautiful – stylish, cosy, and perfect for a relaxed evening. A special mention to our waiter, Tania, who was attentive, friendly, and made the evening even more enjoyable. Highly recommended for anyone looking for great food in a lovely setting."
+            },
+            "publishTime": "2025-11-12T07:28:07.221405788Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a week ago",
+            "text": {
+                "languageCode": "en",
+                "text": "I went to Tigermilk for dinner with a friend and had a fantastic experience. The food was absolutely delicious, and the interior is beautiful – stylish, cosy, and perfect for a relaxed evening. A special mention to our waiter, Tania, who was attentive, friendly, and made the evening even more enjoyable. Highly recommended for anyone looking for great food in a lovely setting."
+            }
+        }
+    ],
+    "servesBeer": true,
+    "servesCocktails": true,
+    "shortFormattedAddress": "127 Charing Cross Rd, London",
+    "takeout": true,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 1769,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.516438530291495,
+            "longitude": -0.128720169708498
+        },
+        "low": {
+            "latitude": 51.513740569708496,
+            "longitude": -0.13141813029150204
+        }
+    },
+    "websiteUri": "https://tigermilkrestaurants.com/en/restaurants/london/",
+    "timestamp": 1764064800
+}

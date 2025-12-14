@@ -1,0 +1,819 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleParking": false,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": true
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "40",
+            "shortText": "40",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Great Queen Street",
+            "shortText": "Great Queen St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2B 5AD",
+            "shortText": "WC2B 5AD",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Holborn"
+                },
+                "name": "places/ChIJA7_adjUbdkgR_XPGaE3twAI",
+                "placeId": "ChIJA7_adjUbdkgR_XPGaE3twAI"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "King's College London"
+                },
+                "name": "places/ChIJ3VW0o7UEdkgR8eAcbhKByyg",
+                "placeId": "ChIJ3VW0o7UEdkgR8eAcbhKByyg"
+            },
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJs4GOh8sEdkgRRiBFZKMP8ZE",
+                "placeId": "ChIJs4GOh8sEdkgRRiBFZKMP8ZE"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Freemasons Hall, London"
+                },
+                "name": "places/ChIJZ4MM0TQbdkgRWOac4RsNLPs",
+                "placeId": "ChIJZ4MM0TQbdkgRWOac4RsNLPs",
+                "spatialRelationship": "ACROSS_THE_ROAD",
+                "straightLineDistanceMeters": 28.077803,
+                "travelDistanceMeters": 1.2060647,
+                "types": [
+                    "establishment",
+                    "museum",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The Marlborough Head"
+                },
+                "name": "places/ChIJ77_aTcsEdkgRcCamkQMzbTc",
+                "placeId": "ChIJ77_aTcsEdkgRcCamkQMzbTc",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 46.661415,
+                "travelDistanceMeters": 74.822845,
+                "types": [
+                    "bar",
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Royal Ballet and Opera"
+                },
+                "name": "places/ChIJySOgh8sEdkgRCBzTYt83Klg",
+                "placeId": "ChIJySOgh8sEdkgRCBzTYt83Klg",
+                "straightLineDistanceMeters": 225.17908,
+                "travelDistanceMeters": 249.74138,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Museum of Freemasonry"
+                },
+                "name": "places/ChIJGyCJzTQbdkgR6CCaacKAvGQ",
+                "placeId": "ChIJGyCJzTQbdkgR6CCaacKAvGQ",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 54.485336,
+                "travelDistanceMeters": 54.126568,
+                "types": [
+                    "establishment",
+                    "library",
+                    "museum",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Gillian Lynne Theatre"
+                },
+                "name": "places/ChIJ7eA75soEdkgRZXtgpYnGHYI",
+                "placeId": "ChIJ7eA75soEdkgRZXtgpYnGHYI",
+                "straightLineDistanceMeters": 69.41786,
+                "travelDistanceMeters": 128.1191,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "store",
+                    "tourist_attraction"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "currentOpeningHours": {
+        "nextCloseTime": "2025-11-26T00:00:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 10,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 23,
+                    "minute": 59,
+                    "truncated": true
+                },
+                "open": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 10,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 10,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 10,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 1,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 10,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 1,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 10,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 1,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 10,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 10:00 AM – 12:00 AM",
+            "Tuesday: 10:00 AM – 12:00 AM",
+            "Wednesday: 10:00 AM – 12:00 AM",
+            "Thursday: 10:00 AM – 1:00 AM",
+            "Friday: 10:00 AM – 1:00 AM",
+            "Saturday: 10:00 AM – 1:00 AM",
+            "Sunday: 10:00 AM – 12:00 AM"
+        ]
+    },
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Philomena's Irish Sports Bar & Kitchen"
+    },
+    "editorialSummary": {
+        "languageCode": "en",
+        "text": "Irish rugby supporters find this pub a home from home as it shows all the matches on the big screen."
+    },
+    "formattedAddress": "40 Great Queen St, London WC2B 5AD, UK",
+    "goodForChildren": false,
+    "goodForGroups": true,
+    "goodForWatchingSports": true,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x487604cad5c59715:0x20982dfca02623a6!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487604cad5c59715:0x20982dfca02623a6!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=2348677768715576230&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487604cad5c59715:0x20982dfca02623a6!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487604cad5c59715:0x20982dfca02623a6!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=2348677768715576230&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "id": "ChIJFZfF1coEdkgRpiMmoPwtmCA",
+    "internationalPhoneNumber": "+44 20 7242 5560",
+    "liveMusic": false,
+    "location": {
+        "latitude": 51.514981999999996,
+        "longitude": -0.121932
+    },
+    "menuForChildren": false,
+    "name": "places/ChIJFZfF1coEdkgRpiMmoPwtmCA",
+    "nationalPhoneNumber": "020 7242 5560",
+    "outdoorSeating": true,
+    "parkingOptions": {
+        "freeParkingLot": false,
+        "freeStreetParking": false,
+        "paidParkingLot": false
+    },
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Alec Egan",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVyPudqqafHO_o7QDQSfGc64dhQ2D9vebtt0PzvtW7T_F8XryYpow=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/109800745566437947375"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCNp9hZGhx70F2LfUoiazjF&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCNp9hZGhx70F2LfUoiazjF!2e10!4m2!3m1!1s0x487604cad5c59715:0x20982dfca02623a6",
+            "heightPx": 3024,
+            "name": "places/ChIJFZfF1coEdkgRpiMmoPwtmCA/photos/AWn5SU6e3sQdoW3AP845UzDIFLs1-Nif4CNnYUkXYNMMmfnFGmT8G8CyXm_V3hs7h_Cy5ciOiT0gGM6xXZP9uNw2H21WjKqdr5ysSwD1KlpJr4Cs0PAFWUOUZ0KVV-GC2NbJsqksjoAKV_6K8Aod5fVd77cBQvXCGw-I79O7SMRbH-_8RTdjnLsShRMKtE-iRiybL9zWPiunMW2Bwj1dmS6cYvAwAINSMjKambWbqNnIkMVl7aWkVeskY_qGm99d8BwahKyn_05q5iYuo9cdy1Wme6XdJz0vPCqkuGDxUXOOw8csVF9Q0Y70NoMIpY9L7bFrnV-fGpIPlF8SMPMO15xNg0FyQA8z4xXvP_V2sWsHtf4kyEJHt-csQ6xuHYElCARkANey0zjo1KMvrifouAwUb-sThoMBH7qIrS2JXMi2dy2W7k9FCqXkgHonpJSYjg",
+            "widthPx": 4032
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Tuomas Rajamäki",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVlCqiD9Dv51xIl4LgS3TOM60ggU5OwP4QTli-A_TFnFumkbbjeTw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110628695586049518506"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID07_eHUg&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID07_eHUg!2e10!4m2!3m1!1s0x487604cad5c59715:0x20982dfca02623a6",
+            "heightPx": 2184,
+            "name": "places/ChIJFZfF1coEdkgRpiMmoPwtmCA/photos/AWn5SU7zPzk-YeXMxSm34oJvpYf0aZgXtetqRwwvgizI_cwmBsGTh-pbcwjaS6GxsTS0syf2eyEGBLWnr8NvPvPgtFHV_z31Dq_zWyG7ZcnblcclBuDkqb8pjt6a6nC11BtASVagCKDtGTpyIPo1L3CEnYetPiDbuigs_N3IhvwDBN56QMA9549QKbv7B8VeqpQMuTQNcUxcgIqEpZxevsZ0Og4yDmeT6L8H3TIpj0tec4zXQIOB3nA-8lfdKOv6N9oXEYAn_HIJkLVrm4lxlo90X1vrYJYluThtvmTkaDeE5KYBTKWaD4vbkm9KzzduUqaOCJy-2W-9nLzzwJiAo5ff0edkVdij1MYMsa6YbeA6DeduYTgbvNit2aO3CsvNY4xfN8kSav-GLrcnDSRAdMWdFzfUP5M_RDdMDoDlLEffeD4",
+            "widthPx": 4608
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Gareth Dance",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLHyKeNZdxQGy6GZ4Z8oNr9pLOtD7zEIQMUVQWgkoMR8pLUvA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/100391986344189112179"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCwucGYAg&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCwucGYAg!2e10!4m2!3m1!1s0x487604cad5c59715:0x20982dfca02623a6",
+            "heightPx": 4032,
+            "name": "places/ChIJFZfF1coEdkgRpiMmoPwtmCA/photos/AWn5SU6wDiuMMoB6QHoV1FNL8xfoYRcxKhjSs0eaAk1w3rbZdV2diIpFgQdQyIHzCT0gtsFTCOHkp0cJpaWOX34xSUfqMWR9O5rpY2mJX86PXOg0mQTr5qgXX69NUZgs5ODLI8P4GpcSwwQ6YsbID_qFwXoIwunzYsEsX-g7CacFm_AN0qgQyllg2kzQQUP5YE_WlLuwDjhk5TFqHEC6dSE-C9evQv4Qem2rNIouj7JV-BB8qpUV62t04nlLZEH0kOAEmrGX_Ef2KBN7bBTgOd3olUdx090g16SwL97Ap7b2f4SgEoCtyIiKYDi2JVaGOMkjuf8np8ZcoDDaQv9fbXN6GiRFcYXnBaQ-dYfgr5XPRkrbA5JMDfWc_9H88_ukeapDGnPuljRmtdB5YP1_VxXCU7T8iLk75ocAoQIaIYywcck6jw",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Vadim Tsarik",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWofLKBG6HKJymZiW1XCooxJVjfQfzSJWb9_OppdmkSQ2RVXx5ouQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/109802899434371429969"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDMwT0tnTlTcJ20uNJV5bfW&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDMwT0tnTlTcJ20uNJV5bfW!2e10!4m2!3m1!1s0x487604cad5c59715:0x20982dfca02623a6",
+            "heightPx": 3000,
+            "name": "places/ChIJFZfF1coEdkgRpiMmoPwtmCA/photos/AWn5SU7Rt6EnrwGTW_LGay3FblZOLIbxA6r_XSA8UcBRH2gpaO96MAE8sSGwsIP31lqzeNR42dAbvHAiV7Tl7iC2tiglrdJ0d5LscaQgbjzTZNzF0JAjBhL2j5QC7PbIU3jxdHFvlmwyfkV-eWdzd7mDiX-gai28MHAQIw-MBNQdYgxlAuYXMhx1iSScea5k_svgW6z-lNu-fr0ALGvm-mLL1XVW7C7O2rK1cn_R57i9TW62AyOlvnG17DRMNi3tkCdI3dmclSERlyZB2WT8gbGjCLZcKUVLtGpSr7q1ytOPEKFsjYVJnxxiT1OBYtgVzwvR0yhQcj9lU3WUA2-_T3H-x-WD5npYv5jD5kWh31FP9QPEwbL5mxBrEHpaIs1ecUkHOVdKvtg6biR78yQ6m3g4E15j-mQNht6lCE4alSh3TpokxJkdFs0sEdpw6Pj9tg",
+            "widthPx": 4000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "George Melo",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL1C6N29WkBoEgMIESob8ngxw6ec6elBGRgCEr4astTWRamkYc=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/104491642805727599084"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICvg-_6pAE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICvg-_6pAE!2e10!4m2!3m1!1s0x487604cad5c59715:0x20982dfca02623a6",
+            "heightPx": 3600,
+            "name": "places/ChIJFZfF1coEdkgRpiMmoPwtmCA/photos/AWn5SU6DarwauI8lE4rH_jx-pzJJ8tKgAw3KWfLnNLKL9hRYJtYsG35RHiCHXDl_SlHL6mX_p5T_wWz-Ptb5yy8QftbJNnTIEl2fokjCteJ8yyYSfqzmOzXHhWs3AFWb4niET6Ldh8PLBs4q7xaIl1-qnQZqvulUX7Rj9BVrfz4TZ1BXIrB3KPRzxLoJbAK74HWIvg5yHeRYHtRcqAQOdH1EQ6vVwfpCNK5WRn28ZHou5qw3GZwuOXcDhguEPkKS-etbH0wXXEBDvQ69yXsJ5WG-yPCiFkrQiRw3nP-nCM9OO2r-8OZQp952mA0Ffsf0cMSwCibsQyv-hbozwy_hsUAdjMTR5JwXmiz6mfP0NJKXVTixpfbDhg1CNnh1Pxfee5ZoB5YzLA7SEZ45Y7wuHoeCtVIuDXRVjTd0BTMAAc53_36RH7Ir",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Ciaran Harkin",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXEL9sNDX0Cbk0snLyYdVAXwMQj_YgUdpGdavumYqEHkCfT5aOX=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/109627276151484870578"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhC_gqsUllHklL7LPw7UyYTh&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhC_gqsUllHklL7LPw7UyYTh!2e10!4m2!3m1!1s0x487604cad5c59715:0x20982dfca02623a6",
+            "heightPx": 3024,
+            "name": "places/ChIJFZfF1coEdkgRpiMmoPwtmCA/photos/AWn5SU6KwwNUsKsKdWlVjcjxNW3942KnoB_xMtsQElpSEmahuW1yv8Zr9wXf4hvuMLwkNi27hwyxzECbbeTBI0JpwYC0J0c3rr2ft9dezrTdReUdOoow1W3cykX45c2PeNK8dXsVb25fsSqo0c70iUrfnl-dxVw19zyyJ-wU859dVABDtZ0uCX8eMQd29_6XFhl-f-vOf5lzcM0L-kTdJa_V0OkhjIGOih8fOdA9nGskUy8LoHQturV5R4xGTJWEhAfm3eraJ9BdvzplenFyx2V3AASSdy23v2pAbb2Mg1AgBD-KVZ7WEbMWaHosJ05g7eOYLIKGpRmkXmwRReidKSg5tLyOjj5etoUOV-xZilxb6Ey6n0ebQs1jWYbEzrCHjpDyLC6OIKYApyx-YsRhZzcA6DcedLpD9C-KXS80kSkcRf6EonYZV7l-qL6S_QQ5Hbrd",
+            "widthPx": 4032
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Vadim Tsarik",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWofLKBG6HKJymZiW1XCooxJVjfQfzSJWb9_OppdmkSQ2RVXx5ouQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/109802899434371429969"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBKgIUfp6aldovzCQM7XSJO&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBKgIUfp6aldovzCQM7XSJO!2e10!4m2!3m1!1s0x487604cad5c59715:0x20982dfca02623a6",
+            "heightPx": 4000,
+            "name": "places/ChIJFZfF1coEdkgRpiMmoPwtmCA/photos/AWn5SU75a_f2fLA3ecxIddkqwq22EVTiLtdTAzw99KODnBAB9PbRUg9hO9PvzMmI7xwYDB1aa9VntjIP6xNitjBNDGGIhGKGE18-I3eWfXkUTGVOuJXchK0FaJm5o75yNWH5IHW5wcikpt148zVD5rLU2ajfStK0uPXVz2lRecyb5Dzvqy9jjoigHD8T8XJH-aE-u1QajJXNm8N7H8jgDYOyoDeLttJncbci85GNxT4Xz3nkrpWhLGXWVpETt18uaIZSi_DGjz-50HsiT57QelIWQsGvpuTEPYZrP1ZjXTNJfYX8-PyUxcR4HvlllTX2jq6pNMOVd6p-BrVpMonlvKd3qUVaCCUNbPAn3irmPoKw6l1mUN88_uM-Af7bu7lUUkU9pewJMqza5fMBbqxT44k5AaE4FooqzpBOpSjiRTNsmJ77gTB5b0R8MYqNPdndHTOm",
+            "widthPx": 3000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "John Kelly",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX9nHLcBVDHzVkpo1PNLtoXJsKMcGwH3gRsmrsczuXh3NdhfiBE=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/101979255429010710569"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICDvaawuQE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICDvaawuQE!2e10!4m2!3m1!1s0x487604cad5c59715:0x20982dfca02623a6",
+            "heightPx": 4000,
+            "name": "places/ChIJFZfF1coEdkgRpiMmoPwtmCA/photos/AWn5SU4KhS8fhLxzsaT5s84VBYmWXQsXT5b6RamrS4FRlo9xSRzQbFbyzR3g5J7vo4jj_HrSBRlrdR2kP-vaNVdaa_UUWCctXDNzq9WO4wPyfXLIkJsAbXcwWI-MfikwwiaGDkgleLXawXJWsXgSbL3cgGVL9b7O7vF7o0p7YauwnVb79aJo7lo2QccTMScMHgflsYjJcJ6d-RIVs6npaGzHUNx-NNETt9EbcbCYT03mR4u-KYBygzonUSbpxf_1GkoS9CSvnciKRTUsjViG09MPZUuVeiktrPPokuQDBUUlTczITfstcF6W08K5C-Qmsz35VATBryzsFaYaIa8O_20zc-cpHkIuYVUaVbkedSGl_QG1dh4xblCQ6bzyZfE_ry2Sdi49IW7XFYlfKowxvgW8lg7rK8gFiU4_sdwtvSzHBK--NnLP",
+            "widthPx": 3000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Mark W Official",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXO9Qd6RwSP5Ue2Ujjtd-DiRs3P1JomdqtNFkRKJ0w-tW9jmpXn=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/108756808831317262726"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICOgdP6PQ&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICOgdP6PQ!2e10!4m2!3m1!1s0x487604cad5c59715:0x20982dfca02623a6",
+            "heightPx": 4032,
+            "name": "places/ChIJFZfF1coEdkgRpiMmoPwtmCA/photos/AWn5SU6wvn4UlsU1PCC2jLKh7NpQtLX6Mwnnuk8fjnoCLh2wELMUlPFXMlBtGGGGACXdEXD2Mn-1XVg8RAPQ14mKtEqlRc8gdMkeiela_6TXhIAMB20RSMjbc5BJUH2O7BrWLUROGUXAQQtlzGT1mH9sUIbD_b24gbd4KQG7mRNcs32ld0S2F8HEFC8l_DNVun2lDRIP2oMSn3oRIkC79lQDWqR2LVTei6NKbLFCPdZDpXB2WXF0gpJi2UYThvg-p6uFAfUCML75oH9LUPqWlBqcf2iDEF3TE4BpfFi8kQCi4-wva9UZjis_DaVpM-EoBG3hmZ6bWYLPVeiDZDCPRcgRda-Lz7ULzUJzv0oS4BV4UsM4SEQz2Nc51VQmA-BgJ0K3Isr_o35yTJneStreS28-kZcGBajs37VQ_frFmpw-ZBk",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Rene Seuken",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUMr9aBh0kmoLNALRTgZ-FBnIQAPQIF2ATk-5ET9smgoJwxlOg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113443827776478424684"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDErvG6Sg&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDErvG6Sg!2e10!4m2!3m1!1s0x487604cad5c59715:0x20982dfca02623a6",
+            "heightPx": 2700,
+            "name": "places/ChIJFZfF1coEdkgRpiMmoPwtmCA/photos/AWn5SU4DZlV6SLNb0DD3Q8SJz6KXZjgIH0yMyvTe56R7ayuwLbJ4WxsipLJ7l9WMXfFohdwoUDIphtF9iYzlGmWrAXolgPoTZ5ChiMsQ0bUD0KfcVW6kE8psgtwEsldTZ1-1faNSv-N_2A3z8Gv-urMdWLGtY-TAxs6nz0PFTjbMlplLZngQtyvbFlxNg-wVIYpAYFSVkgvDb1wI9_QWl554mYsF2uHp64SuLY4SHkOBWRR6Bym_-1GXBxmFFL2OS5Ia2pyF_D3zTqhJQSxvBoQx0LMw2xcl26y314P5yfBwD0y07YEMavJQYmDegNZ9tr2Qw6VuQZPw-9yVvUKaCVYeuteilhlnkXy6JuxH4HyApjEHLikr8miSgejzQs7L1OtXowS794hz8HTFo-6Xf87Ox-ueNpcTqDiqfG6yIHXgr5Jb8g",
+            "widthPx": 4800
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV7H+X6 London, UK",
+        "globalCode": "9C3XGV7H+X6"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "40 Great Queen Street"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2B 5AD",
+        "regionCode": "GB"
+    },
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "priceRange": {
+        "endPrice": {
+            "currencyCode": "GBP",
+            "units": "20"
+        },
+        "startPrice": {
+            "currencyCode": "GBP",
+            "units": "10"
+        }
+    },
+    "primaryType": "bar",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Bar"
+    },
+    "rating": 4.3,
+    "regularOpeningHours": {
+        "nextCloseTime": "2025-11-26T00:00:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 10,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 10,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 10,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 10,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 1,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 10,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 1,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 10,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 1,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 10,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 10:00 AM – 12:00 AM",
+            "Tuesday: 10:00 AM – 12:00 AM",
+            "Wednesday: 10:00 AM – 12:00 AM",
+            "Thursday: 10:00 AM – 1:00 AM",
+            "Friday: 10:00 AM – 1:00 AM",
+            "Saturday: 10:00 AM – 1:00 AM",
+            "Sunday: 10:00 AM – 12:00 AM"
+        ]
+    },
+    "restroom": true,
+    "reviewSummary": {
+        "disclosureText": {
+            "languageCode": "en-US",
+            "text": "Summarized with Gemini"
+        },
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=5%401:CAIQACodChtyc19oOjVWUm5aSVZJbnJZeDIxdUtrQlpWNHc%7CCAIQACoqChtyc19oOjVWUm5aSVZJbnJZeDIxdUtrQlpWNHcSCwiE6LbIBhDApeBE&d=17924085&t=8",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487604cad5c59715:0x20982dfca02623a6!9m1!1b1",
+        "text": {
+            "languageCode": "en-US",
+            "text": "People say this gastropub serves delicious nachos, burgers, and chips, and offers a wide selection of beers, including Guinness. They also highlight the friendly and attentive service, and the fun, energetic atmosphere, especially during sports games.\n\nOther reviews mention it can be crowded."
+        }
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Gerry",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIIjGId8zAZ1fllxIRSnuAVojGZHC0C9zSSWQDRF_tn-Wl7Ig=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/105541267274658070244/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21SMVZHRXdOR3RGTUdsQmFrRkVjWEUwVldwMVYxRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21SMVZHRXdOR3RGTUdsQmFrRkVjWEUwVldwMVYxRRAB!2m1!1s0x487604cad5c59715:0x20982dfca02623a6",
+            "name": "places/ChIJFZfF1coEdkgRpiMmoPwtmCA/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SMVZHRXdOR3RGTUdsQmFrRkVjWEUwVldwMVYxRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "At Philimena's for pre-theatre meal and drink, it was very busy but we found a table. The staff were extremely helpful, as I midified the menu selection slightly. The food arrived promtly, it was very good, and piping hot. Definitely go back!"
+            },
+            "publishTime": "2025-11-14T09:36:56.398188059Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a week ago",
+            "text": {
+                "languageCode": "en",
+                "text": "At Philimena's for pre-theatre meal and drink, it was very busy but we found a table. The staff were extremely helpful, as I midified the menu selection slightly. The food arrived promtly, it was very good, and piping hot. Definitely go back!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Vadim Tsarik",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWofLKBG6HKJymZiW1XCooxJVjfQfzSJWb9_OppdmkSQ2RVXx5ouQ=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/109802899434371429969/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGMlNWQTBZV055VDBWTlZHczBjSFZRZVU5c1YzYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGMlNWQTBZV055VDBWTlZHczBjSFZRZVU5c1YzYxAB!2m1!1s0x487604cad5c59715:0x20982dfca02623a6",
+            "name": "places/ChIJFZfF1coEdkgRpiMmoPwtmCA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGMlNWQTBZV055VDBWTlZHczBjSFZRZVU5c1YzYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Came here to watch the football game, and I honestly had such a great time. The vibe of the place is exactly what you want in a sports bar—fun, energetic, and packed with fans who are clearly there for a good time. Tons of TVs everywhere, so no matter where you sit, you’ve got a great view of the game. Big plus for that since it’s frustrating when you have to crane your neck or sit in the wrong spot at other places.\n\nFood really surprised me—in the best way. We got onion rings, burger, and chips, and every single thing was tasty. Rings came out hot and crispy, burgers juicy with great toppings, and the chips were fresh, hot and crispy. Pair that with their beer selection, which was pretty huge and included both local brews and the classics, and you’ve got the perfect game-day setup.\n\nThe service was just as good as the food and drinks. Staff was super friendly, kept checking in without hovering, and never left us waiting long. Between the atmosphere, food, drinks, and service, this spot nailed it. Definitely somewhere I’ll be coming back to, and I’d recommend it to anyone looking for a great sports bar."
+            },
+            "publishTime": "2025-09-02T15:19:27.949734535Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Came here to watch the football game, and I honestly had such a great time. The vibe of the place is exactly what you want in a sports bar—fun, energetic, and packed with fans who are clearly there for a good time. Tons of TVs everywhere, so no matter where you sit, you’ve got a great view of the game. Big plus for that since it’s frustrating when you have to crane your neck or sit in the wrong spot at other places.\n\nFood really surprised me—in the best way. We got onion rings, burger, and chips, and every single thing was tasty. Rings came out hot and crispy, burgers juicy with great toppings, and the chips were fresh, hot and crispy. Pair that with their beer selection, which was pretty huge and included both local brews and the classics, and you’ve got the perfect game-day setup.\n\nThe service was just as good as the food and drinks. Staff was super friendly, kept checking in without hovering, and never left us waiting long. Between the atmosphere, food, drinks, and service, this spot nailed it. Definitely somewhere I’ll be coming back to, and I’d recommend it to anyone looking for a great sports bar."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Thomas Hübscher",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLxzI_NtqXY95iKPeHKFrkXrdRFoOlYEZtYrwVQ4hwH73J-vw=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/109041010672230317429/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2swNFEwNXpPRGsyVGtSc1pXUk9abWc1Tm1aTVZGRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2swNFEwNXpPRGsyVGtSc1pXUk9abWc1Tm1aTVZGRRAB!2m1!1s0x487604cad5c59715:0x20982dfca02623a6",
+            "name": "places/ChIJFZfF1coEdkgRpiMmoPwtmCA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2swNFEwNXpPRGsyVGtSc1pXUk9abWc1Tm1aTVZGRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Philomena’s Irish Sports Bar & Kitchen – Friendly Service and a Great Atmosphere\n\nWe stopped by Philomena’s three times during our stay, and each visit was a pleasure. The staff were consistently warm, attentive, and welcoming, making us feel right at home from the moment we walked in. The atmosphere strikes the perfect balance between a lively sports bar and a cozy pub, making it a great place to relax over a drink. Whether you’re there for a quick pint or to watch a game, you’ll be greeted with genuine friendliness every time. Highly recommended for anyone in the area looking for good vibes and great service!\n\n⸻"
+            },
+            "publishTime": "2025-08-10T09:00:07.769057631Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "3 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Philomena’s Irish Sports Bar & Kitchen – Friendly Service and a Great Atmosphere\n\nWe stopped by Philomena’s three times during our stay, and each visit was a pleasure. The staff were consistently warm, attentive, and welcoming, making us feel right at home from the moment we walked in. The atmosphere strikes the perfect balance between a lively sports bar and a cozy pub, making it a great place to relax over a drink. Whether you’re there for a quick pint or to watch a game, you’ll be greeted with genuine friendliness every time. Highly recommended for anyone in the area looking for good vibes and great service!\n\n⸻"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "jon-paul bradshaw",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXJEfAVtUAYudHKV8745a1t9g7jwdbt2EeDjmXhB479b8H5Iwbb=s128-c0x00000000-cc-rp-mo-ba6",
+                "uri": "https://www.google.com/maps/contrib/112102541427379554358/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMzeW9HeU93EAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMzeW9HeU93EAE!2m1!1s0x487604cad5c59715:0x20982dfca02623a6",
+            "name": "places/ChIJFZfF1coEdkgRpiMmoPwtmCA/reviews/ChZDSUhNMG9nS0VJQ0FnSUMzeW9HeU93EAE",
+            "originalText": {
+                "languageCode": "en",
+                "text": "The food was excellent and it was very clean and tidy. We had two small English breakfast and a cup of coffee each and found it extremely tasty and reasonable. It was hard to judge the atmosphere as when we went in we were the only customers, although it did fill up slightly afterwards, but I’m sure it has a tremendous atmosphere of a night time as most Irish bars do."
+            },
+            "publishTime": "2024-11-04T15:16:55.903130Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a year ago",
+            "text": {
+                "languageCode": "en",
+                "text": "The food was excellent and it was very clean and tidy. We had two small English breakfast and a cup of coffee each and found it extremely tasty and reasonable. It was hard to judge the atmosphere as when we went in we were the only customers, although it did fill up slightly afterwards, but I’m sure it has a tremendous atmosphere of a night time as most Irish bars do."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Devils Run",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL9b9PWd-LT0p_ixO4yw7vksJVU9gP6fyvSTAuMZzJN65UQwA=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/110121743387810472334/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w5WE1sQnpXalp5U1VsTWNEWkphVkZVWTJKclIyYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5WE1sQnpXalp5U1VsTWNEWkphVkZVWTJKclIyYxAB!2m1!1s0x487604cad5c59715:0x20982dfca02623a6",
+            "name": "places/ChIJFZfF1coEdkgRpiMmoPwtmCA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5WE1sQnpXalp5U1VsTWNEWkphVkZVWTJKclIyYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Great creamy pints of Guinness poured properly.\nNone of that nasty ‘extra cold’ crap to cover the taste of old Guinness. None of that nasty funk taste associated with poor quality black stuff.\nIf you’re a Guinness fiend, and you’re near Great Queen Street or Covent Garden, it’s well worth a visit."
+            },
+            "publishTime": "2025-11-01T16:40:28.881875276Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "3 weeks ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Great creamy pints of Guinness poured properly.\nNone of that nasty ‘extra cold’ crap to cover the taste of old Guinness. None of that nasty funk taste associated with poor quality black stuff.\nIf you’re a Guinness fiend, and you’re near Great Queen Street or Covent Garden, it’s well worth a visit."
+            }
+        }
+    ],
+    "servesBreakfast": true,
+    "servesBrunch": true,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "shortFormattedAddress": "40 Great Queen St, London",
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 2111,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.516305430291496,
+            "longitude": -0.12049521970849796
+        },
+        "low": {
+            "latitude": 51.5136074697085,
+            "longitude": -0.12319318029150199
+        }
+    },
+    "websiteUri": "http://www.philomenasbar.co.uk/",
+    "timestamp": 1764064800
+}

@@ -1,0 +1,808 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleParking": false
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "39",
+            "shortText": "39",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "William IV Street",
+            "shortText": "William IV St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2N 4DD",
+            "shortText": "WC2N 4DD",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The National Gallery"
+                },
+                "name": "places/ChIJGzUABc4EdkgRkmmrVTDDnUw",
+                "placeId": "ChIJGzUABc4EdkgRkmmrVTDDnUw"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Trafalgar Square"
+                },
+                "name": "places/ChIJH-tBOc4EdkgRJ8aJ8P1CUxo",
+                "placeId": "ChIJH-tBOc4EdkgRJ8aJ8P1CUxo",
+                "straightLineDistanceMeters": 203.96149,
+                "travelDistanceMeters": 150.99774,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The National Gallery"
+                },
+                "name": "places/ChIJeclqF84EdkgRtKAjTmWFr0I",
+                "placeId": "ChIJeclqF84EdkgRtKAjTmWFr0I",
+                "straightLineDistanceMeters": 148.87233,
+                "travelDistanceMeters": 228.8938,
+                "types": [
+                    "art_gallery",
+                    "establishment",
+                    "museum",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "National Portrait Gallery"
+                },
+                "name": "places/ChIJeclqF84EdkgRYkL4mtJ7rLM",
+                "placeId": "ChIJeclqF84EdkgRYkL4mtJ7rLM",
+                "straightLineDistanceMeters": 120.58224,
+                "travelDistanceMeters": 79.69151,
+                "types": [
+                    "art_gallery",
+                    "establishment",
+                    "museum",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "London Coliseum"
+                },
+                "name": "places/ChIJGyBj0c0EdkgRqt8qRQ8vCj8",
+                "placeId": "ChIJGyBj0c0EdkgRqt8qRQ8vCj8",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 40.286507,
+                "travelDistanceMeters": 78.13208,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "St Martin-in-the-Fields Church | London"
+                },
+                "name": "places/ChIJH-tBOc4EdkgRIsJgzUZIjXU",
+                "placeId": "ChIJH-tBOc4EdkgRIsJgzUZIjXU",
+                "straightLineDistanceMeters": 87.71054,
+                "travelDistanceMeters": 136.51546,
+                "types": [
+                    "cafe",
+                    "church",
+                    "establishment",
+                    "food",
+                    "place_of_worship",
+                    "point_of_interest",
+                    "store",
+                    "tourist_attraction"
+                ]
+            }
+        ]
+    },
+    "allowsDogs": false,
+    "businessStatus": "OPERATIONAL",
+    "currentOpeningHours": {
+        "nextOpenTime": "2025-11-25T11:30:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 21,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 11,
+                    "minute": 30
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 11:30 AM – 10:00 PM",
+            "Tuesday: 11:30 AM – 10:00 PM",
+            "Wednesday: 11:30 AM – 10:00 PM",
+            "Thursday: 11:30 AM – 10:30 PM",
+            "Friday: 11:30 AM – 10:30 PM",
+            "Saturday: 11:30 AM – 10:30 PM",
+            "Sunday: 11:30 AM – 9:30 PM"
+        ]
+    },
+    "delivery": false,
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Bancone Covent Garden"
+    },
+    "editorialSummary": {
+        "languageCode": "en",
+        "text": "Housemade pastas are offered with Prosecco & espresso in a chic setting with 3 dining counters."
+    },
+    "formattedAddress": "39 William IV St, London WC2N 4DD, UK",
+    "goodForChildren": false,
+    "goodForGroups": true,
+    "goodForWatchingSports": false,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x487604ce7e57942f:0x2ba07c05296427b!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487604ce7e57942f:0x2ba07c05296427b!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=196478056344732283&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487604ce7e57942f:0x2ba07c05296427b!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487604ce7e57942f:0x2ba07c05296427b!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=196478056344732283&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJL5RXfs4EdkgRe0KWUsAHugI",
+    "internationalPhoneNumber": "+44 20 7240 8786",
+    "liveMusic": false,
+    "location": {
+        "latitude": 51.5095795,
+        "longitude": -0.1264051
+    },
+    "menuForChildren": false,
+    "name": "places/ChIJL5RXfs4EdkgRe0KWUsAHugI",
+    "nationalPhoneNumber": "020 7240 8786",
+    "outdoorSeating": false,
+    "parkingOptions": {
+        "freeParkingLot": false,
+        "freeStreetParking": false
+    },
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Bancone Covent Garden",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWaCtuNgq-1CmQ3_l3PGe_A_5uYPsCaEDnUUXNDCYq_RDACGMk5=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/108388097294834898832"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMQyLQvjHX-8-Atw0ercvzNkqjVpmKQ869ZfB1j&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMQyLQvjHX-8-Atw0ercvzNkqjVpmKQ869ZfB1j!2e10!4m2!3m1!1s0x487604ce7e57942f:0x2ba07c05296427b",
+            "heightPx": 2700,
+            "name": "places/ChIJL5RXfs4EdkgRe0KWUsAHugI/photos/AWn5SU4bcxca8cNGz7PYwFcR8djoqgazys9MHX0dOtOOthckzSSP-C3ZaUVI0N94VjmvgY49SV5qVHDHshfCfj5H32U9E-eIXJ-dm3OQe7arEasIfVIyumOvzNA9VVRU55VvrJkJJIR-trlxyNly5jm1JIiGXWZC_yCE6DT7Yn9V2MbRcJDrl3JI_uTZ1_zjAFG17N7oBi-l30fyPrdkPIrX0GNKjLtwvKa40lAZphJIbeTBnhnqG2IWQwszrE4uO2qbELG6rpMpDlf-EdMNl8zm73w2gO_o9GwXfQbFViCseaQQ5A",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Louise Adelbrecht",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXPvlWl8M_6Sk4oQT_0CHpHlEysQ5qZbdl-8CgpwUgEuI8vYB-f=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/100713052536013024152"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDOVFEEeXoTb6hWyLMelMQf&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDOVFEEeXoTb6hWyLMelMQf!2e10!4m2!3m1!1s0x487604ce7e57942f:0x2ba07c05296427b",
+            "heightPx": 4032,
+            "name": "places/ChIJL5RXfs4EdkgRe0KWUsAHugI/photos/AWn5SU6f9k3xOZkYRwru3dTxO44JcD83ddaqcuNlLofmMr1_8yfL15gA2tIjSQDkYWuEzxk7ltztHSfeaFOCYnz5i6AG4Md5jvPLZjbE-vZ7psqjbAOGgAhvbcd3WkM_Hvp5qwff4r0ZK2cX74bUkEHTLZgWGhEuBXwyaeennNP5YUfRNbUHmuuSBPobYYLl0kDi548arEvu0ECX6KKUNyO2KCtJyCT4Fq_F3wa3lPWPHJobIQyZeF3TW4NavXuyLBFE5WOM0g46KuaO4khmlsbY56HjV8Or1nmCY2vw4HyszTyjR3YXmjmxFJbc_9xd5bozyqaTW8fjYz68PLZfqy1cQSpF9VR6jytyonYfTaoZir2nRO5rB1na9KJ1y9fMSnhW0Stg7NNT0EMgns2-YuaYGDtLD4Xqte_ypQgHStltQCU425LK1DUx-dNLh5jyYQ",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Alan H.",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI0ybK4JKxSVQK62ecF0vaaFf6k8zG_DK30OxcaGBzNd6yP-Q=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113497136388360733793"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAN4YP4Q4XPU1kSo38AjTmf&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAN4YP4Q4XPU1kSo38AjTmf!2e10!4m2!3m1!1s0x487604ce7e57942f:0x2ba07c05296427b",
+            "heightPx": 2842,
+            "name": "places/ChIJL5RXfs4EdkgRe0KWUsAHugI/photos/AWn5SU4WqjWpdjV9piF5bhkpQ3-Rb1t4_8Kvs0bgZ3-GRM-ej01UKjlGPIbQKZltP6jN0SdHRQAuH7xlTJdeERoYJ3I3s7_V6vTr3KwYM4Vgp_TEDvvM-2Rc8T2HmpFDeojnCdCELOnau7hVa9Ac9CPGBZkhtQeg1VPR4sKuYDLcV9ATQGn3wd9_tZTwOEm4oKXAGNaOZ6ivG-NY-ufoFWG7gdwtn1unfgFRyF15jiGZPk6UCvdExWPPBnrqze0MMIT5zAdRIzV8jkVpmWllTsquTPEHpm37tSwyHj7CpIdIo223z_3euW-PMHydmqi_dWEAwlf5nDCf3zCqL6U-y7J3jdi-pkEFP7CHcCE1FdahZTxiKJqxN-k2sjOyj5sr3Jvf02XO41fV75P9qgAayf0rXSDMooN0PTdFlXAaabptOBxABLQ_WFP3rtC_HsaYsk1J",
+            "widthPx": 3553
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Charlotte Davis",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKBDl7_kU81G7LTOEYZjl4uOScDB1qWJT8qDv8VzgHQ1WKh9gY=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/114298698045929037257"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCoovvGJg&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCoovvGJg!2e10!4m2!3m1!1s0x487604ce7e57942f:0x2ba07c05296427b",
+            "heightPx": 1032,
+            "name": "places/ChIJL5RXfs4EdkgRe0KWUsAHugI/photos/AWn5SU4tg35QyXCao6hICpVG5wHCSGcopW47gVFj6e8ai-JWpsTDeyBH8NDpUC0ak-BJPSY2pv_Ef7W3vGMBEJqZdy2zTgO61672GOW4q3UNiy0HcaOAX5PBC27Ow6YJIJGWi6047yNpqDsPGL21YyHz5hKX2A7RGeNTiEXehrtz_v0FQxnzebrfUpsWGMRAah7dZX8mNN1XuSb-Wwg6PlCTjHNv0mbqmqoEAhioBLHolYQ7Qes4P-y1S9fhmjlN-CZY0ls79pFVuWayueCP1N72fuHxaUS6XVGDhZw4hf5coCp2nyWE4dRVA1KBzPvtAS5hVVVwa9v-kpMu2RaJ0VeAR66Tiz3hr7Y0Lvg03FydpUrHMHl5FudAmPwLUfytE8GuLeE7aXwBnF29fthQC5ftA-54IH_Z5VFdBLS3vdzHQpIreQ",
+            "widthPx": 774
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Martin Reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXy2IFhmcyXI5ReeWSJOvu30WPr7fl1TTOYLmvMQgXTrd3WfmE=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/112118865208561796055"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDMltnJtxfeeheN4uber-65&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDMltnJtxfeeheN4uber-65!2e10!4m2!3m1!1s0x487604ce7e57942f:0x2ba07c05296427b",
+            "heightPx": 1849,
+            "name": "places/ChIJL5RXfs4EdkgRe0KWUsAHugI/photos/AWn5SU5B7eNWLUT5RS6PHgxKiBdPbdWJajatL76bArikdKVmVQ44Hv9oifVnVUar60DH0f0Yr042y8JE819ob4NoKfTNnc4YQcfhu2i0spChcpWOPpfXdcFGWqZSdiDk1iR_B38MWNiKyn05SOue-A9Wtp3dFIhK7hX9baq9fy0rxYuhZ7zHqYYKqil-z-GNy5B0t2vyAGrOix_GELGFLG6RKAaD0l5xU-j3ddH97zsgmQiddnVqbqpKGK-iVbhc-lqupF6uZ8fYEL5KzI22PXRhdzLK9h2FO7AtdDFE3AaRlQmioEi3DYKnegDxPtYfC36gBQvV-xWBBrG6kRRkQ2i_jT1hlVFax_5_JfLBAc44As6qh9KRDgR-7ztudTNBQ-2ISGrSPX6n3FKyIXh8floFWUzczdnUCrXknb66ezpy-wAI7W7q8n1KTD0iOVYfb-qx",
+            "widthPx": 925
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Korn KnightZ",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXmTMkdg0gONIatVK0KyfJewCOnU0rJRVHpyEzZsfBBHwHigHIv=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/118152748986722839020"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDoo5P3uAE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDoo5P3uAE!2e10!4m2!3m1!1s0x487604ce7e57942f:0x2ba07c05296427b",
+            "heightPx": 1200,
+            "name": "places/ChIJL5RXfs4EdkgRe0KWUsAHugI/photos/AWn5SU5yglAwvdPxWPtkSfkvSAIfGLKA7Bf7ihRO6uoSl-_jhzNbToNT4FRRl3d6Nl194hAec6emENGn6rEnVU70wz1FfDBHg3e1aRw_5YR-BVjBaxriR1d3eJVjhGPqG3pjE4zGs94845KKXhDN2bNoEGTbYOzF2LH6px2m-HU--IMEvSm1OEb8_StwyaRSIRPZoVS-M9dSas2hA6alqHOhKqLneTWqySQhIma6EPj3BQ_Ds1GmeDzpqfY5wqdoe-OmdNs8UP5Kwvic1lLuB5CfBlzHUsvyXEAi2aAVTAQ0yo7au6VF3afOL-7RVnHnmWuc1NUDP0lJWyWVFipM4nrhzrU9gyrpAgv1PlWvbWU8qEeAej2LhS4yHz9MENhIdMKbhRDN9kJeaYjpebAWMFgxzgLMXKTp7_iScIG-Ao7gZHG6Pw0",
+            "widthPx": 1800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Ary IP",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVWvy492FGX90olZ4l-8_3mgPXbgeKwcfwS7p6DuAr-CV4Opq8r=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/107239729159403186679"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICP7rijJw&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICP7rijJw!2e10!4m2!3m1!1s0x487604ce7e57942f:0x2ba07c05296427b",
+            "heightPx": 4032,
+            "name": "places/ChIJL5RXfs4EdkgRe0KWUsAHugI/photos/AWn5SU6x51RQutPTA31JgAAvt3Isim5ZWpGXdWCS9nU0Lk5OOUqqS3fNY5syJCcqpATsFBITz9GeCbqa0KLFwdnOT3Ux8DNLYgU80dmK9jstTC5_oU8vU8J7uT854LLRnKofGh2e9D_2QeoDa5I-m5-GFDcHdFhD_siqg2glWeKKctVZF27twOupxFih7FmPraW_fMwz8a3wQLD7I5v1m2hRXsVD3T7DEkuURkA8dSqn7GWQuTvc49k3PQoj29F4JT8GgIyw6xBNq-ng7BfoTh15kzZzcldLjQybW9WzSORh7ajcIY7eyZL0-0m45z05A0CyojnOyBBl8eKLeSJxQmG1FE3opP1TcCTDcWYkzCCfLfCXCbZI-urP1ytAaTQUjUfdD-9XVLf97DunUlJzw7svfffInONHYTTRBD5pLg35SbAPDQ",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Martin Reviews",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXy2IFhmcyXI5ReeWSJOvu30WPr7fl1TTOYLmvMQgXTrd3WfmE=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/112118865208561796055"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAuxe414iFBezNeiL1bsmFc&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAuxe414iFBezNeiL1bsmFc!2e10!4m2!3m1!1s0x487604ce7e57942f:0x2ba07c05296427b",
+            "heightPx": 610,
+            "name": "places/ChIJL5RXfs4EdkgRe0KWUsAHugI/photos/AWn5SU41cfPPtYiASNywfSQqnBCN-l0D6AEC38OdlTEXxcRON0xVa4_vM6qWCWyyZNn3wdxviT6hBnS28c1Q_Bj0sEAlsE25JaYHaj7NFbdMI-6LuYgyc3QGKTyCK4GX7kgRix10s0z2ecTDlQPEjUZ8OXxh7spIFFPOf3AVjBxvdvFymkvy9P3OITDhiOS9tddV0Ky70rAFKmXljQSATuGniwfNrOr2LlrKvN15vk9QwIxClYXZW7XrUUZaDPYw_ppTq6ucAo70owFL6bvwMMphcmkSsH5ZtMe8xlCe4mOgMMTyRPstGcUTXpyqgAZ2BWYpBgzX37iPa7xP-nFjWApnLewp13Moi8ADLRo__6jE4PSs7hMfoSegcLgqgTKkJ064NLA1Um1_Si_-YDVsDsFtuEOp5JFllg0MIppweLoNCX8RbQueSQaRdUejNg4JuA",
+            "widthPx": 632
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Emma T",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWkQt1o2hL4VMR6L1AJoW6XZ-iJ6m1JnEJueCF81J7GOKd6IGIq=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/114592614437463824982"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEOXt6umZz87_ew&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEOXt6umZz87_ew!2e10!4m2!3m1!1s0x487604ce7e57942f:0x2ba07c05296427b",
+            "heightPx": 4800,
+            "name": "places/ChIJL5RXfs4EdkgRe0KWUsAHugI/photos/AWn5SU6e9mjUJGVTQGBNmanlHWMg3yK7-OkF_0YS2x3ASmfBfn0oSvaFxztRJBGL6NtyiqzQoHZMr6xE7Y46yfJgk5KkRhRGZn7jR8hyi9kLSOtubWM45WNyQOPKl9GuUvmUz-KTb7DmnQa86gqqQWol6q52rhlUQblVxjYBepZDu0WY_jCzQvGReohVWMyRo6SkYohokVi3Y56_iAmxxy3yhKttWJL6l5ttO4hffVt0ewkujvXVlbqKzJvteM4mSJseghFrdHvRD_SUmC3bYjlFkP2QLW82hHlO8mKx09CNB5FsKRawYhJGW27BaQC79ziAb-_YU4LI-iaxrJGv4b2Oc3-fNOLdHXvt59Iab2bSABiulDOkQy22uMp_01SoJ_F8a5IZ2Bg2QJQeNW_RZpUasrPn-8jvbrsNvkV_bvCXPFp9tg",
+            "widthPx": 3600
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Katy Yeh",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLZ3FAT4BU1GUO0AR6r3qT2KRu465tIN8aVfN6EjiR-7Aqibg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/112693023995200527108"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBvCTlTwRpRV7ZmAqJ76KQg&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBvCTlTwRpRV7ZmAqJ76KQg!2e10!4m2!3m1!1s0x487604ce7e57942f:0x2ba07c05296427b",
+            "heightPx": 3072,
+            "name": "places/ChIJL5RXfs4EdkgRe0KWUsAHugI/photos/AWn5SU7lce033dmyi2bsPYG0goQdmTYnq4xfcDo5oJ0yHcsfNiY6v7VWH_PNx_BHlJgBu00Hx_qTNAUV9npISVQCtpQ13aU38bDcYyPwI2DwAbQmyZYmxE4_JdVcxHqs4h_a4hQ1h0EV3B_wc31IrgDMcChlJir2x6p4MVPGFC5sGtaHmh0klnqxsjoXMHV7ml0jw54CoKk7vc96kpqxPS9vPTC_yHAlM_kgjYtmVvOv1zmYI2rI5B-oSYnRGZuZpeUaKwEEf15Lh4Vfo6oHhqat-PhnWL18YzTlWoBicafeVgahoYWhvGb2eaX3VTmhclNJzRit6SZQ6YziPnpCM50DXYWdiX92jJ2xDu5l5lJLXlhxkldyt8jcL9i_QtaKBycfZ8CwlqBprkH_odO3jdv83fkYASV45hIY2ljMhmRHPVSBWnPAJFev8JxWXB8AlBup",
+            "widthPx": 4080
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV5F+RC London, UK",
+        "globalCode": "9C3XGV5F+RC"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "39 William IV Street"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2N 4DD",
+        "regionCode": "GB"
+    },
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "priceRange": {
+        "endPrice": {
+            "currencyCode": "GBP",
+            "units": "40"
+        },
+        "startPrice": {
+            "currencyCode": "GBP",
+            "units": "20"
+        }
+    },
+    "primaryType": "italian_restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Italian Restaurant"
+    },
+    "rating": 4.4,
+    "regularOpeningHours": {
+        "nextOpenTime": "2025-11-25T11:30:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 21,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 11,
+                    "minute": 30
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 11:30 AM – 10:00 PM",
+            "Tuesday: 11:30 AM – 10:00 PM",
+            "Wednesday: 11:30 AM – 10:00 PM",
+            "Thursday: 11:30 AM – 10:30 PM",
+            "Friday: 11:30 AM – 10:30 PM",
+            "Saturday: 11:30 AM – 10:30 PM",
+            "Sunday: 11:30 AM – 9:30 PM"
+        ]
+    },
+    "reservable": true,
+    "restroom": true,
+    "reviewSummary": {
+        "disclosureText": {
+            "languageCode": "en-US",
+            "text": "Summarized with Gemini"
+        },
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=5%401:CAIQACodChtyc19oOjNLMEtFZWx2czE0SDc3NkRXMW1NQVE%7CCAIQACorChtyc19oOjNLMEtFZWx2czE0SDc3NkRXMW1NQVESDAiTxczHBhCg6eCzAg&d=17924085&t=8",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487604ce7e57942f:0x2ba07c05296427b!9m1!1b1",
+        "text": {
+            "languageCode": "en-US",
+            "text": "People say this Italian restaurant serves delicious handmade pasta dishes, including the signature silk handkerchiefs with walnut butter and confit egg yolk, and the spicy pork tagliatelle. They also highlight the good value, lively atmosphere, and quick, professional service.\n\nSome reviews mention the space can be cramped."
+        }
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Emre Can Ökten",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWIjdl_uNuREVD1neWY5pWRxGfcxWLt2GMZdKlYkmT_h8AEXtRt=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/110689229713046153498/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GbGQwOVJkREJIWlVSWWNrSTNhVEpwY0VsclptYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GbGQwOVJkREJIWlVSWWNrSTNhVEpwY0VsclptYxAB!2m1!1s0x487604ce7e57942f:0x2ba07c05296427b",
+            "name": "places/ChIJL5RXfs4EdkgRe0KWUsAHugI/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GbGQwOVJkREJIWlVSWWNrSTNhVEpwY0VsclptYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Arrived with high expectations for the Michelin-guided pasta. Neither the experience nor the food lived up to the hype. The cacio e pepe was decent, but the spaghetti aglio e olio disappointed. Having a reservation but being left waiting at the door didn't help first impressions either.\n\nSave yourself the trouble - Padella offers better value and quicker service, or visit Noci for genuinely top-tier casual pasta."
+            },
+            "publishTime": "2025-11-12T05:24:11.721438090Z",
+            "rating": 3,
+            "relativePublishTimeDescription": "a week ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Arrived with high expectations for the Michelin-guided pasta. Neither the experience nor the food lived up to the hype. The cacio e pepe was decent, but the spaghetti aglio e olio disappointed. Having a reservation but being left waiting at the door didn't help first impressions either.\n\nSave yourself the trouble - Padella offers better value and quicker service, or visit Noci for genuinely top-tier casual pasta."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Yasmin Nariswari",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVSVuCYqsANDMfrqljWVNkT7BSZqknZyGeI6J0lUHa3W6baFw0=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/115685444156866468336/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21kdE4zaHRPR05JVDFwZmFtaHZSMWhLZURWbVIwRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kdE4zaHRPR05JVDFwZmFtaHZSMWhLZURWbVIwRRAB!2m1!1s0x487604ce7e57942f:0x2ba07c05296427b",
+            "name": "places/ChIJL5RXfs4EdkgRe0KWUsAHugI/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kdE4zaHRPR05JVDFwZmFtaHZSMWhLZURWbVIwRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Spent my birthday and was served free limoncellos. Ordered 4 pastas and 2 entrees and 2 desserts for a party of 4. We shared all the pastas and it was a good balance of flavours. Star of the show was the venison tortelloni, and the creamy anchovy, and burrata. Heard mix reviews but understand that for certain pastas it can get tedious eating them along the way, so sharing them was a really good!!"
+            },
+            "publishTime": "2025-10-30T12:54:20.616631763Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "3 weeks ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Spent my birthday and was served free limoncellos. Ordered 4 pastas and 2 entrees and 2 desserts for a party of 4. We shared all the pastas and it was a good balance of flavours. Star of the show was the venison tortelloni, and the creamy anchovy, and burrata. Heard mix reviews but understand that for certain pastas it can get tedious eating them along the way, so sharing them was a really good!!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "omer erbas",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXIPx6pFBowaa_S9rcs7WtD_ZBNvglcSB4ADwjjOKNtORmsdx_4=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/106659216240216919844/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pCVWFGSkxWR1ZaWHpWMVRuRXRUR1pETlhobFdYYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCVWFGSkxWR1ZaWHpWMVRuRXRUR1pETlhobFdYYxAB!2m1!1s0x487604ce7e57942f:0x2ba07c05296427b",
+            "name": "places/ChIJL5RXfs4EdkgRe0KWUsAHugI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCVWFGSkxWR1ZaWHpWMVRuRXRUR1pETlhobFdYYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Let me start off with their famous Silk Handkerchiefs Walnut Butter pasta: it is flawless, I can still remember the taste and feeling, definetelt would wanna eat it again. Additionally Cacio and Pepe was equally good. We also tried burrata, which is nice but a bit pricey compared to what you get.\n\nWe visitied Bancone in an early afternoon, no reservation and we were seated in 5 minutes. It is open kitchen and as we were eating we were also able to watch kitchen, which was really fun.\n\nMy only negative point is that they only accept card"
+            },
+            "publishTime": "2025-09-28T05:45:47.028519436Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Let me start off with their famous Silk Handkerchiefs Walnut Butter pasta: it is flawless, I can still remember the taste and feeling, definetelt would wanna eat it again. Additionally Cacio and Pepe was equally good. We also tried burrata, which is nice but a bit pricey compared to what you get.\n\nWe visitied Bancone in an early afternoon, no reservation and we were seated in 5 minutes. It is open kitchen and as we were eating we were also able to watch kitchen, which was really fun.\n\nMy only negative point is that they only accept card"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Martin Reviews",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXy2IFhmcyXI5ReeWSJOvu30WPr7fl1TTOYLmvMQgXTrd3WfmE=s128-c0x00000000-cc-rp-mo-ba7",
+                "uri": "https://www.google.com/maps/contrib/112118865208561796055/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tJNGVETk5UVXR1U1ZoaGJXZHRSelo1UW5Oa01WRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tJNGVETk5UVXR1U1ZoaGJXZHRSelo1UW5Oa01WRRAB!2m1!1s0x487604ce7e57942f:0x2ba07c05296427b",
+            "name": "places/ChIJL5RXfs4EdkgRe0KWUsAHugI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tJNGVETk5UVXR1U1ZoaGJXZHRSelo1UW5Oa01WRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Bancone Covent Garden is a truly special Italian restaurant that delivers an exceptional dining experience through its authentic, delicious, and creatively crafted dishes made only with the freshest ingredients and finest finishes. The standout dish for me was the smoked potato raviolo with St Ewe’s egg and summer truffle—an explosion of flavor that turned every bite into a delightful taste bud celebration. Sitting at the sleek, American-style bar made the experience even better, offering a comfortable spot to watch the chefs at work while enjoying the lively atmosphere. The staff were professional, friendly, and impressively attentive, adding to the restaurant’s warm and polished charm. Bancone Covent Garden is a must-visit for anyone who appreciates refined yet accessible Italian cuisine—definitely a place to put at the top of your list."
+            },
+            "publishTime": "2025-10-26T23:41:26.127196598Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "4 weeks ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Bancone Covent Garden is a truly special Italian restaurant that delivers an exceptional dining experience through its authentic, delicious, and creatively crafted dishes made only with the freshest ingredients and finest finishes. The standout dish for me was the smoked potato raviolo with St Ewe’s egg and summer truffle—an explosion of flavor that turned every bite into a delightful taste bud celebration. Sitting at the sleek, American-style bar made the experience even better, offering a comfortable spot to watch the chefs at work while enjoying the lively atmosphere. The staff were professional, friendly, and impressively attentive, adding to the restaurant’s warm and polished charm. Bancone Covent Garden is a must-visit for anyone who appreciates refined yet accessible Italian cuisine—definitely a place to put at the top of your list."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Cyrielle AH-FA",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK2HEX32AKeaHBGaEiDUD49pmNEBviVhFyXYZpk1mLD16Kyww=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/103147032739333149658/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSRVluVnBRWEpVYjAxWllWcGpUVnB6UVdGMFdtYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSRVluVnBRWEpVYjAxWllWcGpUVnB6UVdGMFdtYxAB!2m1!1s0x487604ce7e57942f:0x2ba07c05296427b",
+            "name": "places/ChIJL5RXfs4EdkgRe0KWUsAHugI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSRVluVnBRWEpVYjAxWllWcGpUVnB6UVdGMFdtYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "We were seated on the counter and enjoyed the artichoke, sourdough, signature carbonara and gnocchi. To be honest we really found everything very tasty, the price a bit high. Pasta were all dente and tasty, and all sauces were very interesting. It wasnt just a classic sauce but there was a specific spin to it. The service was nice but quite slow. Decoration wise, it wasnt anything fancy, it is quite small and narrow. Though it is nice to see the staff cooking in front of you."
+            },
+            "publishTime": "2025-09-26T17:46:53.997180742Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "We were seated on the counter and enjoyed the artichoke, sourdough, signature carbonara and gnocchi. To be honest we really found everything very tasty, the price a bit high. Pasta were all dente and tasty, and all sauces were very interesting. It wasnt just a classic sauce but there was a specific spin to it. The service was nice but quite slow. Decoration wise, it wasnt anything fancy, it is quite small and narrow. Though it is nice to see the staff cooking in front of you."
+            }
+        }
+    ],
+    "servesBeer": true,
+    "servesBreakfast": false,
+    "servesBrunch": false,
+    "servesCocktails": true,
+    "servesCoffee": true,
+    "servesDessert": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "servesWine": true,
+    "shortFormattedAddress": "39 William IV St, London",
+    "takeout": false,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "italian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 3557,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.5108805802915,
+            "longitude": -0.125047169708498
+        },
+        "low": {
+            "latitude": 51.5081826197085,
+            "longitude": -0.12774513029150203
+        }
+    },
+    "websiteUri": "http://www.bancone.co.uk/",
+    "timestamp": 1764064800
+}

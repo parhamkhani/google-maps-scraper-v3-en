@@ -1,0 +1,816 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleParking": false,
+        "wheelchairAccessibleSeating": true
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "397",
+            "shortText": "397",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Strand",
+            "shortText": "Strand",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2R 0LP",
+            "shortText": "WC2R 0LP",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJs4GOh8sEdkgRRiBFZKMP8ZE",
+                "placeId": "ChIJs4GOh8sEdkgRRiBFZKMP8ZE"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The Savoy"
+                },
+                "name": "places/ChIJqUbg0ssEdkgR8QSuJx1uIAs",
+                "placeId": "ChIJqUbg0ssEdkgR8QSuJx1uIAs"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Vaudeville Theatre"
+                },
+                "name": "places/ChIJczPJ8csEdkgRedKpYe0M6Wc",
+                "placeId": "ChIJczPJ8csEdkgRedKpYe0M6Wc",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 27.253214,
+                "travelDistanceMeters": 25.35927,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Adelphi Theatre"
+                },
+                "name": "places/ChIJT1sd_MsEdkgRbRAA3JItLec",
+                "placeId": "ChIJT1sd_MsEdkgRbRAA3JItLec",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 57.724377,
+                "travelDistanceMeters": 64.680565,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "store",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Wilde Aparthotels, London, Covent Garden"
+                },
+                "name": "places/ChIJYfCA4csEdkgRLBxFMl7u6Vk",
+                "placeId": "ChIJYfCA4csEdkgRLBxFMl7u6Vk",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 56.380074,
+                "travelDistanceMeters": 87.02754,
+                "types": [
+                    "establishment",
+                    "lodging",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "LEON Strand"
+                },
+                "name": "places/ChIJQyo-5MsEdkgRtg4lOChgIE4",
+                "placeId": "ChIJQyo-5MsEdkgRtg4lOChgIE4",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 44.28575,
+                "travelDistanceMeters": 69.01718,
+                "types": [
+                    "cafe",
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The Savoy"
+                },
+                "name": "places/ChIJTVquz8sEdkgRKdz7pP3v9BU",
+                "placeId": "ChIJTVquz8sEdkgRKdz7pP3v9BU",
+                "straightLineDistanceMeters": 104.42686,
+                "travelDistanceMeters": 116.8819,
+                "types": [
+                    "establishment",
+                    "lodging",
+                    "point_of_interest"
+                ]
+            }
+        ]
+    },
+    "allowsDogs": false,
+    "businessStatus": "OPERATIONAL",
+    "currentOpeningHours": {
+        "nextOpenTime": "2025-12-11T12:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 14,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 20,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 14,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 15,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 15,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 16,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 16,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 17,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 17,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 21,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 – 9:00 PM",
+            "Tuesday: 12:00 – 9:00 PM",
+            "Wednesday: 12:00 – 9:00 PM",
+            "Thursday: 12:00 – 9:30 PM",
+            "Friday: 12:00 – 10:00 PM",
+            "Saturday: 12:00 – 10:00 PM",
+            "Sunday: 12:00 – 8:30 PM"
+        ]
+    },
+    "delivery": true,
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "The Real Greek - Strand"
+    },
+    "editorialSummary": {
+        "languageCode": "en",
+        "text": "Slick, modern restaurant with a menu of updated classic dishes, plus ouzo & Greek wines."
+    },
+    "formattedAddress": "397 Strand, London WC2R 0LP, UK",
+    "goodForChildren": true,
+    "goodForGroups": true,
+    "goodForWatchingSports": false,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x4876052a8db23a43:0xe270523eb8040a5!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x4876052a8db23a43:0xe270523eb8040a5!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=1019789492455751845&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x4876052a8db23a43:0xe270523eb8040a5!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x4876052a8db23a43:0xe270523eb8040a5!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=1019789492455751845&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJQzqyjSoFdkgRpUCA6yMFJw4",
+    "internationalPhoneNumber": "+44 20 3026 5669",
+    "liveMusic": false,
+    "location": {
+        "latitude": 51.510383,
+        "longitude": -0.12207499999999999
+    },
+    "menuForChildren": true,
+    "name": "places/ChIJQzqyjSoFdkgRpUCA6yMFJw4",
+    "nationalPhoneNumber": "020 3026 5669",
+    "outdoorSeating": true,
+    "parkingOptions": {
+        "freeParkingLot": false
+    },
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "The Real Greek - Strand",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU3Jp3BQ0mrW7Gu3mNT9T4VquK8eCpu6vXuV8bYNR5_hY7yRP8=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110851356892384585314"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPKbwcb0HlLrhuVnmtKwWm-fCQsYTL4_RaUCB3B&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPKbwcb0HlLrhuVnmtKwWm-fCQsYTL4_RaUCB3B!2e10!4m2!3m1!1s0x4876052a8db23a43:0xe270523eb8040a5",
+            "heightPx": 2000,
+            "name": "places/ChIJQzqyjSoFdkgRpUCA6yMFJw4/photos/AZLasHp-0rPy1OsCtu63FHyEA1iInXWjF_dBWSpUuP9bMPYZ2qPOcg-Lpqfp8tTl3V1ZhTzvya3vfhKq5cCvl2c0J3_piLjyU97431fzoejTSaik05WTW2FWmAG-dnEEUzuVwLetsvEkUj1cSwrC1ayS33aedd3Cj_-CaHqYrX43v0ebMCrdVlQaReXupge4wv-Z0C6Zqy8qojpBQj4fd9LL2M0gk44ObtspRUJTlqVM1wU70mBKxf6I6hYABUp2mjNt4SR0f3Vtw1LCAWc7isY4KrmQQ6cxIUGQx10tdYx8-UOkJg",
+            "widthPx": 3000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "The Real Greek - Strand",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU3Jp3BQ0mrW7Gu3mNT9T4VquK8eCpu6vXuV8bYNR5_hY7yRP8=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110851356892384585314"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPbNvJSRTGKfwnqZSLOF_SMdCCSagJIUYjJEE3B&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPbNvJSRTGKfwnqZSLOF_SMdCCSagJIUYjJEE3B!2e10!4m2!3m1!1s0x4876052a8db23a43:0xe270523eb8040a5",
+            "heightPx": 3016,
+            "name": "places/ChIJQzqyjSoFdkgRpUCA6yMFJw4/photos/AZLasHpxYJHUs5zG9l9tN2V-IZcsQGVW53FuTo3kuMjHLdmziKZZIvbptP1n3JcMK442O7DPR2Rkg2a2pzi7gUtKbaw60sm2SzP_We_0Hsy4j4IBJOVWeq28MOOCNwnTOJ-ko92Eo4mQyGF3a0O-ppxxmReN077aQiFgHdySIr42gGd1Mu8QHOioTrbzf0yfMCxLOhpQSAGi6qdUa1IidCUZIgAxWLuZEtYL_ODf9q663pcqv20PPyUTvc1c6nLgsG58BVGkIhkvPokr-fCp2X8hXrd10oAkA7lPIUB372OyW8B3mQ",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Paul S",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVyt4nEOPI6iXgN4QVg2FZK3amrVjQSq5jSG8yNih7cbI4zW9OR=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/109583104916864510410"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDB5X-YxaUJ8OPu2k-qJn82&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDB5X-YxaUJ8OPu2k-qJn82!2e10!4m2!3m1!1s0x4876052a8db23a43:0xe270523eb8040a5",
+            "heightPx": 1848,
+            "name": "places/ChIJQzqyjSoFdkgRpUCA6yMFJw4/photos/AZLasHqj8Y2YMph2MUiCaTAjBZVipE4z-DHcwl3cjOpEJlqxFyUtdgnscl3vKe4oSQFF1hEuhcJM00WUpzq80ygerxjTjdYT9qloSiCRTWeBlu5HseeY6tkpkEWRY-nZdPQfcZWsC-GTMTkqUJrrrsKqS6EPk2VhKoJfv4vh2PvgpWo8MpKB0IfQzFq5DXX1q6kyFS4wWqLmY3wRzXkUow2UAEUet8nVJwmvpww5cWjObJQZM-WenHu8AI_DNi-z7sHmaYRLjxrepguN5CCRGe0r0r8oKRu5hyXUEEoGcC7qTt5u9PxYNDljQBvu1VxPGUNKnKV90o7O1DWjdPOuxkNumM1XPMYORbM2Ky_EAbovnggHBBWGvhxjmvZRYG9NUCoJAksgZBSsRocHdSvDXaHYyDTgDTMUECBOPOq1LT12OrxLWADdo1us6YsfeI5XIPde",
+            "widthPx": 4000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Srinidhi S H",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLdi5zWB9y83B_wtO4TXrpvJIqo9ebc5X1Uubr6b2S0mEoGYw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/102267651048298377383"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDALf_ap96laIpKsIMf-dlv&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDALf_ap96laIpKsIMf-dlv!2e10!4m2!3m1!1s0x4876052a8db23a43:0xe270523eb8040a5",
+            "heightPx": 3072,
+            "name": "places/ChIJQzqyjSoFdkgRpUCA6yMFJw4/photos/AZLasHpyYsq6Iw4HO1h0zq-XmypjjbJRy26folZQHdROnSK_a4bPhcCe7mO6lJzkMhALqts-F47RkLeCCTGLz_urTsR9bocykr3aKRNh84u4-FC8737GqELXQWVsVerK3YrSpg2HiUqQ8gMlPRQ2AgCOuEvhlWZUO84IQhSQLLP2EVk-xPRyBLEVq9wUxUKzsLFlILy89yfV18ZIM1WmDK1ek6e_dxVJfw50uDdFXKT6xCwZKywapkD2xMm5i7jMOkz08CIFGrY_sje47APihq_LziVr3DOxYI_Om9kFzvhcAYNOLq8npIKRCKnov5Bl4SERoRNSoC5IwJHvz58X60vgFQWOwDGLPceNL_EhciRRj7ZVfoWOEjIJCRN0Gx89E6ABXgt1NCunnMKBCMsPmV8kfh1qKIvH5yVQx6BeK7Qwy0WMFS62GWWCYb-GhfiVM6Zh",
+            "widthPx": 4080
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Sophia C",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW_Ur5Fpa1Sc4CL4AvO2yNbaH13E5YxFGjFq3bFjMW7aBOXkO9pUg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/115357749987752850636"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDmr-IiSsLGpqcZt3INcdKL&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDmr-IiSsLGpqcZt3INcdKL!2e10!4m2!3m1!1s0x4876052a8db23a43:0xe270523eb8040a5",
+            "heightPx": 4000,
+            "name": "places/ChIJQzqyjSoFdkgRpUCA6yMFJw4/photos/AZLasHp--r230T7_MY2F4NGSL9kDeddstV-oOMqzzfZIur7b_2uegSDR5fd5bqS-NKO_b2cMUvb8w54buDPGmDnqaKNb4leUZ5IRJBnn-YaN6NZJvuepGi8omalx-ssYJzIr_epsih_05KhvZa00tHKablyb4sAEfcclcAjBWZ14S91rUn5aDNsc4wAKWgM_hyle4CyhlNMcjR-VZJCEYFPLJ9HuTcU-TQxnlyOuZvpcLPYRq_KXjnN5tkcpMH58iKOMnM0dUQJOXX4wUViQA3DS_NVDETgjmU0XP6fenbmC9WiAePZ-g3NNHrr1gMyiBiLBjgvGbI4PPkdnOkfHBmdS3PvNx8zOAOZNTy_dDBq3iUdb46PJtubfwhfBcsf8sqTSs9e9KJ9Wu0k7HGvl07ylLm5QY1vLOsdPZ161B_GocQ5JMcSsS5tu7vNJVGfsl9cE",
+            "widthPx": 3000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Jamie Hall",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWwE5veyKtV_NtBrHmUOg147Sd0yJLHTa_64ZRu-pw0BBnMDfB2dg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113095721156008116455"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhALaq4fB57ZtuEcUoSzdwz0&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhALaq4fB57ZtuEcUoSzdwz0!2e10!4m2!3m1!1s0x4876052a8db23a43:0xe270523eb8040a5",
+            "heightPx": 4000,
+            "name": "places/ChIJQzqyjSoFdkgRpUCA6yMFJw4/photos/AZLasHrASSLcqmixRyJuQKojv4oetLKUEkueC1LdPzG9Y5aAi53_2R921xk7H9Kf0-q0yGOISxLOPXiKqIGnqkzb3QbQe8S2HNfN6t8JJgjPCX_AX7-NcX0WB5jOn6LKrccKSuu-wXwk6q4i9z-ajA2WLXEfxLcp4Ih8KsvUIscxpYnr9FnhcOYp0vbBO0IiLQOYYpMZcc0YIm4bHx1J0TBd16kpkJX8ZfkasJ2t0Drma-o2U8PV-Kn3B8y389UfI2x-bv-Jv57l1qZxhjHN8kdaqjQ4dwmNYtjfV22drMxqFM1V9mWr1dHqDadXdXFrNoD75fOukGTIk8KMvvzXYrBj_-oTeZb8o0Km8Ef0PfVDOlaS2jLUNfWreev2SUJ8Qz2O26Ix43lK36kmlmscdww1lAqDGdEVpaO-7vSxpSmreAxTp1si0zJQ7K6lsoaC3-rl",
+            "widthPx": 3000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Cova Montes",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK6Hc36EO3eq9xgu_zEM_KV1w3f192qfvN7m2eICNcEdVLm2w=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/111151000968165123633"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDIg8La6wE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDIg8La6wE!2e10!4m2!3m1!1s0x4876052a8db23a43:0xe270523eb8040a5",
+            "heightPx": 4800,
+            "name": "places/ChIJQzqyjSoFdkgRpUCA6yMFJw4/photos/AZLasHpd3vhmX9uoG_MpzViIW_gocWGsHQ_g0lo4pJAVnCil4rUTkGllsiiSCJEWt7zvkZ0KTLt-Kcn3acHblYAHaTaO08SQSk4KlCjQX-hlW5ZvEhtsHb0eQiHpKm0nPilXkq6Kl_F7twqXCvOe8bJNNRyMranQ4ZuKbaiVhPrAG2Quno7blLwy7PdWuZ-cxXTDcK2kGjzB9jYOkKRp9CS8DH6mVoFLrL5n9rXurT6BSpgPYlFEfXV9Fc3hnLrPqAjhspEiw11MBp7TQrk8oEBlxX0rOgiJC8XINwkVGE1YnBtsrWCZRjlDDJP00t1tfqYLDMsSY4rKQrTpnWepRGLcTtYJcuXde6TThIFC-5tWcAx46P3p1M6TK1d_MueMsfdoBHCjF649_zgqxtXQQVZvg_pdVYvqUz3esEPAZvx6-zrKcjE",
+            "widthPx": 3600
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "顾野",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKOfcO98ROQdS6mJ4pRAkxEv4cf9whJ5J7_eytxKPkj1_yc1A=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/109499666867158486854"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC3h-z9ngE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC3h-z9ngE!2e10!4m2!3m1!1s0x4876052a8db23a43:0xe270523eb8040a5",
+            "heightPx": 3024,
+            "name": "places/ChIJQzqyjSoFdkgRpUCA6yMFJw4/photos/AZLasHr2FaqtcjzXTdhBWf1gJqh3flrOE63YoqIptpqJDtw2WQ-GRp269ou_DsgckqZS5MCQeSbr_NFgKuTPuDpnHl4WLjZC824lEwZD82K0ZOo9gx55SDDx8wDbSVVAA-m0R7cPyJs9GONnyDyMFls4QiJubhBOi9TRO5lqS-Dx-UOVxMin5Z2Pm_H_WS5fifJ7o0m5yYbpsad9frnh0wVfHMMbvyiyjhAkCHt3r5oDJtuu0BRL6RwROtuGwp7CZWQqLslWk8J5OaM1z6slg26A_1P1_HN2vxtwMkagZsP1yhIc9K4BI2w2ZcWmhWPpzhMKHtFRUr5bnYsgdSxsPeeSS8utt_K2bDmJBAjVhvZfyrFhYsUs4HF50hvA0a6e_rIdKaKBCDG17SKa_Pst9aLOTJCNslVoQLgQdvAg2KTEEt_ZycIn",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Jen Young",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUoy04f-D0-CVkE1TD4-NNKz2HN3PQJulNNlrb_pYbYBxESvygw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/111998570676471402482"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICXvYGLkAE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICXvYGLkAE!2e10!4m2!3m1!1s0x4876052a8db23a43:0xe270523eb8040a5",
+            "heightPx": 4032,
+            "name": "places/ChIJQzqyjSoFdkgRpUCA6yMFJw4/photos/AZLasHonX2A-ID4FNBHvh8lOm2553WzgAdFj7pX6i6uKznUGYOyWMylU7kajIJB2RvLgQENP85vjjbQJ8KIZ7eC5r-I332uKCouIuY8bzJff52gBj2ilNJubF1CHtPUxnqcayNNbc3uJilTDksePRbYLpkU9wJ5SeumznfuVeFhuVPCibbM1y5Z9-vlxal1NW1khG9mGNa1PkKx4zd9888jzKOXQHEqEpqXOj9OwZD07uLOK1SEV-rGK6qvZqAlaRHYncfEmyvVhhfGC3s0K2htvLcmOWfB7dweAtb5imApNoZlnkMCkZ-Jg-eHq_sSY8it4xPPMV4CYUNMNzpgZmoggB3rQBwJFwmEh-e7lRKGnLinfvfAfy9R_6kpV9QNsH4dcRQ_pgUCKTCi9tlkt514XIZe18a4hQejuOFzJJ3taYYA7NiEe",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Cova Montes",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK6Hc36EO3eq9xgu_zEM_KV1w3f192qfvN7m2eICNcEdVLm2w=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/111151000968165123633"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDIg8LaGw&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDIg8LaGw!2e10!4m2!3m1!1s0x4876052a8db23a43:0xe270523eb8040a5",
+            "heightPx": 4800,
+            "name": "places/ChIJQzqyjSoFdkgRpUCA6yMFJw4/photos/AZLasHokULFcKcKJA_9aQagdgVB2r0oGoyqxwl-7teqF-utyo6lEBfWm0UKq7Cm8iGm7UO0EWlBFldKXFZ4UPF_Rgc5if8SkT7bxa8cHK0j2MZs1oWrfsF_8WBH8reYl_Z-8JvWqRgV86xu6ssAM_gjeqPe0MsSCUqhcuqIJExalRVN2M-0ctpKafczH2OMwvTzgQI4Gr9gkr4uvZsUm0CPf5urfs53fskQpQd8U-hSjUXxdJMpxywWEd-CBoKR2g715KjdUe-BOoNA2mr9ntBd1xdHRB87s0rOk381_Rk883HuGmPDrt-VOKrYfsvtr6nvxXXtHRO76fe5nSd2pg_bDkGvTJYkHebzuJ8lrIMxKW2BnTVS_ps5X60f4tuQe_I1onBB1ge8t8UVaEDLZkPTSzRoewKm5viNuIjhdI0Pc1ZBL3A",
+            "widthPx": 3600
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV6H+55 London, UK",
+        "globalCode": "9C3XGV6H+55"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "397 Strand"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2R 0LP",
+        "regionCode": "GB"
+    },
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "priceRange": {
+        "endPrice": {
+            "currencyCode": "GBP",
+            "units": "20"
+        },
+        "startPrice": {
+            "currencyCode": "GBP",
+            "units": "10"
+        }
+    },
+    "primaryType": "greek_restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Greek Restaurant"
+    },
+    "rating": 4.4,
+    "regularOpeningHours": {
+        "nextOpenTime": "2025-12-11T12:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 20,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 21,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 – 9:00 PM",
+            "Tuesday: 12:00 – 9:00 PM",
+            "Wednesday: 12:00 – 9:00 PM",
+            "Thursday: 12:00 – 9:30 PM",
+            "Friday: 12:00 – 10:00 PM",
+            "Saturday: 12:00 – 10:00 PM",
+            "Sunday: 12:00 – 8:30 PM"
+        ]
+    },
+    "reservable": true,
+    "restroom": true,
+    "reviewSummary": {
+        "disclosureText": {
+            "languageCode": "en-US",
+            "text": "Summarized with Gemini"
+        },
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=5%401:CAIQACodChtyc19oOkpjS0JJeEYyLWZKT3daZ3QxZC1oVGc%7CCAIQACorChtyc19oOkpjS0JJeEYyLWZKT3daZ3QxZC1oVGcSDAjZsd_BBhDg9_CmAg&d=17924085&t=8",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x4876052a8db23a43:0xe270523eb8040a5!9m1!1b1",
+        "text": {
+            "languageCode": "en-US",
+            "text": "Diners say this Greek restaurant serves up delicious halloumi fries, moussaka, and chicken souvlaki, and they praise the friendly and attentive service. They also highlight the great value, especially the lunch deals and kids eat free on Sundays.\n\nSome reviews mention the portions can be small."
+        }
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Philip Hooper",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXViNmw92cD6PKNvde68UlNtPLJFT73J8oX4vpEwKOgzRukof9d=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/103467958890176859226/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25CcFUwcG9UakEyV1d4emJHeFpXbkZJVmpoZlQxRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CcFUwcG9UakEyV1d4emJHeFpXbkZJVmpoZlQxRRAB!2m1!1s0x4876052a8db23a43:0xe270523eb8040a5",
+            "name": "places/ChIJQzqyjSoFdkgRpUCA6yMFJw4/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CcFUwcG9UakEyV1d4emJHeFpXbkZJVmpoZlQxRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Friendly staff. Excellent food. Great value.\n\nWe weren’t expecting much as it’s a big chain. The food really impressed us.\n\nThey didn’t have the regular lasagne so I wet for the vegan lasagne. This was the least impressive of all of the dishes.\n\nThe calamari was a decent sized portion with very light batter. The aubergine was delicious though a bit too spicy for me. The prawns were big and tasty. Chips were good as was the Greek salad.\n\nWould definitely go back."
+            },
+            "publishTime": "2025-10-30T17:52:54.942473320Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Friendly staff. Excellent food. Great value.\n\nWe weren’t expecting much as it’s a big chain. The food really impressed us.\n\nThey didn’t have the regular lasagne so I wet for the vegan lasagne. This was the least impressive of all of the dishes.\n\nThe calamari was a decent sized portion with very light batter. The aubergine was delicious though a bit too spicy for me. The prawns were big and tasty. Chips were good as was the Greek salad.\n\nWould definitely go back."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Travel. Eat. Live. More.",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU8Ulpc81O1Vaz9lH75hE3d3tGSlIk1nRwd96JykI2L-eRbBrlO=s128-c0x00000000-cc-rp-mo-ba6",
+                "uri": "https://www.google.com/maps/contrib/116513127466873731167/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25WZlgzVlFVRkJFVlVWM1dEaERabU5wYldwMVVuYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WZlgzVlFVRkJFVlVWM1dEaERabU5wYldwMVVuYxAB!2m1!1s0x4876052a8db23a43:0xe270523eb8040a5",
+            "name": "places/ChIJQzqyjSoFdkgRpUCA6yMFJw4/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WZlgzVlFVRkJFVlVWM1dEaERabU5wYldwMVVuYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "We had an amazing experience at The Real Greek. This place is amazing and underrated. The atmosphere was festive and the decor is beautiful. It does get very busy after 6pm on a Saturday night so I would definitely recommend booking in advance if you plan to go at or after 6pm on a Saturday. The cleanliness of the toilets were not the best however. The service was great. The staff were really friendly and looked after my gluten allergy. The food came out really quickly too. There are loads of gluten free options on the menu.  There is the Filoxenia set menu for 24 pounds which is great value as it includes one cold Mezze,one flatbread(or one gluten free flatbread),one Souvlaki Grill(some Souvlaki Grills come with price uplifts) and a side or salad. For the Filoxenia set menu I went for the Tzatziki,Gluten Free Flatbread,Pork and the Chickpea Salad. The Tzatziki was very tasty,fresh,a good portion size and beautifully presented. The gluten free flatbread was delicious although it was not necessarily the softest flatbread. The Pork was lovely,it was well cooked and had a lovely flavour. The Chickpea salad was refreshing,fresh and delicious. The portion size for the Chickpea Salad was a good portion size as well. For desserts I went for the Vanilla Ice Cream which tasted good and impressed the sweet tooth. The virgin mojitos were nice however not the strongest in flavour. I would highly recommend The Real Greek,the food is fantastic!"
+            },
+            "publishTime": "2025-10-12T09:11:52.068070696Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "We had an amazing experience at The Real Greek. This place is amazing and underrated. The atmosphere was festive and the decor is beautiful. It does get very busy after 6pm on a Saturday night so I would definitely recommend booking in advance if you plan to go at or after 6pm on a Saturday. The cleanliness of the toilets were not the best however. The service was great. The staff were really friendly and looked after my gluten allergy. The food came out really quickly too. There are loads of gluten free options on the menu.  There is the Filoxenia set menu for 24 pounds which is great value as it includes one cold Mezze,one flatbread(or one gluten free flatbread),one Souvlaki Grill(some Souvlaki Grills come with price uplifts) and a side or salad. For the Filoxenia set menu I went for the Tzatziki,Gluten Free Flatbread,Pork and the Chickpea Salad. The Tzatziki was very tasty,fresh,a good portion size and beautifully presented. The gluten free flatbread was delicious although it was not necessarily the softest flatbread. The Pork was lovely,it was well cooked and had a lovely flavour. The Chickpea salad was refreshing,fresh and delicious. The portion size for the Chickpea Salad was a good portion size as well. For desserts I went for the Vanilla Ice Cream which tasted good and impressed the sweet tooth. The virgin mojitos were nice however not the strongest in flavour. I would highly recommend The Real Greek,the food is fantastic!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Srinidhi S H",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLdi5zWB9y83B_wtO4TXrpvJIqo9ebc5X1Uubr6b2S0mEoGYw=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/102267651048298377383/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21SalQyZzJXRmRDVWs0eWNVNUpTbEZqVG5OcFNGRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21SalQyZzJXRmRDVWs0eWNVNUpTbEZqVG5OcFNGRRAB!2m1!1s0x4876052a8db23a43:0xe270523eb8040a5",
+            "name": "places/ChIJQzqyjSoFdkgRpUCA6yMFJw4/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SalQyZzJXRmRDVWs0eWNVNUpTbEZqVG5OcFNGRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "My brother and I reserved a table a day before in the afternoon and dined here on a weekday. The staff were polite and warm. The ambience, if isn't attributed, is a sin. It is a very well designed diner with the blend of a class and elegance. I absolutely loved the interiors and the music being played. However, the food didn't meet our expectations. The cold mezze dips we ordered, served with flatbread, were the best of everything. We opted for the 24 pp menu which comprises 1 cold mezze, one souvlaki grill, one salad/side and flatbread. We ordered the octopus and king prawns souvlaki grills and both were average. The greek salad was good, but I've had better greek salad at non-greek cuisine restaurants. The chickpea salad was under seasoned, however we added some salt and it was alright. We also ordered their fried calamari hot mezze which was a let down. It wasn't good and for tenner of a price the quantity was also poor. I'd reconsider visiting this place but it is worth a visit to try and savour greek cuisine."
+            },
+            "publishTime": "2025-09-22T16:49:18.728516503Z",
+            "rating": 3,
+            "relativePublishTimeDescription": "2 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "My brother and I reserved a table a day before in the afternoon and dined here on a weekday. The staff were polite and warm. The ambience, if isn't attributed, is a sin. It is a very well designed diner with the blend of a class and elegance. I absolutely loved the interiors and the music being played. However, the food didn't meet our expectations. The cold mezze dips we ordered, served with flatbread, were the best of everything. We opted for the 24 pp menu which comprises 1 cold mezze, one souvlaki grill, one salad/side and flatbread. We ordered the octopus and king prawns souvlaki grills and both were average. The greek salad was good, but I've had better greek salad at non-greek cuisine restaurants. The chickpea salad was under seasoned, however we added some salt and it was alright. We also ordered their fried calamari hot mezze which was a let down. It wasn't good and for tenner of a price the quantity was also poor. I'd reconsider visiting this place but it is worth a visit to try and savour greek cuisine."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Sophia C",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW_Ur5Fpa1Sc4CL4AvO2yNbaH13E5YxFGjFq3bFjMW7aBOXkO9pUg=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/115357749987752850636/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xSNlRGQldWWFptZG5CTVoxZGpiM0J6TVhwU1dGRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSNlRGQldWWFptZG5CTVoxZGpiM0J6TVhwU1dGRRAB!2m1!1s0x4876052a8db23a43:0xe270523eb8040a5",
+            "name": "places/ChIJQzqyjSoFdkgRpUCA6yMFJw4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSNlRGQldWWFptZG5CTVoxZGpiM0J6TVhwU1dGRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "First time at the real Greek, the food was great and the prices were surprisingly reasonable for being in such a prime location to the theatres.\n\nOrdered the trio of dips (tzatziki, hummus, taramasalata) which was wonderfully flavoured and came with a generous serving of pita.\n\nAlso ordered the calamari, large Greek salad, chips, lamb souvlaki and loukaniko sausage which was delicious 😋"
+            },
+            "publishTime": "2025-09-07T09:26:20.458989017Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "3 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "First time at the real Greek, the food was great and the prices were surprisingly reasonable for being in such a prime location to the theatres.\n\nOrdered the trio of dips (tzatziki, hummus, taramasalata) which was wonderfully flavoured and came with a generous serving of pita.\n\nAlso ordered the calamari, large Greek salad, chips, lamb souvlaki and loukaniko sausage which was delicious 😋"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Nitish Raj",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXqofCKkIBvgJsvDvXOSATT8pzunu2uMGmMrFg3AeYEKeeSCED6uA=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/100827498714718069135/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2psTmRWOUVOR0o1Y0d0cFYwbHdWSE5vVVZWd05tYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2psTmRWOUVOR0o1Y0d0cFYwbHdWSE5vVVZWd05tYxAB!2m1!1s0x4876052a8db23a43:0xe270523eb8040a5",
+            "name": "places/ChIJQzqyjSoFdkgRpUCA6yMFJw4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2psTmRWOUVOR0o1Y0d0cFYwbHdWSE5vVVZWd05tYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "This was my first time at The Real Greek, while visiting London for work.\n\nThe host was very welcoming, and while guiding me to the table, she informed me of the daily promotion they have about the 4 golden menus every day, where customers are chosen on a random basis and they can order £24 worth of preset menu for free person.\n\nIt was very generous but keeping aside the luck, the food was amazing, everything I and my colleague ordered was upto the mark. Definitely will come back while visiting London."
+            },
+            "publishTime": "2025-07-23T22:12:09.426990527Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "4 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "This was my first time at The Real Greek, while visiting London for work.\n\nThe host was very welcoming, and while guiding me to the table, she informed me of the daily promotion they have about the 4 golden menus every day, where customers are chosen on a random basis and they can order £24 worth of preset menu for free person.\n\nIt was very generous but keeping aside the luck, the food was amazing, everything I and my colleague ordered was upto the mark. Definitely will come back while visiting London."
+            }
+        }
+    ],
+    "servesBeer": true,
+    "servesCocktails": true,
+    "servesCoffee": true,
+    "servesDessert": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "servesVegetarianFood": true,
+    "servesWine": true,
+    "shortFormattedAddress": "397 Strand, London",
+    "takeout": true,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "greek_restaurant",
+        "mediterranean_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 1987,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.5116932802915,
+            "longitude": -0.12067441970849797
+        },
+        "low": {
+            "latitude": 51.508995319708504,
+            "longitude": -0.12337238029150202
+        }
+    },
+    "websiteUri": "http://www.therealgreek.com/",
+    "timestamp": 1765447200
+}

@@ -1,0 +1,1140 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleEntrance": false,
+        "wheelchairAccessibleParking": false,
+        "wheelchairAccessibleSeating": false
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "117",
+            "shortText": "117",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Kingsway",
+            "shortText": "Kingsway",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2B 6PP",
+            "shortText": "WC2B 6PP",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Holborn"
+                },
+                "name": "places/ChIJA7_adjUbdkgR_XPGaE3twAI",
+                "placeId": "ChIJA7_adjUbdkgR_XPGaE3twAI"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Hexagon Apartments at Parker Tower"
+                },
+                "name": "places/ChIJC7PW5jQbdkgRcZnhZyexLrE",
+                "placeId": "ChIJC7PW5jQbdkgRcZnhZyexLrE"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Shakespeare's Head - JD Wetherspoon"
+                },
+                "name": "places/ChIJG9j7DjUbdkgRckfEShUltV0",
+                "placeId": "ChIJG9j7DjUbdkgRckfEShUltV0",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 37.928997,
+                "travelDistanceMeters": 47.150894,
+                "types": [
+                    "bar",
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Sainsbury's"
+                },
+                "name": "places/ChIJW2Q0-TQbdkgRyq85bQ4ZJSQ",
+                "placeId": "ChIJW2Q0-TQbdkgRyq85bQ4ZJSQ",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 65.35745,
+                "travelDistanceMeters": 91.08215,
+                "types": [
+                    "bakery",
+                    "establishment",
+                    "food",
+                    "grocery_or_supermarket",
+                    "point_of_interest",
+                    "store",
+                    "supermarket"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Ladbrokes"
+                },
+                "name": "places/ChIJBQbT4jUbdkgRu__H-oucyDQ",
+                "placeId": "ChIJBQbT4jUbdkgRu__H-oucyDQ",
+                "spatialRelationship": "ACROSS_THE_ROAD",
+                "straightLineDistanceMeters": 26.049152,
+                "travelDistanceMeters": 74.27104,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "wagamama holborn"
+                },
+                "name": "places/ChIJtcbbATUbdkgRx4DmhVxuEmY",
+                "placeId": "ChIJtcbbATUbdkgRx4DmhVxuEmY",
+                "spatialRelationship": "BESIDE",
+                "straightLineDistanceMeters": 12.342646,
+                "travelDistanceMeters": 9.682152,
+                "types": [
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Kingsway / Holborn Station (Stop M)"
+                },
+                "name": "places/ChIJ3eN9GjUbdkgRvqb576F9dtc",
+                "placeId": "ChIJ3eN9GjUbdkgRvqb576F9dtc",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 33.691887,
+                "travelDistanceMeters": 42.445293,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "transit_station"
+                ]
+            }
+        ]
+    },
+    "allowsDogs": false,
+    "businessStatus": "OPERATIONAL",
+    "curbsidePickup": false,
+    "currentOpeningHours": {
+        "nextCloseTime": "2025-11-26T01:00:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 1,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 9,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 23,
+                    "minute": 59,
+                    "truncated": true
+                },
+                "open": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 9,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 1,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 0,
+                    "minute": 0,
+                    "truncated": true
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 1,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 9,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 1,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 9,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 1,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 9,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 2,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 9,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 2,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 9,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 9:00 AM – 1:00 AM",
+            "Tuesday: 9:00 AM – 1:00 AM",
+            "Wednesday: 9:00 AM – 1:00 AM",
+            "Thursday: 9:00 AM – 1:00 AM",
+            "Friday: 9:00 AM – 2:00 AM",
+            "Saturday: 9:00 AM – 2:00 AM",
+            "Sunday: 9:00 AM – 1:00 AM"
+        ]
+    },
+    "currentSecondaryOpeningHours": [
+        {
+            "nextCloseTime": "2025-11-26T00:45:00Z",
+            "openNow": true,
+            "periods": [
+                {
+                    "close": {
+                        "date": {
+                            "day": 1,
+                            "month": 12,
+                            "year": 2025
+                        },
+                        "day": 1,
+                        "hour": 0,
+                        "minute": 45
+                    },
+                    "open": {
+                        "date": {
+                            "day": 30,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 0,
+                        "hour": 9,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 1,
+                            "month": 12,
+                            "year": 2025
+                        },
+                        "day": 1,
+                        "hour": 23,
+                        "minute": 59,
+                        "truncated": true
+                    },
+                    "open": {
+                        "date": {
+                            "day": 1,
+                            "month": 12,
+                            "year": 2025
+                        },
+                        "day": 1,
+                        "hour": 9,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 25,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 2,
+                        "hour": 0,
+                        "minute": 45
+                    },
+                    "open": {
+                        "date": {
+                            "day": 25,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 2,
+                        "hour": 0,
+                        "minute": 0,
+                        "truncated": true
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 26,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 3,
+                        "hour": 0,
+                        "minute": 45
+                    },
+                    "open": {
+                        "date": {
+                            "day": 25,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 2,
+                        "hour": 9,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 27,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 4,
+                        "hour": 0,
+                        "minute": 45
+                    },
+                    "open": {
+                        "date": {
+                            "day": 26,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 3,
+                        "hour": 9,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 28,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 5,
+                        "hour": 0,
+                        "minute": 45
+                    },
+                    "open": {
+                        "date": {
+                            "day": 27,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 4,
+                        "hour": 9,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 29,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 6,
+                        "hour": 1,
+                        "minute": 45
+                    },
+                    "open": {
+                        "date": {
+                            "day": 28,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 5,
+                        "hour": 9,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 30,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 0,
+                        "hour": 1,
+                        "minute": 45
+                    },
+                    "open": {
+                        "date": {
+                            "day": 29,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 6,
+                        "hour": 9,
+                        "minute": 0
+                    }
+                }
+            ],
+            "secondaryHoursType": "DELIVERY",
+            "weekdayDescriptions": [
+                "Monday: 9:00 AM – 12:45 AM",
+                "Tuesday: 9:00 AM – 12:45 AM",
+                "Wednesday: 9:00 AM – 12:45 AM",
+                "Thursday: 9:00 AM – 12:45 AM",
+                "Friday: 9:00 AM – 1:45 AM",
+                "Saturday: 9:00 AM – 1:45 AM",
+                "Sunday: 9:00 AM – 12:45 AM"
+            ]
+        }
+    ],
+    "delivery": true,
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Burger King"
+    },
+    "editorialSummary": {
+        "languageCode": "en",
+        "text": "Well-known fast-food chain serving grilled burgers, fries & shakes."
+    },
+    "formattedAddress": "117 Kingsway, London WC2B 6PP, UK",
+    "goodForChildren": true,
+    "goodForWatchingSports": false,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x48761b351cb4ff99:0x6e88f8f68438029!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x48761b351cb4ff99:0x6e88f8f68438029!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=497805604916789289&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x48761b351cb4ff99:0x6e88f8f68438029!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x48761b351cb4ff99:0x6e88f8f68438029!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=497805604916789289&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJmf-0HDUbdkgRKYBDaI-P6AY",
+    "internationalPhoneNumber": "+44 20 7242 0971",
+    "liveMusic": false,
+    "location": {
+        "latitude": 51.516816299999995,
+        "longitude": -0.1201914
+    },
+    "menuForChildren": true,
+    "name": "places/ChIJmf-0HDUbdkgRKYBDaI-P6AY",
+    "nationalPhoneNumber": "020 7242 0971",
+    "outdoorSeating": false,
+    "parkingOptions": {
+        "freeParkingLot": true
+    },
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Crystal",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVWzoLAnboIOn8nsF8AxGl5hsl-BTlHTsYm5RET2rxiUFuv0ysE=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/114993325867475471633"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICfic-JQw&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICfic-JQw!2e10!4m2!3m1!1s0x48761b351cb4ff99:0x6e88f8f68438029",
+            "heightPx": 3000,
+            "name": "places/ChIJmf-0HDUbdkgRKYBDaI-P6AY/photos/AWn5SU7C4mPcIjzTh4vHvE9d7dBjLcu2m3brnuaIT8UiPWvkFa7OyzIlKnh_G_-Su5aYyS7V7ubShy4_RhNnPfv6GfXkJc0BiOwYa_0SOprmjKtyMQvzsH6b_FSOtHi0cp4EibkMgFIxdojQyupI7T9pWW0twuz5d4kApyV5FjX49QtZEv0iXouGbO3mYd7LI41oSCVNviVnroSLtzHKG0dJzAqak7IBbRZtkJgiA68g2kkqoEM4hAOX1A_FqqvJX0xEm6uPN7YNHDpmij0ljWOftQkSNBA1NGsXpzgaHJUfUn3vExN-qN4C1IVwNutwSMF1vg2y47nktqAN1xKehaogj1DlS56zEKAvVyyrfAqdBMz1FR3PZlPeeI7R42bPvGBHzmcaXLfDhPDgEW43bqtpviKnGY54ZURggsQ-GOY4wSo",
+            "widthPx": 4000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Burger King",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUASAdVz9_qo3TneCp1EoZV07f6OYnVOzDzGrChJPlJ5gKn_8g9=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/101978703307190987272"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipP4zdv98gUs6VtUglSzbxC9r2FhvWrdCIWEelYR&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP4zdv98gUs6VtUglSzbxC9r2FhvWrdCIWEelYR!2e10!4m2!3m1!1s0x48761b351cb4ff99:0x6e88f8f68438029",
+            "heightPx": 294,
+            "name": "places/ChIJmf-0HDUbdkgRKYBDaI-P6AY/photos/AWn5SU7Kf1wBXgWMdM0dWvTApqAa5V8LBHJ1FEq55PfUKbbQ-elRIn-2Sm4NeTR75kmioBqvDfPSQm1DR96QLsp5KVi2VZDm0aGM8zQceBXYRlDPbZc-VEFHvdoh-EW4XmshZgrvaTotl1Pwwo6J_2SdQHkW2cq3eGrA52SvCPyzhe9TYCqwMZ3421rWYYlToEoFNvYFfAMkC1hvlecK547nnCzu9tM9SbVBxxBIeaayFRQ2D5MMSYBdjdCXCHg707VeTx-c149_7RnJ6PiAtaJD0x5uZBN91Lipg8zAtfkk4pI46g",
+            "widthPx": 445
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Burger King",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUASAdVz9_qo3TneCp1EoZV07f6OYnVOzDzGrChJPlJ5gKn_8g9=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/101978703307190987272"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM99o0ApCijYSxnIXrxChZLVDJJEeZPIWeb7QPM&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM99o0ApCijYSxnIXrxChZLVDJJEeZPIWeb7QPM!2e10!4m2!3m1!1s0x48761b351cb4ff99:0x6e88f8f68438029",
+            "heightPx": 550,
+            "name": "places/ChIJmf-0HDUbdkgRKYBDaI-P6AY/photos/AWn5SU6ed4Aw4hwZ5fE1XksGo5PKt3e6EyuKmlwF0UhdkerB7XgsxzBUls-iD1Cbz7180iEp0KlMGU3aCq9ylcbA04-UbcihB5WGufGQqGaxw7ujwYYD02TwrjI35n8IvEXyLPCz0HOzAk7acncPz08n9F9aX8xVP5nt_qrFz-5-d8NgYQxvPpEt25ifL0bD5yD0Z2Fcmqpkj1pnz9tvKjw3Rf0DtjBwHYRcRqsjf1ClMaDlm-Y-bzC2w9gDTIS0SVwECPhsOTfw1IPZZ1cZ_eLaqMyD6eGU3zwniQV7UE5yM2I9IQ",
+            "widthPx": 977
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Burger King",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUASAdVz9_qo3TneCp1EoZV07f6OYnVOzDzGrChJPlJ5gKn_8g9=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/101978703307190987272"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPiLU5Cvo4vawhqWRj-ooda6oay7uzdB-TRXWpf&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPiLU5Cvo4vawhqWRj-ooda6oay7uzdB-TRXWpf!2e10!4m2!3m1!1s0x48761b351cb4ff99:0x6e88f8f68438029",
+            "heightPx": 2048,
+            "name": "places/ChIJmf-0HDUbdkgRKYBDaI-P6AY/photos/AWn5SU5q6hdqHZLidoIcMcdpBYOTvC35dYrxGEH2q5e_gD0qdNnruHCxBLcaC0ypw7tABmS_WbMMvlD-f0NVheD7BtwHnvdUByDKOKAXFBjEQvDWr7fhMrBmBSPLsYXxvNcZMea__xi8O5EV5WcN2eRsMkVcqhpC9oIu3Gg8FKzuQo-5X2cDtsQJW5gzl3FbDsL8LJbCuzPaE95c8ngLfA33dAPUfpoDh4bLELGUG5bqXj9PxW3zWyEPv5Z32bW6ZtT1PYmt05rTeYGHzhZ3-KD1h7c8UevZgFpnajnVT2kQyJ4MCg",
+            "widthPx": 2048
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Burger King",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUASAdVz9_qo3TneCp1EoZV07f6OYnVOzDzGrChJPlJ5gKn_8g9=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/101978703307190987272"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPTHcU4NFtaRc_qZtxfG9N8xopwpnpeXZLTXQzh&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPTHcU4NFtaRc_qZtxfG9N8xopwpnpeXZLTXQzh!2e10!4m2!3m1!1s0x48761b351cb4ff99:0x6e88f8f68438029",
+            "heightPx": 1246,
+            "name": "places/ChIJmf-0HDUbdkgRKYBDaI-P6AY/photos/AWn5SU547D8pKcGUoj8utqnknNLQmUK-FBfSOYOIc1Z7sAsS3eDkvqwv_si3nGIMIZJ2JNO9pdt_apOS-BDGgdZliQ_LlTxQFm-Nm_br21iAVDb0_w_16LTTYhv8tSO--wlDQEYUEghcfUBJTqYJe3cFQWOkh88SSHBXdORU7g_kmN8xAgtn5nDij7d5jw9VC_ajPh0g1qpZGSAZ4T91eizuIZfSEhCxDL0qDzbOVq9I9UfVdosOiRl089cGvYQyRYVCRDWBpLUD2GbDTtYW978ODfGYliOekWlUJ8VQ4ZmC4BX9cw",
+            "widthPx": 994
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Burger King",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUASAdVz9_qo3TneCp1EoZV07f6OYnVOzDzGrChJPlJ5gKn_8g9=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/101978703307190987272"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMV9QXmVTSGmfdJRPxzh8QHgCvRUvqaPhln23x7&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMV9QXmVTSGmfdJRPxzh8QHgCvRUvqaPhln23x7!2e10!4m2!3m1!1s0x48761b351cb4ff99:0x6e88f8f68438029",
+            "heightPx": 419,
+            "name": "places/ChIJmf-0HDUbdkgRKYBDaI-P6AY/photos/AWn5SU6sXfwU7QLZiofNMt3lWrx536-rheNDpKoDq6K393gbP_HRrfo3EaQko6HTpZgoER36FBKxypLTPVbrQqCFgCCsANqqz2jUfRy_1xkv1VbW54HUN7f-E_3IqpXqXtELwyaNnaSlxxGR6lzsaFDtxlRFLT38AeJiTHLDGWP4X97NvIBQ2qU13w1CdTlxQOYLBtlf91ugFeZ5LU65Wrw2T5MqOKhKCmoR0xysVUQHpH-jc3rtww5VuqEdA_h3_sGwLaG_to4xqxUIchDlY6wlQxXDtU9-FA3s216zgLfsd6NMDQ",
+            "widthPx": 607
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Burger King",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUASAdVz9_qo3TneCp1EoZV07f6OYnVOzDzGrChJPlJ5gKn_8g9=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/101978703307190987272"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNma9msxlmLOL57ogh014Yy2nH5fohF4aj3UwJx&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNma9msxlmLOL57ogh014Yy2nH5fohF4aj3UwJx!2e10!4m2!3m1!1s0x48761b351cb4ff99:0x6e88f8f68438029",
+            "heightPx": 468,
+            "name": "places/ChIJmf-0HDUbdkgRKYBDaI-P6AY/photos/AWn5SU6a-2a5Cnje3Eb-dvcqwFp960xM_DrpGUP-gR6TEbNI_SFE7zSDcxF78fxEc5hhpIN7kYBJOxYee3wzoc5t16l8QIU2dlPy0RMXbXeuZdr4lTqyjWJpthRbB5V97aa8P4mgdqVS-7C3DSoEWgAHjMY3vlHt60y_U3NZKmsG4rrKVhg9yEXHyX89xDkl8vkna2hbLTn6d6Y4Rd_rnqZmzqnh44TvjAf69Ght23LrjzQapwXGWFomP5uVOjgfQ5SJMiuM1K_8aA9uRhYjmKfxoEWySAiVxLvHpk6Onv-QcwPk_Q",
+            "widthPx": 429
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Yanick Flores",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW-KltnMYR94yxPdHaOtkSa7j7cvfmwiwUfAZj4XtaDFYvHAeQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117420156539112448831"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKENid_dmO-qus8AE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKENid_dmO-qus8AE!2e10!4m2!3m1!1s0x48761b351cb4ff99:0x6e88f8f68438029",
+            "heightPx": 4032,
+            "name": "places/ChIJmf-0HDUbdkgRKYBDaI-P6AY/photos/AWn5SU4k1v7c2uhCWVM32btWDUU9o-DSJpr8O633RWQTBgt7vURFV9JZ2FMrkpM_USs3YjwZINyeJH0Ey0BJe04yQ9Q3Ib48lTf55usxZWMv-57hqRFk-h425DGVVT4H1FMmlbwLNn4U0aKuHGB-CzguSctsReerHeCt9fcKDhdizVjtNCgA0zGrkqUKHSZlAJZvrS9umkwYpnXBCDvW3oDok06aRG94P_H8-IVqt0NrFtGohstwOMTT4ajdYGZYEHEd1lOCTTjY7Km_aE-BrSh-VpxItpZWiGZhSTO_lDhwWfw7kWG0yxEPOQab8j8bTB-jSCREXrJ78L4vSAIC92dqjpQQ19HngDTIRThYtVx8n61XY1G4N6numaophxx4gjTmWo4V5m1V7u3lN3040bDheEd9VKijBbtGXKJaWV4bL4bRSS4",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Burger King",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUASAdVz9_qo3TneCp1EoZV07f6OYnVOzDzGrChJPlJ5gKn_8g9=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/101978703307190987272"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNiPJYvZ6X4WDgL__0gEWhL6XTC9dy0KxHE0hK4&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNiPJYvZ6X4WDgL__0gEWhL6XTC9dy0KxHE0hK4!2e10!4m2!3m1!1s0x48761b351cb4ff99:0x6e88f8f68438029",
+            "heightPx": 1899,
+            "name": "places/ChIJmf-0HDUbdkgRKYBDaI-P6AY/photos/AWn5SU7p1i0lX1N9HbMyqLGJRLyIb9AvFXP0nnRyLHSSUxO1poT5pSDthhuANJ5Rlgc9gZFG3Htn_RZaG4bQkn2QBJmnNje5TZe9HKJ7YAWv4lxdDPkY6ss2yX3NGQqU3EKSgsAKt4LLkPQV7tbRdH4SzKz79v9-2tLAFPKZdWaNhVA3CBUyaZPPpQ2l6eeQCrMe2PJiGEjl-wbPWk83L41AaznoV4yDlUVd9JRAia8B-XroJOw5Ln7aU3Z8FlmNvKmqOBsCJ89iWkF0QiTs5gMrbnEqF7vUqtPCLwuhHxb8jkREcw",
+            "widthPx": 1520
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Germán Pablo Melo",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWs9SlkimZ61zRejFAgn5dKPDZ8E7XBbTh-rottK5GzGAT6beKE=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/103110804877194516023"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDLk_qrGg&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDLk_qrGg!2e10!4m2!3m1!1s0x48761b351cb4ff99:0x6e88f8f68438029",
+            "heightPx": 3024,
+            "name": "places/ChIJmf-0HDUbdkgRKYBDaI-P6AY/photos/AWn5SU48oUg4MLAIRHwfY0bItIfUHLy0nLBZYrhkG5MpGMi2CSEpDNHcwZ81f6_KEK3-IrqO-I6pKPxRvjncuoJOjrMsuK47g2V7-NWep_xm2SEPVNtIsSNifDYiKOA5Wlh_gbq5gH3A1Rs4YIOEAMOjLZq8RjRSgCyO-yN9sa2_wc4GXejfkrPY0e_ffzlKh12JTOW1qDGYJ-foLvXYnp1CCXcb-lI61orPFqs8jw6isGOLc9RULuNHIDLx_nA1BNiuBoq5sshpQqB9_ZMgEDfHVOs2y8I8ahcB6qDV_sZASP63_48pfbiB3b40b4mVh4RQJ3J2IbAHcFVlwC-EgJDUpyZpO2GQKa8EkivaOjC0Kmj4lcm3QJqgkw1HgPfAy174Xko0ot-QKabnhA3MBx5GnS1nM0G1WJt8LCImYMpIFOmIEw",
+            "widthPx": 4032
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV8H+PW London, UK",
+        "globalCode": "9C3XGV8H+PW"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "117 Kingsway"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2B 6PP",
+        "regionCode": "GB"
+    },
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "priceRange": {
+        "endPrice": {
+            "currencyCode": "GBP",
+            "units": "10"
+        },
+        "startPrice": {
+            "currencyCode": "GBP",
+            "units": "1"
+        }
+    },
+    "primaryType": "restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Restaurant"
+    },
+    "rating": 4.2,
+    "regularOpeningHours": {
+        "nextCloseTime": "2025-11-26T01:00:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 1,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 9,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 1,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 9,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 1,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 9,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 1,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 9,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 1,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 9,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 2,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 9,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 2,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 9,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 9:00 AM – 1:00 AM",
+            "Tuesday: 9:00 AM – 1:00 AM",
+            "Wednesday: 9:00 AM – 1:00 AM",
+            "Thursday: 9:00 AM – 1:00 AM",
+            "Friday: 9:00 AM – 2:00 AM",
+            "Saturday: 9:00 AM – 2:00 AM",
+            "Sunday: 9:00 AM – 1:00 AM"
+        ]
+    },
+    "regularSecondaryOpeningHours": [
+        {
+            "nextCloseTime": "2025-11-26T00:45:00Z",
+            "openNow": true,
+            "periods": [
+                {
+                    "close": {
+                        "day": 1,
+                        "hour": 0,
+                        "minute": 45
+                    },
+                    "open": {
+                        "day": 0,
+                        "hour": 9,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "hour": 0,
+                        "minute": 45
+                    },
+                    "open": {
+                        "day": 1,
+                        "hour": 9,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "hour": 0,
+                        "minute": 45
+                    },
+                    "open": {
+                        "day": 2,
+                        "hour": 9,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "hour": 0,
+                        "minute": 45
+                    },
+                    "open": {
+                        "day": 3,
+                        "hour": 9,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "hour": 0,
+                        "minute": 45
+                    },
+                    "open": {
+                        "day": 4,
+                        "hour": 9,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "hour": 1,
+                        "minute": 45
+                    },
+                    "open": {
+                        "day": 5,
+                        "hour": 9,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "day": 0,
+                        "hour": 1,
+                        "minute": 45
+                    },
+                    "open": {
+                        "day": 6,
+                        "hour": 9,
+                        "minute": 0
+                    }
+                }
+            ],
+            "secondaryHoursType": "DELIVERY",
+            "weekdayDescriptions": [
+                "Monday: 9:00 AM – 12:45 AM",
+                "Tuesday: 9:00 AM – 12:45 AM",
+                "Wednesday: 9:00 AM – 12:45 AM",
+                "Thursday: 9:00 AM – 12:45 AM",
+                "Friday: 9:00 AM – 1:45 AM",
+                "Saturday: 9:00 AM – 1:45 AM",
+                "Sunday: 9:00 AM – 12:45 AM"
+            ]
+        }
+    ],
+    "reservable": false,
+    "restroom": true,
+    "reviewSummary": {
+        "disclosureText": {
+            "languageCode": "en-US",
+            "text": "Summarized with Gemini"
+        },
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=5%401:CAIQACodChtyc19oOjdpY0hicnhQY1BOQnJOUXFzZGNYNmc%7CCAIQACorChtyc19oOjdpY0hicnhQY1BOQnJOUXFzZGNYNmcSDAjW1JXIBhCIt_SaAQ&d=17924085&t=8",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x48761b351cb4ff99:0x6e88f8f68438029!9m1!1b1",
+        "text": {
+            "languageCode": "en-US",
+            "text": "People say this restaurant serves tasty burgers. They also highlight the quick service, friendly staff, and clean environment.\n\nOther reviews mention the fries can be stale."
+        }
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "mundru rajani",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKkvmn9_2GG3UpWx5-p3pDSu2zPPevvY6y15P3gIp5CkzjgPw-1=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/115976974296434734988/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2toT2RYa3dkRnBPUm1keVpreHpUR0kzYTFkeGVWRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2toT2RYa3dkRnBPUm1keVpreHpUR0kzYTFkeGVWRRAB!2m1!1s0x48761b351cb4ff99:0x6e88f8f68438029",
+            "name": "places/ChIJmf-0HDUbdkgRKYBDaI-P6AY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toT2RYa3dkRnBPUm1keVpreHpUR0kzYTFkeGVWRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "I had a great experience at the Burger King in Holborn, thanks especially to the amazing service from MADHU  who works there. They were friendly, attentive, and made sure everything I ordered was perfect. Even during a busy rush, they stayed patient and professional, which really made the visit enjoyable.\n\nThe food came out fresh, hot, and exactly how I wanted it. The whole place felt clean and well-run, and the positive attitude from the staff made the atmosphere even better.\n\nIf you’re around Holborn and craving something tasty, definitely stop by—excellent service makes all the difference, and my friend truly delivered it!"
+            },
+            "publishTime": "2025-11-16T23:38:25.658044230Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a week ago",
+            "text": {
+                "languageCode": "en",
+                "text": "I had a great experience at the Burger King in Holborn, thanks especially to the amazing service from MADHU  who works there. They were friendly, attentive, and made sure everything I ordered was perfect. Even during a busy rush, they stayed patient and professional, which really made the visit enjoyable.\n\nThe food came out fresh, hot, and exactly how I wanted it. The whole place felt clean and well-run, and the positive attitude from the staff made the atmosphere even better.\n\nIf you’re around Holborn and craving something tasty, definitely stop by—excellent service makes all the difference, and my friend truly delivered it!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Bilal Shafqat",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ0zCD8sdYPIyC7INu4hpltc-vj230E1azFfYHwW-gxh8cd4g=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/112337835917493212964/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tOb1RIaGlPR1JTYWpORmFVVjJTVGQzY1dGdE1HYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOb1RIaGlPR1JTYWpORmFVVjJTVGQzY1dGdE1HYxAB!2m1!1s0x48761b351cb4ff99:0x6e88f8f68438029",
+            "name": "places/ChIJmf-0HDUbdkgRKYBDaI-P6AY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOb1RIaGlPR1JTYWpORmFVVjJTVGQzY1dGdE1HYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Great staff and good was quick , rafia is exceptional everytime I visit on my breaks"
+            },
+            "publishTime": "2025-10-22T11:25:17.686556541Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Great staff and good was quick , rafia is exceptional everytime I visit on my breaks"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "UNKOWN GAMERS",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXF6cu1jggUIqomh4_iGVLyX3os7dtS4WVnL0d_1tGmPzWoJ6rO=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/104843859101830071427/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wTU5TMVJNVUZZTmtwWmFuQkxZbnBUUkRGM05tYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wTU5TMVJNVUZZTmtwWmFuQkxZbnBUUkRGM05tYxAB!2m1!1s0x48761b351cb4ff99:0x6e88f8f68438029",
+            "name": "places/ChIJmf-0HDUbdkgRKYBDaI-P6AY/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wTU5TMVJNVUZZTmtwWmFuQkxZbnBUUkRGM05tYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "​I had an amazing visit to Burger King Holborn. Madhulatha provided truly exceptional service! She was incredibly helpful and clearly went out of her way to ensure everything about my order was perfect. She deserves special recognition for her outstanding effort."
+            },
+            "publishTime": "2025-11-09T23:01:19.565093073Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 weeks ago",
+            "text": {
+                "languageCode": "en",
+                "text": "​I had an amazing visit to Burger King Holborn. Madhulatha provided truly exceptional service! She was incredibly helpful and clearly went out of her way to ensure everything about my order was perfect. She deserves special recognition for her outstanding effort."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Kollikondla Praneeth Kumar",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJzVyDGgxehhwHk4BWUGC-o8I_4mVAHGlhm4g0jAmG8H7M1UwE=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/104555371651112272108/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKSWFXMXdOazR4Y2xkTlNHTjVjRFZJV1V0c05YYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKSWFXMXdOazR4Y2xkTlNHTjVjRFZJV1V0c05YYxAB!2m1!1s0x48761b351cb4ff99:0x6e88f8f68438029",
+            "name": "places/ChIJmf-0HDUbdkgRKYBDaI-P6AY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKSWFXMXdOazR4Y2xkTlNHTjVjRFZJV1V0c05YYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "My visit to Burger King Holborn was truly exceptional today, thanks to an amazing staff member, Madhulatha. Her service was absolutely 10/10. Madhulatha displayed phenomenal effort and commitment to customer care!"
+            },
+            "publishTime": "2025-11-09T23:12:20.791742285Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 weeks ago",
+            "text": {
+                "languageCode": "en",
+                "text": "My visit to Burger King Holborn was truly exceptional today, thanks to an amazing staff member, Madhulatha. Her service was absolutely 10/10. Madhulatha displayed phenomenal effort and commitment to customer care!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "P. Keerthi",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXYmd5bwg3bnrW-pEJPMbk_BFnL_xDfIRVkbTr1F7qgKu5e2Jw=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/117656106680558672128/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xJNU4wOTRRa1ZTWTI4NWNVczVUMGx6T0dVNWFXYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xJNU4wOTRRa1ZTWTI4NWNVczVUMGx6T0dVNWFXYxAB!2m1!1s0x48761b351cb4ff99:0x6e88f8f68438029",
+            "name": "places/ChIJmf-0HDUbdkgRKYBDaI-P6AY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xJNU4wOTRRa1ZTWTI4NWNVczVUMGx6T0dVNWFXYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "I’m really happy with my visit today. The food was delicious the Chilli Bites, Veg Burger, crispy fries and Coke. Madhu served me very well and made the experience wonderful. Thank you!"
+            },
+            "publishTime": "2025-11-16T19:25:06.967527805Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a week ago",
+            "text": {
+                "languageCode": "en",
+                "text": "I’m really happy with my visit today. The food was delicious the Chilli Bites, Veg Burger, crispy fries and Coke. Madhu served me very well and made the experience wonderful. Thank you!"
+            }
+        }
+    ],
+    "servesBeer": false,
+    "servesBreakfast": false,
+    "servesBrunch": true,
+    "servesCocktails": false,
+    "servesCoffee": false,
+    "servesDessert": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "servesWine": false,
+    "shortFormattedAddress": "Beacon House, 117 Kingsway, London",
+    "takeout": true,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "restaurant",
+        "fast_food_restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 2151,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.51820583029149,
+            "longitude": -0.11876656970849797
+        },
+        "low": {
+            "latitude": 51.51550786970849,
+            "longitude": -0.121464530291502
+        }
+    },
+    "websiteUri": "https://locations.burgerking.co.uk/london/117-kingsway",
+    "timestamp": 1764064800
+}

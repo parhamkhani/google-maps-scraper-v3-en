@@ -1,0 +1,527 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleParking": false
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "126",
+            "shortText": "126",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Charing Cross Road",
+            "shortText": "Charing Cross Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2H 0LA",
+            "shortText": "WC2H 0LA",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The Phoenix Garden"
+                },
+                "name": "places/ChIJwfWkVM0EdkgRBUFiXbuFstA",
+                "placeId": "ChIJwfWkVM0EdkgRBUFiXbuFstA"
+            },
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Soho"
+                },
+                "name": "places/ChIJm39Ln9QEdkgR0l1-U8xXTuQ",
+                "placeId": "ChIJm39Ln9QEdkgR0l1-U8xXTuQ"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "TK Maxx"
+                },
+                "name": "places/ChIJC-dXrNIEdkgRRDkHwRzwoeY",
+                "placeId": "ChIJC-dXrNIEdkgRRDkHwRzwoeY",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 59.01251,
+                "travelDistanceMeters": 50.43618,
+                "types": [
+                    "department_store",
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "NBCUniversal"
+                },
+                "name": "places/ChIJv4f2tzIbdkgR9ockIRcTijo",
+                "placeId": "ChIJv4f2tzIbdkgR9ockIRcTijo",
+                "straightLineDistanceMeters": 216.96593,
+                "travelDistanceMeters": 279.51315,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Tottenham Court Road"
+                },
+                "name": "places/ChIJUwzMay0bdkgR2il_ihMRcME",
+                "placeId": "ChIJUwzMay0bdkgR2il_ihMRcME",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 115.77616,
+                "travelDistanceMeters": 68.4333,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "subway_station",
+                    "train_station",
+                    "transit_station"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Central Saint Giles"
+                },
+                "name": "places/ChIJ50g9uDIbdkgRlCV8K3CctEM",
+                "placeId": "ChIJ50g9uDIbdkgRlCV8K3CctEM",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 194.87491,
+                "travelDistanceMeters": 179.60635,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Phoenix Theatre"
+                },
+                "name": "places/ChIJ4VJMr9IEdkgRpNfI8XrkKQk",
+                "placeId": "ChIJ4VJMr9IEdkgRpNfI8XrkKQk",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 89.947296,
+                "travelDistanceMeters": 90.737015,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "CLOSED_TEMPORARILY",
+    "delivery": true,
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "SMSH BN London"
+    },
+    "formattedAddress": "126 Charing Cross Rd, London WC2H 0LA, UK",
+    "goodForWatchingSports": false,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x48761b0c11c7f7c5:0x2902ec09b01749fd!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x48761b0c11c7f7c5:0x2902ec09b01749fd!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=2955183831861643773&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x48761b0c11c7f7c5:0x2902ec09b01749fd!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x48761b0c11c7f7c5:0x2902ec09b01749fd!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=2955183831861643773&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJxffHEQwbdkgR_UkXsAnsAik",
+    "liveMusic": false,
+    "location": {
+        "latitude": 51.5151969,
+        "longitude": -0.12985359999999999
+    },
+    "name": "places/ChIJxffHEQwbdkgR_UkXsAnsAik",
+    "outdoorSeating": true,
+    "parkingOptions": {
+        "paidStreetParking": true
+    },
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "SMSH BN London",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWvlakTxsUsYR9D3en5KkmVPZRDxxjCBbgJT1HdSRhNk0h-WYQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110455659049181457520"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOTcZnLqASINdZW1N2cLuCaexaNxgjY5b9QUjln&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOTcZnLqASINdZW1N2cLuCaexaNxgjY5b9QUjln!2e10!4m2!3m1!1s0x48761b0c11c7f7c5:0x2902ec09b01749fd",
+            "heightPx": 3201,
+            "name": "places/ChIJxffHEQwbdkgR_UkXsAnsAik/photos/AWn5SU55_8pFykz9Wwtx2mhrJBYAffQgM9k7lSdErBQaLmkfUDabVXdPltxm-QgDZbljpZfbPgyctBfpbICl2VIBVh03yBztGobITA9spyeSrmOimHXe2aPBWaiFXumsof0_m5zT_hfFm3K8odSOUwhZjvDtV23LvMArj_EKGPedd5b_HJsSkfwyMZpZtWCm8QcV3ucQopS3WlAcExC-YnBIM1MrEGfN_3v8BCoJL_-1mktQbWcywWxe_gcbSiLYX3u8eEfIMbF0vKdgiQ1s0X9bcYcsr3P0eTHP4NVJVnWxPKtJdg",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "SMSH BN London",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWvlakTxsUsYR9D3en5KkmVPZRDxxjCBbgJT1HdSRhNk0h-WYQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110455659049181457520"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMqjgi0xFcRNUs5WVal02PlUFfkZn7mm6-uxYpa&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMqjgi0xFcRNUs5WVal02PlUFfkZn7mm6-uxYpa!2e10!4m2!3m1!1s0x48761b0c11c7f7c5:0x2902ec09b01749fd",
+            "heightPx": 4800,
+            "name": "places/ChIJxffHEQwbdkgR_UkXsAnsAik/photos/AWn5SU4mwh7ASZyQuEm9RvZ-lGDsbQHJxtkSWiCiRyQnz_zzmznOSy9-3fu1_94TXyNbJQD3fDzopWQBv0WS4Uqb2Z7X6KbCdDUewL5JlrRqwv8Y7F-KZ1Cgb3EAQaxWtjJgFfhpTtdsJjZTOg54ZONtRSa8du90FiWj5CPfcdftgCXgibHV2NBr-0iqawsN_KG_s34yAemlnVjWvhC-gmsu3jCP68ggwNTyc581hUnVwNBCPb5vi5UwXIcD0zHX3w-Ji2K67jNNcRDeK1vFE051s_sAGM3aBd0L0D_kbTKh6vtS8A",
+            "widthPx": 3201
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Kashmiri Eats",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVlR1ZeUc-7qHi69efRBDo088n7GGoLN8OGOGLg4LZ6IexV4Kbs=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/102155560781259661748"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICPiY3-5gE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICPiY3-5gE!2e10!4m2!3m1!1s0x48761b0c11c7f7c5:0x2902ec09b01749fd",
+            "heightPx": 3950,
+            "name": "places/ChIJxffHEQwbdkgR_UkXsAnsAik/photos/AWn5SU7lqkNweMEatdAOccv3N6f8n7CKIcsElUhAwB-XWYAy1lfhrYrxvFsDL9eYLt-TxZcMzhzXYAxq44pdIqrguZCgUIYmtHl6im_1JRVsrmMqucosOVjp6vWG2wQyyhhNT2xsc3kr6aztZXnmM-JZ3CsZpZGhJUY8XrarqTnPzvXGKDKd4gWDU52YxAnGZyLByFUlQjPNBeGAtxDVgPO9lzLsdTB_8zVpyS41c6XPVEzELbIR61c6RK2iVYA6UEbqcD1C47IpHjzFYYyGFQxf31m8z70puPpFkUj2R5xBNxM99rmbN4if14qYSYzSp2VJps0j9-RItayB-Y1xgxiFZQBMU4RFi6rF4xc3YvJHOeueCz1U8XV17DzjBbhjNbIz7-JNleF2Zc0TNjUnODpyHLu_y8NkpSPuX9n1TKksO4B6g63b",
+            "widthPx": 3542
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Ruben",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW4jw7hEbvchQbU0BBjW45Cw_aH2GVHuQtea_NeO0z4oG8khGfS=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113177848293712884068"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICfq-zuGQ&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICfq-zuGQ!2e10!4m2!3m1!1s0x48761b0c11c7f7c5:0x2902ec09b01749fd",
+            "heightPx": 4800,
+            "name": "places/ChIJxffHEQwbdkgR_UkXsAnsAik/photos/AWn5SU5NSTK0eOrL-4JM9kzeosft_uZUjAw2fjCe3pnriSsBEboEjcyK48Qi-8zNbnS6KxFiB9QHmGX5lEuKciZzKhQCRsc6_pHKy48gDOBOOpPBxQPVj1TepqNlqyoiuZWcMVruxGI4o8bZmj8iFtsi4pQEw0nraF5M8XZ8I_kJ1oE_ckZFsqsi86iIscEWoeZLwoOZ0t4VVFzJDPEBMBWa9GavN6a20k_q0UOVPbgkQkcrK6GzArEp-BEcFu7m1c6luoQpzvukjbWu0VqHta1SNlbPGPe6Nzdm2s7BcLScJJ4BWqNUvkkFaSF8-pqnxfTRW3ZmL8xnytykzn4w-uGIcKPMl8GVclbHJ88udEck3PXE22I_jPt-_FRqyZsJbzRs5pwPczqn1OcZgksoKJXDchhlWQOXi53_dmq6stZvsYk",
+            "widthPx": 3600
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Ahmed R. Al-Absi",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW7tZ2mftOVtV8pdaJvKdlF5AnUJYiQo2uZhA8APDD_coPVyVRL=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/103026380468543691242"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDf_ITf7QE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDf_ITf7QE!2e10!4m2!3m1!1s0x48761b0c11c7f7c5:0x2902ec09b01749fd",
+            "heightPx": 4032,
+            "name": "places/ChIJxffHEQwbdkgR_UkXsAnsAik/photos/AWn5SU6qZ9Qle8a9lytxVBRZyzRMJFoVtsDN3uZVF8Guctoo0Uf1Ij4elvWTbW1F8xzTHZHVXYKikGuN6szhO--Hw3pd-vFTDBZNqvuPAu7R-RINAjzzVZDOrAdaicsJTkwnSEUgHfXLOyhS3yJoJrAymggz9fjhsTwnaoOTm3uQ41WXSJLnhzBQRz0mGxf70N__1w-NnwVcFug2T6ymF6S0MWTuFK4xoLwWjDw9q6vXlG_7qaXQ9iSXDlsTAJcBmc71YVW5q4h8zTaiAIDqZ-3z224PgvJxhEqoHYOQb63qhiH3atuLLI6oBL7Izpx426_rrMYy5_xlYwFu4fOziw4v1UJ-hwquccxoQKLRX5FqKOiSgdEAwwF-7tv2-c-vGxlG4Z_BRK5fsg4mRb-AjCqRNKQtfQwkeIdCJqNbnaMXtAevPS-u",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Jibran Kahn",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUZsWm9ayfxOHMcH38rv3OSZrxfy4HLzIsJvYzrnROl-VWbu_5K=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113335156375297866181"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKENOA6u2XgY7y4wE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKENOA6u2XgY7y4wE!2e10!4m2!3m1!1s0x48761b0c11c7f7c5:0x2902ec09b01749fd",
+            "heightPx": 2641,
+            "name": "places/ChIJxffHEQwbdkgR_UkXsAnsAik/photos/AWn5SU6jrBbSDIc_yHCFbgg9kGlWXMgqV7VDni7ESmO1qsGcoWkrkR0xzRhqFxXjVmuYhq2DaKc29Uq1Jqe8ymFdPDRiZggF7PzXqDN9hSK4kXIXax42pqcsf_v1zeEnEA2jNYBZ4Mk0-h4G72vux4wPurajgfK4JKSyjDaOjN5_izE8ITWXh9iSeXbTJyPn52jdBLq-_1dxqaVKl7F7vr_aXXIjKz1fBzMdhW_VejNPkUMRQkvnpOfOUOcj7djsogbOqaLNdOvwry9CU-uFSxQr1HiQx_OXZpuGpf39gUxjvoYdoRyLRqgYPX2r1gujxvemsGBDVDC58x6MyZQqE7VQEmLJFa84TD-btQZvulnbb1D7AQCcQ2IjP0c4bQ4oy9hsYu63h09oREz2a5i91dE9aWhRkTLWWuz6HaWlDuzmHtRl5TUq",
+            "widthPx": 3522
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Busri Kunni",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIy9DozQ7Wp6iwJ6UIi0xVD_TU0bXjwwQRzivtEXum2oZDOIQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/114495719016717136988"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICXqv-SsAE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICXqv-SsAE!2e10!4m2!3m1!1s0x48761b0c11c7f7c5:0x2902ec09b01749fd",
+            "heightPx": 4032,
+            "name": "places/ChIJxffHEQwbdkgR_UkXsAnsAik/photos/AWn5SU4bR0kFxKpo4f_4XDpqObHurbzWemPAWYjXDQspt6FX5Kltwf0k6aC7E35wa2B4da8iQssMQbqPUDyQvFLgZpx3UsPtX5fk7SndWNuOjuVJIVXgzF6i3fdPv-LYWIiesXsm4WQzchDxnDHB9lFMifDJKTdjnijLephQwsTxHd84pUriB-nmxwQbjZy39i6LMRwuLxPBhpsH-sIQGVK9kpbctik1MMCxum_lUSh0MKZz4dyygYZLmwQSLYlIkAD_Y1dfkt74vm9ueAC_BhNIctaRbQSVehlmE7a_KcSUwNAYxTZq4NS0x2LfnccvJ5F1OGjwOL6e5LgnZQN1JuS8wuSirDIW1KkvXaG5ica9hENraVZb0meCcyJMPLZH678CnYWmiQjodzyLJHAlcfERR9J6tZm7CYb6ckkdCuhE41a1JZ4",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Shezad",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW9pHfaKsxN078vBbzujpWI8l-ECJoh5ujQLJFSgz76DXK4pjo=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/100695512637934993512"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDIlaPvLg&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDIlaPvLg!2e10!4m2!3m1!1s0x48761b0c11c7f7c5:0x2902ec09b01749fd",
+            "heightPx": 4800,
+            "name": "places/ChIJxffHEQwbdkgR_UkXsAnsAik/photos/AWn5SU4qy7ikPw8uTbkt_8eHIHTChe_wZSjYRczCOYFIaf6lVfEtfjlqGh2vCcEqtxz1MGb0HRHPedwZQ--DsgFTceHMtldMCXNwCZQ-C4oCA-CY_IMyLBnBC1PAtp48uaY9bFbD1c2ioVcbbd-9hXHcYocIhKscTZUfZi4tt2etyv93v1nWL_7iq_7wS8TqaXMKejvY69aeWQaAlatrxt6AzJXaoijM_TmlCJ2ba5WYxNMNUbOVyyE_11jgmtajRdrDh-HZ_viB1qoRHKt1LSZS0muiU6jxtHRGTwbzm0qHrzcA5zCWwU3nDUTNbW8Uf9peeWN1vxBUs3_cd4cSxHj-Q6Ez7UW9nVIXr9lgx8vnc9a0fAZ6ZczSrGsilSBhzF1lmgU7qBwLyPCTeQk9P4XTpycXsJk4ugoJVSl8etPE9Ox59Q",
+            "widthPx": 2700
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Mamdouh Aseeri - Saudi Arabia",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWxhLqOOMdlylFCxIyNXiEcCl5_sFTkzxijVHo2nNBqs1ImB8ov=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/107674163830004690589"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICPmZDPdQ&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICPmZDPdQ!2e10!4m2!3m1!1s0x48761b0c11c7f7c5:0x2902ec09b01749fd",
+            "heightPx": 4032,
+            "name": "places/ChIJxffHEQwbdkgR_UkXsAnsAik/photos/AWn5SU7G-OIssRYEAPTmpS1Z86bI0yolcH3LuktDgD0ERK0M_oh6fzqilIAydUsDFy7uEPMNCav_xaCfZnHJy5zbrlYMfGqF1NvdYEYguTeHuDQ7Fvl2YONnFSiozoi5KYhdxoy8EwDPzINxDbpyPAWs2knbOBy9dDG4KBBBn8n_56uFxPdxhRHCW9mtNPX2R3Q4HC5_UBQD5z5M9BtQZl1xSblB4GF5-JOBmKLCfms21OrHoPit3kICdTBHgJP76bXjgqwM5tUPgwfmdgIkOSWFB2gHCqSapVjthxl00V3oQtr-Ar3-Y3In83nttxz3E1GJ8bJQoXNVzz6mQi3SowPEZW0domFU8_KIPvfKCqsV4Vf1_shaTNKHm21fNyGX49OW4ximBYLCbIAjLW0iOx29cSAQz4x5saW7CnSwRJKgU7Ls8w",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Um.khalid",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWI2ykgQijSYjxA9-f6z8MPRzdO4MABVmSTYApCD29iH0Eyr04v0g=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/106844852599913969714"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID_zpf_vQE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID_zpf_vQE!2e10!4m2!3m1!1s0x48761b0c11c7f7c5:0x2902ec09b01749fd",
+            "heightPx": 4000,
+            "name": "places/ChIJxffHEQwbdkgR_UkXsAnsAik/photos/AWn5SU4WnT3C_GKwvaod0ZsUPVjMKxweHrP7Po24TQ10B48ptzremf0C_lIhr0p8Mn8awpPL7pp_tCqZRYXGY-uoHCwcl73TK3OoSnHqJ7ugM0yTGICnVhtHqlCvutpUG04xmhpJOOpY2FXAlxrkzMqWc2zCpqx53IhshpBMpeIKfiPS9ViWvpZekVB0NYOFZZK0t6J88xUM0hwuLzjDCWS7TtbfBoDcGUug2uZWYVCkzGj_8W9Z7si8D9C6uI35HydpxeestegX2sl4oONwrugrYvx_WXGgVCXSR3moaHRGgC00NW89nxTO4IFUUgWcx70WJwlDCjFeYg7fFiDSyH6ThcdM_drw9OBZVhvREkUPnqLAPQNr66UPST426no2vy29axmWiYIBkX2cnD_l_dUC_o4lEBENXp31Tz7vyEo679QcIm8",
+            "widthPx": 3000
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV8C+33 London, UK",
+        "globalCode": "9C3XGV8C+33"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "126 Charing Cross Road"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2H 0LA",
+        "regionCode": "GB"
+    },
+    "priceRange": {
+        "endPrice": {
+            "currencyCode": "GBP",
+            "units": "20"
+        },
+        "startPrice": {
+            "currencyCode": "GBP",
+            "units": "10"
+        }
+    },
+    "primaryType": "hamburger_restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Hamburger Restaurant"
+    },
+    "rating": 4.3,
+    "reservable": false,
+    "restroom": false,
+    "reviewSummary": {
+        "disclosureText": {
+            "languageCode": "en-US",
+            "text": "Summarized with Gemini"
+        },
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=5%401:CAIQACodChtyc19oOnM4QUR2V1Fqc1VLejlQVG94bXpCdkE%7CCAIQACorChtyc19oOnM4QUR2V1Fqc1VLejlQVG94bXpCdkESDAi_2OfEBhD44ZHwAg&d=17924085&t=8",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x48761b0c11c7f7c5:0x2902ec09b01749fd!9m1!1b1",
+        "text": {
+            "languageCode": "en-US",
+            "text": "People say this hamburger restaurant serves delicious smash burgers, including a popular Wagyu beef option, and flavorful milkshakes. They also highlight the fast service, friendly staff, and good value for the area.\n\nOther reviews mention the seating can be limited."
+        }
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Damian Lubanski",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVyF2xV9dZdywFa1md3248dNYPclO-xtgmdqGcLQRnNEfZoddL0=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/113582047194126552417/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvdHZua1pREAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvdHZua1pREAE!2m1!1s0x48761b0c11c7f7c5:0x2902ec09b01749fd",
+            "name": "places/ChIJxffHEQwbdkgR_UkXsAnsAik/reviews/ChZDSUhNMG9nS0VJQ0FnTURvdHZua1pREAE",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Very good smash burger but...only problem I've got with smash is, one patte is not enough. All that crispness is cool but you need to order double or preferably even triple to get taste of the meat. Maybe it was that wagyu meat which just melts in mouth and doesn't have usual beef taste.\n\nGreat sauce but as said before, it kills taste of meat. Fresh bun, good gherkin.\n\nSuper quick and nice service. Store looks tidy and clean. They even have seats outside.\n\nAlso they have amazing branding on packaging, I don't care much about those things but catches the eye nonethless.\n\nHighly recommend."
+            },
+            "publishTime": "2025-04-24T18:57:07.894007Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "7 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Very good smash burger but...only problem I've got with smash is, one patte is not enough. All that crispness is cool but you need to order double or preferably even triple to get taste of the meat. Maybe it was that wagyu meat which just melts in mouth and doesn't have usual beef taste.\n\nGreat sauce but as said before, it kills taste of meat. Fresh bun, good gherkin.\n\nSuper quick and nice service. Store looks tidy and clean. They even have seats outside.\n\nAlso they have amazing branding on packaging, I don't care much about those things but catches the eye nonethless.\n\nHighly recommend."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Yuliia Harkusha",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXhmTib5KRM5g3uZQ1h8BVGgGprhuo72XeoQXXNkNCpiCBEE4h0Kw=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/104478884015210893950/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJc3UteVF3EAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJc3UteVF3EAE!2m1!1s0x48761b0c11c7f7c5:0x2902ec09b01749fd",
+            "name": "places/ChIJxffHEQwbdkgR_UkXsAnsAik/reviews/ChZDSUhNMG9nS0VJQ0FnTURJc3UteVF3EAE",
+            "originalText": {
+                "languageCode": "en",
+                "text": "My absolute favourite burger spot in London!\n\nI’m honestly obsessed with this place — hands down the best burgers in town. Every time I come, it’s a 10/10. The quality is unreal: juicy, flavour-packed, and cooked to perfection. Whether I’m in the mood for something classic or something with a kick, they never disappoint.\n\nThe atmosphere is always buzzing, and the team are legends — friendly, quick, and clearly passionate about what they do. It’s the kind of place you keep coming back to (and I do, again and again!).\n\nIf you haven’t tried SMSH BN yet, you’re seriously missing out. This is the burger spot in London."
+            },
+            "publishTime": "2025-04-08T16:11:28.418476Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "7 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "My absolute favourite burger spot in London!\n\nI’m honestly obsessed with this place — hands down the best burgers in town. Every time I come, it’s a 10/10. The quality is unreal: juicy, flavour-packed, and cooked to perfection. Whether I’m in the mood for something classic or something with a kick, they never disappoint.\n\nThe atmosphere is always buzzing, and the team are legends — friendly, quick, and clearly passionate about what they do. It’s the kind of place you keep coming back to (and I do, again and again!).\n\nIf you haven’t tried SMSH BN yet, you’re seriously missing out. This is the burger spot in London."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Hanan Sultan",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWb86auTPh7LihWvP1g8iVov4A3Up9aerbSUFb-gPw3dllL5GaP=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/116852689379518805962/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25KbFNWUmxaVEI1UjNOZlZ6TTVUazFJU0dwYWRHYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KbFNWUmxaVEI1UjNOZlZ6TTVUazFJU0dwYWRHYxAB!2m1!1s0x48761b0c11c7f7c5:0x2902ec09b01749fd",
+            "name": "places/ChIJxffHEQwbdkgR_UkXsAnsAik/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KbFNWUmxaVEI1UjNOZlZ6TTVUazFJU0dwYWRHYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "The staff was friendly and service was fast. The wagyu burger was delicious but I had better burgers before the spicy fries also nice not oily at all but also had better."
+            },
+            "publishTime": "2025-06-12T19:45:42.691129506Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "5 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "The staff was friendly and service was fast. The wagyu burger was delicious but I had better burgers before the spicy fries also nice not oily at all but also had better."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Melissa Carney",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWbEBoB-Y97oZK4zgKZrj0o9olCj60rZk42cfFNL9T1CD8mMwiV6A=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/106643027143680398772/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJaU1xNkJnEAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJaU1xNkJnEAE!2m1!1s0x48761b0c11c7f7c5:0x2902ec09b01749fd",
+            "name": "places/ChIJxffHEQwbdkgR_UkXsAnsAik/reviews/ChZDSUhNMG9nS0VJQ0FnTURJaU1xNkJnEAE",
+            "originalText": {
+                "languageCode": "en",
+                "text": "The food is amazing.\nI have gotten the vegan burger a few times, and my husband the beef one. Every time it's been great. We love the outdoor seating too.\nI do have to mention how nice the staff is - odd request, menu questions, they have been so nice & helpful.\nDefinitely worth the visit."
+            },
+            "publishTime": "2025-04-06T14:10:45.792206Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "7 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "The food is amazing.\nI have gotten the vegan burger a few times, and my husband the beef one. Every time it's been great. We love the outdoor seating too.\nI do have to mention how nice the staff is - odd request, menu questions, they have been so nice & helpful.\nDefinitely worth the visit."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Kevin Despiegelaere",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX3JQnRCw2QQTcnJVupQn8adMZxcHQQtOJ0dpRlPtl7tQoj0XU6=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/101324134920897904372/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGM1NrSmtYelJLU21SVWFXZFpVVjkxTm1aT2VuYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGM1NrSmtYelJLU21SVWFXZFpVVjkxTm1aT2VuYxAB!2m1!1s0x48761b0c11c7f7c5:0x2902ec09b01749fd",
+            "name": "places/ChIJxffHEQwbdkgR_UkXsAnsAik/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGM1NrSmtYelJLU21SVWFXZFpVVjkxTm1aT2VuYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "We tried SMSH BN for a quick bite and went for the Wagyu smashed burger with a side of fries. The burger was definitely tasty — the patty was juicy and well-cooked, and the bun held up nicely. The fries were crisp and well-seasoned.\n\nThat said, while everything was solid, I wasn’t completely blown away by the flavor. Given the use of Wagyu, I expected a bit more depth or something that made it stand out from other smash burgers.\n\nStill, it’s a good spot if you’re craving a quality burger in a casual setting. Service was fast and the overall experience was positive."
+            },
+            "publishTime": "2025-06-13T10:59:31.626578859Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "5 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "We tried SMSH BN for a quick bite and went for the Wagyu smashed burger with a side of fries. The burger was definitely tasty — the patty was juicy and well-cooked, and the bun held up nicely. The fries were crisp and well-seasoned.\n\nThat said, while everything was solid, I wasn’t completely blown away by the flavor. Given the use of Wagyu, I expected a bit more depth or something that made it stand out from other smash burgers.\n\nStill, it’s a good spot if you’re craving a quality burger in a casual setting. Service was fast and the overall experience was positive."
+            }
+        }
+    ],
+    "servesDinner": true,
+    "servesLunch": true,
+    "shortFormattedAddress": "Shaldon Mansions, 126 Charing Cross Rd, London",
+    "takeout": true,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "hamburger_restaurant",
+        "american_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 531,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.5165715802915,
+            "longitude": -0.128590319708498
+        },
+        "low": {
+            "latitude": 51.513873619708505,
+            "longitude": -0.13128828029150202
+        }
+    },
+    "websiteUri": "http://www.smsh-bn.com/",
+    "timestamp": 1764064800
+}

@@ -1,0 +1,829 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleParking": false,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": true
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "77-78",
+            "shortText": "77-78",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Saint Martin's Lane",
+            "shortText": "St Martin's Ln",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2N 4AA",
+            "shortText": "WC2N 4AA",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJs4GOh8sEdkgRRiBFZKMP8ZE",
+                "placeId": "ChIJs4GOh8sEdkgRRiBFZKMP8ZE"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "St Martin's Courtyard"
+                },
+                "name": "places/ChIJ0YfiAc0EdkgRoKYIH7344ZA",
+                "placeId": "ChIJ0YfiAc0EdkgRoKYIH7344ZA"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Agatha Christie memorial"
+                },
+                "name": "places/ChIJSYx-o80EdkgR15tyZmtnmJw",
+                "placeId": "ChIJSYx-o80EdkgR15tyZmtnmJw",
+                "spatialRelationship": "ACROSS_THE_ROAD",
+                "straightLineDistanceMeters": 22.91406,
+                "travelDistanceMeters": 0.6525078,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Leicester Square"
+                },
+                "name": "places/ChIJ98Dokc0EdkgRy3-ajwvdD94",
+                "placeId": "ChIJ98Dokc0EdkgRy3-ajwvdD94",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 48.82199,
+                "travelDistanceMeters": 27.596024,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "subway_station",
+                    "transit_station"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Bella Italia - St Martins Lane"
+                },
+                "name": "places/ChIJuSgysM0EdkgRNiNfZONQxXo",
+                "placeId": "ChIJuSgysM0EdkgRNiNfZONQxXo",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 36.86744,
+                "travelDistanceMeters": 43.76945,
+                "types": [
+                    "bar",
+                    "establishment",
+                    "food",
+                    "night_club",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Noël Coward Theatre"
+                },
+                "name": "places/ChIJ85vnMskEdkgR884XxFXpoHc",
+                "placeId": "ChIJ85vnMskEdkgR884XxFXpoHc",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 53.651978,
+                "travelDistanceMeters": 110.578354,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Browns"
+                },
+                "name": "places/ChIJkWJjuc0EdkgRqL0ffd2j1aA",
+                "placeId": "ChIJkWJjuc0EdkgRqL0ffd2j1aA",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 34.9394,
+                "travelDistanceMeters": 87.18023,
+                "types": [
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            }
+        ]
+    },
+    "allowsDogs": false,
+    "businessStatus": "OPERATIONAL",
+    "currentOpeningHours": {
+        "nextCloseTime": "2025-11-25T23:30:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 6,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 5,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 5,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 5,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 5,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 5,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 5,
+                    "minute": 30
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 5:00 AM – 11:30 PM",
+            "Tuesday: 5:00 AM – 11:30 PM",
+            "Wednesday: 5:00 AM – 11:30 PM",
+            "Thursday: 5:00 AM – 11:30 PM",
+            "Friday: 5:00 AM – 11:30 PM",
+            "Saturday: 5:30 AM – 11:30 PM",
+            "Sunday: 6:00 AM – 11:00 PM"
+        ]
+    },
+    "delivery": true,
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Pret A Manger"
+    },
+    "editorialSummary": {
+        "languageCode": "en",
+        "text": "Counter-serve chain for ready-made sandwiches plus breakfast, coffee, soups & salads."
+    },
+    "formattedAddress": "77-78 St Martin's Ln, London WC2N 4AA, UK",
+    "goodForChildren": true,
+    "goodForGroups": true,
+    "goodForWatchingSports": false,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x487604cda4e6f90b:0x238f26cffa00f546!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487604cda4e6f90b:0x238f26cffa00f546!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=2562309387691554118&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487604cda4e6f90b:0x238f26cffa00f546!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487604cda4e6f90b:0x238f26cffa00f546!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=2562309387691554118&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJC_nmpM0EdkgRRvUA-s8mjyM",
+    "internationalPhoneNumber": "+44 7469 650251",
+    "liveMusic": false,
+    "location": {
+        "latitude": 51.5116009,
+        "longitude": -0.12748090000000004
+    },
+    "menuForChildren": false,
+    "name": "places/ChIJC_nmpM0EdkgRRvUA-s8mjyM",
+    "nationalPhoneNumber": "07469 650251",
+    "outdoorSeating": false,
+    "parkingOptions": {
+        "freeParkingLot": false,
+        "freeStreetParking": true,
+        "paidParkingLot": false,
+        "paidStreetParking": true
+    },
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Sam Aberman",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWW8LD98tdvZGX2GSpZHvoTTtCKd8qb17YM2nQsTU6mmb_xz9uN7Q=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/111941996399252793572"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID-l7u2Iw&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID-l7u2Iw!2e10!4m2!3m1!1s0x487604cda4e6f90b:0x238f26cffa00f546",
+            "heightPx": 1803,
+            "name": "places/ChIJC_nmpM0EdkgRRvUA-s8mjyM/photos/AWn5SU72YbS_swFyLU8CU-nJ26s7qx7TR43DMghFt552UI3bl16b68hV1pk-2Re-iVM_aeHOkzIoWebV2t2fHDpj-vE9DOkVIWNWCszDLuXI68OPAJ8MkclCXlc_P30dgfUrjJbwQJJ4IEd69yuc32k6L_oangxRVqavSCzVH-6BCf1HKttPsRpVJEiLStvSLU7M1nucWLMJ6X8h_15Ip8GK-trtc9hoNVD-fsVxdMYBhNp5bxZ80wF6uZDTaVPcooqA7xxYnUPJkWzWHK3j3RsHNuPI7qyfi2QVtVZog7WfTHRuHt8abROOKT4rbQxFhbAmgHfzrzEGs0GmqhT7mUrcWe1gZ0X2FUKRhNr4aPcoyziZxSvuytvtLSiiuesSeGGZOOYafTJfKv8a-6c6Jh_dpL4pbWX2VEf8bJaDD_Lp_Dc",
+            "widthPx": 2393
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "A Y",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXXIvioPAegMN0Fd9Q9JWWfw43vTHE0Vw3FqjEH2mFWSWuqXflo-A=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/104173195378969096392"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICM5qnqFg&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICM5qnqFg!2e10!4m2!3m1!1s0x487604cda4e6f90b:0x238f26cffa00f546",
+            "heightPx": 1824,
+            "name": "places/ChIJC_nmpM0EdkgRRvUA-s8mjyM/photos/AWn5SU5r3LXHLCGRDxllDHxEEjKWcHfRFiQL77q_4qhnRIoLxkBpvpZPTFiVCa-tuCyzc9pqEksaWwvL2KYRcTt9-FqNO1LNVlU_KnIwxg_Jtf1mQbfWfRWDvtsxiwp4uDdMXNnDYO-tIxEdp8UgSn4UlVMATTBiYUQis_eVUeo1qR8FwLtxyG8UOLGJgEYO_AlBC1xJHRV0sbUy8T78DK5Cj79ahWLv_t43SO2oTLP0BzoVA29pQ4J0knfyxS3IzqBqN1VxNC7X4vqlw6juWOzBvp0UZtroFXc6JzctBfCJdOmSY8j7m-J4jdNWm-JNmK_j8iIXz0wBCq426Tth5I7th2Bi1BlMGRb_x6z1yU0MI9zsrU_7_3B3UlCeQKJCB11UVmVMclyd08BKQR475UK0VMjYcQKHXLtRIleAyEhPu8G3SQ",
+            "widthPx": 4000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Pret A Manger",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXjojvcuf7vZzQFJx_tegx-1d1RKUQPL4g0rQNBk5xThBGAyHXb=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/103955331822280603947"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMGuvSC0VZCYQjSYKkOvuczPaZQcgxShTbDq9Gz&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMGuvSC0VZCYQjSYKkOvuczPaZQcgxShTbDq9Gz!2e10!4m2!3m1!1s0x487604cda4e6f90b:0x238f26cffa00f546",
+            "heightPx": 675,
+            "name": "places/ChIJC_nmpM0EdkgRRvUA-s8mjyM/photos/AWn5SU5_Q2BOl7moL8-VwMfslhXIR4DFbeqcxzWRv5CVfpOkFH472mw903wyd1N8kud96WJt3XKEltanuDmGgIbxaMbCOdJgHqhyj7EunsPOCYgBK0IMJn0c6OcFB1mu_oUmSrV5sozcd9afGw4BfTUNfkIXfpscA2_hVuIS2czm6I_O9Xm1SKQCxCJEkwphKiAIR7kNYW-F2UkOaIZWUxnXP3hFMucQe6tWQA1FmqfrfH4HDKoLHFkULHsBJlgktzudIsywJi0gtisAcafMLE8uoiVW3a75J1JWFvbsD78NHATX0w",
+            "widthPx": 1200
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "LucAbroad",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVBNB73wfQP-iS7s9IRA2y7Y5F9h1TLegoefFQUDLrvNkM9EOF8=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/100144549092022082251"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhClnJd17UfWRgWg_uzG5oPG&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhClnJd17UfWRgWg_uzG5oPG!2e10!4m2!3m1!1s0x487604cda4e6f90b:0x238f26cffa00f546",
+            "heightPx": 4032,
+            "name": "places/ChIJC_nmpM0EdkgRRvUA-s8mjyM/photos/AWn5SU5qW6M05tPq1YyGvVkgT-YeETzGVqIDOoXM4jbD_8blgzToEgB50ekCddmN3PSbogCnyY04nwvvsxIVnQRhPE2c7-2R3hhMBOYtjdVwuvt8goEuBs9lbpx9rTVvYLzVeB5CBS_CA76vTfOXuFDroXOV4kUvqeYDoJDJT29QT818Si5RfRFjvmexi40oXocLbFs25xsywc06Fc-DrniVTVOyPqOz4o77Z4rgmw4AHXJzRiv-RTBRPWm2FiTIBD6VPIZ85OujlfeuihQ1hgyC05GGaIbdoglfnsknUy4MbICuC5SRIh4Hr7K2ekOxMYQog12K3FMWNL1oQyc-uODCGIh2h82Bb_7YP40pszgHLP3lGIcnSqvaBmObxbQ0yMZxsiG1oXd1BX3HVIvEHCE0HetoCca5oOg_AeD3LJI_lsXk4k1SyuKnIFxOGq6y9Q",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Sam Aberman",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWW8LD98tdvZGX2GSpZHvoTTtCKd8qb17YM2nQsTU6mmb_xz9uN7Q=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/111941996399252793572"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhA6A9rjxRPp8Nrs2XThU1gq&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhA6A9rjxRPp8Nrs2XThU1gq!2e10!4m2!3m1!1s0x487604cda4e6f90b:0x238f26cffa00f546",
+            "heightPx": 2252,
+            "name": "places/ChIJC_nmpM0EdkgRRvUA-s8mjyM/photos/AWn5SU4PK3PBpXTFovtwcJezZk3IFmgQxAEPu1QGmjDGY9vDxdBCZc03_v1yePtT1HjH-9afofgtf0dfQlaU3KCWKTttRgfBwrZHv-jYsNQ-rIZaBf0kRjCJukgB0VrGOhtlIJX9PLuJ5P-xlU3SMRgLUi2sn_qWc7WQO0c7BEi7ApT_HOYzuNo2c-GRQuRwzT-I0l22WUOcpS_PHAiCrLRXncKk94-8J_5PZT9LQ0GS1g2OGuzdeBs7m7ncuIgVRjS0Of8yPwn9cbZmzJSdOV2B-KU2AEJ0-JrD0DMuvU6MXbxnpg9ja-MkRxfC2Dyj6JCrymxETPPawzvXYyfHjFW2ZvdPXYEcIVGujFAlvFomNPcGoAuhcnOiSY-661IFAGzccTkGuabddeNFjTDFp_P_wFebFGqB_oalKVNlD-XDrfkkctbO53r6f-KlIqADkQ",
+            "widthPx": 4000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Sam Aberman",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWW8LD98tdvZGX2GSpZHvoTTtCKd8qb17YM2nQsTU6mmb_xz9uN7Q=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/111941996399252793572"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCHGBBOzMM3CdE0lICfp3-a&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCHGBBOzMM3CdE0lICfp3-a!2e10!4m2!3m1!1s0x487604cda4e6f90b:0x238f26cffa00f546",
+            "heightPx": 1219,
+            "name": "places/ChIJC_nmpM0EdkgRRvUA-s8mjyM/photos/AWn5SU6PVis-9v2xHZGWQ5WZ63BqbLbgRU7BjVBlZmhwc6NlfXKaeouwEsk7zB_gh1ZNQZ1hnSzb28E8dVNpxB6dtoCHQw4vHb4gqly0lzg3mh8oRTT3LymOBIjLoYA7U-8BScBwKC8Zeovzcj_na9FOxplouEAg2QAPF31AjnwSgUCEQrnqWSP2pDm_cUaOKWjyMvHX7RMOln316JMibDpVml0sgIYsOz9V1UI2_enjXmCDLr2Di1bFqBqVEc6R6EXoNp_HRMCAwMa8JYRlEFmtH45nd2EAIXRvEaNVy_o9Y9ikivtsRnl5Jo2ZH0hdmoqWxK3v7a1FWf4Y17V48PmSd1HZb5akZ9OP-tRE_Uo4hNoU8SWh5IC04qT1Xklb9kOjgdfBSHm0iardIqsI9eOn8DhHVWaNZnB2aJgMs_pHvnR8X0mhj4dv3m3-_qvdcvAU",
+            "widthPx": 1957
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "meltem perdeci",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWJ1IpfCCSOXLygZDKT-GRjS5BrH17NlxIe3GVdr6s0a4jTA-Q=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/105014646168778415872"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhA13CFEivd_yQD9OzieJHbi&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhA13CFEivd_yQD9OzieJHbi!2e10!4m2!3m1!1s0x487604cda4e6f90b:0x238f26cffa00f546",
+            "heightPx": 1600,
+            "name": "places/ChIJC_nmpM0EdkgRRvUA-s8mjyM/photos/AWn5SU52xJlFLamLn9pL-SwrzIRDYKrUtBNA1Lw8aLvbhv_qNuXaa8qPYGWkzJi0NCrHbPj6WHvVXiIZXeNvndTfKibrCxSXguY5hP1ClNqzSP_aS7zLTjRURvcVdIU18XSMF8smUbYSv14aqGNfFYO6gPwRryMk4IX2qpL355Ty47jG5DDb61nmjKnNDu1K7m5xNeAxqosbfnMv714BCpvKlvaa2XOA6QkAjIQYwLOf19mFMxRXIl8DITY1OSFp6Muy27zcJuDaZBAyFsrcfc-6Ru4NwLfLAilKbulV_NqKSlxrM55CKy1zETjX78ZdzSMR4r5emKLNQPYnGinUSOP2Z286qATW2pZZyEeO9pUvHGaKBWOsX5z-b2LFH5IBhrCLhYEv9Ntt9WEMJQthizMJu_TD1r2s7OyKTFieQ9zFPhxD-ACFe0j3Hkbc3B_5PlY2",
+            "widthPx": 1200
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Jamie Hall",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWwE5veyKtV_NtBrHmUOg147Sd0yJLHTa_64ZRu-pw0BBnMDfB2dg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113095721156008116455"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhA3mJC-MTK9ExLu9PuZr088&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhA3mJC-MTK9ExLu9PuZr088!2e10!4m2!3m1!1s0x487604cda4e6f90b:0x238f26cffa00f546",
+            "heightPx": 3000,
+            "name": "places/ChIJC_nmpM0EdkgRRvUA-s8mjyM/photos/AWn5SU4Vj7-41XcAKh0t8Cas29CJZ1oToJrnY71oD9SH4EXblLr_j8ZtkwgglG7NGmTuXReItRc5ll-sQy-4BUM4FFH7gWAioYrHNB8mHY2VJiBiJ8gN4s7x1g-HSCKSBHFsxBHhE-OE_J-t8IaqvR88_67PPnH543LbEvR64LsPvsv9FOi1cmwGOP79Z6yMiq2Pc8mxRp9rlKHUiBJsiV7AdpyNauEDPdKyRe93_RtKhqW5HA8y_nNeGJq_omQpZOuvJE4WZJhdLsFRKMV0PV2xgpX_Pvre54LzxJflJ7mcVk2lc2KMGOSEvitRHfwxCyaEMwUKhJ6YG8XJd4LjD9utjNWBQZ8_-34pn-fn1WN8hqoSeNMc2fkorplmRooXv9I9WnnKH8aVCcD8GV8hBGOK6kXIG0oYXzy48z8ZvIPVAx0yMphutH35l1-yzbE21LaP",
+            "widthPx": 4000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Sara Abdelmeguid",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUHivdDrlgmozZe4uBW7embegECEO3xoWEIFlZ1pFUK7APCuaZ0yQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/116645042410512501014"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCQuXZtLjIx08ybUMqht0-M&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCQuXZtLjIx08ybUMqht0-M!2e10!4m2!3m1!1s0x487604cda4e6f90b:0x238f26cffa00f546",
+            "heightPx": 4032,
+            "name": "places/ChIJC_nmpM0EdkgRRvUA-s8mjyM/photos/AWn5SU7LXRFRibTzNDKUgd5zOixxkadx3AXv6Ul7I58rQWX_vKMn5m5VGb9sY5oUX-ucWpQUy_wZxJWofYOn1RP_FOd_-WjCyCbHfmkwNt-aXVe_XjbgbohXsTwLDHhp0iHG8tj42HclbOs_G_wACfxX6pgk8cD_9B5Oh6z3oWKpqYQerVxhnQYiREfTHd3KVkgrel_o1SM-KnfiAwaNNipazQF7mm0OaZVTkAbf2axEcBS2HngSJFviEvWa2MXO2wOOeUhtbEX-glNqbW8noNcbS6-rWFChh1gSGFjOXF8ZlJQcNpUYIQrZrFOliNlZys31fzQGYaBHxB161UvOtSdPj0AFxZ7l3_9Su6zhcDnfcAyFENGPF9zUzXCnvQ2hpU2xkF7Qep9-SDwbpa5fo6IZaunamrPvvoG_ln_MLJtzSHSTK_-AUYTPx9csQiuv_S6V",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Sara Abdelmeguid",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUHivdDrlgmozZe4uBW7embegECEO3xoWEIFlZ1pFUK7APCuaZ0yQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/116645042410512501014"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCawS-DaiJsgZ1Dq_ylADWf&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCawS-DaiJsgZ1Dq_ylADWf!2e10!4m2!3m1!1s0x487604cda4e6f90b:0x238f26cffa00f546",
+            "heightPx": 2066,
+            "name": "places/ChIJC_nmpM0EdkgRRvUA-s8mjyM/photos/AWn5SU6JgDEv-SCHmHtLbKsllmKQzZys2AL4S_LXQjTzdfqtqNx9v8q7d18R6J2XKmm2XF32du7sOnrSLo78EPhHLeKe9cQzMDmoo7J_iT882GrDOPjocRue8UIBSa7Ay5RitRadVl_u1ZbwIBboKyyei7updt_DHG0_nyElsfPyxoeQnwvzdZir2KZKGisKqGB0WjQczInpTrhnCansz3z1Be9i1vGIxJpe07Qf_ELMjRE9HQMTl2jOd5PMFCEFE4risOAndDfzzS9tvH3PlsQeB426ghBPScMC-Ky3aJes6DPdRC7zuMobS0LYM6xlyfcEhj-e5uC3c_fpYHBR13VT9YYwhXUge1Yhwoy0ZZXrTurGdW41aYb3rtyw1EV7bxINDT053mlLGE_4-GPcF47_u7-oZMtbF9mC7zlfqPqW75KJx3p2exf7ViPXoCVDFlDY",
+            "widthPx": 3672
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV6F+J2 London, UK",
+        "globalCode": "9C3XGV6F+J2"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "77-78 Saint Martin's Lane"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2N 4AA",
+        "regionCode": "GB"
+    },
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "priceRange": {
+        "endPrice": {
+            "currencyCode": "GBP",
+            "units": "10"
+        },
+        "startPrice": {
+            "currencyCode": "GBP",
+            "units": "1"
+        }
+    },
+    "primaryType": "sandwich_shop",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Sandwich Shop"
+    },
+    "rating": 4,
+    "regularOpeningHours": {
+        "nextCloseTime": "2025-11-25T23:30:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 6,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 5,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 5,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 5,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 5,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 5,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 5,
+                    "minute": 30
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 5:00 AM – 11:30 PM",
+            "Tuesday: 5:00 AM – 11:30 PM",
+            "Wednesday: 5:00 AM – 11:30 PM",
+            "Thursday: 5:00 AM – 11:30 PM",
+            "Friday: 5:00 AM – 11:30 PM",
+            "Saturday: 5:30 AM – 11:30 PM",
+            "Sunday: 6:00 AM – 11:00 PM"
+        ]
+    },
+    "reservable": false,
+    "restroom": true,
+    "reviewSummary": {
+        "disclosureText": {
+            "languageCode": "en-US",
+            "text": "Summarized with Gemini"
+        },
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=5%401:CAIQACodChtyc19oOmJJbkxhaTNhQ1pOb2NpM0RpVkZnM3c%7CCAIQACorChtyc19oOmJJbkxhaTNhQ1pOb2NpM0RpVkZnM3cSDAi_2OfEBhD44ZHwAg&d=17924085&t=8",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487604cda4e6f90b:0x238f26cffa00f546!9m1!1b1",
+        "text": {
+            "languageCode": "en-US",
+            "text": "People say this sandwich shop offers freshly made food. They also highlight the friendly staff and welcoming vibe.\n\nOther reviews mention the prices can be high."
+        }
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Sara Abdelmeguid",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUHivdDrlgmozZe4uBW7embegECEO3xoWEIFlZ1pFUK7APCuaZ0yQ=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/116645042410512501014/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT214aU5VdGlSRWRTY1ZaRFZsaHZZa1JNVjFoU05rRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214aU5VdGlSRWRTY1ZaRFZsaHZZa1JNVjFoU05rRRAB!2m1!1s0x487604cda4e6f90b:0x238f26cffa00f546",
+            "name": "places/ChIJC_nmpM0EdkgRRvUA-s8mjyM/reviews/Ci9DQUlRQUNvZENodHljRjlvT214aU5VdGlSRWRTY1ZaRFZsaHZZa1JNVjFoU05rRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "I had coffee and breakfast at Pret A Manger and was really impressed. The coffee was smooth and full of flavor, and the breakfast options were fresh and satisfying. Their croissants are especially delicious—flaky, buttery, and baked to perfection. I also tried their salad, which was fresh, light, and well-prepared. A great place for a quick yet high-quality breakfast or lunch."
+            },
+            "publishTime": "2025-09-13T12:56:55.980130794Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "I had coffee and breakfast at Pret A Manger and was really impressed. The coffee was smooth and full of flavor, and the breakfast options were fresh and satisfying. Their croissants are especially delicious—flaky, buttery, and baked to perfection. I also tried their salad, which was fresh, light, and well-prepared. A great place for a quick yet high-quality breakfast or lunch."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "W K (KW)",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVkrV59aXKqtqNxoyEImpydiBAfvlIxsZBJXMLhZim-ZUzyc5hUYg=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/104317099451292674371/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pOV2VFTTNYMjVKWkZacGIyWk5WRFJXVW5Zd01sRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pOV2VFTTNYMjVKWkZacGIyWk5WRFJXVW5Zd01sRRAB!2m1!1s0x487604cda4e6f90b:0x238f26cffa00f546",
+            "name": "places/ChIJC_nmpM0EdkgRRvUA-s8mjyM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOV2VFTTNYMjVKWkZacGIyWk5WRFJXVW5Zd01sRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Went to pick up a Too Good to Go take away. Was ready instantly, they just needed to check if I was at the right branch.\n\nContents included a mac n cheese, wrap and soup.\n\nAlways delicious 😋"
+            },
+            "publishTime": "2025-11-08T18:12:54.609167230Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 weeks ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Went to pick up a Too Good to Go take away. Was ready instantly, they just needed to check if I was at the right branch.\n\nContents included a mac n cheese, wrap and soup.\n\nAlways delicious 😋"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Trey Saunders",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKFcQUNLSblQBVjwvSefXZ1PJg8s1vQuBsKv0juVJaUeb4yNA=s128-c0x00000000-cc-rp-mo-ba6",
+                "uri": "https://www.google.com/maps/contrib/115592247719499982928/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25ZMVJYZHdiV3M0Y2tNM1lsTkdiRk5zT0ZveGRIYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25ZMVJYZHdiV3M0Y2tNM1lsTkdiRk5zT0ZveGRIYxAB!2m1!1s0x487604cda4e6f90b:0x238f26cffa00f546",
+            "name": "places/ChIJC_nmpM0EdkgRRvUA-s8mjyM/reviews/Ci9DQUlRQUNvZENodHljRjlvT25ZMVJYZHdiV3M0Y2tNM1lsTkdiRk5zT0ZveGRIYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "I had a coffee and a croissant for breakfast.\nThe croissant was not good at all, tasted pre frozen and not a good texture. The coffee was fine.\nCasual dining room with plenty of seating inside and outside."
+            },
+            "publishTime": "2025-10-13T02:13:22.608460925Z",
+            "rating": 3,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "I had a coffee and a croissant for breakfast.\nThe croissant was not good at all, tasted pre frozen and not a good texture. The coffee was fine.\nCasual dining room with plenty of seating inside and outside."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "meltem perdeci",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWJ1IpfCCSOXLygZDKT-GRjS5BrH17NlxIe3GVdr6s0a4jTA-Q=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/105014646168778415872/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s5UlRVSlZXVkZ2V0Rnd1RYWjJXbVYxVmtORGFXYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5UlRVSlZXVkZ2V0Rnd1RYWjJXbVYxVmtORGFXYxAB!2m1!1s0x487604cda4e6f90b:0x238f26cffa00f546",
+            "name": "places/ChIJC_nmpM0EdkgRRvUA-s8mjyM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5UlRVSlZXVkZ2V0Rnd1RYWjJXbVYxVmtORGFXYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "During our London holiday, we had our breakfasts and most of the lunches at St Martins Lane Pret every morning. The food quality, the taste of all foods, especially salads are value for money, and super delicious.\n\nMost importantly, the kindness and helpfulness of the staff truly made a difference. A special thanks to Martha R.💖, whose warm smile and exceptional service brightened our mornings and made us feel truly welcome. Highly recommended!”"
+            },
+            "publishTime": "2025-08-13T08:56:36.917112760Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "3 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "During our London holiday, we had our breakfasts and most of the lunches at St Martins Lane Pret every morning. The food quality, the taste of all foods, especially salads are value for money, and super delicious.\n\nMost importantly, the kindness and helpfulness of the staff truly made a difference. A special thanks to Martha R.💖, whose warm smile and exceptional service brightened our mornings and made us feel truly welcome. Highly recommended!”"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Lavish Locks",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIKxco_xgIIBZz0jJMc2zmBpHH4mqNaIs_cv_umA25TM0WjYQ=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/113937961617319616405/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s1WlFVSk1kVXRvUm5wcFJGRllkV3BhWkVsWlNHYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1WlFVSk1kVXRvUm5wcFJGRllkV3BhWkVsWlNHYxAB!2m1!1s0x487604cda4e6f90b:0x238f26cffa00f546",
+            "name": "places/ChIJC_nmpM0EdkgRRvUA-s8mjyM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1WlFVSk1kVXRvUm5wcFJGRllkV3BhWkVsWlNHYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "First time at this store, I asked the bald guy 1 croissant chocolate and asked to heat it up.\nHe doesn’t understand he charged me 5pound. Which I found why it’s different with the one I order at Oxford city and bicester village.\nThen eventually he gave me 2 chocolate croissant and didn’t HEAT IT UP or warm it up.\nMy question is, is there any standard English for pret? His English so BAD"
+            },
+            "publishTime": "2025-11-12T17:35:33.286903485Z",
+            "rating": 1,
+            "relativePublishTimeDescription": "a week ago",
+            "text": {
+                "languageCode": "en",
+                "text": "First time at this store, I asked the bald guy 1 croissant chocolate and asked to heat it up.\nHe doesn’t understand he charged me 5pound. Which I found why it’s different with the one I order at Oxford city and bicester village.\nThen eventually he gave me 2 chocolate croissant and didn’t HEAT IT UP or warm it up.\nMy question is, is there any standard English for pret? His English so BAD"
+            }
+        }
+    ],
+    "servesBeer": false,
+    "servesBreakfast": true,
+    "servesBrunch": true,
+    "servesCocktails": false,
+    "servesCoffee": true,
+    "servesDessert": true,
+    "servesLunch": true,
+    "servesVegetarianFood": true,
+    "servesWine": false,
+    "shortFormattedAddress": "77-78 St Martin's Ln, London",
+    "takeout": true,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "sandwich_shop",
+        "breakfast_restaurant",
+        "coffee_shop",
+        "cafe",
+        "dessert_shop",
+        "confectionery",
+        "bakery",
+        "food_store",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 2061,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.51302528029151,
+            "longitude": -0.126082769708498
+        },
+        "low": {
+            "latitude": 51.51032731970851,
+            "longitude": -0.12878073029150203
+        }
+    },
+    "websiteUri": "https://www.pret.co.uk/en-GB/shop-finder/l/london/77-78-saint-martin-s-lane/12",
+    "timestamp": 1764064800
+}

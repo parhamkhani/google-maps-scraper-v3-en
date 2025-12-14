@@ -1,0 +1,817 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleEntrance": false,
+        "wheelchairAccessibleParking": false
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "5",
+            "shortText": "5",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Langley Street",
+            "shortText": "Langley St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2H 9JA",
+            "shortText": "WC2H 9JA",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJs4GOh8sEdkgRRiBFZKMP8ZE",
+                "placeId": "ChIJs4GOh8sEdkgRRiBFZKMP8ZE"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "St Martin's Courtyard"
+                },
+                "name": "places/ChIJ0YfiAc0EdkgRoKYIH7344ZA",
+                "placeId": "ChIJ0YfiAc0EdkgRoKYIH7344ZA"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Royal Ballet and Opera"
+                },
+                "name": "places/ChIJySOgh8sEdkgRCBzTYt83Klg",
+                "placeId": "ChIJySOgh8sEdkgRCBzTYt83Klg",
+                "straightLineDistanceMeters": 199.30307,
+                "travelDistanceMeters": 280.07645,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Dr. Martens - Neal Street"
+                },
+                "name": "places/ChIJ9S8lwMwEdkgRBHLhxbz2ovk",
+                "placeId": "ChIJ9S8lwMwEdkgRBHLhxbz2ovk",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 67.08852,
+                "travelDistanceMeters": 133.94646,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "shoe_store",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Pineapple Dance Studios"
+                },
+                "name": "places/ChIJY7ti6cwEdkgRcV5k1BiSk6s",
+                "placeId": "ChIJY7ti6cwEdkgRcV5k1BiSk6s",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 29.688818,
+                "travelDistanceMeters": 28.62271,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJQR9pg8sEdkgRKeWNNYlDdPU",
+                "placeId": "ChIJQR9pg8sEdkgRKeWNNYlDdPU",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 194.49043,
+                "travelDistanceMeters": 81.75441,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "shopping_mall"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Stanfords"
+                },
+                "name": "places/ChIJWfz4VMwEdkgR7bjsNM2G8Zc",
+                "placeId": "ChIJWfz4VMwEdkgR7bjsNM2G8Zc",
+                "spatialRelationship": "BESIDE",
+                "straightLineDistanceMeters": 21.29109,
+                "travelDistanceMeters": 8.433456,
+                "types": [
+                    "book_store",
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
+            }
+        ]
+    },
+    "allowsDogs": true,
+    "businessStatus": "OPERATIONAL",
+    "curbsidePickup": false,
+    "currentOpeningHours": {
+        "nextOpenTime": "2025-12-11T13:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 14,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 14,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 15,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 15,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 16,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 16,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 16,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 13,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 17,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 17,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 13,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 13,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 13,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 4:00 – 10:00 PM",
+            "Tuesday: 1:00 – 10:00 PM",
+            "Wednesday: 1:00 – 11:00 PM",
+            "Thursday: 1:00 PM – 12:00 AM",
+            "Friday: 1:00 PM – 12:00 AM",
+            "Saturday: 12:00 – 11:00 PM",
+            "Sunday: 12:00 – 10:00 PM"
+        ]
+    },
+    "delivery": true,
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Cafe Pacifico"
+    },
+    "editorialSummary": {
+        "languageCode": "en",
+        "text": "Mexican staples & creative margaritas served since 1982 in former banana warehouse."
+    },
+    "formattedAddress": "5 Langley St, London WC2H 9JA, UK",
+    "goodForChildren": true,
+    "goodForGroups": true,
+    "goodForWatchingSports": false,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x487604ccedc82a49:0x13e66d230ca9702!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487604ccedc82a49:0x13e66d230ca9702!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=89622095541737218&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487604ccedc82a49:0x13e66d230ca9702!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487604ccedc82a49:0x13e66d230ca9702!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=89622095541737218&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJSSrI7cwEdkgRApfKMNJmPgE",
+    "internationalPhoneNumber": "+44 20 7379 7728",
+    "liveMusic": true,
+    "location": {
+        "latitude": 51.513150499999995,
+        "longitude": -0.1249649
+    },
+    "menuForChildren": true,
+    "name": "places/ChIJSSrI7cwEdkgRApfKMNJmPgE",
+    "nationalPhoneNumber": "020 7379 7728",
+    "outdoorSeating": false,
+    "parkingOptions": {
+        "freeParkingLot": false,
+        "freeStreetParking": false
+    },
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Cafe Pacifico",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVR049_yX_RqVtfzqVpV2BxObneOuOHMdCvs0JxCKXcjgz_snBY=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/107873968539199031955"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOVK58crvf6v_45-nAT9RHVaGgDdBFZyP4FvyQD&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOVK58crvf6v_45-nAT9RHVaGgDdBFZyP4FvyQD!2e10!4m2!3m1!1s0x487604ccedc82a49:0x13e66d230ca9702",
+            "heightPx": 3200,
+            "name": "places/ChIJSSrI7cwEdkgRApfKMNJmPgE/photos/AZLasHrR5IRNIijnjXy6kjxe5mWRHuRGve8-5D0IeA9EAKuNCpzpshKKZhlaPEg469z-LmRB7HvQMLp6Bm1zWPIvOjGKBHypL66XFVBNzfvdL9su8buCtNmlVoaOLlQD8FPPBSkB885j21XgqDTWsw6dCFAmw_REQ2bL9acYQg3eRfCdja_DoX6QYILt6-N9jhSgNoMzhcyYyFnAlgv-31pENwF-kyoUULX4e-lIki5ZU5dBMLuaidHjSwou7yslIvkjiFhN8_IzJzVkQpC9yS15ynQZqO29NW_oD5THvIT8-x4JnA",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Cafe Pacifico",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVR049_yX_RqVtfzqVpV2BxObneOuOHMdCvs0JxCKXcjgz_snBY=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/107873968539199031955"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM3aLBbukwnx_d1McD8OSY0XOB_Xhhk9ngNI47Z&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM3aLBbukwnx_d1McD8OSY0XOB_Xhhk9ngNI47Z!2e10!4m2!3m1!1s0x487604ccedc82a49:0x13e66d230ca9702",
+            "heightPx": 601,
+            "name": "places/ChIJSSrI7cwEdkgRApfKMNJmPgE/photos/AZLasHoC_U49GbfQj7KfZk3QwIoo38vrL6JgOFDM_zRgFusVgHbRtxKATAt3yF4VvdrAKBFd8udCKixcpwqDj4wiwIrSGXc4HStyAwuWOcYE5pMsEaYmwoqlryCDmdgrBUaYKj21zXOZPVahxf9B7y5HNKAiRkZc98D6kwy9JqY_toaLwrRPDxDz_UW3eHX8AoetxqSldDka4wWgmk73wYIHzB3K766ZY5x_0qZPjSOfRbf_3zDtrXicjlePE5DPdtYUpl51x-wQ-5U7NOvzWsxqB6hymtDpe2lIosyu0E5dfUnQFQ",
+            "widthPx": 1066
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Kimji AB",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUDjZD7_WRNLuX515GyUVp_VVX-8NXTqo32RFoev1xrasGxkB8=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110636257537263015469"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEPGtre-0gfe8HQ&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEPGtre-0gfe8HQ!2e10!4m2!3m1!1s0x487604ccedc82a49:0x13e66d230ca9702",
+            "heightPx": 4800,
+            "name": "places/ChIJSSrI7cwEdkgRApfKMNJmPgE/photos/AZLasHrsfiZeBMZ-GnxR-QsBK-OtKv-dmKYHbuQZaOlitn3aLGS-5-XSqTMp38b5mJRfkvvPzQx30uwJrInchS6PLf-1gc6rNcqCwNQMgSK184JguBgahFZbMWrwHPe3W3pvIxJgI1-1p7i4SXI4RJf4gc3TVGlo7kuoyqOfx9ACf4JBruHpn7IKD7lPZWwtQja_OHFK4wUnb9TrIDP9jll5JGODNGuRUhjD9M9SoLYQUBCeYogi0vvbrCzGyz98N0u5-AkGokVrDMFFo2_TMu-H4q4bkriY5ffjLbOlaaKStnCEpWrKZcdjKUzortxY-AkRQLDls0aY68kOKeJuW90fhYcQG4VVVggOrRy4y63-q6SPJj5Z73gItGl_8Oj8be7H5GcAqDPxV4FvoMNfd8Y8r-a4NotQ96VSgKztQOOZZ0nyTA",
+            "widthPx": 3600
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Cafe Pacifico",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVR049_yX_RqVtfzqVpV2BxObneOuOHMdCvs0JxCKXcjgz_snBY=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/107873968539199031955"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNaajrm7La93e5qmhzCuG9bzmkTWotHytVNlNxw&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNaajrm7La93e5qmhzCuG9bzmkTWotHytVNlNxw!2e10!4m2!3m1!1s0x487604ccedc82a49:0x13e66d230ca9702",
+            "heightPx": 1368,
+            "name": "places/ChIJSSrI7cwEdkgRApfKMNJmPgE/photos/AZLasHpzyXiRwfAH-tOd2Q11QEwIE0dVZKvNvSNB5j9qyfS-N92NV33-IpxsPB-1jT8LhggMTVFP6nPsyM3XiCT5lC7FfczOdIfW_FBEDr8boWgZSsIXa_Fgrqb8tmKBkY1qnTGLadro46SqupfNkSPUHpDa_zoo4ACaT8hBJ-kAfyGnIqcE8u4ymSDEpYaMMbjPKGBViERPXonX43C9a2lxKnf5RVHrElgwGetuPbPgB3oxSKJlx78aVUHcXJxi7gS_AhaFxCkGIFFz-FoMH_QvRPpErlTB-SHsf3yav4o0xvcZKg",
+            "widthPx": 1368
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Sam Aberman",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWW8LD98tdvZGX2GSpZHvoTTtCKd8qb17YM2nQsTU6mmb_xz9uN7Q=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/111941996399252793572"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAogl8guYxbFmm74u3o4ZPe&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAogl8guYxbFmm74u3o4ZPe!2e10!4m2!3m1!1s0x487604ccedc82a49:0x13e66d230ca9702",
+            "heightPx": 2125,
+            "name": "places/ChIJSSrI7cwEdkgRApfKMNJmPgE/photos/AZLasHrt82z0AIFcXcdYwqJgxoDnxW7T0fLRsuEO38cpIeMgNgqW-nys53ky2_HdrCFRei7F0A_s1-4MTDYDqk9WJF7Wn4YzvQpJBf2-R6fCw-7OhYdfKXf9HynTtLiJ7SSSqQV7LyDY6sFH6LCYDHFV79ICxyYxLqxjD0dgqpaEdS_4nWbA2Opo5_PqNR7u_qC4sKFHeOzlRwScK6N_-Mcb8m5iZ61QrDfmmQaL9RqKoLffM0BeH1qpd-C3fcjwkCnf0GjQ7mTVf5QhOsQr11auwLzQu5O7kx_vZgYk78hyuQVnedUjWopohO50GvNv3W6uS4LmYNNS9loLEmyT4tdaSTW4VMzDpevAC134lugSCpUe_ZrjzqG2Rc_pOksY7RLSqEIFFhepFXlJLzwA9I3o5319Sq4_sfISTgxZWGeBe0cyk32I1_ondST_iAUejQ",
+            "widthPx": 1765
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Egle Kazlauskaite",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVsG3NUvT4S4R7_2t1PQFayVoSS5IOGz1jEgUlQFTer9WLcy-n0=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/106910958177482282345"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCuFWGn0IWynTFru2lwb3BJ&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCuFWGn0IWynTFru2lwb3BJ!2e10!4m2!3m1!1s0x487604ccedc82a49:0x13e66d230ca9702",
+            "heightPx": 4000,
+            "name": "places/ChIJSSrI7cwEdkgRApfKMNJmPgE/photos/AZLasHqBz36tl4ljcJgRCJXPVfmV2rz5u1I6FM-ZWhJSgks94KdfrNcbTgObpd3Uo0INP94lQXwec6ql9BfAyBxM22GE4jx_EUxbxeEmCFwCWepeOkUTz3uwzEy0-w3vE9vIbeP3fXFZsrCCfiwVwx7EDQGIOvi0uOFbkiPliZdNuHUDm1ed4kVZA6WSOchiX8Ax4AyTr_sE-31NF9mMXZnlw3CWdtKa7YlzfoUSMwNaeQGLjMvE15yTEQtXxv9ujnmO6xg9eYkWrfH8ob-jK5U-UXNyGf9F5F5i9jGoOv5KKw6Ql0NMGjQ92FLOwNPOHRa5KCqzVTsOO361YTmYO7LxiagPe2HKN7JZCrDMkcMr1mtngSn9C_CxwsthSxj0NPQzib6ByiTA06DWCM6BFKuNkHk9b8Isg3_i5hEzBPic3b2e8-8fBAmlemtDc2sH27JQ",
+            "widthPx": 3000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Guitars & Travel",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUOG6lMY5wgZaCUXJriRvBPro_MvxyZ44_VkNvtmsGewKwnn3M=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110857739387705277973"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDv7sSJkQE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDv7sSJkQE!2e10!4m2!3m1!1s0x487604ccedc82a49:0x13e66d230ca9702",
+            "heightPx": 3024,
+            "name": "places/ChIJSSrI7cwEdkgRApfKMNJmPgE/photos/AZLasHobKI0z-UbQ_1vZKr84i6hrI-CS81a3vAagF1pvUnNYrcOBrCCUZ14lYK9vjRK9Jx0I4zmvhh1LbwsiC8d0Z85HrgIqJ1BDcEdXvb9tgWK1I5F1cZ7fO7fl1GK10DcIQM7H4pQr80xPoJJRTWDSzmyS1JkQopQGFeH6_cD6X_DzOcubSDex0L-HZbJ4jZsFhE1t4dOvs0c4s1qXFO5sDwyofs9twH278lqBarzW2pDSKWdH8o8FuF5leMczsq8SKAN6oP3XFEvIZg9OPSdEbG7ezFfAEzqOdUwqWr0IqJPo_kDxHdAa6ZFeIQbbeKvBTdsPHk5miBpt1olc-H4yvmCum8oRebmVj-3rxhx26OtcTz1LvfKHQlMu5rcNg1tIu7fwqF0WI2vU73eJ5kVRM5B2fAsRQ3SV2Y10WipFao-LCArK",
+            "widthPx": 4032
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Lakesh Pookraj",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUMT85O3AKt4qibbeP42w4OdnJACulArsAvqwS3azJjReIKK_vX3Q=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/114082346360005727908"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKENaW3LeH0tPCrgE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKENaW3LeH0tPCrgE!2e10!4m2!3m1!1s0x487604ccedc82a49:0x13e66d230ca9702",
+            "heightPx": 4000,
+            "name": "places/ChIJSSrI7cwEdkgRApfKMNJmPgE/photos/AZLasHrJB1tWl-r_WjVe3xf95pcv9Yaum6452b5bmJQQhiusz51tk7keExySchW2RmpbIUhsd4HzBcgQQL3xfbudm9rnos5yY_-icPnUc3IxlAcqJT93OxXcXgh3pJvIcvZmhfws3iFMEvr-n1MX0vkCVuBs5nK3-G8xFYFh1Cv-l_r8t_6LAUdEZdLm9trCZ-egYa__qwf23x95upIlh-xUC30E6cJpjlHYUoL0zYX7JtP3ZL2klmqDqoIdvoPpyuj3nrhTmvC7g15XIy8DNiWB3GXo3DR4NH-Ne-d-Pv1aZXkqUja7-87c8lsgB9BY6l5MtThDeNgLIJpzN--mXbWF6XlVUNIuEMD9OKudo24qfAMmZbBqgPhllIpGQdqd8tIZwzZESgy3_4u2J0vUmgov1Ebh_2Dc09ZCXOkEKKOK34NMr7LV",
+            "widthPx": 3000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Jeanette Ariano",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWldb9XqsHrpROWZU-JlPKlSn27MCeZYJZUkMoqmknbxSBeVW7JFQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/100460676611596724443"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDvgp-3Wg&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDvgp-3Wg!2e10!4m2!3m1!1s0x487604ccedc82a49:0x13e66d230ca9702",
+            "heightPx": 3000,
+            "name": "places/ChIJSSrI7cwEdkgRApfKMNJmPgE/photos/AZLasHqafWfG287T_WsIqktVrgWlQdk6ndcle6UnGKwoKfiSlzpwXjpBLQTpqU87ehwZS5rNwFa839esuVfhRM6WbAjdaPUKmoRFAZPMpz2EwF73uqLnXM7T1YPSxqsZBUeDArgw5gFHkhzRV9AyCrupii3JkDHeojqdzLzwEmH2L5AWlSfJFxMwa9Se30MBbdCVnUoWWMlO_3GLF_DseqRqf-wyiXQXKrD5Tp2hMjuknhGG_ZIPgNSZDIhwrz2Jq-595aJSLUu4GKl3vR-PAzoIAAk-1uQgoOI2ItOOGLDpSGAn-A685d0nGkZZ3H-0grTBnyyjLgHIWlmd4WT9z3o4AlUawJ6aP-YI6PVe1EEmRMN_RfdUmI2bMj1T_rceQuee0Ga4_NZ-IHVNPu09Jao9LOzdw1FpdmU8JfRWcpP3SqU",
+            "widthPx": 4000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "D H",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIlY8fYR-j9GSzFXzaHNwjX32MQ6vXhhujd7AQato1ZZtwe45uS=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/108517203759924244942"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhD4HK7YOEvlU5Q3PjT7pvMY&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhD4HK7YOEvlU5Q3PjT7pvMY!2e10!4m2!3m1!1s0x487604ccedc82a49:0x13e66d230ca9702",
+            "heightPx": 3000,
+            "name": "places/ChIJSSrI7cwEdkgRApfKMNJmPgE/photos/AZLasHrvr02_6VhmJY--LVFWpWf4CcwS9F90mEu78BMCHrdrO01qcyKO0O3Vvx8tDkwuXqCaYN3Y6ssj5orucEYrcj_irjAdYXdCkSdGhWo5PDAPt1V5D3bIdkwPVjV-HHMyUMy2KzxGBcJ0J8PyeiRjFgwZnEKWuMyAUxFgf6N4Gjo28B2ewmM3SapZN5zm7mcdPdXM92bhnpHjxTPO88nRtP3pvWY3mkwo3aA-chOFdFn2L_pwfwnGrqe3g2Oyr1o52pDbRr0HDNf9UeLpWSj_lAQkeAceT9a6o5qfW6nsJDua-w4nHQs6s4gsFCopdr7vu7mCrEE7SJrXsLvVmkQNQ3O_fiq97jH18a3EHikh5F6nBK-A6F3KVcaXZkHcjNwe3gOEYGgT9aEjhEzqeD7XK6MrnnDlaRhIZXwqa0FwkOV_h-RDzWTEF5XvNbDJhQ",
+            "widthPx": 4000
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV7G+72 London, UK",
+        "globalCode": "9C3XGV7G+72"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "5 Langley Street"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2H 9JA",
+        "regionCode": "GB"
+    },
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "priceRange": {
+        "endPrice": {
+            "currencyCode": "GBP",
+            "units": "40"
+        },
+        "startPrice": {
+            "currencyCode": "GBP",
+            "units": "20"
+        }
+    },
+    "primaryType": "mexican_restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Mexican Restaurant"
+    },
+    "rating": 4.3,
+    "regularOpeningHours": {
+        "nextOpenTime": "2025-12-11T13:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 16,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 13,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 13,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 13,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 13,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 4:00 – 10:00 PM",
+            "Tuesday: 1:00 – 10:00 PM",
+            "Wednesday: 1:00 – 11:00 PM",
+            "Thursday: 1:00 PM – 12:00 AM",
+            "Friday: 1:00 PM – 12:00 AM",
+            "Saturday: 12:00 – 11:00 PM",
+            "Sunday: 12:00 – 10:00 PM"
+        ]
+    },
+    "reservable": true,
+    "restroom": true,
+    "reviewSummary": {
+        "disclosureText": {
+            "languageCode": "en-US",
+            "text": "Summarized with Gemini"
+        },
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=5%401:CAIQACodChtyc19oOjhZX3Vzdm1wcktSTnlhN0x1SDNVT0E%7CCAIQACorChtyc19oOjhZX3Vzdm1wcktSTnlhN0x1SDNVT0ESDAj60JXJBhCopbqRAw&d=17924085&t=8",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487604ccedc82a49:0x13e66d230ca9702!9m1!1b1",
+        "text": {
+            "languageCode": "en-US",
+            "text": "People say this Mexican restaurant serves delicious burritos, nachos, and churros, and offers a wide selection of tequilas and margaritas. They also highlight the vibrant atmosphere, friendly staff, and quick service.\n\nOther reviews mention the portions can be small."
+        }
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Swet Lii Pat",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVJI2RTQYvLrMt4COK55QSrq6jkmOPjUwRLl29k1qiPnjNBV4CdSQ=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/107303456542049659468/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2toZlFVaHhMUzFxVG1wVE9XNDJWRlpOUkZGMVZtYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2toZlFVaHhMUzFxVG1wVE9XNDJWRlpOUkZGMVZtYxAB!2m1!1s0x487604ccedc82a49:0x13e66d230ca9702",
+            "name": "places/ChIJSSrI7cwEdkgRApfKMNJmPgE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toZlFVaHhMUzFxVG1wVE9XNDJWRlpOUkZGMVZtYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Loved this mexican restaurant. Great hustly bustly vibe,casual and comfy. The Taco Birria was my favourite!!! Highly recommended. Service was very good. Cocktails were delicious. Great nachos and salsa. Dogs are permitted from what I saw. Would love to revisit!!!"
+            },
+            "publishTime": "2025-11-28T08:50:53.607718989Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a week ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Loved this mexican restaurant. Great hustly bustly vibe,casual and comfy. The Taco Birria was my favourite!!! Highly recommended. Service was very good. Cocktails were delicious. Great nachos and salsa. Dogs are permitted from what I saw. Would love to revisit!!!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Leanne Mc",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXMy68QOW93Cb2iCuwMCM8tR9uAQ75YcFNp0oSvkOHB-_jLQ1rX=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/118140257887049435982/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2toNmVsOXBOR3g2YW1SU1ZuTlNSRTFtU0RkSE1WRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2toNmVsOXBOR3g2YW1SU1ZuTlNSRTFtU0RkSE1WRRAB!2m1!1s0x487604ccedc82a49:0x13e66d230ca9702",
+            "name": "places/ChIJSSrI7cwEdkgRApfKMNJmPgE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toNmVsOXBOR3g2YW1SU1ZuTlNSRTFtU0RkSE1WRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Food was amazing. Found this place purely by chance. Felt the drinks were pricey but but guess that's London! So we stuck to soft drinks.\nFood was reasonably priced. Had a burrito and a naked burrito and shared a portion of mexican rice.\nThe decor looked fabulous and inviting.  Staff were friendly and helpful."
+            },
+            "publishTime": "2025-10-20T18:13:59.048606350Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Food was amazing. Found this place purely by chance. Felt the drinks were pricey but but guess that's London! So we stuck to soft drinks.\nFood was reasonably priced. Had a burrito and a naked burrito and shared a portion of mexican rice.\nThe decor looked fabulous and inviting.  Staff were friendly and helpful."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Andy Sillence",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWYXbZXiTViZVjws7T-7dO9f16VHEHb9jYEaXr9rF9KhapiEw=s128-c0x00000000-cc-rp-mo-ba6",
+                "uri": "https://www.google.com/maps/contrib/109100149921034803289/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xTGJFVXpNVnA0T0hvM1FYSlRXR1kwY1ZCRU5IYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xTGJFVXpNVnA0T0hvM1FYSlRXR1kwY1ZCRU5IYxAB!2m1!1s0x487604ccedc82a49:0x13e66d230ca9702",
+            "name": "places/ChIJSSrI7cwEdkgRApfKMNJmPgE/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xTGJFVXpNVnA0T0hvM1FYSlRXR1kwY1ZCRU5IYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Great vibe.... tucked out the way but worth a visit...  traditional Mexican fare.... warm and friendly.... good choice of fajitas and tacos... The half size fajitas is enough for 4 x tortillas... its more than enough for one.... Force of habit is to stuff them to the brim and then you cant fold them.... make sure you ask for extra napkins!!.... Very tasty will be back if in the area again...."
+            },
+            "publishTime": "2025-11-18T18:15:33.834320850Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "3 weeks ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Great vibe.... tucked out the way but worth a visit...  traditional Mexican fare.... warm and friendly.... good choice of fajitas and tacos... The half size fajitas is enough for 4 x tortillas... its more than enough for one.... Force of habit is to stuff them to the brim and then you cant fold them.... make sure you ask for extra napkins!!.... Very tasty will be back if in the area again...."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Egle Kazlauskaite",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVsG3NUvT4S4R7_2t1PQFayVoSS5IOGz1jEgUlQFTer9WLcy-n0=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/106910958177482282345/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205TFRVOUlUVXhZVG5kMlFrbFJVM05mVjBsaWRIYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205TFRVOUlUVXhZVG5kMlFrbFJVM05mVjBsaWRIYxAB!2m1!1s0x487604ccedc82a49:0x13e66d230ca9702",
+            "name": "places/ChIJSSrI7cwEdkgRApfKMNJmPgE/reviews/Ci9DQUlRQUNvZENodHljRjlvT205TFRVOUlUVXhZVG5kMlFrbFJVM05mVjBsaWRIYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "We went there because apparently they have awards for best margaritas in London... Well let me tell you that it's all loads of crap.\nIf you call that best margaritas then you haven't tasted nice ones at all. Food was below average to say the least, look like a loads of bloob on a plate. One of our friends got diarrhoea after eating that. At least  portions were decent. Atmosphere is more like a train station canteen than a Covent Garden restaurant. Service was okay, average what you get in all restaurants."
+            },
+            "publishTime": "2025-09-14T09:56:38.021990696Z",
+            "rating": 2,
+            "relativePublishTimeDescription": "2 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "We went there because apparently they have awards for best margaritas in London... Well let me tell you that it's all loads of crap.\nIf you call that best margaritas then you haven't tasted nice ones at all. Food was below average to say the least, look like a loads of bloob on a plate. One of our friends got diarrhoea after eating that. At least  portions were decent. Atmosphere is more like a train station canteen than a Covent Garden restaurant. Service was okay, average what you get in all restaurants."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Rituja Rao",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVNwJr1OFdQ1C476kdzQH1HyiH6yVx2fZAHInEqpMKQ4Dy54_dW=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/101456984699935200410/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wTVNuYzVVMll3YTFBNFZ5MUdOMnM1U0hvd1RrRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wTVNuYzVVMll3YTFBNFZ5MUdOMnM1U0hvd1RrRRAB!2m1!1s0x487604ccedc82a49:0x13e66d230ca9702",
+            "name": "places/ChIJSSrI7cwEdkgRApfKMNJmPgE/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wTVNuYzVVMll3YTFBNFZ5MUdOMnM1U0hvd1RrRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "We attended the Muertos de la Dios event at Cafe Pacifico and had the best Halloween dinner and activities. They had face painting, a mariachi band and decorations.\n\nThe bar has the best tequila menu in the city and I absolutely loved their Watermelon Margherita. We tried their mezcal too which was amazing. If you like Tequila, this is the place to be.\n\nThe food is delicious too. I highly recommend the Baja fish tacos, enchiladas and jalapeño poppers.\n\nAll in all an amazing night at Cafe Pacifico!"
+            },
+            "publishTime": "2025-11-03T15:18:51.664048253Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "We attended the Muertos de la Dios event at Cafe Pacifico and had the best Halloween dinner and activities. They had face painting, a mariachi band and decorations.\n\nThe bar has the best tequila menu in the city and I absolutely loved their Watermelon Margherita. We tried their mezcal too which was amazing. If you like Tequila, this is the place to be.\n\nThe food is delicious too. I highly recommend the Baja fish tacos, enchiladas and jalapeño poppers.\n\nAll in all an amazing night at Cafe Pacifico!"
+            }
+        }
+    ],
+    "servesBeer": true,
+    "servesBreakfast": false,
+    "servesBrunch": true,
+    "servesCocktails": true,
+    "servesCoffee": true,
+    "servesDessert": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "servesVegetarianFood": true,
+    "servesWine": true,
+    "shortFormattedAddress": "5 Langley St, London",
+    "takeout": true,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "mexican_restaurant",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 2374,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.514467230291494,
+            "longitude": -0.12368131970849797
+        },
+        "low": {
+            "latitude": 51.511769269708495,
+            "longitude": -0.126379280291502
+        }
+    },
+    "websiteUri": "https://cafe-pacifico.com/",
+    "timestamp": 1765447200
+}

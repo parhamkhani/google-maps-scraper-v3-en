@@ -1,0 +1,817 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleParking": false,
+        "wheelchairAccessibleSeating": true
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "39",
+            "shortText": "39",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Maiden Lane",
+            "shortText": "Maiden Ln",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2E 7LJ",
+            "shortText": "WC2E 7LJ",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJs4GOh8sEdkgRRiBFZKMP8ZE",
+                "placeId": "ChIJs4GOh8sEdkgRRiBFZKMP8ZE"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "und",
+                    "text": "Jubilee Market Hall"
+                },
+                "name": "places/ChIJ-ScSl8sEdkgRjISxG4sLNPY",
+                "placeId": "ChIJ-ScSl8sEdkgRjISxG4sLNPY"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJgXlkg8sEdkgRBQIcjaxWHPs",
+                "placeId": "ChIJgXlkg8sEdkgRBQIcjaxWHPs"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Vaudeville Theatre"
+                },
+                "name": "places/ChIJczPJ8csEdkgRedKpYe0M6Wc",
+                "placeId": "ChIJczPJ8csEdkgRedKpYe0M6Wc",
+                "straightLineDistanceMeters": 73.12855,
+                "travelDistanceMeters": 99.51044,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Royal Ballet and Opera"
+                },
+                "name": "places/ChIJySOgh8sEdkgRCBzTYt83Klg",
+                "placeId": "ChIJySOgh8sEdkgRCBzTYt83Klg",
+                "straightLineDistanceMeters": 229.63013,
+                "travelDistanceMeters": 265.5934,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Jubilee Market"
+                },
+                "name": "places/ChIJZ5rPfcwEdkgRCld_oTBUf_k",
+                "placeId": "ChIJZ5rPfcwEdkgRCld_oTBUf_k",
+                "straightLineDistanceMeters": 105.22186,
+                "travelDistanceMeters": 123.32591,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Adelphi Theatre"
+                },
+                "name": "places/ChIJT1sd_MsEdkgRbRAA3JItLec",
+                "placeId": "ChIJT1sd_MsEdkgRbRAA3JItLec",
+                "straightLineDistanceMeters": 84.96419,
+                "travelDistanceMeters": 138.83171,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "store",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The North Face - Covent Garden"
+                },
+                "name": "places/ChIJPRBB68sEdkgR5kTYX9rtnIU",
+                "placeId": "ChIJPRBB68sEdkgR5kTYX9rtnIU",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 37.2197,
+                "travelDistanceMeters": 42.759834,
+                "types": [
+                    "clothing_store",
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
+            }
+        ]
+    },
+    "allowsDogs": false,
+    "businessStatus": "OPERATIONAL",
+    "currentOpeningHours": {
+        "nextOpenTime": "2025-11-25T11:30:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 11,
+                    "minute": 30
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 – 10:00 PM",
+            "Tuesday: 11:30 AM – 10:00 PM",
+            "Wednesday: 11:30 AM – 10:00 PM",
+            "Thursday: 11:30 AM – 10:30 PM",
+            "Friday: 11:30 AM – 11:00 PM",
+            "Saturday: 11:30 AM – 11:00 PM",
+            "Sunday: 11:30 AM – 10:00 PM"
+        ]
+    },
+    "delivery": true,
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Franco Manca Covent Garden"
+    },
+    "formattedAddress": "39 Maiden Ln, London WC2E 7LJ, UK",
+    "goodForChildren": true,
+    "goodForGroups": true,
+    "goodForWatchingSports": false,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x487604cbf35e9897:0x26fffb692bd91c4a!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487604cbf35e9897:0x26fffb692bd91c4a!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=2810241121628265546&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487604cbf35e9897:0x26fffb692bd91c4a!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487604cbf35e9897:0x26fffb692bd91c4a!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=2810241121628265546&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJl5he88sEdkgRShzZK2n7_yY",
+    "internationalPhoneNumber": "+44 20 7240 8309",
+    "liveMusic": false,
+    "location": {
+        "latitude": 51.5109322,
+        "longitude": -0.1228313
+    },
+    "menuForChildren": false,
+    "name": "places/ChIJl5he88sEdkgRShzZK2n7_yY",
+    "nationalPhoneNumber": "020 7240 8309",
+    "outdoorSeating": false,
+    "parkingOptions": {
+        "freeParkingLot": false
+    },
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Nicholas Harris",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV93KffbFj59mEfKlVXHzsC95sbaVanxn4eZFzHVbGvzkAwna9ENA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113831622228991421772"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDRqOeINw&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDRqOeINw!2e10!4m2!3m1!1s0x487604cbf35e9897:0x26fffb692bd91c4a",
+            "heightPx": 3600,
+            "name": "places/ChIJl5he88sEdkgRShzZK2n7_yY/photos/AWn5SU5ua9FVY-N-FTx-PB8ktvBJjAktGXxa7BCuujWaUnOOw61LJZin4Yq5Umqo2MO1d9S3mDoh0bq0H9kKo8BCgsaNv7QGH-wiKVVK7TIxCDsAeAM0I1m4vDFefIqbW7T6YqL4mXHrJAo6pyw6J_QH80okJhXWGujq7hjBIZk3Pgm5ckMV9ylgpvaDa5J0hCaQnC0Kyo4pDBI6vNueqoMZjgNbOCsFLOY-43uwX8Uxkug6y6xZcfHS6wACeVGCLt7XdmxrrnsJElJ4_0-lQZPcFOELVnIfqZFiEbZerqsD4Fsmi8aNzaZKbZo3lbzMq8x158tVUb9tYR0WyKIhIndTHyYjddTXmyVE0rHeNkjwC_zCwVQzTDCkgQIXtO3CNVKU7jbVyc5CmOWwWLnN4-jP9RYy9baQJ1cNPAWlExSBPT4Njw",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Alice Pavlovska",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWqxCvKQZecrBzMJ_xlOlpbce-DqVG9gUFFZreMMIZ-v_XVQaJ1=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117202123040390912082"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCAqd2awtzy7_ISDNiI4kmv&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCAqd2awtzy7_ISDNiI4kmv!2e10!4m2!3m1!1s0x487604cbf35e9897:0x26fffb692bd91c4a",
+            "heightPx": 1884,
+            "name": "places/ChIJl5he88sEdkgRShzZK2n7_yY/photos/AWn5SU4vmX6eyekWH9eCoKud2hkEwJK9CZzrXJpKqkOwqiiAQq79I9CU_xeos1hNU3ibQlwDOIgleCIHBRrTIK3FZd7oQMMPk5xBKtt7tEPSxRxG8GmAQ820HOgXtxFixr7WhtkaLz5YRvgOkxRkIHv4eEHiKyFifNwpbiN7Ap8ntiuBTybOKE2NWNt723pRUjJ5b1PJW9Pp57w76rzoggiilnJ8uCyf9-j6bGquDKsOyPqWp8A_7YPYCwqqB_Pl7ynsnDr98uVSvRzeK2MFVnUCLbtXbvj5aepcIiw10yzDJlj9ecv3KIYh6tFSl04wf-6bivyf0e6HcsT1GxSr8D3Pkue2vAsGYMSe_1dYLPF3r0i0jFvfpmhfjwjmArQ0atAY_2vI5yXpDU0iykMTFS4L87Kz1g5bEE6NiFZieeWWf6GeQs0Hi-qF1ukGp6kTbqM7",
+            "widthPx": 4080
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Dawn Cheong",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLOGf2CoYMjS06FEespZsYvDR1yvOX5NzyqbmE-9LFn2jUSyw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/112700677230175427074"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDdfGYrtHEAxG6H57-7M28_&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDdfGYrtHEAxG6H57-7M28_!2e10!4m2!3m1!1s0x487604cbf35e9897:0x26fffb692bd91c4a",
+            "heightPx": 3600,
+            "name": "places/ChIJl5he88sEdkgRShzZK2n7_yY/photos/AWn5SU4xwZCkJJSIoVgVpfNJvqCY2WrXMI12tlWcmgD8eXCCP_CMhWkVJIanOozpaW_lMN23kxImbxsH2fS0RjxssaV77Ii34UN0QfOizg-FHNSkqm-T03r1n2WrCGjxVRS6EZa6AHFaVOVVjnwlKmMHrgIJP_PiqEtGrmKXljPMnqQSurguF0b4VVJjdtfv_u21MNAyzPH-u58CvJcMevKdsa8dB4V66PAFooSAJXi5CuQDE9d3PXcdyatA0FHBLT2bsfAimqRoGIGrcF3-ib5H1EAAN2qQmEMSLFVk6_Juxy2oJW-WLJCNXbb_sm-XNQ0yFP6G5HpyfH1mQ8341rIzKxcmfUnDC2a6MhFKc7-nRtQL-pY_GczumNETaiH0hsHekhs4R3XiXDHn4Bx0Q-b4ongVaa5MNYCaBg1I2Lw1mWjXkkJdb5i45tsdBhKmzQ",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Danilo Brundu",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUrV9-M8_lZN0b0hHoKgDiR7e0rlw-VKkeYWcW_JzERl5N5JQ7s=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/107838591716486308051"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCNQe3uiSBV0bvcMh1lCBGs&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCNQe3uiSBV0bvcMh1lCBGs!2e10!4m2!3m1!1s0x487604cbf35e9897:0x26fffb692bd91c4a",
+            "heightPx": 3048,
+            "name": "places/ChIJl5he88sEdkgRShzZK2n7_yY/photos/AWn5SU7lCgCIu8vxyInv1iO6Fsu3PvUYChCnq8ZSzBbXQKslukCQ_YXIH6qdkipj7POrILyRIHSnlqN7gyWt2UqPWiGGk_zDNFzVjH5_67DTqSZB6jQSdLtZ_hKGVU4AwWjVllTOPzd_G6g5RXmU1Gkqj0gKLhpEYnuKcdu1N8fJrJvB24TAKCIzI3-VK8vPTCOS-UTCsvdLv8x-VLXRd17nyfvU49hesNqu9JHOSlOVueafj2O-lMDnvBi67q3W2_01e-5XB2aQss-_fe9LXBI50YnhpDC_iaLq1mrCn0xYGde9U_NFRB43qBlqVsixcxf9InweFJ4WZAGJ1F1-bgmzjpUcYHluCU9vOo8Oc562lmNUr_0QLrsfrb-cq7H07j8_2cC95K8yAX-xRdX_uqzalipz03grdTKnNBnK54Q7d1PNUmeH6WS68WxVgCxr4w",
+            "widthPx": 4064
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Wilhelm Lau",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIWFvNcRLPl4mgZ0MJmtWr6PyAHk-3XZsKs1srnU_aFvxhVOg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/118325867301439730254"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCG27p4efdbDeQhXC7qgd6Z&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCG27p4efdbDeQhXC7qgd6Z!2e10!4m2!3m1!1s0x487604cbf35e9897:0x26fffb692bd91c4a",
+            "heightPx": 1920,
+            "name": "places/ChIJl5he88sEdkgRShzZK2n7_yY/photos/AWn5SU4bCTrrTlEbNx_qfrFdt7lrjpbv12AFgplxNTigtSMHPb2bMNC6i8lNBZCvtkffh3tu59llL5xBqDGvihcC3_H5hwh_1EYLZbk5NbZ8enXpkxNKwqDXD-ZO8ntgSMTOT5J5vR8-4aric5YEVAlxAxlyUWVxS9wsGp0CLvMYBo128mvBousosKqNIbZIFLbsSFeZyHYXIB-zrTnWYZawrk7-wbtBhAlFqbWk3oDpIbkKx6fmYcYnQT66myOxFoMFrrswM1NzOs1ZA49S07DQapi2Px4P7bycsWwzD7kzMsJsM9NMuesPFygaxv7ECA6D1KG7qfJcScG4xi4Vt5Dvzbmff8AeGYjB_ol7etuqR3exYIXAMKo3p84l3hAzn47EeWFeX0r44vSr0OaB4gu14FBOughTUJQv2eq_COGdSwoI5_zjfABir_dhVhleSaY_",
+            "widthPx": 1080
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Alex B",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK-pYJcSuf9ioPQCh705YbtwqAzC8VoDQY-RyBLIONMnAB8_g=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/111978733169611493211"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDA67jukgE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDA67jukgE!2e10!4m2!3m1!1s0x487604cbf35e9897:0x26fffb692bd91c4a",
+            "heightPx": 3468,
+            "name": "places/ChIJl5he88sEdkgRShzZK2n7_yY/photos/AWn5SU4DR26_mIE9G2mt6K77Gvz0IPckJO8IKyVh_M_bHX4ZPfPwsuOtw6-LgRdeAfs1DslM9Tffmd85whf2gldntwmplt323_T4xiPyksY5QNBennKc9OejJfktyliN5wZfTNDm50NzRFKOa30XiQLVvdlu8zsAgj-1OQnaexck_5uexUHP45YfgvxR24Jkzk3pc05pWlOClDFKiyzYVy7SYL_supNKIKW7wXxufEMCPZYEK4hhEzvgGlQoPYFROqNKhRlE7QStWZ1ZtxAqHF-keMfvKEkRDmKGui16Q-Zn-c1gGBiEYqpfTNb6BpFz3W3udlO7YZLz56aeT54lxlN9u94ATSZwyP-OcBw2BSDN_dD1emBf7T7--vzvKatNv2bFjWVxVeba7q6VIjOyMRreSWvBpxGjQoFiMWP2onzpppQtIgAW",
+            "widthPx": 4624
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Eric AD",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUuIAQccVAmvP_-OjR7467tv7aXoGm1xLRZGONOc6ymFInsLq-DTg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/109007043167942081076"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC_odXy5wE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC_odXy5wE!2e10!4m2!3m1!1s0x487604cbf35e9897:0x26fffb692bd91c4a",
+            "heightPx": 3024,
+            "name": "places/ChIJl5he88sEdkgRShzZK2n7_yY/photos/AWn5SU66vuFyH9RezR-4y8AGikTWOMuJXbfF3qEQbkbyNt_pjzNvD475jhEGu0SpMkKXgT5E1b3ccJxtg7DlfqzQJUn_WffY2GQ_zeXB3lrWeX0Ridu3o0r0qEX3GVEwX1mqw4EGIndRMLfAShtQ96sOfJpGo1TxAsXJc1IqIiAKHUd-lNReRQZmMFuXLrRS9CbzJPL3oxH083OKuO-wMtuQ5QFsEor6vdzofA7WaVfSDLhOz9fn_LkJxA0-l4kl5ZK7CyJyXnnxlWGYuvtKeSd-dpHicenOV6R_vWchzTKhq6vyAdD2wpjsom8WLTBuX9u7pkLIuoxkAhC4T0frUfUvvkb4Y0we5oEn_I2LCySB-mx75KyoyIkg-us3vQe7Iz1pJx6eFYWIHIe9_QAp9U8X15c0s6pm8lavWNLaijCcOwMjb7w",
+            "widthPx": 4032
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Sam Aberman",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWW8LD98tdvZGX2GSpZHvoTTtCKd8qb17YM2nQsTU6mmb_xz9uN7Q=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/111941996399252793572"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID5nPLQKA&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID5nPLQKA!2e10!4m2!3m1!1s0x487604cbf35e9897:0x26fffb692bd91c4a",
+            "heightPx": 3000,
+            "name": "places/ChIJl5he88sEdkgRShzZK2n7_yY/photos/AWn5SU6VD9uPOAyRWKvyf1F2HJ-zLLyN-y_WH4_aVozbhzVn_I5xjNoU7oqPAA2iwgVpBrxkSBQa7MX3zAbw79gVDJ5st22chSd9myJ1XoyJHBvFWBTIr550EkBkGz3UDA_LbuG1GT5YkZ0gwHaCMytwlBs7lcjWhxtqLIb0CiIAVvk_FlyctOVRCXNU6kvajmTUgIT38RPFccaxZMpilw9zDCRX-O9pdA0dWrIucbbNWZpV48lY3TnZXjtx2aoKkyW7AccXze4z22W31-aVxLWHUNie1wrQObY5LFWIm9X933AOGSemE4bOgt_F5vvD7TKWETbQfpximUKPXKK2pinnqDPmqK8ENFsVCLEPwBoQcj_4vSwt9YqfhR3k039ZsrIBSfDWOW9J4QXrjKcs-t-baFnc8-0EoRMzK8qKxqnZlenMdA",
+            "widthPx": 4000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Rachel Kang",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUt31-Ovf-cJwiB9mpkOb-z4LXNPFmuFx7Bt9pGpZowP96v2Ch9=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/114018621419606098138"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEL72rIrby9eR5QE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEL72rIrby9eR5QE!2e10!4m2!3m1!1s0x487604cbf35e9897:0x26fffb692bd91c4a",
+            "heightPx": 4032,
+            "name": "places/ChIJl5he88sEdkgRShzZK2n7_yY/photos/AWn5SU5KdBXu7JgD5ZWEq0X4YFHXE2eCgW5mDIQM_TUlx9Yn4qWKqZo2e1Sg5fewqK6xJa_wu_LWnOxPd1Q1Mr5HhPQiIHGzM3by_yuHHq0VsRbl5aHDcxv6D6ilnBfW7nueiW6FZI_6az4YAc3091jDpPlL6p4wfYeyualT3q0q0eW-_fdKG2tktbD0MWr1LiS5FPUBigVU5C383mgbeUf_hf-JigczC01OcIHdUozTDN01oZZM6bKVAB1YhZjsuvYuGuxCINAcaJgVNyMDej9ajk9swqv463qAdblr_-3tgQUuBgXO7fdU6pBE0W8XCqajc0VI-PwciNybRwJpsmVVxMOj9AprcwoCYou4JZjEw4_V6LI8BwWPfwo4lcjEnZjEtru9scxBt43Lh7Xw5okP0t9vmixyhHA96HrGWW_UJoDHxPY",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Ammar Ali",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWa3tfhGcxy3Ip6ghbE5Q4q-FPwT0AtgVriVnsxgPo1eLsxZMSU=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/107527928980411302597"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEKCsjozdv6PxLA&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEKCsjozdv6PxLA!2e10!4m2!3m1!1s0x487604cbf35e9897:0x26fffb692bd91c4a",
+            "heightPx": 3424,
+            "name": "places/ChIJl5he88sEdkgRShzZK2n7_yY/photos/AWn5SU5k_FGDRi5bfk54RcwhBxLwiGF7GxW13msw6h5FVx9AJ8hN_S5TfCjH3rWo-gu3Nhx9JKwj_CAxv1JipoUTvjgbbhdb-9F7ad2dU0Id6EM7U9DmyOJRbl82F09CtULfkn5091jZJD9d1zJ6HmnLwF3vFIu9aiWGHONc4oyTE2XlOiDVUr2zhT3HFLkUWaaegCmhrCuPY5m5366eJ5YtmmM39O4RyQcvsbn6ed1qCT6kvas7mjBZeXlOIvMe_oKYs6UmZTN5ODmgzqM9cMDpp5q3epYuBzc89zkYpPliC6YFQZ8s26AfLdrV6wbLCneVoeaDmgA8UqiVxR7cl7Ic0GgjUr93Rc30pCwTzTVudhy9bB_baZT_pczNdQdvsrjiVeZ5c4g1gDkAXPfT3ZRDCQxjB6Sr6lAE-ewQqrnfzs1PwA",
+            "widthPx": 3015
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV6G+9V London, UK",
+        "globalCode": "9C3XGV6G+9V"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "39 Maiden Lane"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2E 7LJ",
+        "regionCode": "GB"
+    },
+    "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+    "priceRange": {
+        "endPrice": {
+            "currencyCode": "GBP",
+            "units": "20"
+        },
+        "startPrice": {
+            "currencyCode": "GBP",
+            "units": "10"
+        }
+    },
+    "primaryType": "pizza_restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Pizza Restaurant"
+    },
+    "rating": 4.5,
+    "regularOpeningHours": {
+        "nextOpenTime": "2025-11-25T11:30:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 11,
+                    "minute": 30
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 – 10:00 PM",
+            "Tuesday: 11:30 AM – 10:00 PM",
+            "Wednesday: 11:30 AM – 10:00 PM",
+            "Thursday: 11:30 AM – 10:30 PM",
+            "Friday: 11:30 AM – 11:00 PM",
+            "Saturday: 11:30 AM – 11:00 PM",
+            "Sunday: 11:30 AM – 10:00 PM"
+        ]
+    },
+    "reservable": true,
+    "restroom": true,
+    "reviewSummary": {
+        "disclosureText": {
+            "languageCode": "en-US",
+            "text": "Summarized with Gemini"
+        },
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=5%401:CAIQACodChtyc19oOmM4N0EzOFIwV3dERU1YZjJyeHhjTkE%7CCAIQACorChtyc19oOmM4N0EzOFIwV3dERU1YZjJyeHhjTkESDAiW6-fEBhD0vKrFAQ&d=17924085&t=8",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487604cbf35e9897:0x26fffb692bd91c4a!9m1!1b1",
+        "text": {
+            "languageCode": "en-US",
+            "text": "People say this pizza restaurant serves delicious sourdough pizza with a variety of toppings, as well as burrata, garlic bread, and homemade lemonade. They also highlight the quick and friendly service, and the lively atmosphere.\n\nOther reviews mention the restaurant can be busy."
+        }
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "John",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWtSrrX4lRxeRLz4TL44V4y4u20f616oq1nY22npGFu27bJpGw=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/117552858043248531851/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21NNFR6aEhiSFJ4VlhkTU5tOWtRVkZOYkU1c1gzYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21NNFR6aEhiSFJ4VlhkTU5tOWtRVkZOYkU1c1gzYxAB!2m1!1s0x487604cbf35e9897:0x26fffb692bd91c4a",
+            "name": "places/ChIJl5he88sEdkgRShzZK2n7_yY/reviews/Ci9DQUlRQUNvZENodHljRjlvT21NNFR6aEhiSFJ4VlhkTU5tOWtRVkZOYkU1c1gzYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Had pizza at Franco Manca Covent Garden — and wow, just look at that pizza! All the flavours blended beautifully, the base was done to perfection, and the meat was absolutely awesome. Every bite was satisfying.\n\nThis place has officially become my go-to for pizza in the UK. Consistently fantastic, no fuss, just great food."
+            },
+            "publishTime": "2025-10-18T16:49:55.783251203Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Had pizza at Franco Manca Covent Garden — and wow, just look at that pizza! All the flavours blended beautifully, the base was done to perfection, and the meat was absolutely awesome. Every bite was satisfying.\n\nThis place has officially become my go-to for pizza in the UK. Consistently fantastic, no fuss, just great food."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Lilly Young",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKEMEwHBe1S34-zSMLE2XG0tQ561DmKY9a9o2hKlSPnjmWoPA=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/115656006201129791100/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWalFtTTJTM2hCUTJJNU4zSlNhRTlmT1ZCSFJVRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWalFtTTJTM2hCUTJJNU4zSlNhRTlmT1ZCSFJVRRAB!2m1!1s0x487604cbf35e9897:0x26fffb692bd91c4a",
+            "name": "places/ChIJl5he88sEdkgRShzZK2n7_yY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWalFtTTJTM2hCUTJJNU4zSlNhRTlmT1ZCSFJVRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "The waitress is the best the white female girl only female white girl today 13:15 on the 5 Oct 2025. I thank so much for her service.  I think her name maybe Hanna. She is the best. She made our day. Excellent service and we will definitely be back for her. What’s a pleasant day. Thanks so much❤️"
+            },
+            "publishTime": "2025-10-05T12:20:13.185822846Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "The waitress is the best the white female girl only female white girl today 13:15 on the 5 Oct 2025. I thank so much for her service.  I think her name maybe Hanna. She is the best. She made our day. Excellent service and we will definitely be back for her. What’s a pleasant day. Thanks so much❤️"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "ASADUZZAMAN BAKAUL",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUazH13JzL4aIsf3cFuIAOjzuTCC4n_IuBcnhE6M2hU2x0lKrU=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/105188350904419226936/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWaVJWSnpiWGhzWW5KeVRqRktjVVpaTm1jMlFXYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWaVJWSnpiWGhzWW5KeVRqRktjVVpaTm1jMlFXYxAB!2m1!1s0x487604cbf35e9897:0x26fffb692bd91c4a",
+            "name": "places/ChIJl5he88sEdkgRShzZK2n7_yY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWaVJWSnpiWGhzWW5KeVRqRktjVVpaTm1jMlFXYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Fantastic experience every time. The pizza is loaded with flavor, portions are generous, and prices are fair. The staff genuinely cares about customers, and it shows. Highly recommend for anyone craving quality pizza with a personal touch.\nA big thanks to chef shahid."
+            },
+            "publishTime": "2025-09-12T20:36:07.660834699Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Fantastic experience every time. The pizza is loaded with flavor, portions are generous, and prices are fair. The staff genuinely cares about customers, and it shows. Highly recommend for anyone craving quality pizza with a personal touch.\nA big thanks to chef shahid."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Ammar Ali",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWa3tfhGcxy3Ip6ghbE5Q4q-FPwT0AtgVriVnsxgPo1eLsxZMSU=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/107527928980411302597/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VMbnNpNHlRbTR2SGNBEAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VMbnNpNHlRbTR2SGNBEAE!2m1!1s0x487604cbf35e9897:0x26fffb692bd91c4a",
+            "name": "places/ChIJl5he88sEdkgRShzZK2n7_yY/reviews/ChZDSUhNMG9nS0VMbnNpNHlRbTR2SGNBEAE",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Please with our family experience at this branch of Franco Manca. Had two kids aged 4 and 6 and the food came out pretty quickly, which is needed with that age group. The pizzas were cooked well and the salad was plentiful and varied. There’s room to store a pram at the bottom and main floor for the restaurant. Would recommend coming here with young kids if you’re close by and needing something quick to eat!"
+            },
+            "publishTime": "2025-06-14T20:25:52.973008Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "5 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Please with our family experience at this branch of Franco Manca. Had two kids aged 4 and 6 and the food came out pretty quickly, which is needed with that age group. The pizzas were cooked well and the salad was plentiful and varied. There’s room to store a pram at the bottom and main floor for the restaurant. Would recommend coming here with young kids if you’re close by and needing something quick to eat!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Dhanushree P",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUkrFcrhQy2FmjSEySamfr_y7DPACsO3coM9pSu7TyLHXzV6kjubw=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/102615904794806009488/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xSS2FIcGZOMVkwVFhnMFFrNUNjVFpXTVRSc2EzYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSS2FIcGZOMVkwVFhnMFFrNUNjVFpXTVRSc2EzYxAB!2m1!1s0x487604cbf35e9897:0x26fffb692bd91c4a",
+            "name": "places/ChIJl5he88sEdkgRShzZK2n7_yY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSS2FIcGZOMVkwVFhnMFFrNUNjVFpXTVRSc2EzYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "First time at Franco Manca pizzeria! Such a reprieve from a hot and crowded day in convent garden. Disha was really helpful in us making our food selection, we ended up ordering the Franco’s OG margarita, the garlic pesto and a couple of dips and bevs.\n\nFrom the food to how it was displayed, everything was satisfying! I would recommend!"
+            },
+            "publishTime": "2025-09-07T11:08:58.110148135Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "First time at Franco Manca pizzeria! Such a reprieve from a hot and crowded day in convent garden. Disha was really helpful in us making our food selection, we ended up ordering the Franco’s OG margarita, the garlic pesto and a couple of dips and bevs.\n\nFrom the food to how it was displayed, everything was satisfying! I would recommend!"
+            }
+        }
+    ],
+    "servesBeer": true,
+    "servesBreakfast": false,
+    "servesBrunch": false,
+    "servesCocktails": false,
+    "servesCoffee": true,
+    "servesDessert": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "servesVegetarianFood": true,
+    "servesWine": true,
+    "shortFormattedAddress": "39 Maiden Ln, London",
+    "takeout": true,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "pizza_restaurant",
+        "italian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 4641,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.5122466802915,
+            "longitude": -0.12143686970849799
+        },
+        "low": {
+            "latitude": 51.5095487197085,
+            "longitude": -0.12413483029150203
+        }
+    },
+    "websiteUri": "http://www.francomanca.co.uk/restaurants/covent-garden/",
+    "timestamp": 1764064800
+}

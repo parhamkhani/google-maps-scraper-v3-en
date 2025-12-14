@@ -1,0 +1,548 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "49",
+            "shortText": "49",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Villiers Street",
+            "shortText": "Villiers St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2N 6NE",
+            "shortText": "WC2N 6NE",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Victoria Embankment Gardens"
+                },
+                "name": "places/ChIJrwttcskEdkgRnaT9RYse8fw",
+                "placeId": "ChIJrwttcskEdkgRnaT9RYse8fw"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Victoria Embankment Gardens"
+                },
+                "name": "places/ChIJCz_VKMkEdkgR-DOEW4h4LRE",
+                "placeId": "ChIJCz_VKMkEdkgR-DOEW4h4LRE",
+                "spatialRelationship": "BESIDE",
+                "straightLineDistanceMeters": 61.891945,
+                "travelDistanceMeters": 25.035995,
+                "types": [
+                    "establishment",
+                    "park",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Gordon's Wine Bar"
+                },
+                "name": "places/ChIJSWvAzM4EdkgRaZcCMhRbk0Q",
+                "placeId": "ChIJSWvAzM4EdkgRaZcCMhRbk0Q",
+                "spatialRelationship": "BESIDE",
+                "straightLineDistanceMeters": 10.688316,
+                "travelDistanceMeters": 15.833409,
+                "types": [
+                    "bar",
+                    "establishment",
+                    "food",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The Princess Of Wales"
+                },
+                "name": "places/ChIJJ93iyM4EdkgR8aZjAqPuoaw",
+                "placeId": "ChIJJ93iyM4EdkgR8aZjAqPuoaw",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 50.41552,
+                "travelDistanceMeters": 54.133606,
+                "types": [
+                    "bar",
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Charing Cross Theatre"
+                },
+                "name": "places/ChIJ8aEpxc4EdkgR7_DObwfktsM",
+                "placeId": "ChIJ8aEpxc4EdkgR7_DObwfktsM",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 63.58841,
+                "travelDistanceMeters": 63.666496,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Embankment"
+                },
+                "name": "places/ChIJ85vnMskEdkgRizGhXNN3k6o",
+                "placeId": "ChIJ85vnMskEdkgRizGhXNN3k6o",
+                "straightLineDistanceMeters": 98.84612,
+                "travelDistanceMeters": 219.18324,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "subway_station",
+                    "transit_station"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "containingPlaces": [
+        {
+            "id": "ChIJCz_VKMkEdkgR-DOEW4h4LRE",
+            "name": "places/ChIJCz_VKMkEdkgR-DOEW4h4LRE"
+        }
+    ],
+    "currentOpeningHours": {
+        "nextCloseTime": "2025-11-25T16:30:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 16,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 16,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 16,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 16,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 16,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 16,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 11,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 7:00 AM – 4:30 PM",
+            "Tuesday: 7:00 AM – 4:30 PM",
+            "Wednesday: 7:00 AM – 4:30 PM",
+            "Thursday: 7:00 AM – 4:30 PM",
+            "Friday: 7:00 AM – 4:30 PM",
+            "Saturday: 11:00 AM – 4:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "displayName": {
+        "languageCode": "en",
+        "text": "Treats Sandwich Bar"
+    },
+    "formattedAddress": "49 Villiers St, London WC2N 6NE, UK",
+    "goodForWatchingSports": false,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x487604ce9589fd65:0x683d9d29f1dbc3c!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487604ce9589fd65:0x683d9d29f1dbc3c!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=469458284812549180&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487604ce9589fd65:0x683d9d29f1dbc3c!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487604ce9589fd65:0x683d9d29f1dbc3c!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=469458284812549180&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJZf2Jlc4EdkgRPLwdn9LZgwY",
+    "internationalPhoneNumber": "+44 20 7925 0615",
+    "liveMusic": false,
+    "location": {
+        "latitude": 51.507901700000005,
+        "longitude": -0.12330899999999997
+    },
+    "name": "places/ChIJZf2Jlc4EdkgRPLwdn9LZgwY",
+    "nationalPhoneNumber": "020 7925 0615",
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Artem Artemenko",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVzADf1bx2-NDES8-xt-daM7gsThVNdzdfTK0hlILeFLT-kDP0=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/112834469401846297985"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDM7o37AQ&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDM7o37AQ!2e10!4m2!3m1!1s0x487604ce9589fd65:0x683d9d29f1dbc3c",
+            "heightPx": 3774,
+            "name": "places/ChIJZf2Jlc4EdkgRPLwdn9LZgwY/photos/AWn5SU4wcxgF1Ya6r1Nsfvxotf9w1jD5gx4Lyps3l29_IrE2ZqKsMQUx2ueI0u9ei_zyK_UNVdfJmcXg84mU_A3uriFdQ0xEI4GNe_0rtWPiscYbN-KHhqD37fTOsrG47MUBXHsuZeAPJ_W3YYnHOeQ4jhSwEmo5NqpjuJ7fRIBb-FnO9j7Sr67WGRwXrn3vghUFloavk694nUH4FThZgjDAHtiCVQ99orfpe-wNC4RbUfB5Ugq8BAO9ZG5uGhanWKzMMAlD2aryVJKoFm4BFgsNtugr8g4WshtAPb6_HA74w6O6LXloez0gP60fLFOWkqwsb7Q7KkvRzo710wFT7-NHPZ_JrNBgs_3jqBUidevOyT-MIPJ8jF_4_H_Dp0snjwUzRGBn959V8mCgP4nT1Kx6OT5L7GtVCZfNiHDdYiOVCmY3kQ",
+            "widthPx": 3004
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV5G+5M London, UK",
+        "globalCode": "9C3XGV5G+5M"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "49 Villiers Street"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2N 6NE",
+        "regionCode": "GB"
+    },
+    "primaryType": "sandwich_shop",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Sandwich Shop"
+    },
+    "rating": 4.3,
+    "regularOpeningHours": {
+        "nextCloseTime": "2025-11-25T16:30:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 16,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 16,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 16,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 16,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 16,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 16,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 11,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 7:00 AM – 4:30 PM",
+            "Tuesday: 7:00 AM – 4:30 PM",
+            "Wednesday: 7:00 AM – 4:30 PM",
+            "Thursday: 7:00 AM – 4:30 PM",
+            "Friday: 7:00 AM – 4:30 PM",
+            "Saturday: 11:00 AM – 4:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Artem Artemenko",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVzADf1bx2-NDES8-xt-daM7gsThVNdzdfTK0hlILeFLT-kDP0=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/112834469401846297985/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURNN28yVERnEAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURNN28yVERnEAE!2m1!1s0x487604ce9589fd65:0x683d9d29f1dbc3c",
+            "name": "places/ChIJZf2Jlc4EdkgRPLwdn9LZgwY/reviews/ChZDSUhNMG9nS0VJQ0FnSURNN28yVERnEAE",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Expensive for no reason and poor quality products."
+            },
+            "publishTime": "2019-12-30T20:27:46.692225Z",
+            "rating": 3,
+            "relativePublishTimeDescription": "5 years ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Expensive for no reason and poor quality products."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "John McDade",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIaxUjx9bbMLYnoW-VkV3pVP2n3VAanZcgH6hGW4dji7W5tQw=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/100033568146990535950/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN3eXJmUkJnEAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN3eXJmUkJnEAE!2m1!1s0x487604ce9589fd65:0x683d9d29f1dbc3c",
+            "name": "places/ChIJZf2Jlc4EdkgRPLwdn9LZgwY/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3eXJmUkJnEAE",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Awesome little place.  Cheap good quality coffee and cakes in the heart of London, can you ask for more???"
+            },
+            "publishTime": "2017-10-19T19:39:42.433Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "8 years ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Awesome little place.  Cheap good quality coffee and cakes in the heart of London, can you ask for more???"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Αντρεας Αργυροπουλος",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXNrGbxFuiW3-hZ9Zmn2GF_aQjEcHG3l9_qFofsZdH5FMKEz9HU=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/105899318108450121647/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNJeTYzWHRBRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNJeTYzWHRBRRAB!2m1!1s0x487604ce9589fd65:0x683d9d29f1dbc3c",
+            "name": "places/ChIJZf2Jlc4EdkgRPLwdn9LZgwY/reviews/ChdDSUhNMG9nS0VJQ0FnSUNJeTYzWHRBRRAB",
+            "publishTime": "2018-12-07T12:55:52.711381090Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "6 years ago"
+        }
+    ],
+    "servesBeer": false,
+    "servesCocktails": false,
+    "servesCoffee": true,
+    "servesLunch": true,
+    "servesWine": false,
+    "shortFormattedAddress": "49 Villiers St, London",
+    "takeout": true,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "sandwich_shop",
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 3,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.509206330291505,
+            "longitude": -0.12192826970849795
+        },
+        "low": {
+            "latitude": 51.506508369708506,
+            "longitude": -0.124626230291502
+        }
+    },
+    "timestamp": 1764064800
+}

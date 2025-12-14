@@ -1,0 +1,1087 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleParking": false,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": true
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "19",
+            "shortText": "19",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Slingsby Place",
+            "shortText": "Slingsby Pl",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2E 9AB",
+            "shortText": "WC2E 9AB",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "St Martin's Courtyard"
+                },
+                "name": "places/ChIJ0YfiAc0EdkgRoKYIH7344ZA",
+                "placeId": "ChIJ0YfiAc0EdkgRoKYIH7344ZA"
+            },
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJs4GOh8sEdkgRRiBFZKMP8ZE",
+                "placeId": "ChIJs4GOh8sEdkgRRiBFZKMP8ZE"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Rossopomodoro Covent Garden"
+                },
+                "name": "places/ChIJ2cjoEc0EdkgRNs0j8LonCYg",
+                "placeId": "ChIJ2cjoEc0EdkgRNs0j8LonCYg",
+                "straightLineDistanceMeters": 61.95227,
+                "travelDistanceMeters": 97.94961,
+                "types": [
+                    "bar",
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Dishoom Covent Garden"
+                },
+                "name": "places/ChIJxZXYx7cEdkgRdgAOZ6OHOJw",
+                "placeId": "ChIJxZXYx7cEdkgRdgAOZ6OHOJw",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 42.23335,
+                "travelDistanceMeters": 72.99885,
+                "types": [
+                    "bar",
+                    "cafe",
+                    "establishment",
+                    "food",
+                    "meal_takeaway",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "TK Maxx"
+                },
+                "name": "places/ChIJkxhCVcwEdkgRPpPtDDaXqbM",
+                "placeId": "ChIJkxhCVcwEdkgRPpPtDDaXqbM",
+                "straightLineDistanceMeters": 94.44438,
+                "travelDistanceMeters": 119.65104,
+                "types": [
+                    "department_store",
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The Mousetrap at St. Martin's Theatre"
+                },
+                "name": "places/ChIJ2dkqXs0EdkgRlVUsXtEbwsQ",
+                "placeId": "ChIJ2dkqXs0EdkgRlVUsXtEbwsQ",
+                "straightLineDistanceMeters": 80.028915,
+                "travelDistanceMeters": 110.17152,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The White Company"
+                },
+                "name": "places/ChIJIztg4swEdkgRiYHNvpgonGk",
+                "placeId": "ChIJIztg4swEdkgRiYHNvpgonGk",
+                "spatialRelationship": "ACROSS_THE_ROAD",
+                "straightLineDistanceMeters": 26.68953,
+                "travelDistanceMeters": 17.935581,
+                "types": [
+                    "department_store",
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
+            }
+        ]
+    },
+    "allowsDogs": false,
+    "businessStatus": "OPERATIONAL",
+    "containingPlaces": [
+        {
+            "id": "ChIJVcjKBs0EdkgRYnVLQmcNBfk",
+            "name": "places/ChIJVcjKBs0EdkgRYnVLQmcNBfk"
+        }
+    ],
+    "currentOpeningHours": {
+        "nextOpenTime": "2025-11-25T12:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 – 10:30 PM",
+            "Tuesday: 12:00 – 10:30 PM",
+            "Wednesday: 12:00 – 10:30 PM",
+            "Thursday: 12:00 – 10:30 PM",
+            "Friday: 12:00 – 11:30 PM",
+            "Saturday: 12:00 – 11:30 PM",
+            "Sunday: 12:00 – 10:30 PM"
+        ]
+    },
+    "currentSecondaryOpeningHours": [
+        {
+            "nextOpenTime": "2025-11-25T12:00:00Z",
+            "openNow": false,
+            "periods": [
+                {
+                    "close": {
+                        "date": {
+                            "day": 30,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 0,
+                        "hour": 21,
+                        "minute": 30
+                    },
+                    "open": {
+                        "date": {
+                            "day": 30,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 0,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 1,
+                            "month": 12,
+                            "year": 2025
+                        },
+                        "day": 1,
+                        "hour": 21,
+                        "minute": 30
+                    },
+                    "open": {
+                        "date": {
+                            "day": 1,
+                            "month": 12,
+                            "year": 2025
+                        },
+                        "day": 1,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 25,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 2,
+                        "hour": 21,
+                        "minute": 30
+                    },
+                    "open": {
+                        "date": {
+                            "day": 25,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 2,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 26,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 3,
+                        "hour": 21,
+                        "minute": 30
+                    },
+                    "open": {
+                        "date": {
+                            "day": 26,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 3,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 27,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 4,
+                        "hour": 21,
+                        "minute": 30
+                    },
+                    "open": {
+                        "date": {
+                            "day": 27,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 4,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 28,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 5,
+                        "hour": 22,
+                        "minute": 30
+                    },
+                    "open": {
+                        "date": {
+                            "day": 28,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 5,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 29,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 6,
+                        "hour": 22,
+                        "minute": 30
+                    },
+                    "open": {
+                        "date": {
+                            "day": 29,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 6,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                }
+            ],
+            "secondaryHoursType": "KITCHEN",
+            "weekdayDescriptions": [
+                "Monday: 12:00 – 9:30 PM",
+                "Tuesday: 12:00 – 9:30 PM",
+                "Wednesday: 12:00 – 9:30 PM",
+                "Thursday: 12:00 – 9:30 PM",
+                "Friday: 12:00 – 10:30 PM",
+                "Saturday: 12:00 – 10:30 PM",
+                "Sunday: 12:00 – 9:30 PM"
+            ]
+        }
+    ],
+    "delivery": true,
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Gura Gura"
+    },
+    "formattedAddress": "19 Slingsby Pl, London WC2E 9AB, UK",
+    "goodForGroups": true,
+    "goodForWatchingSports": false,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x487605d04c857f09:0x174463b02b00d6db!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487605d04c857f09:0x174463b02b00d6db!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=1676574569575536347&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487605d04c857f09:0x174463b02b00d6db!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487605d04c857f09:0x174463b02b00d6db!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=1676574569575536347&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJCX-FTNAFdkgR29YAK7BjRBc",
+    "internationalPhoneNumber": "+44 7918 352879",
+    "liveMusic": true,
+    "location": {
+        "latitude": 51.5128025,
+        "longitude": -0.1264255
+    },
+    "menuForChildren": false,
+    "name": "places/ChIJCX-FTNAFdkgR29YAK7BjRBc",
+    "nationalPhoneNumber": "07918 352879",
+    "outdoorSeating": true,
+    "parkingOptions": {
+        "freeParkingLot": false
+    },
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Gura Gura",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXsDQjcK1AGzlpE3sPm5Eg8niVp9CY2B4TgWDBW7wF91k0nw1g=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110336438731432191189"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOpkKTPXlqHNz_j6JLn3lTXaH-tieskSB4xVQ2h&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOpkKTPXlqHNz_j6JLn3lTXaH-tieskSB4xVQ2h!2e10!4m2!3m1!1s0x487605d04c857f09:0x174463b02b00d6db",
+            "heightPx": 4331,
+            "name": "places/ChIJCX-FTNAFdkgR29YAK7BjRBc/photos/AWn5SU6SdMuambystvbgr1eu7C6o3D4Wom_BLTLKpv_j69H7oC_jNgv2h8saRQ7C3uTN0pWUj09KMD2gPWzZTmUCgRmGJ-eAer7dWCnCac7Z7uRCraGz1fyjAbQPqhYnM1r2ytQSzW0Tmr1VjTG9fQjDOUkkdyBv01AnIe_ACDumEGHsKLraUVNfo1feH8M8ZPjGsfOk97SUz_Z2sxD3IjHjmE4Ad9QGBo4fNUv3nHrg8rcxY4qarcDC4HAX82vQt_axvk6M1keuhe3u57YDbh8xpEalA5DNLE53wdjMQEohuOX4Ng",
+            "widthPx": 4478
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Gura Gura",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXsDQjcK1AGzlpE3sPm5Eg8niVp9CY2B4TgWDBW7wF91k0nw1g=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110336438731432191189"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipO5bCTHdL1WC9tJzg3qZYzvYi5KFoZ0457QTTim&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO5bCTHdL1WC9tJzg3qZYzvYi5KFoZ0457QTTim!2e10!4m2!3m1!1s0x487605d04c857f09:0x174463b02b00d6db",
+            "heightPx": 3185,
+            "name": "places/ChIJCX-FTNAFdkgR29YAK7BjRBc/photos/AWn5SU40ZP0y34pQjy2Xo8PACCJIRZbom6G-i0z0NvqjRqP5_c_QpzuaxcxHN49u8cH-ii_36JN-tF4kdujDyDP-QM5d8GuRsZK57I8he6Z6RvrM5lp65vFtGJkwVZ4lUnRs2NPjplICAekF401HaeWHEwUvAklOHpdpfuQ_387TGp35LBpJWm6g1WM41q1TqBAcaAdXigPtlHgRRatB3MNA_9A8unfvntYvc15EP5_NnYdWnFSsjM-fl8muh9zHcax86UdYzIj7oL2mFRLASgKAdylbZcIKexXXKhMe6dkv3QV3ew",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Gura Gura",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXsDQjcK1AGzlpE3sPm5Eg8niVp9CY2B4TgWDBW7wF91k0nw1g=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110336438731432191189"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipO6xeqnCCAEChJYZQOhpQrHfQOK-NqO_YysfvHK&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO6xeqnCCAEChJYZQOhpQrHfQOK-NqO_YysfvHK!2e10!4m2!3m1!1s0x487605d04c857f09:0x174463b02b00d6db",
+            "heightPx": 4800,
+            "name": "places/ChIJCX-FTNAFdkgR29YAK7BjRBc/photos/AWn5SU71bIQq-v-L_RbfSCyCJzub2MWujI6ixFI5tA_ZuyoEtaDUpIDtowAjbJwIMy5eKyAKrCVZRvPx30ua1qDonZNLj9RDnSM-fhUUCosLgLXMFJhd0mYiCmZh_hnUrYAP0yvJHfgntCUpvms1zedAfXWTCUMMTJw8NE7JNjiBzGe8vtMlhpFaB4fWPz2CULmC0n4CN3sDW-AznVZt5xk6FEltHN8bUk-eKuN0mHu9PeqvjEfIczVA8D3Pr-s1faOPamwdwtG1zp87E6WkocvTvOvMEsnX97rVm29IrMoLLhKpow",
+            "widthPx": 3841
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Sofiyah Kehinde",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVn__4SZzuCS3Vt0cCtRg60m_6WBSf2hK4q6vUsjL3T6jhceUFl=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/100197125263805833926"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhABkfBsxAak_DYnAPA_At3e&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhABkfBsxAak_DYnAPA_At3e!2e10!4m2!3m1!1s0x487605d04c857f09:0x174463b02b00d6db",
+            "heightPx": 4800,
+            "name": "places/ChIJCX-FTNAFdkgR29YAK7BjRBc/photos/AWn5SU7MMapxzQ4jfkTJeVMuD-BprHtqAstCh8irAHHi8jLQhgTc8IyT7vhYsYkwh5h94MURvxlzU2KwbW0S1EaUUYvpVjfL8MA4wq8VkOTgCFY1UDWQS5utE73XosuRxjr5Ut12HF1rZa9iMAWQYFWVQg8nlYIeHADTG34GDFX7C4zJv-YsDz391Ay9Zx4yhlJ2F5cmwkkORjWIauNUWGWbW12EczFzAqE0_Z5cTczuTFqJjcDsNTghVeihr9nuHl821MLHyFGeOZdlQGDFNERj8wIvr5-9b3QpIdzQTzBTXxHBUkv5LQDej8dWVjzP7W3VaWQwJcQ6A23B3DHraEP8OeWFfjnyYpX0UjpC2-VUJtSbWFJxvE7BMwBcxnUFhN_w3l_jMiLnKvFMtHIqddrpBVtfFecY1s2LkTMn6TaPLhmu--rPvDxWYmMoRbx86YAS",
+            "widthPx": 3600
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "shixun wu",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXFKulk-V8C1dDJnAnL903yq5_pp7LdUobxIJrxbNVhtc-qQHgy=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/103340599051187105777"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCI9o6fuQE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCI9o6fuQE!2e10!4m2!3m1!1s0x487605d04c857f09:0x174463b02b00d6db",
+            "heightPx": 4096,
+            "name": "places/ChIJCX-FTNAFdkgR29YAK7BjRBc/photos/AWn5SU6votHF9WO8jdtasw76mXeHxkvyPoD4gdK_UZZvbHQqZwbw-Nz6GTpTTEJzzBTU7OwwH6zgnKAkeT6ZDf-TYx1yxHrSeDg7QJ41N388hn4X0jeyK4IAQEh2d-V51K64NzY-u5REH80_XS0e-wZEoHB4HwhUNKpLAWhKTCHeIVzgF4Y0QKgZbCvYyRc2zErPUMXkWHmF4ipi-kMM8GEvUdu6-cxi6JzFsMk7B-s7qcNYptcw3dWvhMdQrrKGLkakpWrOA4hYkQVJst7Ncp7yfgFJ6cKe_Fyrb6HUml1TCedFrJoujHmqCIzME95GgrGHHys-Og0btlrBvrQsIHWF6F8mPsyvv25fLCiO2FkBy64XZSv-jz4UvDmju0-IjXzaueLrpSp4XpUNZqjrCj4PZ6iGG5I2XsP2O4_2XG2lh76ZDSSr",
+            "widthPx": 3072
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Gura Gura",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXsDQjcK1AGzlpE3sPm5Eg8niVp9CY2B4TgWDBW7wF91k0nw1g=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110336438731432191189"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPr8Z1-pzEYV1ZJN6KteQgETW5zhEVNOAIXOFVt&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPr8Z1-pzEYV1ZJN6KteQgETW5zhEVNOAIXOFVt!2e10!4m2!3m1!1s0x487605d04c857f09:0x174463b02b00d6db",
+            "heightPx": 2940,
+            "name": "places/ChIJCX-FTNAFdkgR29YAK7BjRBc/photos/AWn5SU5F6fqnVLx-ufFDIJZHiVI6Fbfiu9R9dj4YfLYtK0f4kMcHdW5pIo47lBsSr-jxmTs1Uy0UvYt1wb94xaB6J5_wVBbfWWlFbaiyai0c_4MeS8MyqnU7GlKF9oeiM9gq5_T4Uozsu7anLUtpQlYx47PADS9NemQ3CxGAvEFWG0x0Ze2H-rNZtt6MmEfVg2AvoEU-PV-X9mD1xdQzHBIdaO7FvNzALvxnJXSPqHZ62ip8kOXOzdJhZrh1K_yQk_WhjyYrVCCX7C0PfwCy3QDT6M9CiFLpK5dAErAw01zoiD6NCQ",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Gura Gura",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXsDQjcK1AGzlpE3sPm5Eg8niVp9CY2B4TgWDBW7wF91k0nw1g=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110336438731432191189"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOcveixzwkIj5o9LeJ_y51FvrRB4S2W6z_GZp_W&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOcveixzwkIj5o9LeJ_y51FvrRB4S2W6z_GZp_W!2e10!4m2!3m1!1s0x487605d04c857f09:0x174463b02b00d6db",
+            "heightPx": 4800,
+            "name": "places/ChIJCX-FTNAFdkgR29YAK7BjRBc/photos/AWn5SU5bfLIoZln0hyNy6aDGSZhavcPwkTUwXH2yZklkRShVBo8p4SKTRtyDMAo0wsRE59YX6yjKVg_8wXTC8VCLAplE8_OBM7He_NN2tZv_OwS3-aN0oni9GasyXAjddZ5QHwrOpMG7qV2ENr47rK0TIKQ2M4_tFsLHJMo_ch4wBiEke_t2YrxqcZ2KitFiPeTP-CWYeOMZ0rgQb1gvK4TP7fFUTs5pIGtmKANHsLey12V6D0FVR4QqDqn05HlSZkjeIDEklgusPu3H9q-BuKzeQ8dooss_JM91EaXGToZrFogomg",
+            "widthPx": 3840
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Gura Gura",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXsDQjcK1AGzlpE3sPm5Eg8niVp9CY2B4TgWDBW7wF91k0nw1g=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110336438731432191189"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipP2H9lqe0aFNc1udfPbcnWfogbkYV2hjA1Bhm6m&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP2H9lqe0aFNc1udfPbcnWfogbkYV2hjA1Bhm6m!2e10!4m2!3m1!1s0x487605d04c857f09:0x174463b02b00d6db",
+            "heightPx": 4800,
+            "name": "places/ChIJCX-FTNAFdkgR29YAK7BjRBc/photos/AWn5SU4wbQu8x7WifkmynqrZD0KpYo3sIoEhM_ZlHq-CzGw9xTyrKptP4qznLqqW0MGPZNxgiFcduMPWoDwCG-oS7_cpWIbyTWvTyB9VIOs5DZfTx6_J8RMkQlksWxbleHeV2LEWgy9YSxhNz6h_3OO8XybPjNiC3CoWljoStnuMssT40fRzypXBMkrJlOCKdRK3pRPN4HQ_8M8LrTbOFVGJZ2XoJ0tgJr8AkGx2o2Cysmx1BylNbahU9tH_gJ8K81ghdGztvFHYBkC6MGZFmVTgXIQmRn8uHMMt7N2_SSvY7iWgiA",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Gura Gura",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXsDQjcK1AGzlpE3sPm5Eg8niVp9CY2B4TgWDBW7wF91k0nw1g=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110336438731432191189"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMKH0lI4UwSAg5_pYPn_KfKNB5pwWLPz97frwhv&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMKH0lI4UwSAg5_pYPn_KfKNB5pwWLPz97frwhv!2e10!4m2!3m1!1s0x487605d04c857f09:0x174463b02b00d6db",
+            "heightPx": 4800,
+            "name": "places/ChIJCX-FTNAFdkgR29YAK7BjRBc/photos/AWn5SU7-lzBWZR3sxnZqC7Nwl7JIylcfZ6bDZND_gNAhoNdbdmQA8QGv-wlCBEOPuoZCiuqsv2Wxh_c_tIMJ_Kwb3no319WLCvc1AJdGPwPpYNpdsvDdLeO1c1jQTp0E1-KeI22BdZfqj_MpbS-mSOXDKB-hpUGbi3vEAOFUICGwMz455MStGxevj9DSaFCJnPfoVViXBsZZYuBDzshe9Tb0-Hgj2Gzh2sFsjnj0HipFpu0H6UG0TCwH55Hwi5L3vxCNGaPbiMPMmwq5wNRGOY8Gk5-9VXHVsJTL-t6mcieeB1zqYw",
+            "widthPx": 3841
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Gura Gura",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXsDQjcK1AGzlpE3sPm5Eg8niVp9CY2B4TgWDBW7wF91k0nw1g=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110336438731432191189"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMy8abwJmjmmasFZXgFiKlYdl5x2n7DMy1cz_8w&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMy8abwJmjmmasFZXgFiKlYdl5x2n7DMy1cz_8w!2e10!4m2!3m1!1s0x487605d04c857f09:0x174463b02b00d6db",
+            "heightPx": 4800,
+            "name": "places/ChIJCX-FTNAFdkgR29YAK7BjRBc/photos/AWn5SU4za5jIkeK57eNWdi7bynMPkGdMHq-Aph8dAiIWt2MFirEbLEZspXXx-jB6sd-XX4zdE1d8xJTz92_HIdOG_lU4T-bu5U-zAvaVIY8KZTQRelFRVG5OKalpeh_ikIsQa4eiNKZpFhCULxi3oxoy4riLkDjFdDEnM9h3nu6sO0vy1eI2MQxxUyFg3rSI6nByk41PIqmCSNFa9L9i1RUKQoQ33Rvnwcs0yMmCDw_zGgiKDURjkGF5MYXTFFY9iRGSQ_UCxAZuVuyuVjXqwyqY3RzerjtzaDL63vkw0QLK0HNPBQ",
+            "widthPx": 4800
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV7F+4C London, UK",
+        "globalCode": "9C3XGV7F+4C"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "19 Slingsby Place"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2E 9AB",
+        "regionCode": "GB"
+    },
+    "primaryType": "asian_restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Asian Restaurant"
+    },
+    "rating": 4.6,
+    "regularOpeningHours": {
+        "nextOpenTime": "2025-11-25T12:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 – 10:30 PM",
+            "Tuesday: 12:00 – 10:30 PM",
+            "Wednesday: 12:00 – 10:30 PM",
+            "Thursday: 12:00 – 10:30 PM",
+            "Friday: 12:00 – 11:30 PM",
+            "Saturday: 12:00 – 11:30 PM",
+            "Sunday: 12:00 – 10:30 PM"
+        ]
+    },
+    "regularSecondaryOpeningHours": [
+        {
+            "nextOpenTime": "2025-11-25T12:00:00Z",
+            "openNow": false,
+            "periods": [
+                {
+                    "close": {
+                        "day": 0,
+                        "hour": 21,
+                        "minute": 30
+                    },
+                    "open": {
+                        "day": 0,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "day": 1,
+                        "hour": 21,
+                        "minute": 30
+                    },
+                    "open": {
+                        "day": 1,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "hour": 21,
+                        "minute": 30
+                    },
+                    "open": {
+                        "day": 2,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "hour": 21,
+                        "minute": 30
+                    },
+                    "open": {
+                        "day": 3,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "hour": 21,
+                        "minute": 30
+                    },
+                    "open": {
+                        "day": 4,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "hour": 22,
+                        "minute": 30
+                    },
+                    "open": {
+                        "day": 5,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "hour": 22,
+                        "minute": 30
+                    },
+                    "open": {
+                        "day": 6,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                }
+            ],
+            "secondaryHoursType": "KITCHEN",
+            "weekdayDescriptions": [
+                "Monday: 12:00 – 9:30 PM",
+                "Tuesday: 12:00 – 9:30 PM",
+                "Wednesday: 12:00 – 9:30 PM",
+                "Thursday: 12:00 – 9:30 PM",
+                "Friday: 12:00 – 10:30 PM",
+                "Saturday: 12:00 – 10:30 PM",
+                "Sunday: 12:00 – 9:30 PM"
+            ]
+        }
+    ],
+    "reservable": true,
+    "restroom": true,
+    "reviewSummary": {
+        "disclosureText": {
+            "languageCode": "en-US",
+            "text": "Summarized with Gemini"
+        },
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=5%401:CAIQACodChtyc19oOjQyUWl2MnJBTVltVlpPY3ZKcGRCZUE%7CCAIQACoqChtyc19oOjQyUWl2MnJBTVltVlpPY3ZKcGRCZUESCwiE6LbIBhDApeBE&d=17924085&t=8",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487605d04c857f09:0x174463b02b00d6db!9m1!1b1",
+        "text": {
+            "languageCode": "en-US",
+            "text": "People say this Asian restaurant offers delicious sushi, dim sum, and Thai green curry, as well as creative cocktails and vegan options. They highlight the fresh food, generous portions, and vibrant atmosphere. They also like the friendly and attentive staff, and the quick service."
+        }
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Sofiyah Kehinde",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVn__4SZzuCS3Vt0cCtRg60m_6WBSf2hK4q6vUsjL3T6jhceUFl=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/100197125263805833926/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25GaVQzQmxiRFZmWldwUGJ6UTBURkZKUTIwNWFYYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GaVQzQmxiRFZmWldwUGJ6UTBURkZKUTIwNWFYYxAB!2m1!1s0x487605d04c857f09:0x174463b02b00d6db",
+            "name": "places/ChIJCX-FTNAFdkgR29YAK7BjRBc/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GaVQzQmxiRFZmWldwUGJ6UTBURkZKUTIwNWFYYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Visited this lovely restaurant last weekend. I gave 3 stars due to a few reasons. I ordered a beef stir fry which came extremely salty, I ordered egg fried rice to hopefully balance it out, that was very salty too so didn’t help. Looking back now, I should’ve sent it back to the kitchen as I could barely finish it. It was also a very small portion for £13 when the taste of the dish wasn’t up to par. I ordered the dragon roll when the other dishes let me down and that did not disappoint. Had a lovely sweet sauce that I dipped each piece of sushi into as well as pickled ginger and wasabi. This dish is the reason for the 3 stars.\n\nI ordered a non alcoholic cocktail (Blooming Berry) which was delightful, had to stop myself from ordering another.\n\nI came with a large group (20) and the waiters seemed to not be able to keep up with us as they would bring dishes to the table multiple times not knowing their other colleagues have brought it already. It seemed as though there was a lack of communication between them which made things frustrating.\n\nThe ambience of the restaurant was really nice though and I had a good time, can’t see myself coming back but I can say the sushi was worth it."
+            },
+            "publishTime": "2025-11-20T05:48:52.926135777Z",
+            "rating": 3,
+            "relativePublishTimeDescription": "in the last week",
+            "text": {
+                "languageCode": "en",
+                "text": "Visited this lovely restaurant last weekend. I gave 3 stars due to a few reasons. I ordered a beef stir fry which came extremely salty, I ordered egg fried rice to hopefully balance it out, that was very salty too so didn’t help. Looking back now, I should’ve sent it back to the kitchen as I could barely finish it. It was also a very small portion for £13 when the taste of the dish wasn’t up to par. I ordered the dragon roll when the other dishes let me down and that did not disappoint. Had a lovely sweet sauce that I dipped each piece of sushi into as well as pickled ginger and wasabi. This dish is the reason for the 3 stars.\n\nI ordered a non alcoholic cocktail (Blooming Berry) which was delightful, had to stop myself from ordering another.\n\nI came with a large group (20) and the waiters seemed to not be able to keep up with us as they would bring dishes to the table multiple times not knowing their other colleagues have brought it already. It seemed as though there was a lack of communication between them which made things frustrating.\n\nThe ambience of the restaurant was really nice though and I had a good time, can’t see myself coming back but I can say the sushi was worth it."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Nathaniel Marsh",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUQT9PMT9lUPA5T9lRKm1G-YqrHII6GVD1ELsJWG3N4LnKerEMyUQ=s128-c0x00000000-cc-rp-mo-ba6",
+                "uri": "https://www.google.com/maps/contrib/106314973836543723188/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25oSlNGVnVTelppTnpkSFNXVllUM0ZoZFd3Mk1HYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oSlNGVnVTelppTnpkSFNXVllUM0ZoZFd3Mk1HYxAB!2m1!1s0x487605d04c857f09:0x174463b02b00d6db",
+            "name": "places/ChIJCX-FTNAFdkgR29YAK7BjRBc/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oSlNGVnVTelppTnpkSFNXVllUM0ZoZFd3Mk1HYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "We recently enjoyed a lovely meal here. Staff were friendly and able to answer additional questions we had about the menu. The menu is massive so there is something for everyone. We opted for an assortment or small plates and cold plates as well as a few larger plates to share. Food was good quality and tasted freshly made. Excellent choice of cocktails on offer too.\n4 stars as I felt some of the items are a little expensive for the potion size  like 3 chicken gyozas for £10 (plus service)\n\nOverall I would recommend. Nice food, friendly staff and a convenient location."
+            },
+            "publishTime": "2025-11-09T08:03:21.493598428Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "2 weeks ago",
+            "text": {
+                "languageCode": "en",
+                "text": "We recently enjoyed a lovely meal here. Staff were friendly and able to answer additional questions we had about the menu. The menu is massive so there is something for everyone. We opted for an assortment or small plates and cold plates as well as a few larger plates to share. Food was good quality and tasted freshly made. Excellent choice of cocktails on offer too.\n4 stars as I felt some of the items are a little expensive for the potion size  like 3 chicken gyozas for £10 (plus service)\n\nOverall I would recommend. Nice food, friendly staff and a convenient location."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Keval Patel",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKVQl10VKIDnKzpcda-PR5xjHKIcEkBjq7ozXnl24IWQFJAhQ=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/100109196750668563889/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21OUWVIVlFhalF6YkZnNVZrRnJWMGt6WTB4a1RVRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21OUWVIVlFhalF6YkZnNVZrRnJWMGt6WTB4a1RVRRAB!2m1!1s0x487605d04c857f09:0x174463b02b00d6db",
+            "name": "places/ChIJCX-FTNAFdkgR29YAK7BjRBc/reviews/Ci9DQUlRQUNvZENodHljRjlvT21OUWVIVlFhalF6YkZnNVZrRnJWMGt6WTB4a1RVRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Gura Gura is a lovely Asian restaurant tucked away in Soho. I really liked the ambience and thought the service was pleasant. I thought the food was good but not mind blowing, the portions were also not amazing especially for the starters. Overall it’s a pretty good restaurant and matched my expectations."
+            },
+            "publishTime": "2025-10-11T09:51:33.836171506Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Gura Gura is a lovely Asian restaurant tucked away in Soho. I really liked the ambience and thought the service was pleasant. I thought the food was good but not mind blowing, the portions were also not amazing especially for the starters. Overall it’s a pretty good restaurant and matched my expectations."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Chloe Fiducia",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV5qWXo_wDnSt9-FBAzwavjN8igBMN5W6o2H9NWVizPy0qP6sQHIQ=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/104425695341097368588/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kxalN6ZFVNMjE0YlRoemVWY3RaVGhEWDBrNU1tYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxalN6ZFVNMjE0YlRoemVWY3RaVGhEWDBrNU1tYxAB!2m1!1s0x487605d04c857f09:0x174463b02b00d6db",
+            "name": "places/ChIJCX-FTNAFdkgR29YAK7BjRBc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxalN6ZFVNMjE0YlRoemVWY3RaVGhEWDBrNU1tYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Had the most amazing meal here, the food was great, the drinks were great! Gorgeous little place. One of best spicy margs ive ever had! Faves were the sea bass small plate and the tempure prawn dragon roll sushi, all foid was so tasty though!"
+            },
+            "publishTime": "2025-10-11T13:04:19.562860060Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Had the most amazing meal here, the food was great, the drinks were great! Gorgeous little place. One of best spicy margs ive ever had! Faves were the sea bass small plate and the tempure prawn dragon roll sushi, all foid was so tasty though!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Rika T",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXSz9XF4IF73Z278uXnXt-NLupSr5rvQa1ypk8gGM33c0Q6fUoa=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/104073772019011745639/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xKMVowWkZPWGx5V2s5Q2MwVlNVSFZsTTFWeFVGRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKMVowWkZPWGx5V2s5Q2MwVlNVSFZsTTFWeFVGRRAB!2m1!1s0x487605d04c857f09:0x174463b02b00d6db",
+            "name": "places/ChIJCX-FTNAFdkgR29YAK7BjRBc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKMVowWkZPWGx5V2s5Q2MwVlNVSFZsTTFWeFVGRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "We had a thoroughly enjoyable experience at Gura Gura. The menu delivers on both flavour and presentation, with the carpaccio standing out as a particularly well-executed dish — fresh, delicate, and beautifully balanced. The drinks were equally impressive, and I especially liked their unique approach of naming them by flavour profiles rather than typical cocktail names which made the selection feel more curated and intentional. The space itself is stylish and thoughtfully designed, with a vibrant yet relaxed atmosphere that allows for easy conversation and an elevated dining experience."
+            },
+            "publishTime": "2025-06-23T06:21:14.640878661Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "5 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "We had a thoroughly enjoyable experience at Gura Gura. The menu delivers on both flavour and presentation, with the carpaccio standing out as a particularly well-executed dish — fresh, delicate, and beautifully balanced. The drinks were equally impressive, and I especially liked their unique approach of naming them by flavour profiles rather than typical cocktail names which made the selection feel more curated and intentional. The space itself is stylish and thoughtfully designed, with a vibrant yet relaxed atmosphere that allows for easy conversation and an elevated dining experience."
+            }
+        }
+    ],
+    "servesBeer": true,
+    "servesBrunch": true,
+    "servesCocktails": true,
+    "servesCoffee": true,
+    "servesDessert": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "servesVegetarianFood": true,
+    "servesWine": true,
+    "shortFormattedAddress": "The Yards, 19 Slingsby Pl, London",
+    "takeout": true,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "asian_restaurant",
+        "sushi_restaurant",
+        "chinese_restaurant",
+        "japanese_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 1240,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.514215330291506,
+            "longitude": -0.12483041970849801
+        },
+        "low": {
+            "latitude": 51.51151736970851,
+            "longitude": -0.12752838029150204
+        }
+    },
+    "websiteUri": "https://guragura.co.uk/",
+    "timestamp": 1764064800
+}

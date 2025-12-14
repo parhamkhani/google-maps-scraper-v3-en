@@ -1,0 +1,817 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleParking": false,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": true
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en",
+            "longText": "Ground Floor",
+            "shortText": "Ground Floor",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Strand Palace Hotel",
+            "shortText": "Strand Palace Hotel",
+            "types": [
+                "premise"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "372",
+            "shortText": "372",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Strand",
+            "shortText": "Strand",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2R 0JJ",
+            "shortText": "WC2R 0JJ",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "und",
+                    "text": "Jubilee Market Hall"
+                },
+                "name": "places/ChIJ-ScSl8sEdkgRjISxG4sLNPY",
+                "placeId": "ChIJ-ScSl8sEdkgRjISxG4sLNPY"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "London Transport Museum"
+                },
+                "name": "places/ChIJLZLvpcsEdkgRnDYX5KYtpA4",
+                "placeId": "ChIJLZLvpcsEdkgRnDYX5KYtpA4"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The Savoy"
+                },
+                "name": "places/ChIJqUbg0ssEdkgR8QSuJx1uIAs",
+                "placeId": "ChIJqUbg0ssEdkgR8QSuJx1uIAs"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Strand Palace"
+                },
+                "name": "places/ChIJa7MYyssEdkgRW0GxGFyDvWw",
+                "placeId": "ChIJa7MYyssEdkgRW0GxGFyDvWw",
+                "spatialRelationship": "WITHIN",
+                "straightLineDistanceMeters": 2.7566206,
+                "travelDistanceMeters": 0.3063774,
+                "types": [
+                    "establishment",
+                    "lodging",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Lyceum Theatre"
+                },
+                "name": "places/ChIJcXx0Uoms2EcR8Be43HHdy2U",
+                "placeId": "ChIJcXx0Uoms2EcR8Be43HHdy2U",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 90.652885,
+                "travelDistanceMeters": 160.62962,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The Savoy"
+                },
+                "name": "places/ChIJTVquz8sEdkgRKdz7pP3v9BU",
+                "placeId": "ChIJTVquz8sEdkgRKdz7pP3v9BU",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 86.66262,
+                "travelDistanceMeters": 70.746826,
+                "types": [
+                    "establishment",
+                    "lodging",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Vaudeville Theatre"
+                },
+                "name": "places/ChIJczPJ8csEdkgRedKpYe0M6Wc",
+                "placeId": "ChIJczPJ8csEdkgRedKpYe0M6Wc",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 124.75176,
+                "travelDistanceMeters": 123.883965,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Jubilee Market"
+                },
+                "name": "places/ChIJZ5rPfcwEdkgRCld_oTBUf_k",
+                "placeId": "ChIJZ5rPfcwEdkgRCld_oTBUf_k",
+                "straightLineDistanceMeters": 104.93277,
+                "travelDistanceMeters": 188.25543,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "containingPlaces": [
+        {
+            "id": "ChIJa7MYyssEdkgRW0GxGFyDvWw",
+            "name": "places/ChIJa7MYyssEdkgRW0GxGFyDvWw"
+        }
+    ],
+    "curbsidePickup": false,
+    "currentOpeningHours": {
+        "nextOpenTime": "2025-12-11T12:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 14,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 14,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 15,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 15,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 16,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 16,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 17,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 17,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 0,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 14,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 0,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 – 11:30 PM",
+            "Tuesday: 12:00 – 11:30 PM",
+            "Wednesday: 12:00 – 11:30 PM",
+            "Thursday: 12:00 – 11:30 PM",
+            "Friday: 12:00 PM – 12:30 AM",
+            "Saturday: 12:00 PM – 12:30 AM",
+            "Sunday: 12:00 – 11:30 PM"
+        ]
+    },
+    "delivery": false,
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Haxells Restaurant & Bar"
+    },
+    "editorialSummary": {
+        "languageCode": "en",
+        "text": "Warm locale in a hotel setting, with a full bar, afternoon tea & modern takes on British classics."
+    },
+    "formattedAddress": "Ground Floor, Strand Palace Hotel, 372 Strand, London WC2R 0JJ, UK",
+    "goodForGroups": true,
+    "goodForWatchingSports": false,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x48760551bb8b3f81:0x207f09d55eb70e2c!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x48760551bb8b3f81:0x207f09d55eb70e2c!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=2341601143277686316&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x48760551bb8b3f81:0x207f09d55eb70e2c!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x48760551bb8b3f81:0x207f09d55eb70e2c!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=2341601143277686316&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJgT-Lu1EFdkgRLA63XtUJfyA",
+    "internationalPhoneNumber": "+44 20 7379 4737",
+    "liveMusic": false,
+    "location": {
+        "latitude": 51.5108955,
+        "longitude": -0.12088249999999998
+    },
+    "menuForChildren": false,
+    "name": "places/ChIJgT-Lu1EFdkgRLA63XtUJfyA",
+    "nationalPhoneNumber": "020 7379 4737",
+    "outdoorSeating": false,
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Haxells Restaurant & Bar",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVhK_f4FRlDqqgif6AYMAnsWzE-8ygyR2x91X1lZpbj8Z4L3oM=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/102882649230705116278"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPA5BWONA0By1LqNL_3JBpaTN5ohQijn-L-VPUR&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPA5BWONA0By1LqNL_3JBpaTN5ohQijn-L-VPUR!2e10!4m2!3m1!1s0x48760551bb8b3f81:0x207f09d55eb70e2c",
+            "heightPx": 1365,
+            "name": "places/ChIJgT-Lu1EFdkgRLA63XtUJfyA/photos/AZLasHrW1p7MxN-fe7YERUdxnBAIbNIqPXJu0RWykcgQxSQwyVypThmDSzpnRuuPoLvpycsRhGc_B02P0chCmWmpfhOldAu0N6Gku5Y72QxDXqVVrDfsHd0aSJ-wM_uvXfFL2D3feI83K8mgUGHWzZ5V-IspnNJbFVgO9tHJGI2BOKMLExGlfIcK_mi2reqmqEObtfXFKzTYMqZe9nMxB3nm8izQtKuB1mhEKo_vFAUsHLsjXdMD7cA3eNLSoefYII8ZAfrHVF1S-c_Y17twIcbi0aTLpW1jAQyeOULSlo-8c900_Q",
+            "widthPx": 2048
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Haxells Restaurant & Bar",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVhK_f4FRlDqqgif6AYMAnsWzE-8ygyR2x91X1lZpbj8Z4L3oM=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/102882649230705116278"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipP4t4a8b4X3NEWj7I21IEcAv1Bd-WujJ2Lyw-a0&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP4t4a8b4X3NEWj7I21IEcAv1Bd-WujJ2Lyw-a0!2e10!4m2!3m1!1s0x48760551bb8b3f81:0x207f09d55eb70e2c",
+            "heightPx": 1365,
+            "name": "places/ChIJgT-Lu1EFdkgRLA63XtUJfyA/photos/AZLasHphOPf0br4a9QI2IoUEgCZhRrBPStSSqo7cj3xLOVx2MgwsyazJkyIReYW2r1NCGsrOji3VAi9wkPmEUq4gWgjriL0uoNSKfBQQyV1VhkwEXj94FThCxmlrc9vrK9KGa24UlQvBwlGpXP5tHMcngDqGx_gRAxYwAAYn7QxOohNjsf2fVpKDJ2zMGBsk89t5ziJcZlSGD449VHA7t9v0tFHjz4BZS6bZ__NPq1juZQoxaj7_N3QFEVn1JtNJstNtyQ7r8auqB9I0c9Roh2UfCF0UTur5ZyY_0lIYcduNBhGozw",
+            "widthPx": 2048
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Haxells Restaurant & Bar",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVhK_f4FRlDqqgif6AYMAnsWzE-8ygyR2x91X1lZpbj8Z4L3oM=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/102882649230705116278"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPoaOP69QMvaMUcSAwgFvzSdTQnz5BvuUVhdyJ6&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPoaOP69QMvaMUcSAwgFvzSdTQnz5BvuUVhdyJ6!2e10!4m2!3m1!1s0x48760551bb8b3f81:0x207f09d55eb70e2c",
+            "heightPx": 1042,
+            "name": "places/ChIJgT-Lu1EFdkgRLA63XtUJfyA/photos/AZLasHrUaXkmLgNTdV0Z6yMXAt8drWngmyVhnXMTmbgs93Pqwk93mdI6s4_QcOSzfvxltndObFBbkwi49Li3O1XgloVCbr0NR1QS1YHps0RpoVbtsZpQQtTYNgRdqKIIO-E5P8Co86alP53wlntYgH4czbnOYeSOb_IDzEtNhRAn2ebMHoSZzC4P-_LdlPj29kn1cWfzt0PJgZaSDzON9Oniz4Mxiku_7qY7g7sJb7PcLUFQAQzxagHEDH4aLt3I0u3OatS6gjGTkp_s_A3WAEZ2ZEe6g1-kIVSxlbK1s45RgCzetw",
+            "widthPx": 2813
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Haxells Restaurant & Bar",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVhK_f4FRlDqqgif6AYMAnsWzE-8ygyR2x91X1lZpbj8Z4L3oM=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/102882649230705116278"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMqg2Pkf2zIBFZtAEWorswAWfPDP6IQj_iV_2lX&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMqg2Pkf2zIBFZtAEWorswAWfPDP6IQj_iV_2lX!2e10!4m2!3m1!1s0x48760551bb8b3f81:0x207f09d55eb70e2c",
+            "heightPx": 1365,
+            "name": "places/ChIJgT-Lu1EFdkgRLA63XtUJfyA/photos/AZLasHotq8dcn1YZ0ejBkStY3SAw2mZKTYRUQioC-ylD7WuV6pT5sHp3kztA_VbDShmffHkgr9hOTYmQhLJTomvimq_BhuveGksOeRg0NMuZ-3JnIyCv5tDm-Jx0C9NIN7hMRyZK6jajse65Nw5MYwWpxPx4PlccJODYw4oxoPJquyoTQA6DF22QH17tqWSwXudSda92Kje5SX2VlYH-Zw54E5-_XuUGsVHhnOfR7ivE-mM35NDTpnVsYXPbS7V3LYGABiIYc70yaROkdGuWzas2OpKVcApXvGELdssEnakFqbFpuQ",
+            "widthPx": 2048
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Haxells Restaurant & Bar",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVhK_f4FRlDqqgif6AYMAnsWzE-8ygyR2x91X1lZpbj8Z4L3oM=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/102882649230705116278"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNwEPBUsOBifC5e6iGHne5TJNnyEHMUP1gpW70q&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNwEPBUsOBifC5e6iGHne5TJNnyEHMUP1gpW70q!2e10!4m2!3m1!1s0x48760551bb8b3f81:0x207f09d55eb70e2c",
+            "heightPx": 1440,
+            "name": "places/ChIJgT-Lu1EFdkgRLA63XtUJfyA/photos/AZLasHq-lmW4zlA9sVUimfaUqvBBUwdCTzcbuMifYEsX1N6ohOjcgr9nF3c3maDJMTfNtXLL15Tt9wkmjB3X5p3tDTyCgNS9HNlRnj2MGDSYcicEge5pNU5lnnfJEjXVmMJP18c-9cPMQvD9F_qDSmz3bdc9xu8PEVpla-llKWsy5AG7NJjDE1bGO5PNjkDQ4107zZTDd3DfzzJVGefw0b31nprl7pg3PAINb0_9mt3JtXWNlr1vn8QS0mu7klvaIv1OkvgdgJCR42ZRYS2m7NPnirUu-YVUPmitLAuBIKSfbdmVdA",
+            "widthPx": 1920
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Haxells Restaurant & Bar",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVhK_f4FRlDqqgif6AYMAnsWzE-8ygyR2x91X1lZpbj8Z4L3oM=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/102882649230705116278"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPDK3qm5F-RMucotELDjAkJjYCcMt82g7ISpTxV&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPDK3qm5F-RMucotELDjAkJjYCcMt82g7ISpTxV!2e10!4m2!3m1!1s0x48760551bb8b3f81:0x207f09d55eb70e2c",
+            "heightPx": 1141,
+            "name": "places/ChIJgT-Lu1EFdkgRLA63XtUJfyA/photos/AZLasHquwVO6lL7e-WxCG0_nXCogqwT9kO7tFIepAIZPpeNrvTRncWOJwe4W4S3PqgxCMd6fHVggXB3Zmrqa89ZAHolKVeRvh_2BD0XwyK6s_QudR627o1bTzmXSqC_nQL_08NiG3v8pR0g4pJNc9Tbvb64H5dgKwg6uLzwWQFw0dX3-sY48QxwaV7ZKkhcFnnE7ex5kXVTA_8c54_IRlepMhhFo9fTrZUMtcqijYulKZnx4ZuCSA4LXO-yu1VYlkIbcMWkVLFJDEkzk8bng7wH28XmMIb4EtcOWe0bS2ko8lJax3g",
+            "widthPx": 1711
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Venetia Cattroll",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXj9fKN0UCMqI3oLJehK2gtMvD1dWhahiLG1QOHX_Q9Pv-NqRrDQQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117323446711742293571"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID9-_6SNg&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID9-_6SNg!2e10!4m2!3m1!1s0x48760551bb8b3f81:0x207f09d55eb70e2c",
+            "heightPx": 3120,
+            "name": "places/ChIJgT-Lu1EFdkgRLA63XtUJfyA/photos/AZLasHoN6IO0G7U0PPtUV-fgxlBsRvFdotNOYsZbQj-o83PcZ0rVmI92XZ0evy41nbIY1eTs4o20lugWmIBfwGzBg5f7Sztsy6wKS51IsIbB5U21_Dh-frpN6tB2aPE7cm-M77vU3Zf1IlrTnPFdIcZH89_3eSbdf4JwZ5VnF6bvZ0L5cEJyRHWywbxrY81JcnY0aNwh3YH5KLFtMnDUWkc1PsabE0_S_zSZXZgUGVIsKcO-sOC2oVUQKSRcpTTFY3BbAKRbpB_uUsYPwNTwEPhQRqKa1Uha8xBWuJa_2L0E_B0Bkcosf6SFP565yGG7OfeXHrqjL1y0812Bn_s6AR6xMQkgK8hNK2lmG8c6OY-tnLGCWwwynERiBSZaTNyvf9fFrlkFRdGgL3yazpJTIzF4U-IK5bkK0GlzcXUIUFVZ_1lTKQ",
+            "widthPx": 4160
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Laura Negrín",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJqXS90o96cbo0ETr__V0USbFbrHf4aHbjmm84OwjQxUsuPaSc=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110152233066908332117"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhALRQx8tQH2mXcTE0tzWRDh&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhALRQx8tQH2mXcTE0tzWRDh!2e10!4m2!3m1!1s0x48760551bb8b3f81:0x207f09d55eb70e2c",
+            "heightPx": 2160,
+            "name": "places/ChIJgT-Lu1EFdkgRLA63XtUJfyA/photos/AZLasHqWvKi1ub0eZ1opjIIsRCZC65bc729ZPeK276fZQHIGdBgF1atonuyUYubcbEGLFb3UvI1HJiSi-85KXP398wGX2lEo0C3O-Vxb6tOgTySVFETOvx0VZ5JwU1PyedzxaP_mq6oWujtivWM8waQiE2sLh2jlQGEd5xVs6O1nC1RtJ75Y-oPQY-Cg89f9HymwTVCRVJ_R9TNaTuWgzgFkAvQPkq7LILvYynbfD2LvbfQZZXVaebETb55dMR0F2vhug24SnUBiYDaFnT8z5mMz-oYGAbPDLypHg19wmM2Q9bq5epPlArCRDkPb9iKWKMzBgH347YNdvAF68NnT7kAFPW7YJ5aBhrGhav3syweu8lLnsqpOTjNNq8VpbpU5of6RJSttPZdHyWmVpZ8j7nYQpagKExwYJtQE75H7wE_NtY_e-DLy732ACd7p5BxiBw",
+            "widthPx": 3840
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Haxells Restaurant & Bar",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVhK_f4FRlDqqgif6AYMAnsWzE-8ygyR2x91X1lZpbj8Z4L3oM=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/102882649230705116278"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOqBDo09WaTacM0K_M_60OZpKGnH29TfHwlhYnQ&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOqBDo09WaTacM0K_M_60OZpKGnH29TfHwlhYnQ!2e10!4m2!3m1!1s0x48760551bb8b3f81:0x207f09d55eb70e2c",
+            "heightPx": 1365,
+            "name": "places/ChIJgT-Lu1EFdkgRLA63XtUJfyA/photos/AZLasHq2md9Ah_MSyqLJoZntwqz8LlzMLXjCJvixeGe-jokTQiWwrMUcuHZbrps7x3PugjROqgg4VdnAgg5I3UT_q2E1v2JAGTs8rmus11Cq_VhWxEelfVhmc4nyJxEz1i24n9LC_oWDuKtUauTHIU5lk6Q_byd3yWfQqd6p_c7rM09usEfl_Y-y4VBlq70U9Uh-S3sUDpahPxR63YnG4mVR7n9JkENAhiy4zAiNBqGukriGJ39_i_MtxkU9ER0_nJwtj5ot2g2rUqgEbhjFVNdi45G5GqMWf_HKUDjh_wwdkwrY_Q",
+            "widthPx": 2048
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Angelina Fesenko",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVVeRxqGobwVKCOv_zIo0qL3bMUL6TbCuTZeOKtd--SZ6tkB0GX=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/107593580340241195983"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDw1pvxbw&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDw1pvxbw!2e10!4m2!3m1!1s0x48760551bb8b3f81:0x207f09d55eb70e2c",
+            "heightPx": 4032,
+            "name": "places/ChIJgT-Lu1EFdkgRLA63XtUJfyA/photos/AZLasHoCUFoqcLrq7F6GgOniBvo8uaT4t_YBlgvYQe_F13pnveqELZ0nfqfvpraHSyVHSFN6SJQG5K4kc604Cppp9_tu--q0gv6tOhI-jwyU_WGhXyJJLUS7OXg-zln_qNymxYcGCy6CZdMyE7Rz_HP7wtp8BjScHSt6F7hHVcDuh5eOrC0AW-t3UcZaymXIrTk4LwUVU-sy7hnZ4ViSJOSeG3Nd0TcDEA-zt9rIkoco9x5hZTAxYX2hVRrFsz3N7NSqyi5MzUJsS6xqs9ruXOeQ1HE-SCFwFAy8x9l_yySO0nsCDhWZleOtTyM4gAZL8Nuo9wYh0dC5DeuqHYfkijeRSql-rH6EnVrAwhugu3RzhR-zDn7fd0kPl1pcX_KpApOg84xNjxlQVfQoMc7rDvjESunJYuB979iI0ZVDvnaUS7G_ew",
+            "widthPx": 2268
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV6H+9J London, UK",
+        "globalCode": "9C3XGV6H+9J"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "Ground Floor, Strand Palace Hotel",
+            "372 Strand"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2R 0JJ",
+        "regionCode": "GB"
+    },
+    "primaryType": "restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Restaurant"
+    },
+    "rating": 3.7,
+    "regularOpeningHours": {
+        "nextOpenTime": "2025-12-11T12:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 0,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 0,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 – 11:30 PM",
+            "Tuesday: 12:00 – 11:30 PM",
+            "Wednesday: 12:00 – 11:30 PM",
+            "Thursday: 12:00 – 11:30 PM",
+            "Friday: 12:00 PM – 12:30 AM",
+            "Saturday: 12:00 PM – 12:30 AM",
+            "Sunday: 12:00 – 11:30 PM"
+        ]
+    },
+    "reservable": true,
+    "restroom": true,
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Jacob Clarke",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLh3DT9tHun0h7qAQibAH0g8PQ8XrsUxDN3dGbREDziwRXFA9Q=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/106302576756029044943/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kxQ2JuTjVkRk4wY1U1U1h6aFhkalJHYVZWME1YYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxQ2JuTjVkRk4wY1U1U1h6aFhkalJHYVZWME1YYxAB!2m1!1s0x48760551bb8b3f81:0x207f09d55eb70e2c",
+            "name": "places/ChIJgT-Lu1EFdkgRLA63XtUJfyA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxQ2JuTjVkRk4wY1U1U1h6aFhkalJHYVZWME1YYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "My previous experience of breakfast was underwhelming, to say the least, but I decided to allow them to redeem themselves at a dinner service. I ordered the “Prime Beef Burger”, and after the first bite, my palate jumped for joy as this was potentially the nicest burger I have had in recent years. 10/10. I then turned to my chips, crispy and delightful. The presentation of the whole dish was phenomenal, and I pleasure to eat. They were even to accommodate specific accommodation, going out of their way to ensure customer satisfaction, and doing well, might I add. I strongly encourage you to come and enjoy a dinner service here, and I hope your experience will be a good as mine."
+            },
+            "publishTime": "2025-07-20T19:32:11.017870974Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "4 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "My previous experience of breakfast was underwhelming, to say the least, but I decided to allow them to redeem themselves at a dinner service. I ordered the “Prime Beef Burger”, and after the first bite, my palate jumped for joy as this was potentially the nicest burger I have had in recent years. 10/10. I then turned to my chips, crispy and delightful. The presentation of the whole dish was phenomenal, and I pleasure to eat. They were even to accommodate specific accommodation, going out of their way to ensure customer satisfaction, and doing well, might I add. I strongly encourage you to come and enjoy a dinner service here, and I hope your experience will be a good as mine."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Venetia Cattroll",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXj9fKN0UCMqI3oLJehK2gtMvD1dWhahiLG1QOHX_Q9Pv-NqRrDQQ=s128-c0x00000000-cc-rp-mo-ba6",
+                "uri": "https://www.google.com/maps/contrib/117323446711742293571/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ5LTU3bFJBEAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ5LTU3bFJBEAE!2m1!1s0x48760551bb8b3f81:0x207f09d55eb70e2c",
+            "name": "places/ChIJgT-Lu1EFdkgRLA63XtUJfyA/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ5LTU3bFJBEAE",
+            "originalText": {
+                "languageCode": "en",
+                "text": "The best restaurant I have ever been to, from the food to the excellent service to the atmosphere.\nI had beetroot and goats cheese salad for starters which was lovely and my partner had chicken liver pate which was tasty and nicely presented.\nI had seabass for my main which was lovely and tasty and large portion, my partner had corn feed chicken and garlic mash and baby carrots, which he said was lovely and the chicken so supple, also a large portion, he couldn't eat it all.\nWe both had a side of garden vegetables, which were cooked perfectly.\nFor dessert we both had sticky toffee pudding which was so filling and really tasty. We both had a glass of house red.\nThe service was excellent and the waiter was so attentive and he never even had to write the order down, he remembered it and I gave him the whole 3 courses at once. His name was Armur I think and he was so polite and happy and helpful a credit to Haxells.\nThe atmosphere is lovely low lighting just right for an evening meal. Quite busy for a week day which was good.\nWe had told the waiter it was our Anniversary so he brought us a cake with Happy Anniversary on it for us after our dessert which was lovely and a really nice surprise to go to all that trouble for us.\nSo would definitely recommend it to anyone and would definitely go again."
+            },
+            "publishTime": "2024-03-21T16:03:54.568269Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a year ago",
+            "text": {
+                "languageCode": "en",
+                "text": "The best restaurant I have ever been to, from the food to the excellent service to the atmosphere.\nI had beetroot and goats cheese salad for starters which was lovely and my partner had chicken liver pate which was tasty and nicely presented.\nI had seabass for my main which was lovely and tasty and large portion, my partner had corn feed chicken and garlic mash and baby carrots, which he said was lovely and the chicken so supple, also a large portion, he couldn't eat it all.\nWe both had a side of garden vegetables, which were cooked perfectly.\nFor dessert we both had sticky toffee pudding which was so filling and really tasty. We both had a glass of house red.\nThe service was excellent and the waiter was so attentive and he never even had to write the order down, he remembered it and I gave him the whole 3 courses at once. His name was Armur I think and he was so polite and happy and helpful a credit to Haxells.\nThe atmosphere is lovely low lighting just right for an evening meal. Quite busy for a week day which was good.\nWe had told the waiter it was our Anniversary so he brought us a cake with Happy Anniversary on it for us after our dessert which was lovely and a really nice surprise to go to all that trouble for us.\nSo would definitely recommend it to anyone and would definitely go again."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Ra. Phi",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ-ETSbPS-97WEmn6hh_5dhCZmgIe77Ixy03QfRqYOdukh_3A=s128-c0x00000000-cc-rp-mo-ba2",
+                "uri": "https://www.google.com/maps/contrib/112916755282292211053/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25FMkxYaHZiWEJKVTBkVU0wNWpWRGhaVUZCTU5FRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25FMkxYaHZiWEJKVTBkVU0wNWpWRGhaVUZCTU5FRRAB!2m1!1s0x48760551bb8b3f81:0x207f09d55eb70e2c",
+            "name": "places/ChIJgT-Lu1EFdkgRLA63XtUJfyA/reviews/Ci9DQUlRQUNvZENodHljRjlvT25FMkxYaHZiWEJKVTBkVU0wNWpWRGhaVUZCTU5FRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "The restaurant is located in the Hotel Lobby of the Strand Hotel. The food was okay. However the service was miserable. We ordered a Burger, one Club Sandwich and fried courgettes. The Burger and the Sandwich were served very quickly, however the fried courgettes arrived 30(!) minutes later when everybody has eaten. We asked the staff three times, nothing happened. Only after the supervisor came, the food was prepared. At least we weren‘t billed for it."
+            },
+            "publishTime": "2025-08-15T17:36:58.424665709Z",
+            "rating": 2,
+            "relativePublishTimeDescription": "3 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "The restaurant is located in the Hotel Lobby of the Strand Hotel. The food was okay. However the service was miserable. We ordered a Burger, one Club Sandwich and fried courgettes. The Burger and the Sandwich were served very quickly, however the fried courgettes arrived 30(!) minutes later when everybody has eaten. We asked the staff three times, nothing happened. Only after the supervisor came, the food was prepared. At least we weren‘t billed for it."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Faye D",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUfcTvaQdkCvMmeVQ6jb9LKQc7zkU-S9JxSc2UA2Wad0cZ0LKU=s128-c0x00000000-cc-rp-mo-ba2",
+                "uri": "https://www.google.com/maps/contrib/117879378024362487431/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tvd1RqQkNlRWRNYXpKQ1JIaFZkVFZ6U1VsQk1FRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tvd1RqQkNlRWRNYXpKQ1JIaFZkVFZ6U1VsQk1FRRAB!2m1!1s0x48760551bb8b3f81:0x207f09d55eb70e2c",
+            "name": "places/ChIJgT-Lu1EFdkgRLA63XtUJfyA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tvd1RqQkNlRWRNYXpKQ1JIaFZkVFZ6U1VsQk1FRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "We enjoyed the pre-theatre two course menu. A few of us chose seabass as our main course and it was delicious. The accompaniments were equally as tasty. And a great portion size for both mains and deserts. The waiter staff were very attentive and helpful."
+            },
+            "publishTime": "2025-09-17T08:35:31.822950203Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "We enjoyed the pre-theatre two course menu. A few of us chose seabass as our main course and it was delicious. The accompaniments were equally as tasty. And a great portion size for both mains and deserts. The waiter staff were very attentive and helpful."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "X",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWbrxi3utsiaETwX_HN6B3qZknl4l5Fnz98v7NDlEDN39HHnD_9=s128-c0x00000000-cc-rp-mo-ba6",
+                "uri": "https://www.google.com/maps/contrib/108319863510123265414/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURKdHJHV2lRRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURKdHJHV2lRRRAB!2m1!1s0x48760551bb8b3f81:0x207f09d55eb70e2c",
+            "name": "places/ChIJgT-Lu1EFdkgRLA63XtUJfyA/reviews/ChdDSUhNMG9nS0VJQ0FnSURKdHJHV2lRRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "The salad is beautifully presented. A bit too oily for me, strong enough to taste the olive flavor— at least the oil seems good. There’s no balsamic taste in it, however. Probably someone in the kitchen forgot it. I asked for extra vinegar on the side and it’s better. (Hope people ordering hot dishes won’t have problems as it will be more difficult to fix.) On the bright side, the has more greens than I expected XD The spinach is super fresh and the avocado is not raw.\n\nThe espresso is decent for a hotel.\n\nOverall a pretty welcoming cafe/bar in the hotel lobby. Ample lighting and power sockets for me to read a book while my friend recharges by Power Nap."
+            },
+            "publishTime": "2023-07-16T17:43:11.056214Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "2 years ago",
+            "text": {
+                "languageCode": "en",
+                "text": "The salad is beautifully presented. A bit too oily for me, strong enough to taste the olive flavor— at least the oil seems good. There’s no balsamic taste in it, however. Probably someone in the kitchen forgot it. I asked for extra vinegar on the side and it’s better. (Hope people ordering hot dishes won’t have problems as it will be more difficult to fix.) On the bright side, the has more greens than I expected XD The spinach is super fresh and the avocado is not raw.\n\nThe espresso is decent for a hotel.\n\nOverall a pretty welcoming cafe/bar in the hotel lobby. Ample lighting and power sockets for me to read a book while my friend recharges by Power Nap."
+            }
+        }
+    ],
+    "servesBeer": true,
+    "servesBreakfast": true,
+    "servesBrunch": true,
+    "servesCocktails": true,
+    "servesCoffee": true,
+    "servesDessert": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "servesVegetarianFood": true,
+    "servesWine": true,
+    "shortFormattedAddress": "Ground Floor, Strand Palace Hotel, 372 Strand, London",
+    "takeout": false,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 125,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.512221480291494,
+            "longitude": -0.119729819708498
+        },
+        "low": {
+            "latitude": 51.509523519708495,
+            "longitude": -0.12242778029150203
+        }
+    },
+    "websiteUri": "https://www.strandpalacehotel.co.uk/restaurants-bars/haxells-restaurant-and-bar.html",
+    "timestamp": 1765447200
+}

@@ -1,0 +1,489 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "24A",
+            "shortText": "24A",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Newport Court",
+            "shortText": "Newport Ct",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2H 7JS",
+            "shortText": "WC2H 7JS",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJs4GOh8sEdkgRRiBFZKMP8ZE",
+                "placeId": "ChIJs4GOh8sEdkgRRiBFZKMP8ZE"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Soho"
+                },
+                "name": "places/ChIJm39Ln9QEdkgR0l1-U8xXTuQ",
+                "placeId": "ChIJm39Ln9QEdkgR0l1-U8xXTuQ"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Vue Cinema London - West End (Leicester Square)"
+                },
+                "name": "places/ChIJQ5TwgGyue0gRhxMwO-iXTYU",
+                "placeId": "ChIJQ5TwgGyue0gRhxMwO-iXTYU",
+                "spatialRelationship": "BESIDE",
+                "straightLineDistanceMeters": 45.962994,
+                "travelDistanceMeters": 51.23373,
+                "types": [
+                    "establishment",
+                    "food",
+                    "movie_theater",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Q-Park Chinatown"
+                },
+                "name": "places/ChIJsZRhh80EdkgROJ00VxRNeak",
+                "placeId": "ChIJsZRhh80EdkgROJ00VxRNeak",
+                "straightLineDistanceMeters": 48.848427,
+                "travelDistanceMeters": 61.5282,
+                "types": [
+                    "establishment",
+                    "parking",
+                    "point_of_interest",
+                    "storage"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Palace Theatre"
+                },
+                "name": "places/ChIJYxVJmtIEdkgRSFNK6hLhPvQ",
+                "placeId": "ChIJYxVJmtIEdkgRSFNK6hLhPvQ",
+                "straightLineDistanceMeters": 141.21016,
+                "travelDistanceMeters": 165.93472,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Leicester Square"
+                },
+                "name": "places/ChIJVX1-GtIEdkgR1n_gGjHQZpI",
+                "placeId": "ChIJVX1-GtIEdkgR1n_gGjHQZpI",
+                "straightLineDistanceMeters": 180.25371,
+                "travelDistanceMeters": 171.71115,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Prince Charles Cinema"
+                },
+                "name": "places/ChIJs_wVR9IEdkgRqColcXYGFE0",
+                "placeId": "ChIJs_wVR9IEdkgRqColcXYGFE0",
+                "straightLineDistanceMeters": 78.6174,
+                "travelDistanceMeters": 124.861755,
+                "types": [
+                    "establishment",
+                    "movie_theater",
+                    "point_of_interest"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "displayName": {
+        "languageCode": "en",
+        "text": "Joy Fried Chicken"
+    },
+    "formattedAddress": "24A Newport Ct, London WC2H 7JS, UK",
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x48760500095b76c1:0x24e7a1469b71e1ad!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x48760500095b76c1:0x24e7a1469b71e1ad!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=2659271429613281709&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x48760500095b76c1:0x24e7a1469b71e1ad!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x48760500095b76c1:0x24e7a1469b71e1ad!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=2659271429613281709&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJwXZbCQAFdkgRreFxm0ah5yQ",
+    "location": {
+        "latitude": 51.5119183,
+        "longitude": -0.1293504
+    },
+    "name": "places/ChIJwXZbCQAFdkgRreFxm0ah5yQ",
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "sehrazat b",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXzD9SPjf1gKbdFjCybv-ugewgUQs9NDhaiiebq1dhh8aAQuysH=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/102190143050341999387"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDLpYdUA16x2ZEIITAHcqAx&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDLpYdUA16x2ZEIITAHcqAx!2e10!4m2!3m1!1s0x48760500095b76c1:0x24e7a1469b71e1ad",
+            "heightPx": 3283,
+            "name": "places/ChIJwXZbCQAFdkgRreFxm0ah5yQ/photos/AZLasHobSWJV0Rh4FO7di3iB__r4pg5oM-MJnazKSRR7Z2XYQhX1SyS0ySeIbV5Yoxor4KNqH9ZW3UJdxfh6-NAMhA3fuzOu7LG3yql75-SZ-EaN45WveHAQ9fR0P63XEHwxk5AbW3R_vmskXIRMXwb7YfygdooV-xV20Gf_Ae6-1beCMH7tweEcwD6qep2BaZ4L6LZetBd8RWa0Q1Avqw1T9KIV5KnH3173tmx1-vbdfI7shcvfzE02chTQ2DnK9jFfez2-qxo_gAOT_U4W8iigfZOCGzc1hsqbvwEhH50gMwxqnjpeZbjzIffUELAdMmBhe7Ws9hnzbEqi2mmz2O1wvbN25AD37y5DqXUwZaDtwv3-XqkIPxHoM_VmhnLqlh-wBUKW357nOyQfByRWGxNxe4zOIhP1IiECbP2vIfIspst5w9SkWqTaI1J7PMLmLVhy",
+            "widthPx": 2629
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Rhiannon",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXmNLDwQ1taaLjYp_Uw6x6xOQFykYGZ0sU3O2-loqHaa6OYwTUK=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/105553658430045570373"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDBrMtFI37N5S057F5XnjB9&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDBrMtFI37N5S057F5XnjB9!2e10!4m2!3m1!1s0x48760500095b76c1:0x24e7a1469b71e1ad",
+            "heightPx": 4080,
+            "name": "places/ChIJwXZbCQAFdkgRreFxm0ah5yQ/photos/AZLasHpP8DvIGSjTY0WEF3le-kgcmgRsfyrIXzK1Hs1NNF0VstLCkLZ9Gd575XLXJWTwLFoL6OoZyguNL0gyk-gwM_5CU8pT8sz_u88xvW3vqD4NL008lAh1EZNjWbIZAxrOqkTPbSog8AQUwPY6XNfHCuaH_VRabhxZBUFMW43cpluFNbVlmimcWKNpyZMuQ9s6oLSl895YrahTr4NCHisqODq5W3vT0cnI8kpEckC4nf5lkxR6w8QnULhscIw2yopK69EEC-w5VrvHcxQSUC8Ef38jlNhMRSqdwYpMLjqpS24tVH_AVW7GWpNmC67guLTgaTC_ZPEub5WsT21DrAb3JIkSeR8a6ExW2XilUThsa5XEnudIB7UYTAjVEWcQmV23yf2VUbJP-X04VlPw-f4pePS6ChkC9UWDmP6wj74xdW27BokmuCwodOiDsvDS_YYa",
+            "widthPx": 3072
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Rhiannon",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXmNLDwQ1taaLjYp_Uw6x6xOQFykYGZ0sU3O2-loqHaa6OYwTUK=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/105553658430045570373"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDB9D6py6a1xCkzqDRo4TC1&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDB9D6py6a1xCkzqDRo4TC1!2e10!4m2!3m1!1s0x48760500095b76c1:0x24e7a1469b71e1ad",
+            "heightPx": 3072,
+            "name": "places/ChIJwXZbCQAFdkgRreFxm0ah5yQ/photos/AZLasHoN9sjRNHjR_dBm6MWhz_doF0nKlCX6iqMxM2uZ_4qjvA1bDH6xOT1Fb4AWvaEH5ilatORErccWGahoaqSu8v7GDHXrUV42I_aDUClABcVpcshqEsSqMCipXfw9rcpuRn8wY2qOzS9HSTfS3oYF_j2eQ2o-EU8ugzn8pdfW--qgHcOvglvAOcgTmWoaMi1GLV6ewvZ8KbjbMPAyNXal7IklfEFbzt1Uag-a3WBSSGt8blxaDW1Y3F0ttgQOy2lgFvD0isc6cnsvc4v3wst_jFJ7xVh8oug8yTYWphOwD9U3D9YX2kI7m3RWaUtxQQhRQuBt8BkYhmTcj8GNuSNVtFNndUIgQDa2XLpQ9ZZeLtlzqKpt_YDe50YxT873xHQLGXIUeYzZ-x8bHlM9sG7T9CtDiNw3wiSmFGDVtZcokq8cjMAwKuVjqZ9WpydR6wID",
+            "widthPx": 4080
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "sehrazat b",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXzD9SPjf1gKbdFjCybv-ugewgUQs9NDhaiiebq1dhh8aAQuysH=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/102190143050341999387"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCZjMgrjYr2J2KgKRVV71kK&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCZjMgrjYr2J2KgKRVV71kK!2e10!4m2!3m1!1s0x48760500095b76c1:0x24e7a1469b71e1ad",
+            "heightPx": 3358,
+            "name": "places/ChIJwXZbCQAFdkgRreFxm0ah5yQ/photos/AZLasHrqqsGzy7M7I2D8hBpyuVkvpRpq73Vt2ZftKa_nR9QELwrdA3LpezTummuZcAq0d5bkCvilA9LxCNTaob9VijL4xqkrkjxHrgEbnwB-6Lr-QTR3zm6RoSCpWNQVy-j42sVwkax-21LKgLOotueBVPEFAPr8cHc8pMFEauTUwWPzqzxgNyt4M9IRGyt0JUOzqbwM_PnT06PURCeiN_KCKp2udAqesasnmlctsOhlNqkh5oEHp-Qmcx4ax49gjNSryjVyRnwmJ8gRWB02-yGyL8VVTvZZkj3jO-sM6Ro1lmcOKXoIt2LchhBG1yax0gMpnixHsnHPaBAvnGgXF31cWiE7_-N-9CjJVkdlmysraQM25UJtT3zfF10imwLmcydUQi4wF4nOJ6VV1Ew7VKytGVk-RpXKbRz3hsjyr6_6wj5w-0klknbDZnTwOOSNl1ba",
+            "widthPx": 2483
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Esteban Martínez Carrera",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWGfnKdWt2vEG2x56F_2CZt2_Q4EPbJZqzj7Ji7QsAHIrD3nKU=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/115363232696718354323"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDGL3KfUik5wBb3U_340rVf&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDGL3KfUik5wBb3U_340rVf!2e10!4m2!3m1!1s0x48760500095b76c1:0x24e7a1469b71e1ad",
+            "heightPx": 3600,
+            "name": "places/ChIJwXZbCQAFdkgRreFxm0ah5yQ/photos/AZLasHpf2enbYqz8Mz8QLreDcsT7Hor7yYApi8S1RGdOoiYng0VcANPILRExHURzgpNXgKXan6Sy8qmJ8a56VRPySDfpr99mTLnHNHs8WGoHpJYRQVY0kFKuORVA4L-g_gAXYveSofETfcsnvwpHcQUyUrl-ZCgdm1FoW1ZjIaD1Ro5mVoV8K72Wfy952Ibp14K1llbDrBfoO5gcJq1xIneSCLGHgCsZ41GxXHehtgjqvtxOoRfXZKVSkRnUdxa-3OtVSLAzT9OBzKFzbDiXno94amWOUdOT4uTc1S6A-ugFfcyi1Kz4rUwkcSqKhLHYnF_2QVfbmWLh-k5zrob1STtbgatLBlR-kmc_dLFmjK30__3DXbS-cWfONrsKqk1y9puxEJoYkhz_Bc5b6br2q5j_K9IJS5wYC6AKvMmcFH0YkzbvOu1fLgyeuAiRQZB7jQ",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Rhiannon",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXmNLDwQ1taaLjYp_Uw6x6xOQFykYGZ0sU3O2-loqHaa6OYwTUK=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/105553658430045570373"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAKgJuxVTdy5I0jCLzVrdZD&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAKgJuxVTdy5I0jCLzVrdZD!2e10!4m2!3m1!1s0x48760500095b76c1:0x24e7a1469b71e1ad",
+            "heightPx": 4080,
+            "name": "places/ChIJwXZbCQAFdkgRreFxm0ah5yQ/photos/AZLasHoQsWawPrQHxcHNp6ltW0senj7lp_XBFMc99jLWmt5izyKBrdvoTh0_lm_LhvXvL4OddjrHeWnizv9Xg1VD1_ASnDo_DpnE46y2SWT79VcPzMb2p5kVkZKN3ma-Gw0LPfQ1WFJ9Vzc-h-1ay1e29gIUQwtJ6_NdRTFqpzcryOLfFcibCKtBgDU4BbS4YPpDD_7sxe3ncysRux8CYuBiGeEcLm6Lq_JhXRJtL7yuVCkIQT9ID_PUD9FDDfPR-bZFkRFvhP6uIBJKnv93AmRbSdnHTV5qWEP6PU2_zv2m1JrfWgZrCfzRcAjIj_OB7jxCNztM9Z8hgRlaCBmDa49ToF4zC7NBG_hBC_X9baWSG8wgWsDEfQEqcFBsdqwtIewYKeWDVG6cJ3iHQKkYxcnAT2dcfV0YOP3ndLm4sm3-Zw65qiU6sfUsAxZzC3V6LaNN",
+            "widthPx": 3072
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Rhiannon",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXmNLDwQ1taaLjYp_Uw6x6xOQFykYGZ0sU3O2-loqHaa6OYwTUK=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/105553658430045570373"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhATkXl4Pe1Lk_OzUvElHYFv&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhATkXl4Pe1Lk_OzUvElHYFv!2e10!4m2!3m1!1s0x48760500095b76c1:0x24e7a1469b71e1ad",
+            "heightPx": 3072,
+            "name": "places/ChIJwXZbCQAFdkgRreFxm0ah5yQ/photos/AZLasHozZyYX8uAg0EeqTWFw-Pmsr6jiGAWriizl4sbDLXcm8n7BOakeV_4RYsFqiRCMpioUdEKmLXsvpOtX771Ihw8MazMIM_XF7DxaJyxVsGv9Q02mwRoT9exqzmA4pYKXvimHTX-Z_j0m69z4628-orognnrmmZeBhpWKmi02Sfc4gy_8Bajk2CtaPcUFY4gKpqI1eWJDte3jKerJKJrVDBr0em_fVdmwzv4hA1dRJrY4l_lksq4rXT7q8DOtfDZ2ostlIncUymyzXnO1bf1MGj7Mj3AVwKkjeX5Rp2AsFtALyFuQ8-ruZ9m7cYHY7OXZC8TFPLp5Wf0U23nJhtL_hMexJTfvCjzcuVX5T85zM-g9M213QQYubWAY0mHZogsqbmUqzcsWrFFbvjhuVYIU1ix3gx5_Rggdh2Yi8u8sSygojTxlN1WcGwE5ow1rr6EH",
+            "widthPx": 4080
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Rhiannon",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXmNLDwQ1taaLjYp_Uw6x6xOQFykYGZ0sU3O2-loqHaa6OYwTUK=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/105553658430045570373"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDhhiRyt_2tB1QErUF-PAPQ&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDhhiRyt_2tB1QErUF-PAPQ!2e10!4m2!3m1!1s0x48760500095b76c1:0x24e7a1469b71e1ad",
+            "heightPx": 4080,
+            "name": "places/ChIJwXZbCQAFdkgRreFxm0ah5yQ/photos/AZLasHpfOPVx7zH8O1mljNgxxGHY_d-8i5f0LtlsS87DY8mMnZ5OYHY_r-UN_vIxq2okV22o-yBAK4kYZ3vMAttqnw96skEwGtH8rbptPegILAW_U7iY0XB2nqAjDArutBeOutV0Gq8MW5LBwmj0Eu8MbKdy69rNoUIwUZ8DGom2BakZrIVdagIg0kDLkn4iSU5BekddxpoBIRpv6t_tv5SXfgxfWVsTCRmc2NskC-q5lA_VzznSRgAHl4vZXr1VkJwhWY8fYmdgvJYJ-EAPdhVqmIum7tjFNSVICPCfVs_TvMyoINx4oDZAAxZZ1APIkdlUkL1fNCtiKbu2x1SlyEpGtH-4WwU_jzxHJWNe2F9uZLHBQqnVQ0Zr9f22fnEybvOcMpAOAskWpW3wwiyApDmgRvz5U1cVMlEFTY0lwimW53c3y49iTqComTIz08AHRpl9",
+            "widthPx": 3072
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Rhiannon",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXmNLDwQ1taaLjYp_Uw6x6xOQFykYGZ0sU3O2-loqHaa6OYwTUK=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/105553658430045570373"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBCpGTHV4wP4DSHUDDGsO0a&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBCpGTHV4wP4DSHUDDGsO0a!2e10!4m2!3m1!1s0x48760500095b76c1:0x24e7a1469b71e1ad",
+            "heightPx": 4080,
+            "name": "places/ChIJwXZbCQAFdkgRreFxm0ah5yQ/photos/AZLasHpP4IGBFdPJhYVBuJz18b6NeJA90eKnckrWPSAvtDulHeL-eiIZIW16gMMwBfb2hVl0LDg-iKGa8q_UFse-PClVOwjs__ql0MmaFWZ-hOxeMKlI_Qcx4GTiKPTuuSyyaNxq3ruy36KLllMmh0A6thzcVLQoymeX-pzUQaZBxdc_REJmGWhBbgsQkqs5djQil9crGg868xdpuyMVQkbHGU4XXPVywBLqW-EzUVDJqu2XnTL3yZo69S1b2E_O4PTuyMNua0ehm4SJw8Xspg5CesgPhrxdkhhJIyolIGKSwXuE6CNXbTWZEn8Nru-XxoZy-fyCCVvJO2E9xhwwXOd4w8AbYAELf414g6i5Sf0KgcEgN7Uu3wit7kaw5EtfD94dOpUygChf1UCYWC6_xz5kzD7WsjEN6-T_djz0C1oAiCkgA4GYk9lnO7Ci1_8LBA",
+            "widthPx": 3072
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Rhiannon",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXmNLDwQ1taaLjYp_Uw6x6xOQFykYGZ0sU3O2-loqHaa6OYwTUK=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/105553658430045570373"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhByzAbs1sjAHVbR1AJGGvJW&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhByzAbs1sjAHVbR1AJGGvJW!2e10!4m2!3m1!1s0x48760500095b76c1:0x24e7a1469b71e1ad",
+            "heightPx": 3072,
+            "name": "places/ChIJwXZbCQAFdkgRreFxm0ah5yQ/photos/AZLasHr6no8oO5H8FQaekvXGSpQFN5K0YkaTPfAUvOjNN51kjg0CfbC6RDfT-2hmhjNvtclOm_Wk5Lr0B9ur367rJvTctpii5KkfIT6ChmU4mEs9UBN8f8ivs7UeqJHaKeSvvN5mckA_FGx3mXtm0gHIwCNSjhrdjDFwRx_h5Ij1aG-LjIcQagZfCBA_WAZyrdLtxTaH2JLgJArPJtboaiYMqjtgbgWImY2udq5NQSW7NP0SyaMdxfoU8tEk9M1ua5Q8B7AgRmh0xOj4vmG0sRud9eQX3UQtO539FH1QsEosdys7POOJKp5NkwN1ndq1xh5SX5VOy0L7lssn8nflMLki1Asr4XXwiWR4BmHB0_6fOunlBq8NInaEInEIeQamlvHTsE1hToMLxqpNh_84S7ZVIQBeshPUTxK0b-w2aavaVJBUXhVEYGQCEkZy56fcxOOh",
+            "widthPx": 4080
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV6C+Q7 London, UK",
+        "globalCode": "9C3XGV6C+Q7"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "24A Newport Court"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2H 7JS",
+        "regionCode": "GB"
+    },
+    "priceRange": {
+        "endPrice": {
+            "currencyCode": "GBP",
+            "units": "10"
+        },
+        "startPrice": {
+            "currencyCode": "GBP",
+            "units": "1"
+        }
+    },
+    "primaryType": "asian_restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Asian Restaurant"
+    },
+    "rating": 2.6,
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Rhiannon",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXmNLDwQ1taaLjYp_Uw6x6xOQFykYGZ0sU3O2-loqHaa6OYwTUK=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/105553658430045570373/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xSMlRFNUZiWFpvV2xSUmVFNUJNMlZJU1dGcFVYYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSMlRFNUZiWFpvV2xSUmVFNUJNMlZJU1dGcFVYYxAB!2m1!1s0x48760500095b76c1:0x24e7a1469b71e1ad",
+            "name": "places/ChIJwXZbCQAFdkgRreFxm0ah5yQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSMlRFNUZiWFpvV2xSUmVFNUJNMlZJU1dGcFVYYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Great option for a Korean corn dog or fried chicken. I've tried two types of corn dog, and they're both delicious. The cheese inside is really good, and the batter is great. They're quite reasonably priced too as they're around £5, and very filling.\nYou have to wait a little while for the food, but I believe that's because they're making it fresh, so you can't complain!\nI do wish the inside had a bench or something though, because everyone is just standing around awkwardly.\nStill definitely worth going to."
+            },
+            "publishTime": "2025-08-26T20:40:49.143565868Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "3 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Great option for a Korean corn dog or fried chicken. I've tried two types of corn dog, and they're both delicious. The cheese inside is really good, and the batter is great. They're quite reasonably priced too as they're around £5, and very filling.\nYou have to wait a little while for the food, but I believe that's because they're making it fresh, so you can't complain!\nI do wish the inside had a bench or something though, because everyone is just standing around awkwardly.\nStill definitely worth going to."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Selena SG",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUB5Am35gqOpq1UtGXDU9UzN6i4pqkWMjm1yX6OKwjtZgQ2az6x=s128-c0x00000000-cc-rp-mo-ba2",
+                "uri": "https://www.google.com/maps/contrib/106142935023907865277/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pOWmNqTm1kSE5QYjBKdFZtOVdabHAyZEhSNlYxRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pOWmNqTm1kSE5QYjBKdFZtOVdabHAyZEhSNlYxRRAB!2m1!1s0x48760500095b76c1:0x24e7a1469b71e1ad",
+            "name": "places/ChIJwXZbCQAFdkgRreFxm0ah5yQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOWmNqTm1kSE5QYjBKdFZtOVdabHAyZEhSNlYxRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Literally got food poisoning. The sausage was raw, and the batter was runny inside, not cooked at all. The service was friendly but my stomach is killing me. I took only two bites and had to throw it away, but even with those two bites, I'm in so much pain. Looks cooked on the outside, since I suppose it was fried in very high temperature, but had absolutely no time to cook inside. Please fix this before more get people get ill."
+            },
+            "publishTime": "2025-09-21T23:12:55.833440036Z",
+            "rating": 1,
+            "relativePublishTimeDescription": "2 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Literally got food poisoning. The sausage was raw, and the batter was runny inside, not cooked at all. The service was friendly but my stomach is killing me. I took only two bites and had to throw it away, but even with those two bites, I'm in so much pain. Looks cooked on the outside, since I suppose it was fried in very high temperature, but had absolutely no time to cook inside. Please fix this before more get people get ill."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "kiara Macien",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKmMKgKj2sNXF7Jfg_5JvwC7BfnhPr9MLDL8kJHXRN8Ctu8QA=s128-c0x00000000-cc-rp-mo-ba2",
+                "uri": "https://www.google.com/maps/contrib/118138234419507780872/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xsNE1tazBTakZLVW0xSFEyeDZaR2R1VG5CVk1HYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsNE1tazBTakZLVW0xSFEyeDZaR2R1VG5CVk1HYxAB!2m1!1s0x48760500095b76c1:0x24e7a1469b71e1ad",
+            "name": "places/ChIJwXZbCQAFdkgRreFxm0ah5yQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsNE1tazBTakZLVW0xSFEyeDZaR2R1VG5CVk1HYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "My favourite restaurant in Chinatown! The food is delicious and always prepared quickly. I usually go for the corndog and the fried chicken ,the portions are generous, and the soda is only £1. The owner is really kind as well. I definitely recommend it!"
+            },
+            "publishTime": "2025-11-19T18:44:43.224934861Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "3 weeks ago",
+            "text": {
+                "languageCode": "en",
+                "text": "My favourite restaurant in Chinatown! The food is delicious and always prepared quickly. I usually go for the corndog and the fried chicken ,the portions are generous, and the soda is only £1. The owner is really kind as well. I definitely recommend it!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "sehrazat b",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXzD9SPjf1gKbdFjCybv-ugewgUQs9NDhaiiebq1dhh8aAQuysH=s128-c0x00000000-cc-rp-mo-ba2",
+                "uri": "https://www.google.com/maps/contrib/102190143050341999387/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSaWJtSjJZMVpNUVdwbkxYWkVUSFp1T0dOblRuYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSaWJtSjJZMVpNUVdwbkxYWkVUSFp1T0dOblRuYxAB!2m1!1s0x48760500095b76c1:0x24e7a1469b71e1ad",
+            "name": "places/ChIJwXZbCQAFdkgRreFxm0ah5yQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSaWJtSjJZMVpNUVdwbkxYWkVUSFp1T0dOblRuYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "The food was good and the price was fair too but i was expecting a bit more. other than that, the food was prepared very quickly so that's a pluss"
+            },
+            "publishTime": "2025-10-25T21:11:30.560730982Z",
+            "rating": 3,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "The food was good and the price was fair too but i was expecting a bit more. other than that, the food was prepared very quickly so that's a pluss"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Jenny Quan",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWPnniyNg1g6nqxHb3s9qJBeuUURz2uxEu80Zwnb7OG5Hlv7OSWhA=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/106901830304311235240/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25FeFFrOXNNR3MwWlZkWllWRm5WVzFDUzFKWmFVRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25FeFFrOXNNR3MwWlZkWllWRm5WVzFDUzFKWmFVRRAB!2m1!1s0x48760500095b76c1:0x24e7a1469b71e1ad",
+            "name": "places/ChIJwXZbCQAFdkgRreFxm0ah5yQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT25FeFFrOXNNR3MwWlZkWllWRm5WVzFDUzFKWmFVRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "friendly and fast service however the corn dog we got was raw (pork sausage and cheese) the outside seemed to be cooked but when we took a bite the batter was running in the middle. everything has an overpowering sweet taste. made my stomach hurt :("
+            },
+            "publishTime": "2025-09-22T22:09:44.575819957Z",
+            "rating": 2,
+            "relativePublishTimeDescription": "2 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "friendly and fast service however the corn dog we got was raw (pork sausage and cheese) the outside seemed to be cooked but when we took a bite the batter was running in the middle. everything has an overpowering sweet taste. made my stomach hurt :("
+            }
+        }
+    ],
+    "shortFormattedAddress": "24A Newport Ct, London",
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "asian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 16,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.51331183029151,
+            "longitude": -0.128119169708498
+        },
+        "low": {
+            "latitude": 51.51061386970851,
+            "longitude": -0.13081713029150202
+        }
+    },
+    "timestamp": 1765447200
+}

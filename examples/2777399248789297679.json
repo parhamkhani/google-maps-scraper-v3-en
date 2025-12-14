@@ -1,0 +1,815 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleParking": false,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": true
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "35",
+            "shortText": "35",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Earlham Street",
+            "shortText": "Earlham St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Seven Dials",
+            "shortText": "Seven Dials",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2H 9LD",
+            "shortText": "WC2H 9LD",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "St Martin's Courtyard"
+                },
+                "name": "places/ChIJ0YfiAc0EdkgRoKYIH7344ZA",
+                "placeId": "ChIJ0YfiAc0EdkgRoKYIH7344ZA"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJs4GOh8sEdkgRRiBFZKMP8ZE",
+                "placeId": "ChIJs4GOh8sEdkgRRiBFZKMP8ZE"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Dr. Martens - Neal Street"
+                },
+                "name": "places/ChIJ9S8lwMwEdkgRBHLhxbz2ovk",
+                "placeId": "ChIJ9S8lwMwEdkgRBHLhxbz2ovk",
+                "straightLineDistanceMeters": 81.44704,
+                "travelDistanceMeters": 76.67969,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "shoe_store",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "NBCUniversal"
+                },
+                "name": "places/ChIJv4f2tzIbdkgR9ockIRcTijo",
+                "placeId": "ChIJv4f2tzIbdkgR9ockIRcTijo",
+                "straightLineDistanceMeters": 263.4153,
+                "travelDistanceMeters": 317.54694,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Cambridge Theatre"
+                },
+                "name": "places/ChIJ059kIs0EdkgRAbuyqaAavxU",
+                "placeId": "ChIJ059kIs0EdkgRAbuyqaAavxU",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 51.032578,
+                "travelDistanceMeters": 62.836975,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "store",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJQR9pg8sEdkgRKeWNNYlDdPU",
+                "placeId": "ChIJQR9pg8sEdkgRKeWNNYlDdPU",
+                "straightLineDistanceMeters": 302.90625,
+                "travelDistanceMeters": 185.08324,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "shopping_mall"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The Mousetrap at St. Martin's Theatre"
+                },
+                "name": "places/ChIJ2dkqXs0EdkgRlVUsXtEbwsQ",
+                "placeId": "ChIJ2dkqXs0EdkgRlVUsXtEbwsQ",
+                "straightLineDistanceMeters": 158.49028,
+                "travelDistanceMeters": 217.39075,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            }
+        ]
+    },
+    "allowsDogs": false,
+    "businessStatus": "OPERATIONAL",
+    "containingPlaces": [
+        {
+            "id": "ChIJlUVX28wEdkgR2X0RG3mYP3U",
+            "name": "places/ChIJlUVX28wEdkgR2X0RG3mYP3U"
+        }
+    ],
+    "curbsidePickup": false,
+    "currentOpeningHours": {
+        "nextOpenTime": "2025-12-11T11:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 14,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 14,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 15,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 15,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 16,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 16,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 17,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 17,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 11,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 – 10:00 PM",
+            "Tuesday: 12:00 – 10:00 PM",
+            "Wednesday: 11:00 AM – 10:30 PM",
+            "Thursday: 11:00 AM – 10:30 PM",
+            "Friday: 11:00 AM – 10:30 PM",
+            "Saturday: 11:00 AM – 10:30 PM",
+            "Sunday: 11:00 AM – 9:00 PM"
+        ]
+    },
+    "delivery": false,
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "STAKEHAUS - Seven Dials Market"
+    },
+    "formattedAddress": "35 Earlham St, Seven Dials, London WC2H 9LD, UK",
+    "goodForChildren": true,
+    "goodForWatchingSports": false,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x487605478f66d7e3:0x268b4de6c785da0f!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487605478f66d7e3:0x268b4de6c785da0f!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=2777399248789297679&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487605478f66d7e3:0x268b4de6c785da0f!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487605478f66d7e3:0x268b4de6c785da0f!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=2777399248789297679&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJ49dmj0cFdkgRD9qFx-ZNiyY",
+    "internationalPhoneNumber": "+44 7810 557804",
+    "liveMusic": false,
+    "location": {
+        "latitude": 51.5138764,
+        "longitude": -0.1264947
+    },
+    "name": "places/ChIJ49dmj0cFdkgRD9qFx-ZNiyY",
+    "nationalPhoneNumber": "07810 557804",
+    "parkingOptions": {
+        "freeParkingLot": true
+    },
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Sam Aberman",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWW8LD98tdvZGX2GSpZHvoTTtCKd8qb17YM2nQsTU6mmb_xz9uN7Q=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/111941996399252793572"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDk36QUzKFmrFCML9QuI00W&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDk36QUzKFmrFCML9QuI00W!2e10!4m2!3m1!1s0x487605478f66d7e3:0x268b4de6c785da0f",
+            "heightPx": 2252,
+            "name": "places/ChIJ49dmj0cFdkgRD9qFx-ZNiyY/photos/AZLasHqrDYSJQv03usd6w5wHAakaYW7FiJkUj5Zk71KR9MlARSkSJYMaRYTz1meBp02PlcC9NqR2CsXibwpXvfH-uqkx49MYx0OYoBx_NBG4qeJ1AFW-amV8LAE3fuvxWxLWcR0j9uhS7hkQh1wcdb39hizsWppuG2yhMh5O0ODPVlmZDAnAWiwxLarF8VHPescpAo4Wma94B5w3_kDKrbTMOpTnn0fbi5H7oS817LrMjILP8RPHT7j2_ko94Wgy3Ow65AYG0_SMBaPwFC4aQFl6_Uvyc_7qdlY37YBMVldsK3GXiDbuWeRqJ3gHlTr7JUm9XzNtVy_VzGGvrOgnv8fI5jsxErDGGnD0JzUsP7wq7y6Plt7jaAlGfbMNUGftkRxYSgh8-JMeabKw57Lrh-YzxiVa0_iBlgSGgZ4G4UVBxblpF3ieyAXllX8wPefJwtYj",
+            "widthPx": 4000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "STAKEHAUS - Seven Dials Market",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWgEPxG9KuudV8NY77Lvd0GkjsVRl2wKCwkBAkvo_4Wa7Sc40Q=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/105503246212001103363"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPSuFGU_1c99a78_fDKrw2LnAhuq3G_xfU8mb9H&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPSuFGU_1c99a78_fDKrw2LnAhuq3G_xfU8mb9H!2e10!4m2!3m1!1s0x487605478f66d7e3:0x268b4de6c785da0f",
+            "heightPx": 1441,
+            "name": "places/ChIJ49dmj0cFdkgRD9qFx-ZNiyY/photos/AZLasHpl4X9D4qdkZTQr6sSd1JTZolBntO7ReICVwNGRDsuj4KjdlvIFEo51IKCHgXAfNTFK0HswAMoweBZ84npWbyskdHfy_Kqg6qCoRDWhaiIxxgR8Sgpy9F1sWAO9MtXO0bMJ5z_YfMcFvE49xnoqoCRFpxEiwQ4iNDQmA4gG0ZALMiGB82LdXR0L-HBaidKE_MxbJLtZE1VTaMd3KT9Dl0jAco_wD0HXZnc5meN9y7sHW8ShGvHlY_xYvv01X5wEabC6peQb80O5QvdZ1v8dATgsy3THPO7hLGOy33z3G8mREw",
+            "widthPx": 1170
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "U IENG LAM",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJvUQ--dxee5L3NGq0F7Y0U0f3boQHrbd5pKL9_js8M8lZdX7ge=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/116570340421642295136"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCF5dPjpXLYpoXqhuVaVQsV&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCF5dPjpXLYpoXqhuVaVQsV!2e10!4m2!3m1!1s0x487605478f66d7e3:0x268b4de6c785da0f",
+            "heightPx": 1000,
+            "name": "places/ChIJ49dmj0cFdkgRD9qFx-ZNiyY/photos/AZLasHrJfqGtvAXhY8zqCvZXy0fCbuQdnBLbh-L3ckBSEoZKDuivrA_IxNMEq6gFznDJj-MmpS-w62x6jIB3FZiEV1RCPnq29jAPKsW4FnIPVBrfOuhSA9vaa00UrODg9WYXYkjbYnX3tvgoFRfzcRyCxa6dQPXX1P9iJ4kjQ9iQvgvA6evWfvO9l3KdqvSFo34u3F_qtBXjEj_379kZpoXwQJabo3tdpP6nyGtFIhI66MmD0YS_RjAAe5nl5_zO5NKNJnTtT9Psmk5m0bep_WlMSeTk7ErYwi6Z0Naf89nKhWGz5j_si-ZGmedD7dTjcFIJpXzsDzaIhl8rzc9BUvdMpDHfM5j_cO89YZK8yVH_earxRZyIH1dwKETK-Zn3u7zLmetl1vTToDC-l6_wH48j_Ie8Yggo5IcehV5lMuTWlSbPLMmP-3129IXa4cdCpUhT",
+            "widthPx": 750
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "STAKEHAUS - Seven Dials Market",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWgEPxG9KuudV8NY77Lvd0GkjsVRl2wKCwkBAkvo_4Wa7Sc40Q=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/105503246212001103363"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPHY-HKxmuNY95i5SbbVrRn9CtHtrU300u23khK&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPHY-HKxmuNY95i5SbbVrRn9CtHtrU300u23khK!2e10!4m2!3m1!1s0x487605478f66d7e3:0x268b4de6c785da0f",
+            "heightPx": 2953,
+            "name": "places/ChIJ49dmj0cFdkgRD9qFx-ZNiyY/photos/AZLasHrltfW3S64By6sMOobyu1YWME9c4Ii9F65Qjr3sAdV9zO7YWBes7EWDaD0v_9_j2GT4TWovaaEyMhRBY4sP5WfKiG_n66FJ1oMeGiNVm5RbI1pYyA-AE4IU8B4s4ozKHBXGCmilxpDGusb7qTwlJnOtyK4cODBz5Orgfb2Mv5OaEApyZ7-9Ky8aLguNxrSXbHE9qlcrltmQwB7Fu08GFx1uVDIONMVu-Ausl_P8XC4xXA6z8fPGm8MgWyD8Vn1jp_C9f1eRYrslC_1SbNTAyuKYZKlvemkybAdCzpZFGmfk4g",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Tawfik Barakat",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVltulgzC1wPE93uG5Kylb-oQHtNOkN9MV4pEVqZV5R0lif7dw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/106991653015134157593"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDrv-29ygE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDrv-29ygE!2e10!4m2!3m1!1s0x487605478f66d7e3:0x268b4de6c785da0f",
+            "heightPx": 3024,
+            "name": "places/ChIJ49dmj0cFdkgRD9qFx-ZNiyY/photos/AZLasHokGtQK5PLdEZdrdZOEqaB49v4aCkdRyebdZQUMbR6ctUpMQtYES0lFHVGyfbNL9bMiRirC--pfr5CHwtrdqX5y7aNPAf4ZRfFPkdkxBBGnQ6lu7vJVgiVXzd4cAywNxoxYf7x5yz4S8ApMFc4k4gVkXOa06C1GciO2uXLTJqq_IM_uDvoePJKGdkg0fvBhLXIeEW7eHDDWqPdHSjJCK6_pT0oPHtLX6jnipQspA9qDNk9QBgQ9_GOmx94RuGGD7eSDm8JKArworP0UrS6XLYQhP0o33874E6VkXVT_allMw7_Thtro_GH5WnKF6-Y7ri9G92ZGe3D2XkkVHl3f-ga08uIufeULY8wJjtb1eaV3TJES2rFYhZPrkKLrSG2gVIe6UrE9Jb0c2PuTQrhhtx2bpXr5LKnILUtoYa0NQeP5VlEt",
+            "widthPx": 4032
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Patrick Chen",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWoUCHp7LQYP9C6QX4KRt1eTJ4w6nU9DIZbza8b1VIpTYjB8iLCGQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/101472364390768717888"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCqT3WVU2uVzm8uS3qCHcfQ&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCqT3WVU2uVzm8uS3qCHcfQ!2e10!4m2!3m1!1s0x487605478f66d7e3:0x268b4de6c785da0f",
+            "heightPx": 4032,
+            "name": "places/ChIJ49dmj0cFdkgRD9qFx-ZNiyY/photos/AZLasHoiR4BOnDmpljAqeRTKZ1mdpY6hrETV0i70xOwieEFtMAy9t4pq_scvIRhh7aJhb3NnnNjik4CnzPkR3sXjyxwCs5QzllA1pFkUzAu4bTKkHxio5cuAielsaykzL8Fw1t1CtYv8g_dH5FimPOixLgL8h9QTF7M0AH64az504G6PHPwDAVUWp2GsQzXpqMVXrsSZ5C1A9YYplHwhs306-tzFI-wGwmZoM5hFWTdvyKH1Ihl5gb7QCXI_nyj1tiDsYkmA1BzRZK_l-zTT0vnpomE3E_j1SV7rlj5i-jIEtxMhs755wdmT6jXKckIM_UbUSBvSabL27GOW4Kf7y6tD9FnO1jWzgNATejQRAPJvY4dkp1jvV_U9tyRTl-wg7l3grcqDOtrguktXpMVJPhPg6XX2wmrW_2U3pER2M7L_VLPMl_om3SZq0l5VgNhIZg",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Sepehr",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUWU3qvJeMZz92to5C7L6YY1BH8D4U86xw2vvQhgSLxaEGCq7Nq=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/105815470230758593828"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDk1_7kn478nMn-QtbELo6e&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDk1_7kn478nMn-QtbELo6e!2e10!4m2!3m1!1s0x487605478f66d7e3:0x268b4de6c785da0f",
+            "heightPx": 1396,
+            "name": "places/ChIJ49dmj0cFdkgRD9qFx-ZNiyY/photos/AZLasHqm6jT-X0RWQuSg1XCQqSZScHTMJ9x4zYQProEDaTdjPoTjF57PBn_BQlzS_JG7dpD4kzmqe0Rt_8SacKtYmHzH2-xpd5hT8GznJ3JuHpj0x5LhhtE8Rjc4s7S2w0N52g2pfFX8wi7gHgRvliwDWWwGHk3Kvj_JhSCf3ZnDS3V3vjvilUdfg9EWEm7-biLp81QUYxYoHviUDncfkHJ-vjvhlY5eDxpE7cWlx4US7RFoP0c7h_XTAepUvswKJD4An3IneOBpojpONY-vPpsdrgihlrCm5byHJc1X5o5XTcufRmJZQHzjsDEO41-uHdB4Ra4z1-KT6vMoV36L7JSeS663_cFlnA0TuG-iX8egkVvcEcOUT6ykMqaZpH7Qqd-tXXeij49ubs4WwaV3snm4wPS8P8chK1V0dNAgBtgqNbrE5u1DJYdran_MP4rDBZpv",
+            "widthPx": 1180
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Tawfik Barakat",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVltulgzC1wPE93uG5Kylb-oQHtNOkN9MV4pEVqZV5R0lif7dw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/106991653015134157593"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDrv-298gE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDrv-298gE!2e10!4m2!3m1!1s0x487605478f66d7e3:0x268b4de6c785da0f",
+            "heightPx": 3024,
+            "name": "places/ChIJ49dmj0cFdkgRD9qFx-ZNiyY/photos/AZLasHoMBxlP8lyyVX1yRtIPWA1Cae89IVOf4yQbguC-y1ikF2tZZwIuxLikskLGM3TdyYrbL4lv9dfUk6fFGAMMqSNCCcjhpYAxWlAWD6tqVlAjKCly2wFoW146hU7Og_Wp1o5KfT3BDMv0UNN_s9XEKe9g8BI6JCEUYGpto6CELJrLy2gNtCKHio9MXSgOlpV48xUDhP4SEMFSX_tilsIiCgQcbWpcr-BiEUZZ4-x4zKBpiF_zDw8vKexcenE6p_5TrthIIXArlvPEHqj1kAHHZypOchQiriIKkJgPjKVdLKvS-cjor9BOYebSBRl7616TrrismnX3xTnkUzaOeHZzUVi6GJWefkbfUTQl3kMvf4N7AoXS0jodZAJd_gVw2JPAGvbAxz-RgqXxmNK32D1mxsF2t1v4qtiIdRX9FktXZTb4jGY",
+            "widthPx": 4032
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Tawfik Barakat",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVltulgzC1wPE93uG5Kylb-oQHtNOkN9MV4pEVqZV5R0lif7dw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/106991653015134157593"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDrv-29Kg&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDrv-29Kg!2e10!4m2!3m1!1s0x487605478f66d7e3:0x268b4de6c785da0f",
+            "heightPx": 4032,
+            "name": "places/ChIJ49dmj0cFdkgRD9qFx-ZNiyY/photos/AZLasHq2IgWYbM2oB5FC2cEQpoFOD8-tg-bQ0izNXfUQCTUCdU2nDtb9pxC4_Nwdu2xvjPk3iIsxDpqrdUpVRnon2AihFalnj16-c05SodUb61jWZ9CDEnuI6E3Iok3cY3chVTYx62s5_0HBZ99MY8hxfOLpM57Kt7xjWrxjyeHBihorFR01LIFXgn6rPXySOU6JKTaBNBZn9B2a7ocDo1r7GhQo0U42hgKX1xn-0PsG7McVAWS1MgCIztxnw1MHyZapxxSsOjULY4BSegXbn64FCQbWz4dTMDQD1jL8l_qBGNelW3ZY12DapWATN_5cw1MZcg3K-Kx4T83Tg_AGzBQmDFtCODOK8-XiAGnBjBlLl65EkGXQLrW0t_X3oWqSZeKoF0ZoF_QWuiwl6vwXaDz128xPlWZc9tdWXksM6TWo7FVQOA",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "STAKEHAUS - Seven Dials Market",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWgEPxG9KuudV8NY77Lvd0GkjsVRl2wKCwkBAkvo_4Wa7Sc40Q=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/105503246212001103363"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNV24kUk5dUuS_9Q0YdYSA2UKBdqrPO46yIo5EL&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNV24kUk5dUuS_9Q0YdYSA2UKBdqrPO46yIo5EL!2e10!4m2!3m1!1s0x487605478f66d7e3:0x268b4de6c785da0f",
+            "heightPx": 4800,
+            "name": "places/ChIJ49dmj0cFdkgRD9qFx-ZNiyY/photos/AZLasHqtiFqCTBqCEWeP9Ru2lBh4_I2IbjNYYlbbaS3J1CWb_BNeLhLRDdkTeDZVm-orjuWyne7SfUZGt1RIUZMYeqi0wey0Hp88Lvg3_WQtxs45zwlCnvhWOhG3AhsUPLMOnSXHZP5IZNhkuYUBKXr7_nkiYxVVCoW9OPKL2j8LN4u9-iW8mmKMqnE02O9WuaAM6cH9R0zS7cYHA1gLpl52i5D-JgPOWkJew6XkgbZA9W6lEhgK6KTRbGp0oHEYLgvroUWYo7-0yYve3LnM1NondZ6pXHw9K6iVcPQ0mJU1tyTlrw",
+            "widthPx": 3839
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV7F+HC London, UK",
+        "globalCode": "9C3XGV7F+HC"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "35 Earlham Street",
+            "Seven Dials"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2H 9LD",
+        "regionCode": "GB"
+    },
+    "priceRange": {
+        "endPrice": {
+            "currencyCode": "GBP",
+            "units": "20"
+        },
+        "startPrice": {
+            "currencyCode": "GBP",
+            "units": "10"
+        }
+    },
+    "primaryType": "restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Restaurant"
+    },
+    "rating": 4.2,
+    "regularOpeningHours": {
+        "nextOpenTime": "2025-12-11T11:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 11,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 – 10:00 PM",
+            "Tuesday: 12:00 – 10:00 PM",
+            "Wednesday: 11:00 AM – 10:30 PM",
+            "Thursday: 11:00 AM – 10:30 PM",
+            "Friday: 11:00 AM – 10:30 PM",
+            "Saturday: 11:00 AM – 10:30 PM",
+            "Sunday: 11:00 AM – 9:00 PM"
+        ]
+    },
+    "restroom": true,
+    "reviewSummary": {
+        "disclosureText": {
+            "languageCode": "en-US",
+            "text": "Summarized with Gemini"
+        },
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=5%401:CAIQACodChtyc19oOkdDZzVkc2l3VXcyVGpQUmtmNzlBNkE%7CCAIQACorChtyc19oOkdDZzVkc2l3VXcyVGpQUmtmNzlBNkESDAi_2OfEBhD44ZHwAg&d=17924085&t=8",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487605478f66d7e3:0x268b4de6c785da0f!9m1!1b1",
+        "text": {
+            "languageCode": "en-US",
+            "text": "People say this restaurant serves juicy, flavorful steak, including bavette, and delicious sides like mac and cheese and nachos. They also highlight the friendly and efficient service, and the lively, buzzing atmosphere.\n\nOther reviews mention the steak can be chewy."
+        }
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Catherine Devereux",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLOkemtH7LtLyTRK3WWkMmvDkVVgCLTQugd35P7tJYwLUa2NQ=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/114906439204115382609/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pNM2N6Um5iamx5ZG1oTGNYbFlaRmQxVUd4b1YyYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pNM2N6Um5iamx5ZG1oTGNYbFlaRmQxVUd4b1YyYxAB!2m1!1s0x487605478f66d7e3:0x268b4de6c785da0f",
+            "name": "places/ChIJ49dmj0cFdkgRD9qFx-ZNiyY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pNM2N6Um5iamx5ZG1oTGNYbFlaRmQxVUd4b1YyYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Wow , I’ve been wanting to try for a while and boy was it worth the wait. We got there early so plenty of seating, welcoming and great customer service.  All cooked fresh so we soaked up the atmosphere of the market place while we waited.  We went for the Haus deal, great value and steak did not disappoint, melted in our mouths, with one of the nicest peppercorn sources I’ve tried. The fries are on another level!  My son loved the Mac ‘n’ Cheese, gave it 10/10, sorry no photo he wolfed it down 🤣\nThe market can get busy, so top tip would be to get there early!"
+            },
+            "publishTime": "2025-11-21T09:18:16.080535129Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 weeks ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Wow , I’ve been wanting to try for a while and boy was it worth the wait. We got there early so plenty of seating, welcoming and great customer service.  All cooked fresh so we soaked up the atmosphere of the market place while we waited.  We went for the Haus deal, great value and steak did not disappoint, melted in our mouths, with one of the nicest peppercorn sources I’ve tried. The fries are on another level!  My son loved the Mac ‘n’ Cheese, gave it 10/10, sorry no photo he wolfed it down 🤣\nThe market can get busy, so top tip would be to get there early!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Mr. Davis",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWcb3-27YylCPjP8rzpYXPfkJclfztnfNPkVfO17jMSUE8SPavW=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/100036497612527480637/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25ac1JVcHFNRzR4Y0RnM1RrWkVjbTFWYlRKM1VrRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25ac1JVcHFNRzR4Y0RnM1RrWkVjbTFWYlRKM1VrRRAB!2m1!1s0x487605478f66d7e3:0x268b4de6c785da0f",
+            "name": "places/ChIJ49dmj0cFdkgRD9qFx-ZNiyY/reviews/Ci9DQUlRQUNvZENodHljRjlvT25ac1JVcHFNRzR4Y0RnM1RrWkVjbTFWYlRKM1VrRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Solid place. Really liked the garlic herb dip for the steak. The portions are quite small for the price. Steak was cooked well overall. Drink selection is kinda small and lacked more commercial drinks. May not be a bad thing for most. Don’t really have anything bad to say other than the pricing didn’t match the portion side."
+            },
+            "publishTime": "2025-09-29T09:04:26.404063332Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "2 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Solid place. Really liked the garlic herb dip for the steak. The portions are quite small for the price. Steak was cooked well overall. Drink selection is kinda small and lacked more commercial drinks. May not be a bad thing for most. Don’t really have anything bad to say other than the pricing didn’t match the portion side."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Darren",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUMO70R3xa4kJI6mCXN6klxTke5YLA1e_FKDNmI0SezIEVMfabj=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/110895335080418474437/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21kaWNWQk9ja294ZWtJMk5FMTBYMWRqVW1kcGVHYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kaWNWQk9ja294ZWtJMk5FMTBYMWRqVW1kcGVHYxAB!2m1!1s0x487605478f66d7e3:0x268b4de6c785da0f",
+            "name": "places/ChIJ49dmj0cFdkgRD9qFx-ZNiyY/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kaWNWQk9ja294ZWtJMk5FMTBYMWRqVW1kcGVHYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Went on a Tuesday lunch time - served quickly. Ordered the £21 lunch meal deal (steak, side, sauce and drink). The chips and peppercorn sauce were really good, but the bavette steak could’ve been juicier - a tiny bit on the dry side."
+            },
+            "publishTime": "2025-09-24T22:48:33.990145209Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "2 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Went on a Tuesday lunch time - served quickly. Ordered the £21 lunch meal deal (steak, side, sauce and drink). The chips and peppercorn sauce were really good, but the bavette steak could’ve been juicier - a tiny bit on the dry side."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Hans Linus",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXxahmYKSfciSqFvvGf_9csjHAqAvmFYEDOxENS9ox_K8fAGHb-pg=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/100339688309723002237/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pkT1REaHRjalJIUkY5b1drZHpWVlpoVG1wTlNHYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkT1REaHRjalJIUkY5b1drZHpWVlpoVG1wTlNHYxAB!2m1!1s0x487605478f66d7e3:0x268b4de6c785da0f",
+            "name": "places/ChIJ49dmj0cFdkgRD9qFx-ZNiyY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkT1REaHRjalJIUkY5b1drZHpWVlpoVG1wTlNHYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Well how shall i put it? i think there is some potential there but right now its a bit of a miss.\nlets start with the philly cheesesteak sub.\nwhat we got didn't match the describtion:\nwe got big chunks of meat, not thin sliced.\nand the melted cheese was barely detectable. which wouldn't be a problem for a normal sub, but we ordered a philly CHEESE steaksandwich.\nthe roastbeef sub cames served very hot. beside that i guess it was ok but somehow i still expected something different tastewise.\n\nThe normal fries were great.\nThe truffle and cheese fries i can live without.\non the one hand they were really missing a salty punch and on the other hand the cheese was very thick and didnt even melt all the way through. so eather do a fine cheese grind or take a cheese that melts all the way.\n\nbut i got the impression that with a bit of more love for the product and being more thoughtful over all it could all taste way better."
+            },
+            "publishTime": "2025-06-30T17:32:48.713726866Z",
+            "rating": 3,
+            "relativePublishTimeDescription": "5 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Well how shall i put it? i think there is some potential there but right now its a bit of a miss.\nlets start with the philly cheesesteak sub.\nwhat we got didn't match the describtion:\nwe got big chunks of meat, not thin sliced.\nand the melted cheese was barely detectable. which wouldn't be a problem for a normal sub, but we ordered a philly CHEESE steaksandwich.\nthe roastbeef sub cames served very hot. beside that i guess it was ok but somehow i still expected something different tastewise.\n\nThe normal fries were great.\nThe truffle and cheese fries i can live without.\non the one hand they were really missing a salty punch and on the other hand the cheese was very thick and didnt even melt all the way through. so eather do a fine cheese grind or take a cheese that melts all the way.\n\nbut i got the impression that with a bit of more love for the product and being more thoughtful over all it could all taste way better."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "IamAysegul",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWFNIOI2oHKyFeey1-UTgtadg_ZnuApGljEPuMYqCQDFLIBWNgY=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/114617610934507549090/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pCMmFETkVYMlptWkdrM1dUSkZOVkIzVlhac04wRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCMmFETkVYMlptWkdrM1dUSkZOVkIzVlhac04wRRAB!2m1!1s0x487605478f66d7e3:0x268b4de6c785da0f",
+            "name": "places/ChIJ49dmj0cFdkgRD9qFx-ZNiyY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCMmFETkVYMlptWkdrM1dUSkZOVkIzVlhac04wRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Just had the Philly cheesesteak– absolute killer! 🔥 Every bite was packed with flavor. Highly recommend if you’re in the area. Hats off to the team – well done, guys!"
+            },
+            "publishTime": "2025-08-02T20:04:22.401906345Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "4 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Just had the Philly cheesesteak– absolute killer! 🔥 Every bite was packed with flavor. Highly recommend if you’re in the area. Hats off to the team – well done, guys!"
+            }
+        }
+    ],
+    "servesBeer": true,
+    "servesCoffee": true,
+    "servesDessert": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "servesWine": true,
+    "shortFormattedAddress": "Seven Dials Market, 35 Earlham St, Seven Dials, London",
+    "takeout": true,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 286,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.51523218029149,
+            "longitude": -0.12489341970849797
+        },
+        "low": {
+            "latitude": 51.5125342197085,
+            "longitude": -0.12759138029150202
+        }
+    },
+    "websiteUri": "https://www.stake.haus/",
+    "timestamp": 1765447200
+}

@@ -1,0 +1,897 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "en",
+            "longText": "Lancaster Place",
+            "shortText": "Lancaster Pl",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2R 1LA",
+            "shortText": "WC2R 1LA",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Somerset House"
+                },
+                "name": "places/ChIJDXs-9bUEdkgRopQeoxGAuPU",
+                "placeId": "ChIJDXs-9bUEdkgRopQeoxGAuPU"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The Courtauld Gallery"
+                },
+                "name": "places/ChIJvZhvcMoEdkgRSEqR4FUUmts",
+                "placeId": "ChIJvZhvcMoEdkgRSEqR4FUUmts"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJs4GOh8sEdkgRRiBFZKMP8ZE",
+                "placeId": "ChIJs4GOh8sEdkgRRiBFZKMP8ZE"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Somerset House"
+                },
+                "name": "places/ChIJcWfE87UEdkgRoYClOMTsOQQ",
+                "placeId": "ChIJcWfE87UEdkgRoYClOMTsOQQ",
+                "spatialRelationship": "WITHIN",
+                "straightLineDistanceMeters": 101.9201,
+                "travelDistanceMeters": 192.32565,
+                "types": [
+                    "establishment",
+                    "museum",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Lyceum Theatre"
+                },
+                "name": "places/ChIJcXx0Uoms2EcR8Be43HHdy2U",
+                "placeId": "ChIJcXx0Uoms2EcR8Be43HHdy2U",
+                "straightLineDistanceMeters": 141.26183,
+                "travelDistanceMeters": 135.97025,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Waterloo Bridge"
+                },
+                "name": "places/ChIJO26oGbYEdkgRyoLsMKw9LlA",
+                "placeId": "ChIJO26oGbYEdkgRyoLsMKw9LlA",
+                "straightLineDistanceMeters": 262.227,
+                "travelDistanceMeters": 157.74744,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Novello Theatre"
+                },
+                "name": "places/ChIJ9Y2XiMoEdkgRacNkr9x-4Bs",
+                "placeId": "ChIJ9Y2XiMoEdkgRacNkr9x-4Bs",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 180.46228,
+                "travelDistanceMeters": 178.40775,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Caffè Nero"
+                },
+                "name": "places/ChIJaXCXasoEdkgRqPzfOtdfM8Y",
+                "placeId": "ChIJaXCXasoEdkgRqPzfOtdfM8Y",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 48.798275,
+                "travelDistanceMeters": 50.192352,
+                "types": [
+                    "cafe",
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "store"
+                ]
+            }
+        ]
+    },
+    "allowsDogs": true,
+    "businessStatus": "OPERATIONAL",
+    "curbsidePickup": false,
+    "currentOpeningHours": {
+        "nextOpenTime": "2025-12-11T12:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 16,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 16,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 16,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 16,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 16,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 17,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 17,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 16,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 17,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 17,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 17,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 17,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 16,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 17,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 16,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 16,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 17,
+                    "minute": 30
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: Closed",
+            "Tuesday: 12:00 – 4:00 PM, 5:30 – 10:00 PM",
+            "Wednesday: 12:00 – 4:00 PM, 5:30 – 10:00 PM",
+            "Thursday: 12:00 – 4:00 PM, 5:30 – 10:30 PM",
+            "Friday: 12:00 – 4:00 PM, 5:00 – 10:30 PM",
+            "Saturday: 12:00 – 4:00 PM, 5:30 – 10:30 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "delivery": false,
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Poon's at Somerset House"
+    },
+    "formattedAddress": "Lancaster Pl, London WC2R 1LA, UK",
+    "goodForChildren": true,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x487605cd0f1195e3:0x2685bfbfe2e32fa0!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487605cd0f1195e3:0x2685bfbfe2e32fa0!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=2775835576209977248&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487605cd0f1195e3:0x2685bfbfe2e32fa0!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487605cd0f1195e3:0x2685bfbfe2e32fa0!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=2775835576209977248&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJ45URD80FdkgRoC_j4r-_hSY",
+    "internationalPhoneNumber": "+44 20 7759 1888",
+    "location": {
+        "latitude": 51.5108064,
+        "longitude": -0.11825319999999999
+    },
+    "menuForChildren": false,
+    "name": "places/ChIJ45URD80FdkgRoC_j4r-_hSY",
+    "nationalPhoneNumber": "020 7759 1888",
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Poon's at Somerset House",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWBlqR80gg4ueGEZt5ZVVbjLTU4j_0pXXg8S6stY4PgjI-4GBg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/102371849066840057239"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipP6M5hz_-x-nZnGCP5-CIGthZO6VKMc_fTUCzLG&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP6M5hz_-x-nZnGCP5-CIGthZO6VKMc_fTUCzLG!2e10!4m2!3m1!1s0x487605cd0f1195e3:0x2685bfbfe2e32fa0",
+            "heightPx": 4240,
+            "name": "places/ChIJ45URD80FdkgRoC_j4r-_hSY/photos/AZLasHoyeEOLTe_hfck0bRipLM_Scea0UMEe2oe3J_FbXDpQoWo7oqP_Ctqr7VKNJPVP4dIaw5y1KEM7HNcdqiFG046p9CEirpFmWKPf8jSFPG_X-NWHTNjdb0CmOKH0_Hd3VinpBFZL3K_9krHTMT-I1Kwjtizjdu__1ai88131XiDUc8ZnynEcAFwQq-E275jzllyhHqldJIqVeprWXbQANvMn6xr0gFc_BIE6B-IQQOJ-B8VPHYRvYWvRLg124jjwFXBidUek3rfFuPHJdj8lPs_1vjn-P74zsGKTp_abNifxhQ",
+            "widthPx": 2817
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Poon's at Somerset House",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWBlqR80gg4ueGEZt5ZVVbjLTU4j_0pXXg8S6stY4PgjI-4GBg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/102371849066840057239"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNYE3FBNoi9JjWBuWcpJg50XBzKoIHdSqt2al97&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNYE3FBNoi9JjWBuWcpJg50XBzKoIHdSqt2al97!2e10!4m2!3m1!1s0x487605cd0f1195e3:0x2685bfbfe2e32fa0",
+            "heightPx": 2202,
+            "name": "places/ChIJ45URD80FdkgRoC_j4r-_hSY/photos/AZLasHpcjiOKm_7KVqX3GuGRT9LBTGIMpt6VmMkoiqXjMFuChC8OGaAs9ZWR6t-bxLhJleSdpdFWjATLRpj6sbk_fADASHlp0OKl5NytOuEanLjC2pBm8A25rFaOBg9hVk4gJmzVIKIqbM4D-C-v6jwu9BRKlh5oGZCpR8uJOy1vHNjNETqPqbHA5A6WmiZJhA8ouffgpv_jqHy0KqOXozjnF_QXy3ti10wJkxDlnjgVRabMglfLj8y64KWDDC1N_bX_OV2iz01ovdAzNeg3bz7jSbAG6RbnHnnZDt6b_5jCEIXz3w",
+            "widthPx": 3302
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Poon's at Somerset House",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWBlqR80gg4ueGEZt5ZVVbjLTU4j_0pXXg8S6stY4PgjI-4GBg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/102371849066840057239"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOTiaQTU2ZSsUK2AImqqDZgDeClom3GY0kvrfwL&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOTiaQTU2ZSsUK2AImqqDZgDeClom3GY0kvrfwL!2e10!4m2!3m1!1s0x487605cd0f1195e3:0x2685bfbfe2e32fa0",
+            "heightPx": 2896,
+            "name": "places/ChIJ45URD80FdkgRoC_j4r-_hSY/photos/AZLasHqPz3DX-WuoZp9zeQtU6eQ8qV4Q0RfaWPDlSOjxs3lHzymud-zZ0Ythmg2KPvOrWUpPaZI4rZeoHN1K-IYYJTooUj7PqoiXGHwiZQO1xxnKYXXfY_YZnhRYzQ3lhOI9NRsX89feroMZ18zkG2A7PAspQIMmFC1tMoyKpzifMCAOZXUGo1lDz68ZVr5s8FNCKVrxqhnsAfSZudBqKRJWaDJprvvBfwwoGodF0hCKG0cKnaGkYDDp5Y6Synwd-RmYc3gehZEM2cdhgOgMDPTUAeS8QkdGHNdEoDQJGGDvB3MWZg",
+            "widthPx": 4344
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Poon's at Somerset House",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWBlqR80gg4ueGEZt5ZVVbjLTU4j_0pXXg8S6stY4PgjI-4GBg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/102371849066840057239"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOGEHm5rc-EKdVrTSK4-Tbs6-20xmLQbcJfsGJR&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOGEHm5rc-EKdVrTSK4-Tbs6-20xmLQbcJfsGJR!2e10!4m2!3m1!1s0x487605cd0f1195e3:0x2685bfbfe2e32fa0",
+            "heightPx": 2202,
+            "name": "places/ChIJ45URD80FdkgRoC_j4r-_hSY/photos/AZLasHo8MGdpb_QwrLvdNMM41kJh2dTX2fklbR-L9gGVT7wzMgghJP3ZRK-V4pjLRWdLbvOyRMbIqTEpi_faR5Qd5lbD6MDCbrY_UOer0-uji0-bz6-zyGMKpKlXJl8NL6lN926eHVzSWIu07ZRiMGWEEDb9lNaWGrVj78Nige0YPD0IAHvt6wr1yT24KsQCmNa7U6G3z6nVaxYswQ0PJa4XChtbzYOCoZHu49Hbkt3uDM0FR_at8OmIl8t3VA0GNkebMRWuM-ME_FhKVrJWtrucv3mzDEHJy8VIcFkNwIzJiqNcPA",
+            "widthPx": 3302
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Leonidas Kimberly",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUUUgfU29JNX0bVNLsAOOKGGbpBDvrPI8UiA-LftzJQKnUdBSZX=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/108749426824102659802"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCPKuMW0jXGgi_360QATyex&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCPKuMW0jXGgi_360QATyex!2e10!4m2!3m1!1s0x487605cd0f1195e3:0x2685bfbfe2e32fa0",
+            "heightPx": 4032,
+            "name": "places/ChIJ45URD80FdkgRoC_j4r-_hSY/photos/AZLasHr9Be53k8fEj65cmApUUBmZ86gO6XyQyDr1alN9Mh0aNHlaHnwATmusgP3SbS9EjgF7JuRatdJGJh19-BVqIshRHiGZY1JshJP7epw3eF8dIPwZU9a007BjqSdrHNcWM7QJ5aVwz7cjTUVIe8kul0B-uww7C0Y_O7JhBQ-pKEwgLAZc4q2qNzZnlIkVQLkd4upvAoWVVlD4SQEWxG3CYwdM3OLeneegRvKA3rG-xeEkynCCHjdE15TsMlkw9-t1256iOPaSh8jKM5-KflPnRbwY6Grbs98067pQW-07ehZ9deJO3IarlviIjl5kuC2UbFbhQnaD7oE-GTe-hAQUNrzkjTTbmZ_CXeX9mGUnLV2stfd5CdpIzmzTE8nOqrcah5gWCS5s6f79RvvUWACIsFMXashEboqFTIO6ZsOV4COzdDK5m94Wb79SZe1mTpIj",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Poon's at Somerset House",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWBlqR80gg4ueGEZt5ZVVbjLTU4j_0pXXg8S6stY4PgjI-4GBg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/102371849066840057239"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNfK1rXsgNXLaaR1_TQW-iqdsuBX5e9V4snqpid&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNfK1rXsgNXLaaR1_TQW-iqdsuBX5e9V4snqpid!2e10!4m2!3m1!1s0x487605cd0f1195e3:0x2685bfbfe2e32fa0",
+            "heightPx": 2202,
+            "name": "places/ChIJ45URD80FdkgRoC_j4r-_hSY/photos/AZLasHrlt6irp4Y94eIl8siM75mRsi_bkWwze7wGDT5FYsIcNC2MEvT41vS0GCMfeEWyBcsw7KqtXp1ZIsObelBRx7_SFzi90-y4B3gkneobQzdqMD8LbcxuWLyk8kWekIxY7Y2oxTFW-EHyPFGcI2KdRHhmsQMH8LOkNv_F7q28s2aRwewLcVbea82XbmtQJSF1B2nkNRxc5m6wvbQ4rIRMZtbZaglm7n3_3aXmKg9Yq6SAlh9hO9FQFSyWzJvpa7HJ0zjr1zY5dJbZOoTxftdAX9fd1w34xCyUAcpwID5CJXdTAg",
+            "widthPx": 3302
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Poon's at Somerset House",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWBlqR80gg4ueGEZt5ZVVbjLTU4j_0pXXg8S6stY4PgjI-4GBg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/102371849066840057239"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipP6klP9yjDzXJIh9wSGv8DdpjcMQHfIfABsAF76&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP6klP9yjDzXJIh9wSGv8DdpjcMQHfIfABsAF76!2e10!4m2!3m1!1s0x487605cd0f1195e3:0x2685bfbfe2e32fa0",
+            "heightPx": 2202,
+            "name": "places/ChIJ45URD80FdkgRoC_j4r-_hSY/photos/AZLasHoAB27GeSyLiVgrFATqMw7v19Wi6QSrpqd16-cLkOHeWf0qYQl9dPUiLLADMSrrgVoItEJNCimJgMC5vA3nvSKLuczls8aB3yInl3thqBco5ztIIWNIl_jn6e82INW1gX4DphCrTG0Q7eNZ3-zv8VXA811d0ap8qNf58A-G2oh0o55uJyeLDeh1uwfSemP3UnbFa7_PmF5Snt3YhEvsrXd1Jii4IrG0tUPgpTuWMGuth5V0-Kzgioy-xr4xhzABlqxCQapOS1Mdb9ArPH1fv00sTShk9se3a1NMDhq_slWY_Q",
+            "widthPx": 3302
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Poon's at Somerset House",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWBlqR80gg4ueGEZt5ZVVbjLTU4j_0pXXg8S6stY4PgjI-4GBg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/102371849066840057239"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPDFmt0Q-HHdQf1wQmkV9I7HCRIopO56E-0rArV&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPDFmt0Q-HHdQf1wQmkV9I7HCRIopO56E-0rArV!2e10!4m2!3m1!1s0x487605cd0f1195e3:0x2685bfbfe2e32fa0",
+            "heightPx": 1761,
+            "name": "places/ChIJ45URD80FdkgRoC_j4r-_hSY/photos/AZLasHqcD1E9iCerohjkzSj7WH8SdV-T07QubmaUx-7sG8X9-epCZbjcu0tRiBFr9EsReda7Ah3GKZhKsmXas2gsr807I-TbVKt1l7TYA-bdEKku46zGjojJOILHpbFSYo1J_o-fTj-hCdrCl2sKFx2xqIWOgBWzBEEKTvUQpF3D1oRkBaGY68I2RXq42HPuRNYhueDCxwyzBX5APeuEgJdkAQkfqVai2w8V0i-u8M28Jli12dF7wERLGdorgTfPswAseJG6LrLZkAkdBN_DWk5AQalMUAq8KxqYCGzzXQ4z7nm-zg",
+            "widthPx": 2202
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Poon's at Somerset House",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWBlqR80gg4ueGEZt5ZVVbjLTU4j_0pXXg8S6stY4PgjI-4GBg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/102371849066840057239"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNDC7d25XuLyX2l-uoX0V0bhbkKVyrSZ4iUtQXE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNDC7d25XuLyX2l-uoX0V0bhbkKVyrSZ4iUtQXE!2e10!4m2!3m1!1s0x487605cd0f1195e3:0x2685bfbfe2e32fa0",
+            "heightPx": 1600,
+            "name": "places/ChIJ45URD80FdkgRoC_j4r-_hSY/photos/AZLasHou-93FBTNfBiH3d-d2CpeuUDt_6cjVZLdWZZL6d9tKKq1wwCgzj81FJKmc0P-llR65Ckhu-Z2epc6vc7nTIrHeYvV8f08oeXxp-EglRxH1It_UUuuXgYi8lubmBa76sKFLv34hnZNVdm9nyncyu8NNqnrpg352idZ5zJyJU1_ufvkMQuogxxOQzWLAvpgie_rYq1SWrV90T1Fqb_XTZMaSKYfHsgFBnBLkdyo9hFH8W8QjSo5ZmHeJ-nY9xFwCLdAfMIaMYg2DRDKIoDOq03_tmh9Uk0qQtEu2w2D-VVlnnA",
+            "widthPx": 2400
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Poon's at Somerset House",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWBlqR80gg4ueGEZt5ZVVbjLTU4j_0pXXg8S6stY4PgjI-4GBg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/102371849066840057239"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMyi03gtuQw3LoBMIVBBg3JzkIuiCY9lFeOthpc&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMyi03gtuQw3LoBMIVBBg3JzkIuiCY9lFeOthpc!2e10!4m2!3m1!1s0x487605cd0f1195e3:0x2685bfbfe2e32fa0",
+            "heightPx": 1600,
+            "name": "places/ChIJ45URD80FdkgRoC_j4r-_hSY/photos/AZLasHqtlRhhjT90EbRli6HTl6Pi8PH_DAQMrkkRnNZECacEo0mUPtscozkoriVD7Ji89UM0IDqXiQVSwdjJPVRYw4VPUBa6AVtpGQa7aNHE09nIuv-dzRV0qdDXtPU2vEJaI-8QlxQmQhBvq3dxaFL-nezIeJ9ZYRWv1r4xUUkwh1uxN_W0JDN4fu0BxNeyu6IjYbkpSZwWadl5HfujmUG8QJrRdwa14Lxy_JQtvTdmfkH9_S09tBPwQBPyG4GD1zHUMi5WEZlJLDD_nZjmVrFJobBZ-qoQF-ZFciNfkakWM397dw",
+            "widthPx": 2400
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV6J+8M London, UK",
+        "globalCode": "9C3XGV6J+8M"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "Lancaster Place"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2R 1LA",
+        "regionCode": "GB"
+    },
+    "priceRange": {
+        "endPrice": {
+            "currencyCode": "GBP",
+            "units": "70"
+        },
+        "startPrice": {
+            "currencyCode": "GBP",
+            "units": "60"
+        }
+    },
+    "primaryType": "restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Restaurant"
+    },
+    "rating": 4.9,
+    "regularOpeningHours": {
+        "nextOpenTime": "2025-12-11T12:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 16,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 17,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 16,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 17,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 16,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 17,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 16,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 16,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 17,
+                    "minute": 30
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: Closed",
+            "Tuesday: 12:00 – 4:00 PM, 5:30 – 10:00 PM",
+            "Wednesday: 12:00 – 4:00 PM, 5:30 – 10:00 PM",
+            "Thursday: 12:00 – 4:00 PM, 5:30 – 10:30 PM",
+            "Friday: 12:00 – 4:00 PM, 5:00 – 10:30 PM",
+            "Saturday: 12:00 – 4:00 PM, 5:30 – 10:30 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "reservable": true,
+    "restroom": true,
+    "reviewSummary": {
+        "disclosureText": {
+            "languageCode": "en-US",
+            "text": "Summarized with Gemini"
+        },
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=5%401:CAIQACodChtyc19oOldnNHFRSm9EME1PdURDYkE5T2RmMWc%7CCAIQACorChtyc19oOldnNHFRSm9EME1PdURDYkE5T2RmMWcSDAjko8_JBhCA7IuUAg&d=17924085&t=8",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487605cd0f1195e3:0x2685bfbfe2e32fa0!9m1!1b1",
+        "text": {
+            "languageCode": "en-US",
+            "text": "People say this restaurant serves delicious, fresh, and flavorful dishes, including prawn toast, claypot rice, and wind-dried meats. They highlight the elegant, understated, and refined atmosphere, and the well-matched wine selection. They also like the warm, attentive service."
+        }
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Selma Yau",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXtmxLlLdiARAC47jm_um_zptGvPf_QH2oI7fh_q9FQus5AaBmT=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/113137573694011477316/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25keFpuQjBkMnhqVkcwMWNrSjZkbFIzV1U5VmNXYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25keFpuQjBkMnhqVkcwMWNrSjZkbFIzV1U5VmNXYxAB!2m1!1s0x487605cd0f1195e3:0x2685bfbfe2e32fa0",
+            "name": "places/ChIJ45URD80FdkgRoC_j4r-_hSY/reviews/Ci9DQUlRQUNvZENodHljRjlvT25keFpuQjBkMnhqVkcwMWNrSjZkbFIzV1U5VmNXYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "A elegant vibe in Poon’s at Somerset House.\nI had a lovely lunch with my family there. The foods are amazing. Especially the duck salad, the fermented tofu sauce with veggies, the steamed pork and my favourite prawn wontons (forgot to take photo). Actually every dish are tasty!\nAlso the drinks menu I can see Poon’s team makes a lot of effort in this. There is rarely places in london that we can choose our favourite tea with our meals."
+            },
+            "publishTime": "2025-11-05T20:49:05.883807337Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "A elegant vibe in Poon’s at Somerset House.\nI had a lovely lunch with my family there. The foods are amazing. Especially the duck salad, the fermented tofu sauce with veggies, the steamed pork and my favourite prawn wontons (forgot to take photo). Actually every dish are tasty!\nAlso the drinks menu I can see Poon’s team makes a lot of effort in this. There is rarely places in london that we can choose our favourite tea with our meals."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Bobby Shek",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVMM5LMAmvT4rm0-ca9L3oLjoI_QIyKck84ciXxggj2eBj9JLVv=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/102321662268317269966/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pkZmJsaDZUMWRJUWtFMFEwTk9ka0pIWTNWamJHYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkZmJsaDZUMWRJUWtFMFEwTk9ka0pIWTNWamJHYxAB!2m1!1s0x487605cd0f1195e3:0x2685bfbfe2e32fa0",
+            "name": "places/ChIJ45URD80FdkgRoC_j4r-_hSY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkZmJsaDZUMWRJUWtFMFEwTk9ka0pIWTNWamJHYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Opening night at the new restaurant in Somerset House. Poons is Cantonese comfort food in London.\n\nLovely warm welcome from the team there, with the added bonus of Amy Poon doing the rounds to ensure everything was perfect. Her partner was also there, ensuring all the guests felt at ease.\n\nTaking guidance from the team there I ordered a variety of dishes, with a robust wine to wash it down. All were delicious, with the bill at the end pretty good value for an establishment like this.\n\nAs this dinner brought me back to childhood and happiness in so many ways, you’ve made me a regular on this one visit alone. Thank you for having me."
+            },
+            "publishTime": "2025-11-05T21:12:25.012820582Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Opening night at the new restaurant in Somerset House. Poons is Cantonese comfort food in London.\n\nLovely warm welcome from the team there, with the added bonus of Amy Poon doing the rounds to ensure everything was perfect. Her partner was also there, ensuring all the guests felt at ease.\n\nTaking guidance from the team there I ordered a variety of dishes, with a robust wine to wash it down. All were delicious, with the bill at the end pretty good value for an establishment like this.\n\nAs this dinner brought me back to childhood and happiness in so many ways, you’ve made me a regular on this one visit alone. Thank you for having me."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Leonidas Kimberly",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUUUgfU29JNX0bVNLsAOOKGGbpBDvrPI8UiA-LftzJQKnUdBSZX=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/108749426824102659802/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pOblVIVkhRV2xyUTE5Q1kyZzRSMUoxVjJkbU5WRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pOblVIVkhRV2xyUTE5Q1kyZzRSMUoxVjJkbU5WRRAB!2m1!1s0x487605cd0f1195e3:0x2685bfbfe2e32fa0",
+            "name": "places/ChIJ45URD80FdkgRoC_j4r-_hSY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOblVIVkhRV2xyUTE5Q1kyZzRSMUoxVjJkbU5WRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Stunning place, the attention to detail covers every inch with tasteful storytelling. The food was authentic and a very unique take on Chinese dishes. The staff were so lovely and Amy was such a wonderful host. A truly special place in London like nowhere else."
+            },
+            "publishTime": "2025-11-19T23:57:09.647024491Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "3 weeks ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Stunning place, the attention to detail covers every inch with tasteful storytelling. The food was authentic and a very unique take on Chinese dishes. The staff were so lovely and Amy was such a wonderful host. A truly special place in London like nowhere else."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "George Alleston",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU4WSSIgOUk-uEwuIiZ8DH7j86qgNPVFT6JClL4h56qOdFnAg8q=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/107460172114335313573/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwQlpHUXhZbVptVDFaalZsQmpNbXhOVVdSMlNtYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwQlpHUXhZbVptVDFaalZsQmpNbXhOVVdSMlNtYxAB!2m1!1s0x487605cd0f1195e3:0x2685bfbfe2e32fa0",
+            "name": "places/ChIJ45URD80FdkgRoC_j4r-_hSY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwQlpHUXhZbVptVDFaalZsQmpNbXhOVVdSMlNtYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Had such a great meal here! The food was delicious, everything was fresh, full of flavour and cooked perfectly. Absolutely beautiful room as well and the atmosphere was relaxed but still had a nice buzz. Definitely check out the wine list (great Somme so ask for recommendations). Honestly, it’s one of the best meals I’ve had in a while, I can’t wait to come back!"
+            },
+            "publishTime": "2025-11-10T10:58:03.434314571Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Had such a great meal here! The food was delicious, everything was fresh, full of flavour and cooked perfectly. Absolutely beautiful room as well and the atmosphere was relaxed but still had a nice buzz. Definitely check out the wine list (great Somme so ask for recommendations). Honestly, it’s one of the best meals I’ve had in a while, I can’t wait to come back!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Zoe Zotou",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJcGE727GmkEi4gVTiWvrRU1jNuphiPmfUc-cqcHOiObD3NLg=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/100402324031492187136/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25aNWNVVlNOVk54UWtKT2FFZEhlVzVrWVhsbFdXYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aNWNVVlNOVk54UWtKT2FFZEhlVzVrWVhsbFdXYxAB!2m1!1s0x487605cd0f1195e3:0x2685bfbfe2e32fa0",
+            "name": "places/ChIJ45URD80FdkgRoC_j4r-_hSY/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aNWNVVlNOVk54UWtKT2FFZEhlVzVrWVhsbFdXYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "A superb dinner at Poon’s — elegant, understated and full of flavour. Every dish was perfectly balanced, especially the prawn wontons and steamed pork neck. The wine selection is excellent - extremely thoughtful and well matched to the food. Warm, attentive service and a calm, refined atmosphere. Can’t wait to return 🤩"
+            },
+            "publishTime": "2025-11-07T12:41:08.502405901Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "A superb dinner at Poon’s — elegant, understated and full of flavour. Every dish was perfectly balanced, especially the prawn wontons and steamed pork neck. The wine selection is excellent - extremely thoughtful and well matched to the food. Warm, attentive service and a calm, refined atmosphere. Can’t wait to return 🤩"
+            }
+        }
+    ],
+    "servesBeer": true,
+    "servesBreakfast": false,
+    "servesBrunch": false,
+    "servesCocktails": true,
+    "servesDessert": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "servesVegetarianFood": true,
+    "servesWine": true,
+    "shortFormattedAddress": "Somerset House, Lancaster Pl, London",
+    "takeout": false,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 24,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.5120993302915,
+            "longitude": -0.11708181970849799
+        },
+        "low": {
+            "latitude": 51.509401369708506,
+            "longitude": -0.11977978029150202
+        }
+    },
+    "websiteUri": "https://www.poonslondon.com/restaurant",
+    "timestamp": 1765447200
+}

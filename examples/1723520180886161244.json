@@ -1,0 +1,819 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleParking": false,
+        "wheelchairAccessibleSeating": true
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "44",
+            "shortText": "44",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Floral Street",
+            "shortText": "Floral St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2E 8BT",
+            "shortText": "WC2E 8BT",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJs4GOh8sEdkgRRiBFZKMP8ZE",
+                "placeId": "ChIJs4GOh8sEdkgRRiBFZKMP8ZE"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJgXlkg8sEdkgRBQIcjaxWHPs",
+                "placeId": "ChIJgXlkg8sEdkgRBQIcjaxWHPs"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Royal Ballet and Opera"
+                },
+                "name": "places/ChIJySOgh8sEdkgRCBzTYt83Klg",
+                "placeId": "ChIJySOgh8sEdkgRCBzTYt83Klg",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 85.38963,
+                "travelDistanceMeters": 133.36185,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJQR9pg8sEdkgRKeWNNYlDdPU",
+                "placeId": "ChIJQR9pg8sEdkgRKeWNNYlDdPU",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 115.58672,
+                "travelDistanceMeters": 78.75482,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "shopping_mall"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Nags Head"
+                },
+                "name": "places/ChIJ2QufhMwEdkgRXCUo74j_0Zo",
+                "placeId": "ChIJ2QufhMwEdkgRXCUo74j_0Zo",
+                "spatialRelationship": "BESIDE",
+                "straightLineDistanceMeters": 21.152332,
+                "travelDistanceMeters": 27.815102,
+                "types": [
+                    "bar",
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Masala Zone Covent Garden"
+                },
+                "name": "places/ChIJ40_ZncwEdkgRKYHPtm7wi28",
+                "placeId": "ChIJ40_ZncwEdkgRKYHPtm7wi28",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 52.932404,
+                "travelDistanceMeters": 40.72353,
+                "types": [
+                    "bar",
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The White Lion"
+                },
+                "name": "places/ChIJZX6hhcwEdkgRGxJGH3Oo1o4",
+                "placeId": "ChIJZX6hhcwEdkgRGxJGH3Oo1o4",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 39.010113,
+                "travelDistanceMeters": 36.345947,
+                "types": [
+                    "bar",
+                    "establishment",
+                    "point_of_interest"
+                ]
+            }
+        ]
+    },
+    "allowsDogs": false,
+    "businessStatus": "OPERATIONAL",
+    "containingPlaces": [
+        {
+            "id": "ChIJQR9pg8sEdkgRKeWNNYlDdPU",
+            "name": "places/ChIJQR9pg8sEdkgRKeWNNYlDdPU"
+        }
+    ],
+    "currentOpeningHours": {
+        "nextOpenTime": "2025-12-11T11:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 14,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 14,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 15,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 15,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 16,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 16,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 17,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 17,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 11,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 11:00 AM – 10:00 PM",
+            "Tuesday: 11:00 AM – 10:00 PM",
+            "Wednesday: 11:00 AM – 10:00 PM",
+            "Thursday: 11:00 AM – 10:00 PM",
+            "Friday: 11:00 AM – 11:00 PM",
+            "Saturday: 11:00 AM – 11:00 PM",
+            "Sunday: 12:00 – 9:00 PM"
+        ]
+    },
+    "delivery": true,
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Busaba Covent Garden"
+    },
+    "editorialSummary": {
+        "languageCode": "en",
+        "text": "Low-lit Thai chain restaurant with a modern dark wood interior and square communal tables."
+    },
+    "formattedAddress": "44 Floral St, London WC2E 8BT, UK",
+    "goodForGroups": true,
+    "goodForWatchingSports": false,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x487604cc9cdd0f33:0x17eb2c7910efc75c!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487604cc9cdd0f33:0x17eb2c7910efc75c!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=1723520180886161244&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487604cc9cdd0f33:0x17eb2c7910efc75c!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487604cc9cdd0f33:0x17eb2c7910efc75c!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=1723520180886161244&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJMw_dnMwEdkgRXMfvEHks6xc",
+    "internationalPhoneNumber": "+44 20 7759 0088",
+    "liveMusic": false,
+    "location": {
+        "latitude": 51.5130249,
+        "longitude": -0.1234816
+    },
+    "name": "places/ChIJMw_dnMwEdkgRXMfvEHks6xc",
+    "nationalPhoneNumber": "020 7759 0088",
+    "outdoorSeating": false,
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Paddy Za",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXLHtzBvBpAepbAFH02-tjdlzwcHZcg4i0ZFq5TNZ7o7q9vZ79v=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/115609821031000854269"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDupL3C1gE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDupL3C1gE!2e10!4m2!3m1!1s0x487604cc9cdd0f33:0x17eb2c7910efc75c",
+            "heightPx": 3024,
+            "name": "places/ChIJMw_dnMwEdkgRXMfvEHks6xc/photos/AZLasHrJGGuRVKe-0WG1NzZoh5BnOZbidq7CLMnszn3oajx5qPuRrFSht5JAYuWgBcMNRIUHF0_xoeYpdNS7knDh_5qHx8vYBmSsb4SRbhnlaqu6rQzlLZhs6kLy855ru0Fl7ReSsgZ6Ok12PxzhbRBOjvPqCE5iwElcIO2f6N0Ih-Oh3-r9cnj7WEZoTPokkIF82Vmhz6b3tNeHysy3quISMXFiFgm1D5u1cl1NLi3UFeiZS3zAvjFf0Ty2twzL1ivVXvmAl9OJT5xrD-QybD10MXNMGLSVf71p36WOWrB6H1oOZe3v2a1w8L2888HDVxVUf7-MxVhkHx0XJJY-3zgSItDd6jCCgSvjEHGQiS_pYblUkcUL_73yyF4LZQxmMqjAlKWRIqp7hro_a7cL4FeDJxEz63-lCXjvvJMEL5ABZBJJ1Vxt",
+            "widthPx": 4032
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Busaba Covent Garden",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXsvpEvQhYwyG3kDcs31g-Qd5Fw2he3VB5k-D90dcrG0znelU-D=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/103681004725180136838"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipO0nGDMXB_sS7XpHkZBDzN7Jyh_FwrRa-ZtXX70&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO0nGDMXB_sS7XpHkZBDzN7Jyh_FwrRa-ZtXX70!2e10!4m2!3m1!1s0x487604cc9cdd0f33:0x17eb2c7910efc75c",
+            "heightPx": 4800,
+            "name": "places/ChIJMw_dnMwEdkgRXMfvEHks6xc/photos/AZLasHqPLhunS9BTLYJTWYA2ztt6NxmfF9wI99b0GyFseeELkYpAEF8ChShlaOQAahTMvUjRS2dkcZOnCccYWTi6qWA76IIqcDjjNqHnQQk6F-_iulw7ktnyB-zaKfeG0HNWeNmVpisuo1BK-kWwHbTwUBTMRxP8JJFBdk6jwpr13RzCKmrIaKpginbJjM5DSXBnrUJCgHSlViiADBbEYQZKnoedO4-rosBZmgG2Olc2sUjOfVcyQARlVq0NhoC8JCiFjuA2-3whC2bwOLe2Lnor7k0fOTpLIXLwjd4PWfu1SnaiOQ",
+            "widthPx": 3839
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Mahmut Guler",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXQzUggMVYJWAlIDiDyzpGFPu-wF2KaXH_utBZzFfRGIvb604eV=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/102173475826452423141"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCO4UnrZJYx-xjOyFp-a03k&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCO4UnrZJYx-xjOyFp-a03k!2e10!4m2!3m1!1s0x487604cc9cdd0f33:0x17eb2c7910efc75c",
+            "heightPx": 4800,
+            "name": "places/ChIJMw_dnMwEdkgRXMfvEHks6xc/photos/AZLasHqt7LO16F3gZrzBfz5XIQIhZ_tRT7f56FqjArBeYqGErrWQe-cjqKScmrp7X9f1g1dPiEv8uJ4h7kTlJtgH0SoTZC9YOxXUjUCadqBqGJ3okKnRybW0ehHvnDxXwRnD9wsriOtzpLZsvzl62--S4By6p6E_RPjkeNYHtiD5NYhSjCPWHXay7pRcnkI6SVaq5bRmmVl_H3GFwZ60sBFxS4Tbgk6eMLJWMo1KAGsUuGqQne6_yxTOl9M8zpHpnqJRHaA3eLjv9S27zaA0h9OLImh4vQioLZWpY6Ll_LeYj0NCFpLdMsauEZk6ctZ8qTQ04zk1_njL-ZW6q1-Rbl4qvb3gWAoC84JclNY1KoGsomx5YiaOuOodjatkil-qSRAIfQBWM-nmIj9iRqPGz_9AoUa6fkem72JbfGVH0hG8LMd3hx9K5iTpV1HuAHVFuMFR",
+            "widthPx": 3600
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Lily",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKcuQdwDT3YbXTcmEIKVmE9O4nrKs_LkXf6VKPGyyGZ9rtPug=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/101532372138836433912"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDA8bKJMw&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDA8bKJMw!2e10!4m2!3m1!1s0x487604cc9cdd0f33:0x17eb2c7910efc75c",
+            "heightPx": 849,
+            "name": "places/ChIJMw_dnMwEdkgRXMfvEHks6xc/photos/AZLasHrkh-JZVOrMS7fnZfmFXjacuRhyXiz6h3_narGNVCbMXfmcNAxOQkC3zPCctZna-j64QZyhSwUOjK76Ge5GVcBL5DWspZjd76G1ddd6uDl8CEx3JA-iiyPoeIGXVdQ6pWv-bKw6M4VB8kZe4Q12L32LzYb_W11PX4uc7go_iThxtuclpHJMQnuzXKL0rEe4D4Usx5zRwGY3O8EfabWgTADZRHbt30ZN1uWBVap2Bq4YA9jbN4VRI8w_IWHpP1cgl-D7K7jcy2646rdRvbqgL6ioleTZtnDevDooc5NdEmoMFIpuLf6TugRVY3-DDH8NqJxYybYK97JkmJQN8BTMvklzCtnCGNAXKSY9sRk8mUqD0-DIt9SHLtLA7FLKWC3ELP8gvKJri4K-D17EQkfI-FCDxAZUNUhSOoB-eyFd6hNg2w",
+            "widthPx": 1085
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Riju Sathyan",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWD4eP6e2ogLcUHupMKWCWuaAjQFWM_t9oOZoCvuY0-9hF7CXzO=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/114867265890945319397"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDnYeOtclH1j2W0MyhOrzg0&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDnYeOtclH1j2W0MyhOrzg0!2e10!4m2!3m1!1s0x487604cc9cdd0f33:0x17eb2c7910efc75c",
+            "heightPx": 3000,
+            "name": "places/ChIJMw_dnMwEdkgRXMfvEHks6xc/photos/AZLasHo3R3LZ1-hbSlIoJ_E61IPzlfdkhIlLZGvJ_Gf8bKo24oXNoidmm9PeACz5yQT688r5j6j41GehBn3K7PYlEUrhhZnX1itfmPExDwsMznwYS-I2-YljLW0G_qEsxzIM1t4HIb0MM2HniRJDsUJva6DNcF2N0w19n7PtRC-VAj7vC2lviMT3QjfuUapJMmzuzZDGod1mDTR51BwbBKOo-Blz-9l9Ej0G06sHJzQ5zr_jMftq_5ubggksh136i32YeNqwvGUSNw4Izdd_2kV4ufp0utSugxPC11XJLolPZ3SgqMUaKUxk058hCtJCJ0T45KYrSGyCmHG4aFYSQATWAlt_CbWFm9xydio_Ts1uq25w_lLdCX0VCHFlmvA59STBUxsxekqZhplhmrDK8c4LveAJo6_NyXsOiVrMMYe92a72ghkhl-LUgXXarmNSyWnF",
+            "widthPx": 4000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Sonia T.",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUbQdlkXS_R_Yi5JrUXHnru1YKJ5ozMOJlyswx4zcApaxz0NX-bGQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117250588664108794806"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAgEHYcVuetIHJz3AMvWJNL&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAgEHYcVuetIHJz3AMvWJNL!2e10!4m2!3m1!1s0x487604cc9cdd0f33:0x17eb2c7910efc75c",
+            "heightPx": 3000,
+            "name": "places/ChIJMw_dnMwEdkgRXMfvEHks6xc/photos/AZLasHrY3Y2CXimxUDXvlXpkGCWvzF4MefqpizYprhtbS4KLBSsxec8lOgjcV7Cnv3rKVbGl8-45IpUjciKFa8K3zhas-bz1Pa_WqtHSEeP7ho4STJAfnQigv8-kPyrLuso1YxhTt2haCm5YKi2DlV-ysGbxAnmqYd-lVVxPcp0kiCPWPO0lbuA4z2P5WL8zr-uH9yzY6Jnaei8QOoLtCQ0iV69DVvqcyv_5zP4U0ruhMuUYQXISc-o1UyUsWvPu_IdkPaksANwb06y913h782GqoUfns-NIYouvGDUfnraT3TgCUW8gkn37Q2WTa0X9pZOJL1cL4xXHV6Y_3fF1KFetx7npRbFSDtYZbjBeMtPO49WGFvDFZmjd7hLcSe2nFAG_HJyR3h1riQAB6B_9rJkvnfHN9ImcVAJCpOHMyWTotu6UUuLRla3RsGuXWJDyoGRW",
+            "widthPx": 4000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Deepak Gala",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIuj6vQYWwqYAyHdn27LrKH5AAiZl57XiBqHKRCkzl1hioooA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/105811438287458428930"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDg4qHMdw&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDg4qHMdw!2e10!4m2!3m1!1s0x487604cc9cdd0f33:0x17eb2c7910efc75c",
+            "heightPx": 3024,
+            "name": "places/ChIJMw_dnMwEdkgRXMfvEHks6xc/photos/AZLasHoxaAmaXrrlVJWqz1c4PHXH9WIbTU_i1HfLLVQ9nXkhhRNErbBv1vw79EdGEzXGWXf9Px8tvwL-cvZ61PKOYZyHIobnbwvTJgkJU5gv9bqjWramouzBF4lQ5GMXaLXFemdw_dmIugOMgS2pB3x4yCQevMUZGTRtPxKLX8a8aet3-XM6RX5RFPDh9j3LLqw3ooKGu6_ZxLTFPtqDyCOKIoDQOhEWvRYmCt_UWCH4YolI9QcekeVp3-jV32iTIV86Vc86GVK68QAWJRsNg5v1y6sPq4wwNS4XnjCrjoWduzAVnGQ_69AfbIIdyYCsEnNw8QFzHhPRPXHVTYDMVBsyOfaUco1gZGgvO7NmaapETHWJCsT-wFPnbwJLEchtrf5Hr6uPtRysfiticmYNfBpQKSkztKuuzeIPCZvkjRDMHCc69A",
+            "widthPx": 4032
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Lily",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKcuQdwDT3YbXTcmEIKVmE9O4nrKs_LkXf6VKPGyyGZ9rtPug=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/101532372138836433912"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDA8bKJswE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDA8bKJswE!2e10!4m2!3m1!1s0x487604cc9cdd0f33:0x17eb2c7910efc75c",
+            "heightPx": 1021,
+            "name": "places/ChIJMw_dnMwEdkgRXMfvEHks6xc/photos/AZLasHosQ6xVepJiAqygGndB7ecpgsK_9Iiumd-IKxhUDxTJXuff7B1aq4e8rG7RDhsE_f0_s2CkgCpPtcG9pSjrd3GYexrc1R2drxPEJJmnVc5E14i7ORFdkWCXB9XVadSO6jdOyVawd2mXtDuxS5glAFK1mnwgtDjmzxlUnlzEwHmhtl0uj7iwCcyiKmGMygqjfwEfchjT3KmzKNkOIZDgTRvw3KZ3kuLaBZwAQI3k2voB4yqPXFER1DTEEQhr7iXvSuoXLrjpTBtrfgn6DGXbDkpOsRZMq3i20_OB75adyEQIWQBHFhER-sGxSkSIrN4iTPU_kWcYz0RKcnJhKF-kQOLgRktDbcMm5wJo5Psv80xwVs3omUuJ9jg1FzyMSSGiani-qGWt7x8aJPhUf9GTQfg36LDC4uYXZdc1LUenf7Yw5ktI",
+            "widthPx": 1157
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Łukasz G.",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKoA3EXb0XpP6ihaqzn_tiUPH7ySdKj8qwCzy5zjVJ-Mv6xNQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117485169750502932331"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDwtviGdw&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDwtviGdw!2e10!4m2!3m1!1s0x487604cc9cdd0f33:0x17eb2c7910efc75c",
+            "heightPx": 4000,
+            "name": "places/ChIJMw_dnMwEdkgRXMfvEHks6xc/photos/AZLasHpp2PVtwM2OjCGUF8NJXImSR9EOjygHs6GbU65dIAVOEEUwGzwX9V8t_LiQghWwed8e6bIidjoTvJi96PkyRjGAtg_hMlcGUua6uFZB4dBXZ53JUbgbQtHhRnR5LHJgGPohEYWyIedMX3lcJENF7X0rOgTZhh0TZ9q-4GtAqsFLJbUhLoNlRcePV3KMfEx2yqgudAJ5P1BVD4WksO6yebiVzXHczPwIHz_WDwNeKnengThO_FJIeh1D-OVsy7LMBndSx3tGjqU6f48GRi8z7afv2kJiFyopgP3Yhu9cWyGJGgDZrt7wJ9KI868RqYmVBpsgJyoQZOirM8ZMGcX13tJhv2QZyuOkel5a-qsCshurHa4Gx4_B1FcpEMBapIhPO8h5S4hAeHs64R3tAfEykyvfH6K5vN6GCP8EuFKwDlg",
+            "widthPx": 2252
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Daniel Tam",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUHJ38H12ysxMxk7H8p8bojfZLB0Azp17oZrj6iC-ie7hOqeJTljQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/102191539934785995678"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBIhaWwVGCvyixNi8oo2yiz&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBIhaWwVGCvyixNi8oo2yiz!2e10!4m2!3m1!1s0x487604cc9cdd0f33:0x17eb2c7910efc75c",
+            "heightPx": 4000,
+            "name": "places/ChIJMw_dnMwEdkgRXMfvEHks6xc/photos/AZLasHpumdv7Egqazx5zMqDjJNqzYf55a7nrYgY8U63cD4khmQtvhDIwqmJFv6V-pfKFNrPcxUCRWISb0CF9hJh22VO3Gg7Gz4Rm22rr5mQVfw9rHBvxMCzTLJMGkxU3ENnwR8auc5L2dgzH-vUtetIJCucQNT8G2Dn0CQPK_s4XPRtDPlwtnY-ht1Jtnf0EMTHgy1jnSyOQ3OS8BXGHpPemneTz6LAu5dO4_k2Q6fY1_49BmfZt8FJ46DBVgSy5SFwpd_aPDyNt-pNV2XpAo6AXZwKE4wmNWA3IxAVEwRU4g2T9-QZiquz3SMmHrPt4B4zUAefs96KNEwD7AU0_ZQB93F9xLXO2KVjCK9dx2zzH68MJ85jQXj8-BhmnLnFCqsw-pTmWTLgKjO3f9tIEtuWigzVHKpxIG4QpOOqbuZA7q8P-hdGxXu2D1k8r5RujLtgs",
+            "widthPx": 3000
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV7G+6J London, UK",
+        "globalCode": "9C3XGV7G+6J"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "44 Floral Street"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2E 8BT",
+        "regionCode": "GB"
+    },
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "priceRange": {
+        "endPrice": {
+            "currencyCode": "GBP",
+            "units": "30"
+        },
+        "startPrice": {
+            "currencyCode": "GBP",
+            "units": "20"
+        }
+    },
+    "primaryType": "thai_restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Thai Restaurant"
+    },
+    "rating": 4.2,
+    "regularOpeningHours": {
+        "nextOpenTime": "2025-12-11T11:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 11,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 11:00 AM – 10:00 PM",
+            "Tuesday: 11:00 AM – 10:00 PM",
+            "Wednesday: 11:00 AM – 10:00 PM",
+            "Thursday: 11:00 AM – 10:00 PM",
+            "Friday: 11:00 AM – 11:00 PM",
+            "Saturday: 11:00 AM – 11:00 PM",
+            "Sunday: 12:00 – 9:00 PM"
+        ]
+    },
+    "reservable": true,
+    "restroom": true,
+    "reviewSummary": {
+        "disclosureText": {
+            "languageCode": "en-US",
+            "text": "Summarized with Gemini"
+        },
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=5%401:CAIQACodChtyc19oOnF4SVZ3MlFRekdqYXFYN09YdHFxZ2c%7CCAIQACorChtyc19oOnF4SVZ3MlFRekdqYXFYN09YdHFxZ2cSDAj60JXJBhCopbqRAw&d=17924085&t=8",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487604cc9cdd0f33:0x17eb2c7910efc75c!9m1!1b1",
+        "text": {
+            "languageCode": "en-US",
+            "text": "People say this Thai restaurant serves delicious chili beef jasmine rice, pad thai, and green curry. They also highlight the reasonable prices, cozy atmosphere, and friendly, attentive service.\n\nOther reviews mention the food can be overcooked."
+        }
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Mahmut Guler",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXQzUggMVYJWAlIDiDyzpGFPu-wF2KaXH_utBZzFfRGIvb604eV=s128-c0x00000000-cc-rp-mo-ba2",
+                "uri": "https://www.google.com/maps/contrib/102173475826452423141/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w5Uk0wVlZRMGxLTUdscU0xcE9lV2QzVlhVeGFYYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5Uk0wVlZRMGxLTUdscU0xcE9lV2QzVlhVeGFYYxAB!2m1!1s0x487604cc9cdd0f33:0x17eb2c7910efc75c",
+            "name": "places/ChIJMw_dnMwEdkgRXMfvEHks6xc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5Uk0wVlZRMGxLTUdscU0xcE9lV2QzVlhVeGFYYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "I recently visited Busaba in Covent Garden. The service was a little on the slow side, but the food easily made up for it. We ordered the sharing platters, and every single item on them was packed with flavour—fresh, well-seasoned, and genuinely delicious.\n\nThe standout dish of the night was the Mussamen Lamb. It was extraordinary: tender, rich, and beautifully balanced. We also had the Pad Thai, a classic choice, and it didn’t disappoint—comforting, tasty, and exactly what you expect from a well-made version of the dish.\n\nOverall, despite the slightly slow pace of service, the food quality was impressive and consistent. A great spot if you want bold flavours and a relaxed dining experience in the heart of Covent Garden."
+            },
+            "publishTime": "2025-11-17T09:02:41.380256462Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "3 weeks ago",
+            "text": {
+                "languageCode": "en",
+                "text": "I recently visited Busaba in Covent Garden. The service was a little on the slow side, but the food easily made up for it. We ordered the sharing platters, and every single item on them was packed with flavour—fresh, well-seasoned, and genuinely delicious.\n\nThe standout dish of the night was the Mussamen Lamb. It was extraordinary: tender, rich, and beautifully balanced. We also had the Pad Thai, a classic choice, and it didn’t disappoint—comforting, tasty, and exactly what you expect from a well-made version of the dish.\n\nOverall, despite the slightly slow pace of service, the food quality was impressive and consistent. A great spot if you want bold flavours and a relaxed dining experience in the heart of Covent Garden."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Joudy Sultan",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK529Vke1LthNiTPB_bWHoYjSEOQwA1ftDChqfca9jRVH20vyM=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/107208060975277950464/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pBdGEycFNaRzl2YzNoWmRtYzNSM0kzVlZWb1ZFRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pBdGEycFNaRzl2YzNoWmRtYzNSM0kzVlZWb1ZFRRAB!2m1!1s0x487604cc9cdd0f33:0x17eb2c7910efc75c",
+            "name": "places/ChIJMw_dnMwEdkgRXMfvEHks6xc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pBdGEycFNaRzl2YzNoWmRtYzNSM0kzVlZWb1ZFRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "We ordered the Tom Yam Goong and waited a considerable amount of time. When it finally arrived, we were met with absolute disappointment. The single fork full of noodles I managed to lift was literally the only noodles in the entire bowl of soup. The broth itself tasted like watered-down tinned tomato – completely bland and inedible, lacking any of the authentic Thai flavours you'd expect from Tom Yam.\n\nWe politely mentioned it was fine but asked if we could get more noodles. The kind waitress (the only redeeming aspect of this experience) was lovely and understanding throughout. The same bald waiter who \"greeted\" us then shoved the bowl (it can only be described as a pitiful portion of plain noodles) onto our table without a word.\n\nBetween the appalling service from the kitchen and that particular waiter, we decided to leave. We came for lunch and left hungry. Thank you to the one waitress who tried her best to salvage this disaster. I wouldn't recommend this restaurant to anyone."
+            },
+            "publishTime": "2025-11-20T16:49:49.055110615Z",
+            "rating": 1,
+            "relativePublishTimeDescription": "2 weeks ago",
+            "text": {
+                "languageCode": "en",
+                "text": "We ordered the Tom Yam Goong and waited a considerable amount of time. When it finally arrived, we were met with absolute disappointment. The single fork full of noodles I managed to lift was literally the only noodles in the entire bowl of soup. The broth itself tasted like watered-down tinned tomato – completely bland and inedible, lacking any of the authentic Thai flavours you'd expect from Tom Yam.\n\nWe politely mentioned it was fine but asked if we could get more noodles. The kind waitress (the only redeeming aspect of this experience) was lovely and understanding throughout. The same bald waiter who \"greeted\" us then shoved the bowl (it can only be described as a pitiful portion of plain noodles) onto our table without a word.\n\nBetween the appalling service from the kitchen and that particular waiter, we decided to leave. We came for lunch and left hungry. Thank you to the one waitress who tried her best to salvage this disaster. I wouldn't recommend this restaurant to anyone."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Liv Coldwell",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVL_xLtEuRUkyvlkieViQB_h6UjdZ4QhaaUTHkwhOUkr8W7ZB4n=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/109112497558662451460/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wUVoxTnlWelV0TW1wRFRESkNhVXh2WkZkMVYxRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wUVoxTnlWelV0TW1wRFRESkNhVXh2WkZkMVYxRRAB!2m1!1s0x487604cc9cdd0f33:0x17eb2c7910efc75c",
+            "name": "places/ChIJMw_dnMwEdkgRXMfvEHks6xc/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wUVoxTnlWelV0TW1wRFRESkNhVXh2WkZkMVYxRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Buzzing atmosphere and good service. We got the same meal as usual and found the quality to be pretty similar to other branches - however the mango sticky rice was not good at all - very dry and no real taste today which was unfortunate. The satay chicken, khao red pork, calamari, and duck noodles were all fantastic and very reasonably priced. We will be back soon!"
+            },
+            "publishTime": "2025-06-08T21:12:57.776578096Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "6 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Buzzing atmosphere and good service. We got the same meal as usual and found the quality to be pretty similar to other branches - however the mango sticky rice was not good at all - very dry and no real taste today which was unfortunate. The satay chicken, khao red pork, calamari, and duck noodles were all fantastic and very reasonably priced. We will be back soon!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Daniel Tam",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUHJ38H12ysxMxk7H8p8bojfZLB0Azp17oZrj6iC-ie7hOqeJTljQ=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/102191539934785995678/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twR2REVk9UMmRvT0d0MVZYTndka2xYZFdReFdWRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twR2REVk9UMmRvT0d0MVZYTndka2xYZFdReFdWRRAB!2m1!1s0x487604cc9cdd0f33:0x17eb2c7910efc75c",
+            "name": "places/ChIJMw_dnMwEdkgRXMfvEHks6xc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twR2REVk9UMmRvT0d0MVZYTndka2xYZFdReFdWRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "The calamari and stir fried vegetables were good but the tom yum soup was a total fail! Tastes nothing like tom yum and it was more like a tomato soup. And what are noodles doing in the soup?? 😱"
+            },
+            "publishTime": "2025-07-23T18:19:00.385748449Z",
+            "rating": 3,
+            "relativePublishTimeDescription": "4 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "The calamari and stir fried vegetables were good but the tom yum soup was a total fail! Tastes nothing like tom yum and it was more like a tomato soup. And what are noodles doing in the soup?? 😱"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Peach P",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWFj4uS-ogx212T0iemHgmtomizldhzOcozoOAHH-UzjAh9nK2-LQ=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/106091627733174708307/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvdTdlLUZREAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvdTdlLUZREAE!2m1!1s0x487604cc9cdd0f33:0x17eb2c7910efc75c",
+            "name": "places/ChIJMw_dnMwEdkgRXMfvEHks6xc/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvdTdlLUZREAE",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Busaba offers a Thai-inspired dining experience that’s enjoyable, though not quite as authentic as I had hoped. They didn’t have Thai milk tea.\n\nThe por pia were served hot and had a satisfying crunch, but not enough filling. The Songkhla beef was tender, with a rich and well-balanced curry flavor. Everyone still enjoyed their meal though."
+            },
+            "publishTime": "2025-04-20T07:51:09.099108Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "7 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Busaba offers a Thai-inspired dining experience that’s enjoyable, though not quite as authentic as I had hoped. They didn’t have Thai milk tea.\n\nThe por pia were served hot and had a satisfying crunch, but not enough filling. The Songkhla beef was tender, with a rich and well-balanced curry flavor. Everyone still enjoyed their meal though."
+            }
+        }
+    ],
+    "servesBeer": true,
+    "servesBreakfast": false,
+    "servesCocktails": true,
+    "servesCoffee": true,
+    "servesDessert": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "servesVegetarianFood": true,
+    "servesWine": true,
+    "shortFormattedAddress": "44 Floral St, London",
+    "takeout": true,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "thai_restaurant",
+        "asian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 1603,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.514359230291504,
+            "longitude": -0.12208856970849798
+        },
+        "low": {
+            "latitude": 51.511661269708505,
+            "longitude": -0.12478653029150201
+        }
+    },
+    "websiteUri": "http://www.busaba.com/locations/busaba-covent-garden?utm_source=gmb&utm_medium=organic",
+    "timestamp": 1765447200
+}

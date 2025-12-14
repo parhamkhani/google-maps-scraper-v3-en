@@ -1,0 +1,544 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleEntrance": true
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en",
+            "longText": "68",
+            "shortText": "68",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "69",
+            "shortText": "69",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Saint Martin's Lane",
+            "shortText": "St Martin's Ln",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2N 4JS",
+            "shortText": "WC2N 4JS",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJs4GOh8sEdkgRRiBFZKMP8ZE",
+                "placeId": "ChIJs4GOh8sEdkgRRiBFZKMP8ZE"
+            },
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Bella Italia - St Martins Lane"
+                },
+                "name": "places/ChIJkxHjr80EdkgRaeEakgl6drU",
+                "placeId": "ChIJkxHjr80EdkgRaeEakgl6drU"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "St Martin's Courtyard"
+                },
+                "name": "places/ChIJ0YfiAc0EdkgRoKYIH7344ZA",
+                "placeId": "ChIJ0YfiAc0EdkgRoKYIH7344ZA"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Noël Coward Theatre"
+                },
+                "name": "places/ChIJ85vnMskEdkgR884XxFXpoHc",
+                "placeId": "ChIJ85vnMskEdkgR884XxFXpoHc",
+                "spatialRelationship": "ACROSS_THE_ROAD",
+                "straightLineDistanceMeters": 44.21924,
+                "travelDistanceMeters": 47.5539,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Browns"
+                },
+                "name": "places/ChIJkWJjuc0EdkgRqL0ffd2j1aA",
+                "placeId": "ChIJkWJjuc0EdkgRqL0ffd2j1aA",
+                "spatialRelationship": "ACROSS_THE_ROAD",
+                "straightLineDistanceMeters": 27.701242,
+                "travelDistanceMeters": 24.155773,
+                "types": [
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Bella Italia - St Martins Lane"
+                },
+                "name": "places/ChIJuSgysM0EdkgRNiNfZONQxXo",
+                "placeId": "ChIJuSgysM0EdkgRNiNfZONQxXo",
+                "spatialRelationship": "BESIDE",
+                "straightLineDistanceMeters": 16.076654,
+                "travelDistanceMeters": 19.255001,
+                "types": [
+                    "bar",
+                    "establishment",
+                    "food",
+                    "night_club",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Agatha Christie memorial"
+                },
+                "name": "places/ChIJSYx-o80EdkgR15tyZmtnmJw",
+                "placeId": "ChIJSYx-o80EdkgR15tyZmtnmJw",
+                "straightLineDistanceMeters": 36.19106,
+                "travelDistanceMeters": 63.676964,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "TK Maxx"
+                },
+                "name": "places/ChIJkxhCVcwEdkgRPpPtDDaXqbM",
+                "placeId": "ChIJkxhCVcwEdkgRPpPtDDaXqbM",
+                "straightLineDistanceMeters": 110.24206,
+                "travelDistanceMeters": 155.34024,
+                "types": [
+                    "department_store",
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "CLOSED_TEMPORARILY",
+    "curbsidePickup": false,
+    "delivery": true,
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "McDonald's"
+    },
+    "editorialSummary": {
+        "languageCode": "en",
+        "text": "Classic, long-running fast-food chain known for its burgers & fries."
+    },
+    "formattedAddress": "68, 69 St Martin's Ln, London WC2N 4JS, UK",
+    "goodForChildren": true,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x487604cdb0b8cc5d:0x1963382643ae4bbc!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487604cdb0b8cc5d:0x1963382643ae4bbc!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=1829367610637962172&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487604cdb0b8cc5d:0x1963382643ae4bbc!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487604cdb0b8cc5d:0x1963382643ae4bbc!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=1829367610637962172&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJXcy4sM0EdkgRvEuuQyY4Yxk",
+    "internationalPhoneNumber": "+44 370 524 4622",
+    "location": {
+        "latitude": 51.511423099999995,
+        "longitude": -0.1268829
+    },
+    "menuForChildren": true,
+    "name": "places/ChIJXcy4sM0EdkgRvEuuQyY4Yxk",
+    "nationalPhoneNumber": "0370 524 4622",
+    "outdoorSeating": true,
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "DrewKF",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI7GhRVwM5Zeqh9kZnglaA5KDYmsFPXMA9gfYzyo6oXE8LDgw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/111440964554701271193"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID_-oHyqAE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID_-oHyqAE!2e10!4m2!3m1!1s0x487604cdb0b8cc5d:0x1963382643ae4bbc",
+            "heightPx": 3024,
+            "name": "places/ChIJXcy4sM0EdkgRvEuuQyY4Yxk/photos/AWn5SU4VRGmtFGCzO2Se5zxuD24KnSYk3nlAHlnLevgem8xW8YwgGP2kP-b77VlXOb5QZ3mtUA9a501TEyi8zIdNBcBf5FZYS5lFdD1758_DFuZyQkuiZJP0W21o8PlHXI6JSl0uyTiIZcj9oY5mfIODYv1MOyIV-E_Vx_cftAwXM6U4wgBf5LrgfYH_Q3QuOyAItbISDTkgZ3GXPf1MCOXpDw_-z5tc4i--1kmDsqOOT62KKRiY9rjPDslFk0QQjqgww6W0uJxvyP6d7v7h-96ijjjRqC5F0cuZoP4NDIcXOrE0Yrc2UcvTWV0MwhK1pMqRm2KwP_Ny9PzfY73_pdjmmv3lG6jRPWkF9fpe82lxGy9VhPu_-jIYdT6kGXq6sxHjC0YERaxykz6DX6f_NK-6uAp1b6i7SaQLNNFtN6j3e1yXJyqG",
+            "widthPx": 4032
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "McDonald's",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVjneps1ak8jQsraqUyfgZNg8aFBChU_pYbgeVspmC-cle-hFji=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/116213027930329571743"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipO1mRj7nDTH0xGZqSxL78l8Mljb83iT0Y2-4wuA&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO1mRj7nDTH0xGZqSxL78l8Mljb83iT0Y2-4wuA!2e10!4m2!3m1!1s0x487604cdb0b8cc5d:0x1963382643ae4bbc",
+            "heightPx": 472,
+            "name": "places/ChIJXcy4sM0EdkgRvEuuQyY4Yxk/photos/AWn5SU7VrQBuJAMh5IrDNA8YAiqnsgWOMXKCnPh8OVjn2EfHZLS2ioDn2uK6j2ha2yf_rxfj6KO-zkOGjKC58DBUL9qU-VIv2FC9bvDnRMajFO_MO0LRiigXxZO6WotR7u2zbMih1Xxr9ylZQHqilP99ImneNb-9nkiuW9c8Exta6OcHhgUGRgQz2nbLNXGKy3LGPf_CquG9pvnL940y4O4tadVD667r_I_R6zRfe4LQjgTY5Y-waHC1JIDWYI6GppU_DgMGKrLxPCNj3yKlFxxvQ9EW6kUp3w1f4Z2Dtxs_EzHR7w",
+            "widthPx": 832
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "McDonald's",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVjneps1ak8jQsraqUyfgZNg8aFBChU_pYbgeVspmC-cle-hFji=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/116213027930329571743"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOEW5qjYklss7Hx6JDLgsx3576ODioRz187M5m_&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOEW5qjYklss7Hx6JDLgsx3576ODioRz187M5m_!2e10!4m2!3m1!1s0x487604cdb0b8cc5d:0x1963382643ae4bbc",
+            "heightPx": 472,
+            "name": "places/ChIJXcy4sM0EdkgRvEuuQyY4Yxk/photos/AWn5SU52LkJix6_nswKuzW38ei71x75j6sXfC6yQmvuEyeihlb__cqLE4ZweZyq9MdI40W92WWaTNaMk9AHsjjnyhZH8iGMYPcJV1BEFqVmleaauNX2QHFwNadyt8g3ECqXnW0D44OSBDZC-P06JCyGgAZBmCsfjFogVkbsV8AxxsMMZTDzVUVVRBIm4tSoSq4XE8gtchQDO4EwAOpBlJAgcFNWLM6ZK-yjM0ruQjXgqsugnoi7SYvltbPxyakBMBzQoCw6XtWT0iwSO7vgmsqMquZdb33eDLQ7dc09htOv-QN7z2g",
+            "widthPx": 832
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "McDonald's",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVjneps1ak8jQsraqUyfgZNg8aFBChU_pYbgeVspmC-cle-hFji=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/116213027930329571743"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOw8ljv1L6SeP65E0DFU52xZg4a2Wz4rqtYv1Sw&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOw8ljv1L6SeP65E0DFU52xZg4a2Wz4rqtYv1Sw!2e10!4m2!3m1!1s0x487604cdb0b8cc5d:0x1963382643ae4bbc",
+            "heightPx": 472,
+            "name": "places/ChIJXcy4sM0EdkgRvEuuQyY4Yxk/photos/AWn5SU6FJdNEFU8XxRboDH_ZMk-gMPhdw1Nqi-Kbe3V-AqGymjonTU0c7gL5NoA4wiegVFTGykEC2ayQSwrq6aZxT_9R3fk25IsG7WcgeImbb2t6l8agB3bMt281UbvAYYJxEZ9VzhehlDF8RSG2Vao0JVwQtHbpFdcBRGVVbPOVSHqRpJ9NNZFZCJN0IXqf12uZSxreiKppQ1m2B5uMRY1Iy01jw6dAs7RHsylHvFRVt6h_5HL_Q5dZmocCwpWJNrmNLDbvFm-Fk0XUIHfprNea8lwx0WdAjqGqlerifo0dVsZNmQ",
+            "widthPx": 832
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "McDonald's",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVjneps1ak8jQsraqUyfgZNg8aFBChU_pYbgeVspmC-cle-hFji=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/116213027930329571743"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMlHNKZrcwlw4xqA0khTNXgTky5DT5dhV0LmfGc&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMlHNKZrcwlw4xqA0khTNXgTky5DT5dhV0LmfGc!2e10!4m2!3m1!1s0x487604cdb0b8cc5d:0x1963382643ae4bbc",
+            "heightPx": 472,
+            "name": "places/ChIJXcy4sM0EdkgRvEuuQyY4Yxk/photos/AWn5SU656Ryb1hw5Vop6b56EEvXcy92NAxm6mY4JrJEkdwYZupSwZXqKa1YqxbR9v81ZVc9rOGrm9lMfom_txA7MMD6UYHLsHvjKpEYq-e5roZO1VQ_23LwmZUtXDGo-gz038iif3D8HBvm1fVeY50yntE-2nOcG9baH4f6uhq8BE6ARnWSco8ojseB5gyk-myCVvGH4hlTGExJB-MqqIQCRYX3AFr1BxNUwtOl2z3OUt9om1Vprkbr2mw95MPQOxoNy0YiN_fFyAbVjIpzoeLZM5ipZwfAQ2N2nwzHik2EuigiIaA",
+            "widthPx": 832
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "McDonald's",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVjneps1ak8jQsraqUyfgZNg8aFBChU_pYbgeVspmC-cle-hFji=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/116213027930329571743"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOf27mOBLxErN_7ZxvGh-UykNsiot3SafKV1BPv&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOf27mOBLxErN_7ZxvGh-UykNsiot3SafKV1BPv!2e10!4m2!3m1!1s0x487604cdb0b8cc5d:0x1963382643ae4bbc",
+            "heightPx": 472,
+            "name": "places/ChIJXcy4sM0EdkgRvEuuQyY4Yxk/photos/AWn5SU4c-ZN8GN5jNf5nTMyo29Le1QkWDw7Dr5EzlF1516yRan8WkWTBW9nh09h5H8jZIrt0K3nI2eqry4znMaJVFc_bxQsGvXb4-9pDEsh--DKQmEn8NZvuvu909WZCsu0Hr6-DzztfEXiIPK-ywewHyNCEnxEq1ZFPey6KIZ4YqkfOq7I6Bs3TsoPQYqDblzLX72wy-Meoxu_0jc3LKt5Z15Q0Q9CWu6np7lwsN3AYgNytihna82dHYUSJ0Nan0icKI3PTQAaTuN9o2wYcBa8UZtwlyGhSVNkBQ3mrSVt_jqo2mg",
+            "widthPx": 832
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Artem Artemenko",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVzADf1bx2-NDES8-xt-daM7gsThVNdzdfTK0hlILeFLT-kDP0=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/112834469401846297985"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICswP7LnAE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICswP7LnAE!2e10!4m2!3m1!1s0x487604cdb0b8cc5d:0x1963382643ae4bbc",
+            "heightPx": 3024,
+            "name": "places/ChIJXcy4sM0EdkgRvEuuQyY4Yxk/photos/AWn5SU5KvuZ3rtQSUMOIUhu8lR_bV66DF3lHlUsiDFnW7D6Ryp3Bm6uZ7WuU78AIBl2lqqhEQU8pUUz2I1438JTAeVMO5xqt_1AuXDanWn99S4Pq-JVjBmi00KH30meZJLV-FCbUM0RHLGY-kMEyRNBUw1xVR9RLjbIz8hWSTkl-IFmEhXkpkg4VpmUsw3RevzBbZ1yomG1_cbJa-lL7QzioANFQR2t8GYSsZlon6PK8dtSi54ASRR1N9ajvsevDdyodUFNOL6H7vhAFIT7l0BqjDOx-JvSyEzsk72_KuB9KzxTBSBQ87meOOHDkA5e7mo4GrRmcUk8mS45vraD1qmFUEpW4B0HJZCsO_MjDXeKxYqlkFSNO2qH7TPXQcqWSC7pRBN6qr8JIf1bd8s5UQlA9mivaI-i_erWHKBAiGCf1b6GNnRU",
+            "widthPx": 4032
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "isha soni",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKmVSCYmdqxHVRsVVIdS_IKaMaZeWGN5yuhUGR9JKQeiBhhFQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110131854370815144887"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICmtNCN6wE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICmtNCN6wE!2e10!4m2!3m1!1s0x487604cdb0b8cc5d:0x1963382643ae4bbc",
+            "heightPx": 2160,
+            "name": "places/ChIJXcy4sM0EdkgRvEuuQyY4Yxk/photos/AWn5SU7hdrB1LI1U_ak7MlKw2wvnTVLOjvgMRAaW13ACvgTBH2UnTH9FfZiwjRAeIBUP8sofYsyToloGM7ATm-qhrtqHDJ6Urptv3OgRyQSRdIVVAOQGwxwpwiv_F4nL_cNbBzhB1SloHlZydyaFOVkopPse59GbMMxXBbBM2r7-sEIOwiMfXDgXsHcxez-7q6Pp1cKr4ljNAOIYeh2Eix0b1sk224EXO62zjNjeMlFbIx5mxLo2U9IGAMv-kfTWzTiN8ZQVxrIt8Ue4_1YBL1sBAcAvrIzwJdO98Fy5VhKiD-elGLQtaMYCL_XIENBi-fidhyYoZm5mp7xYN776vUsLcOx0kDcCWDH8XOwXHz7wYxda5zT2gX0EZ7ssT25b_qS2kG6qHpXtTZse8hBXreLIWBaOxHpGctx8ROFmBSSn6KaEK8qT",
+            "widthPx": 3840
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Swaraj Dargode",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVflqSrFNwADU4njxgsSi5UwFdQ2QIqYXn8bH2oZ_RgUYI-SWSggQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/109187122777566473072"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID-mI_duQE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID-mI_duQE!2e10!4m2!3m1!1s0x487604cdb0b8cc5d:0x1963382643ae4bbc",
+            "heightPx": 4000,
+            "name": "places/ChIJXcy4sM0EdkgRvEuuQyY4Yxk/photos/AWn5SU4NwxTENViPtamR2ujx7AUoOxctfy9gWjncpREoV-g6JFEj0q-G3lqmKUapp2PgE3TDu7EQMJkSeaUsRS9TKI_EkBVY8B-3iNMkdyC6hgAri31jUQA3W977vXOfxKa6JfxdkeeF2bYt2IWVyaAMo_5UQjDlPMWY-BR7YLk0kSMUBIHp9VTthGjWJyY8H21TBWs2xt9Y3d3dMf0_W5PGYYcC24_DCvq6SXAGJkXvJLdFoDhkYd5HliDqYHObpe7WUGM6rfHlu3mE4J9LBK_xuRfsquP_eUgO2k9cFH3uyDuHjD7TQuozgqaFdVMi0dgVktXkXg9mWDiRzXgeisfR1JLMDDsr6AsJCtNL03NNTGCYwRTWPIrFt-RXbJFGq1yXFUlFcNr3Q4jhZ48dQ2LgR_kOVt-36BJwtPHR9icKkkK1m59i",
+            "widthPx": 3000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "McDonald's",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVjneps1ak8jQsraqUyfgZNg8aFBChU_pYbgeVspmC-cle-hFji=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/116213027930329571743"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPGoZVgrZk8KOyU3dG9QxYqgel4aT-t7dThEN8r&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPGoZVgrZk8KOyU3dG9QxYqgel4aT-t7dThEN8r!2e10!4m2!3m1!1s0x487604cdb0b8cc5d:0x1963382643ae4bbc",
+            "heightPx": 472,
+            "name": "places/ChIJXcy4sM0EdkgRvEuuQyY4Yxk/photos/AWn5SU5B58ebtnMk-IthBDR9zEWcWUBANvo9CVWj7WBJ9IMoN9nB7TAPHvJ-VZDsLKTf0cTNDJgnb-5XziN1MY0Wk5sSFDg2H9dmJduuUyP3TZFGa1p62Qtjr3vVfRULbZLYM0P2jErRS1mZKn0uJ6Rny8hAURkhHMAboPHA2zuH1ZjjacXUxBecO6dPogRTrPT-eawU3SVujmN7LP7x0sPk6tcWNdJAB5B7RSQ8exD2UdFUV0TQh60sGgIsYnVcvKTqemz4YtZGCYu2VivzquA0Dz8lL4bSAQxWtKtxT473Uqv7aA",
+            "widthPx": 832
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV6F+H6 London, UK",
+        "globalCode": "9C3XGV6F+H6"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "68",
+            "69 Saint Martin's Lane"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2N 4JS",
+        "regionCode": "GB"
+    },
+    "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+    "priceRange": {
+        "endPrice": {
+            "currencyCode": "GBP",
+            "units": "10"
+        },
+        "startPrice": {
+            "currencyCode": "GBP",
+            "units": "1"
+        }
+    },
+    "primaryType": "fast_food_restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Fast Food Restaurant"
+    },
+    "rating": 3.7,
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Artem Artemenko",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVzADf1bx2-NDES8-xt-daM7gsThVNdzdfTK0hlILeFLT-kDP0=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/112834469401846297985/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURNenJPRlBnEAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURNenJPRlBnEAE!2m1!1s0x487604cdb0b8cc5d:0x1963382643ae4bbc",
+            "name": "places/ChIJXcy4sM0EdkgRvEuuQyY4Yxk/reviews/ChZDSUhNMG9nS0VJQ0FnSURNenJPRlBnEAE",
+            "originalText": {
+                "languageCode": "en",
+                "text": "My favourite McDonald’s in a while world!\nFast, clean, friendly.\nAmazing customer experience!\nHard working staff and good location.\n\nThe disadvantage is that you not bringing vouchers for local businesses that our staff staff can use it as it was before. We could have more vouchers please for local businesses.\n\nOtherwise all great!"
+            },
+            "publishTime": "2019-12-30T10:34:09.236722Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "5 years ago",
+            "text": {
+                "languageCode": "en",
+                "text": "My favourite McDonald’s in a while world!\nFast, clean, friendly.\nAmazing customer experience!\nHard working staff and good location.\n\nThe disadvantage is that you not bringing vouchers for local businesses that our staff staff can use it as it was before. We could have more vouchers please for local businesses.\n\nOtherwise all great!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "abdul mujeeb",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLpkR8gjHbxzxPdsmDQ1Ttef5DAVBhyL-q_ZIQk5KVcHYZOmw=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/112827852630659256347/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNDZ2Z5Y2FREAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNDZ2Z5Y2FREAE!2m1!1s0x487604cdb0b8cc5d:0x1963382643ae4bbc",
+            "name": "places/ChIJXcy4sM0EdkgRvEuuQyY4Yxk/reviews/ChZDSUhNMG9nS0VJQ0FnSUNDZ2Z5Y2FREAE",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Fraud MacDonald's, two peoples who are working in this has changed the Till settings of the system and charged double than the normal, Need to complain a fraud case against them. And providing fake receipts to the customers..."
+            },
+            "publishTime": "2020-08-24T23:00:48.546327Z",
+            "rating": 1,
+            "relativePublishTimeDescription": "5 years ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Fraud MacDonald's, two peoples who are working in this has changed the Till settings of the system and charged double than the normal, Need to complain a fraud case against them. And providing fake receipts to the customers..."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Daisy Cairns",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIWhc5xTgKkEmgoW9poLgVKgB6x7hjtxeqJDdJiq8fY0ODPwg=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/107759606940224313423/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURyM3UtWnl3RRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURyM3UtWnl3RRAB!2m1!1s0x487604cdb0b8cc5d:0x1963382643ae4bbc",
+            "name": "places/ChIJXcy4sM0EdkgRvEuuQyY4Yxk/reviews/ChdDSUhNMG9nS0VJQ0FnSURyM3UtWnl3RRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "This McDonald's has been closed since at least 2022 when it became a German kebab place. You can see this very clearly on Google Street View.\nWithin a ten minute walk are three other McDonald's. The more recent reviews are presumably for one of them, probably Cambridge Circus."
+            },
+            "publishTime": "2024-07-17T20:10:26.033997Z",
+            "rating": 1,
+            "relativePublishTimeDescription": "a year ago",
+            "text": {
+                "languageCode": "en",
+                "text": "This McDonald's has been closed since at least 2022 when it became a German kebab place. You can see this very clearly on Google Street View.\nWithin a ten minute walk are three other McDonald's. The more recent reviews are presumably for one of them, probably Cambridge Circus."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "K Conway",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUoR4islIkyfJB-app3F6XFkAlDsfLP0panaFrnE20vHSjh2bGs=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/103268805258917307622/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNtbExhamJBEAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNtbExhamJBEAE!2m1!1s0x487604cdb0b8cc5d:0x1963382643ae4bbc",
+            "name": "places/ChIJXcy4sM0EdkgRvEuuQyY4Yxk/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtbExhamJBEAE",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Staff working very hard to get food prepped quickly and keep customers in the right areas to order and wait, but lobby is a bit small for proper social distancing. Staff still careful to be welcoming and ensure orders are correct before customers leave."
+            },
+            "publishTime": "2021-12-19T12:48:14.303840Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "3 years ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Staff working very hard to get food prepped quickly and keep customers in the right areas to order and wait, but lobby is a bit small for proper social distancing. Staff still careful to be welcoming and ensure orders are correct before customers leave."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Rachel",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKZ96H6dfIPULobhMjl6bU45ZPo8G8tTlTf4KJXL9D9TMfVC7xd=s128-c0x00000000-cc-rp-mo-ba2",
+                "uri": "https://www.google.com/maps/contrib/105579918467426058425/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ2Nk5qVnNBRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ2Nk5qVnNBRRAB!2m1!1s0x487604cdb0b8cc5d:0x1963382643ae4bbc",
+            "name": "places/ChIJXcy4sM0EdkgRvEuuQyY4Yxk/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ2Nk5qVnNBRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Milkshake was rank. Need to clean the machine I think. I bought a milkshake and it was full of bits of lumpy milk. Not great."
+            },
+            "publishTime": "2021-09-19T16:55:15.688704Z",
+            "rating": 1,
+            "relativePublishTimeDescription": "4 years ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Milkshake was rank. Need to clean the machine I think. I bought a milkshake and it was full of bits of lumpy milk. Not great."
+            }
+        }
+    ],
+    "servesBreakfast": true,
+    "servesCoffee": true,
+    "servesDessert": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "servesVegetarianFood": true,
+    "shortFormattedAddress": "68, 69 St Martin's Ln, London",
+    "takeout": true,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "fast_food_restaurant",
+        "breakfast_restaurant",
+        "hamburger_restaurant",
+        "diner",
+        "american_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 905,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.51282748029149,
+            "longitude": -0.12565606970849796
+        },
+        "low": {
+            "latitude": 51.5101295197085,
+            "longitude": -0.12835403029150202
+        }
+    },
+    "websiteUri": "https://www.mcdonalds.com/gb/en-gb.html?cid=RF:YEXT:GMB:8260433:Clicks:DIRSYN:",
+    "timestamp": 1764064800
+}

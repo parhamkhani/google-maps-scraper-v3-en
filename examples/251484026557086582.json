@@ -1,0 +1,801 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleParking": false
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "27",
+            "shortText": "27",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Endell Street",
+            "shortText": "Endell St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2H 9BA",
+            "shortText": "WC2H 9BA",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "King's College London"
+                },
+                "name": "places/ChIJ3VW0o7UEdkgR8eAcbhKByyg",
+                "placeId": "ChIJ3VW0o7UEdkgR8eAcbhKByyg"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJs4GOh8sEdkgRRiBFZKMP8ZE",
+                "placeId": "ChIJs4GOh8sEdkgRRiBFZKMP8ZE"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Holborn"
+                },
+                "name": "places/ChIJA7_adjUbdkgR_XPGaE3twAI",
+                "placeId": "ChIJA7_adjUbdkgR_XPGaE3twAI"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Royal Ballet and Opera"
+                },
+                "name": "places/ChIJySOgh8sEdkgRCBzTYt83Klg",
+                "placeId": "ChIJySOgh8sEdkgRCBzTYt83Klg",
+                "straightLineDistanceMeters": 241.6768,
+                "travelDistanceMeters": 237.9819,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The 10 Cases"
+                },
+                "name": "places/ChIJG9oUscwEdkgRf9fFE7nPicg",
+                "placeId": "ChIJG9oUscwEdkgRf9fFE7nPicg",
+                "spatialRelationship": "ACROSS_THE_ROAD",
+                "straightLineDistanceMeters": 26.493866,
+                "travelDistanceMeters": 14.046724,
+                "types": [
+                    "bar",
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "NBCUniversal"
+                },
+                "name": "places/ChIJv4f2tzIbdkgR9ockIRcTijo",
+                "placeId": "ChIJv4f2tzIbdkgR9ockIRcTijo",
+                "straightLineDistanceMeters": 257.22668,
+                "travelDistanceMeters": 230.34242,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Inner Space"
+                },
+                "name": "places/ChIJI3WfzswEdkgRFk1O-w1wVoo",
+                "placeId": "ChIJI3WfzswEdkgRFk1O-w1wVoo",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 43.653072,
+                "travelDistanceMeters": 75.92818,
+                "types": [
+                    "establishment",
+                    "health",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The Poetry Society"
+                },
+                "name": "places/ChIJUSCgUjMbdkgROfOnVX8Y2HQ",
+                "placeId": "ChIJUSCgUjMbdkgROfOnVX8Y2HQ",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 71.20327,
+                "travelDistanceMeters": 63.387478,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            }
+        ]
+    },
+    "allowsDogs": true,
+    "businessStatus": "OPERATIONAL",
+    "curbsidePickup": true,
+    "currentOpeningHours": {
+        "nextCloseTime": "2025-11-25T21:00:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 18,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 11:00 AM – 9:00 PM",
+            "Tuesday: 11:00 AM – 9:00 PM",
+            "Wednesday: 11:00 AM – 9:00 PM",
+            "Thursday: 11:00 AM – 9:00 PM",
+            "Friday: 11:00 AM – 9:00 PM",
+            "Saturday: 12:00 – 9:00 PM",
+            "Sunday: 12:00 – 6:00 PM"
+        ]
+    },
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Banh Mi Aha! Soho"
+    },
+    "formattedAddress": "27 Endell St, London WC2H 9BA, UK",
+    "goodForWatchingSports": false,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x487605826e99ab0d:0x37d7363c59ebb76!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487605826e99ab0d:0x37d7363c59ebb76!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=251484026557086582&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487605826e99ab0d:0x37d7363c59ebb76!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487605826e99ab0d:0x37d7363c59ebb76!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=251484026557086582&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJDauZboIFdkgRdruexWNzfQM",
+    "internationalPhoneNumber": "+44 20 3340 5060",
+    "liveMusic": false,
+    "location": {
+        "latitude": 51.5144896,
+        "longitude": -0.12469349999999998
+    },
+    "menuForChildren": false,
+    "name": "places/ChIJDauZboIFdkgRdruexWNzfQM",
+    "nationalPhoneNumber": "020 3340 5060",
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Banh Mi Aha! Soho",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV6rSRgxhAVGp_ds-ChAH78xhHf5C7kF5cZEujOS09I_JfTRzI=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/109083825683630514465"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMFWdr5AkDp0Av2szHUXVl7U4vXdCvOqs1QfQKc&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMFWdr5AkDp0Av2szHUXVl7U4vXdCvOqs1QfQKc!2e10!4m2!3m1!1s0x487605826e99ab0d:0x37d7363c59ebb76",
+            "heightPx": 1260,
+            "name": "places/ChIJDauZboIFdkgRdruexWNzfQM/photos/AWn5SU4XgJ-y-6kCArqxPSzwXUO1dtYTJI0RMhLPmvPhV-472gmzTTM3J3hihsTNII7rCcA6MtfAvS84tAgwo4UxJO_m_PEE0uJ2NN3qLIt-gYDK3uGunyZqLy_CAPatNUAK33IRmUsv1Het2ykhoJPdu46szd3QwIJ03VYnFSngzX1LWkNVo9eOO-OqLNwtNtm-t1rizeOmNVupyi9CgxQLUznBTYvpz-mJdUDmwYaP3beDfdz4mvCX7PBMWXN7-ItFHJc-1I421dhO0y0miHC2_Th3PkBu3feO-9o2C3eFb1PEvA",
+            "widthPx": 1179
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Banh Mi Aha! Soho",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV6rSRgxhAVGp_ds-ChAH78xhHf5C7kF5cZEujOS09I_JfTRzI=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/109083825683630514465"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipO94LOQCemKI2w3TmPS_9cGEWqtXGej5Jsne8BV&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO94LOQCemKI2w3TmPS_9cGEWqtXGej5Jsne8BV!2e10!4m2!3m1!1s0x487605826e99ab0d:0x37d7363c59ebb76",
+            "heightPx": 1653,
+            "name": "places/ChIJDauZboIFdkgRdruexWNzfQM/photos/AWn5SU5ysWYq-fguvqg23vSaR11eT960L4Pe33kljunOG79F7ZgOgqCZDWYpRq8f2u6EwBmJuXo5gHDjxUA259ILxxUSWfozlU3QR8sJHwDv17WZPGlrPMhc855tfPkwgvqZJ0B0ifv8yWaoioC0M5V85y286py2YUuOxLkaEdvDG1CyaLycIvYYAT3mRiIKPa2FSbq5jC9nDUFsAeKpqOPk3ySasT6_lrkj0cmMhHQSNK7VB6pxcfF10qa_LUbcQvqcnxhBLbRQBeDiKsH81JZAUudBaylHz6GQ8VYYvf5zx7-mFw",
+            "widthPx": 2048
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Christine Kim",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKUUeCeZAjMp6KG-4ySujTE--cWBWoCiYeDyCnv7Gjyl9rl3g=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/100275482988386019048"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDJnEjEziq72GjZdOpLLSRA&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDJnEjEziq72GjZdOpLLSRA!2e10!4m2!3m1!1s0x487605826e99ab0d:0x37d7363c59ebb76",
+            "heightPx": 4096,
+            "name": "places/ChIJDauZboIFdkgRdruexWNzfQM/photos/AWn5SU4U96EGltxb7pQHncOrufBN8pL-4IcJZMawLFB5dZAUvXoHfJraNuwAfSQVb1Dd-BNe20JrHy3CMgQ4nL-VTs6PDCJWwwbS5LT5qFd4m9PY77ENKcHeyHzcx8qkgZCJ9ueI1NyCyqI3kpR-_JB4EhSRcNLXLE1oKHgYP8LRou-xbqdDm82XuhKRd_2S7JRuuWOpa3FrrmWoU7aE6XJzWIrqNnftHSyV8JuYuZ142JBLTE47R8Z75WTJbzfica9RNe4IBYbtyLhxl5JMcvLJ7opVx9KDm8RSJRTeMPfaFvXMKoxRtDC7PL7FUlHyE_UdQOYCNl9GSwvQB_tMQ_N2eyHbb6Sf-1rlMdlbTEZFSvcLL_nEX2rDgPi5xfQYg2k6d3mrSghEHJVtkIglWfAD5ip0lUWRG7f64TUbUWeRH1qNkjIcUT-frQ",
+            "widthPx": 3072
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Banh Mi Aha! Soho",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV6rSRgxhAVGp_ds-ChAH78xhHf5C7kF5cZEujOS09I_JfTRzI=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/109083825683630514465"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOVxctSvspyeUE_s4cPW0gtO9kWSKPFCgxVKN70&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOVxctSvspyeUE_s4cPW0gtO9kWSKPFCgxVKN70!2e10!4m2!3m1!1s0x487605826e99ab0d:0x37d7363c59ebb76",
+            "heightPx": 4032,
+            "name": "places/ChIJDauZboIFdkgRdruexWNzfQM/photos/AWn5SU5pN8SjAy0YwOEH1aEGR_yspao5m0jTV56jPCUYnEAvVq9WYp0s3hMUvRC4WiI-WQh1lzwzZA6flJ1Jq14xwbaIfSvtZVaUCbn3P_bG_x8Zf4r7k7redl8gHN56zH2W9TdVX2zf-a9HaNcCJLL4IF88S0KfiA9odOLXlaA0yzn-7kJNPFNVz96Q7W6S3sAve43y_5aaPQ4ZBMgvZd44tX2rqVxqbme4mupf-B8tE4GLGtneLUwCxeBpZo03SmAn_kUXslJZ6cASGXWEH3vIB5oE2FZq5_xNICqXYxPWhd4kQg",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Luke Osbourne",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWw3B72hKwfXgJjcI44NhWjwTUEl1RCoYiEYbGQ8jCMpQITY-LnWg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/111207649201684977648"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDo2fScAQ&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDo2fScAQ!2e10!4m2!3m1!1s0x487605826e99ab0d:0x37d7363c59ebb76",
+            "heightPx": 4032,
+            "name": "places/ChIJDauZboIFdkgRdruexWNzfQM/photos/AWn5SU6eHIWpa4wunJ4iZejVGpJpmbadPHGYyTRl0vT8BmmIiJO8OWPmp0FFolpHmreqQGkHtikfi5QDayo-ky7BcVsoshz_bfQq4FKr1Gw3lT8FrUR7FRiHc2q-9iDd4KVE-P53HsPfXl5bS849i3iw11yd0crXYEneEyOhpTJEWH0AZ-Oz2vcQoLkX95ZfwG-7qjokIQ-I2z4KRLCGlxZe_aFGrJDg9lY1f8O9ccB1T5Fd1ktCpqYk6WQZwqkHQ83UVh0dNNyHYzD68-NxJYgBQTyuR0Twid1-SXrKpDu155_KyECW4_U-XTsQkqgSoqbQtqKVtS6aSGsaHqAiN-fptHNfa326d330nabqq8O8SSW-UzhXMxNRLpiqKqW1cJTyYzDUa6rik0chytTO0VWtpVj3mek6ap4dGzi6INYqd9MnnQ",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Banh Mi Aha! Soho",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV6rSRgxhAVGp_ds-ChAH78xhHf5C7kF5cZEujOS09I_JfTRzI=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/109083825683630514465"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPAW6CSO_OuJQUdLz9raTl8z1lGS4LbAIpKbxar&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPAW6CSO_OuJQUdLz9raTl8z1lGS4LbAIpKbxar!2e10!4m2!3m1!1s0x487605826e99ab0d:0x37d7363c59ebb76",
+            "heightPx": 2400,
+            "name": "places/ChIJDauZboIFdkgRdruexWNzfQM/photos/AWn5SU4qzOFOVgOnyjBJQh-0yAIbfIkNotNm_3j4-j5LQ3eJYuX1wYherobQYYEACHTk7-Yc15Micaqj_brwMRqB8PBg07FUca6NJnIUMeT1Jon5lz9dapuWQFlxL8GuI1gNPcIC_9rN2LPeDaGIfJQC919bBHyicH-ENBUH8rndLeHrQR5SnNh2NPCEKB3WFOzNNT5QtG0JP_0Vka-FtT-vkNwbiHf0-9ntVauckP1H__Ly2D07vgwxfBXUIGLgr0SQM-TRR0k9BiifRhS-dPUkamQeoIZ6gO3RM5F8kPm5dI7onA",
+            "widthPx": 1800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Banh Mi Aha! Soho",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV6rSRgxhAVGp_ds-ChAH78xhHf5C7kF5cZEujOS09I_JfTRzI=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/109083825683630514465"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOXcyxUApqjYIkCWkYAyXaLJI5VaberywbVMmhP&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOXcyxUApqjYIkCWkYAyXaLJI5VaberywbVMmhP!2e10!4m2!3m1!1s0x487605826e99ab0d:0x37d7363c59ebb76",
+            "heightPx": 1889,
+            "name": "places/ChIJDauZboIFdkgRdruexWNzfQM/photos/AWn5SU4HKYxJYqhp7cT87-DB5JwuV8L0mzQEMku4UY92G9vXvdWeLZpnX3lEOWc6mLnkHyXFjzd3yY48Zr3HWVSw_WeNv1wNOBhwNJ_JTZZgjMC5QxmBEeukseJAeh82qoa0VbY38tgyzeszVtetxW3UAnNHPe9AC31voWUe4jLFYyMxOQZYqVcA4Dd8LO9_pyB_e4vMVb_KYuT83pnJLZX3cnvtrlk_7YW3TkMQbS6fMyr7d9xMR5uzVp-MiaW5xb-Sixb3QIP2W7CEbaRPA4J79t47hbW_EYiaBeM4Ay9V787tQQ",
+            "widthPx": 1511
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Safa",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLE5UHhs_QztQvdzApi3V-8oCWHKctII47XCNUYWVZjDAom=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/116689576261390970070"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDv5JGEtQE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDv5JGEtQE!2e10!4m2!3m1!1s0x487605826e99ab0d:0x37d7363c59ebb76",
+            "heightPx": 1526,
+            "name": "places/ChIJDauZboIFdkgRdruexWNzfQM/photos/AWn5SU6paEGq1TLV8nbd-dAJkVd4TwKdbcfGWZQ9HC0PoXnzUr6gZp8BetarVlrm5fcjeDzl6HSs-wQY-MyRG8ogXA9pmhcf0hZdCq_PrveeuPOgPhjROEHH13s-Cu6d2Bl0gtwZr3lS6obK6EfzxCVnWLhtfC8N6xMzNuudbFA4_fKPESmMVnbqasCs066KzchBGp41vaaJNJWrtntXix-K2tWzZCX9SN_QswP1zn4mHdB1LYhYk-9Ngrdde4VgP6Pnoig4BVOjR5XkNk25XMrxApEMD6iqOD2MPle6PUvGvxw_hUgQU3tsY2mLU3ianL14aSirYNNFhF3ghR-uXrWv10bSAcyhsck3UfBicc0ZS8g59WUGywICL7HzFXm-dz1-kTAMpWPiqu-wbsPsgj8qzrxzn_2KBZMV6gqsMEFfm5d90PTb",
+            "widthPx": 1170
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Livia",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUMYyw90uVfr3DAztt7iG-t33PE_VEzik-bIXF8vtxcfWOkF2Pp=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/102920214249985710892"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCSmEbf_h8jhVv24yDTN4du&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCSmEbf_h8jhVv24yDTN4du!2e10!4m2!3m1!1s0x487605826e99ab0d:0x37d7363c59ebb76",
+            "heightPx": 1263,
+            "name": "places/ChIJDauZboIFdkgRdruexWNzfQM/photos/AWn5SU7vswl65Eu4HmNHrmplsd7FlBS4LTBUQcwdv1Hs6GICFcSWjypXiR6-BRcDB5a-4opTW3tEks454CSR2VQ-5RvNhcHXxG_wecKr71oIM1D0fBlQBl3PY1XX1BZbgFyvqAtXwbWPhhXA24pV30jfUJ-6dw-FMBI8mCgoG22GiQiFvrUzJs3_iI82DNXLdHgvdP8-KH4BmitvQ2hh3dFko-ApOInaO2BBdw77J6A5kbXfTW6WhbAd3aQuybdllv_vVFBtFaMoEb5-RIETRadgy5O1pxN2eo81gWLBAaIFX0euVE-_MINYPnPh6G8T3CJxaoHajsxVImSxy1qrj_zpHad_pD8tDgbSAX1Yb984_Rg86ROmYp4kzmKFK-OdCcb1vu7VvorizOGwWqmvJSqbFkXwmQWHvjNQI9FRh5ULJ-YrIMdavvIXIe7XXkpj8w",
+            "widthPx": 1125
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Adriana Salas",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWOzj0DZnl6D5sax4fQlUwQ77I-Y8L_pLt_3N7Aof0yEjBzh7CT=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110734445183363387332"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCpaZ3zPQmzAYZJSil5ZTkb&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCpaZ3zPQmzAYZJSil5ZTkb!2e10!4m2!3m1!1s0x487605826e99ab0d:0x37d7363c59ebb76",
+            "heightPx": 4800,
+            "name": "places/ChIJDauZboIFdkgRdruexWNzfQM/photos/AWn5SU7kuTRIr2H32LSg46coKN3yj5WNW-LjBzLVtI9fmHWrijH8PYMenLsJ4V-n81BAChTcD6OOUFgbruJGlTIXapsu43Ig2T11nrVTLGpw-oBDiyt1VyeLNFuQZSKkrJ5Y8WndrKGYykiK1qydY-G3R5Rm0scYlADUqldiMh8iKWNiI_WxNOb3F5AYFVcpMiHPb2lEw6E0hx4QBqmHdYRSJcnK9rT5uBwc3bbWLJ25qWT_YQGznLEL6NoyTfVm3HAzg8qivtHz4IYSBSWvVEV0cZtaZMrNzTCOHaDpeeeFPzaI3w-MJHy90JuzhLK4Hay1IvGd9Z27qi6UiL1oKPYTIm2SZIMv6CTgRBr-c7pcMcXUEju3TP1jP5duIkSxIeHU1HGNBHZk3PIrLPGkXOlnKtz5sFYI3-afFkgo0m0dl7fzQZvO3XZj7ACMctFaV_3j",
+            "widthPx": 3600
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV7G+Q4 London, UK",
+        "globalCode": "9C3XGV7G+Q4"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "27 Endell Street"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2H 9BA",
+        "regionCode": "GB"
+    },
+    "priceRange": {
+        "endPrice": {
+            "currencyCode": "GBP",
+            "units": "20"
+        },
+        "startPrice": {
+            "currencyCode": "GBP",
+            "units": "10"
+        }
+    },
+    "primaryType": "vietnamese_restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Vietnamese Restaurant"
+    },
+    "rating": 4.6,
+    "regularOpeningHours": {
+        "nextCloseTime": "2025-11-25T21:00:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 18,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 11:00 AM – 9:00 PM",
+            "Tuesday: 11:00 AM – 9:00 PM",
+            "Wednesday: 11:00 AM – 9:00 PM",
+            "Thursday: 11:00 AM – 9:00 PM",
+            "Friday: 11:00 AM – 9:00 PM",
+            "Saturday: 12:00 – 9:00 PM",
+            "Sunday: 12:00 – 6:00 PM"
+        ]
+    },
+    "reservable": true,
+    "reviewSummary": {
+        "disclosureText": {
+            "languageCode": "en-US",
+            "text": "Summarized with Gemini"
+        },
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=5%401:CAIQACodChtyc19oOjgtbTdLUFhXTkdOeDdkVlI4V2d3a1E%7CCAIQACorChtyc19oOjgtbTdLUFhXTkdOeDdkVlI4V2d3a1ESDAi_2OfEBhD44ZHwAg&d=17924085&t=8",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487605826e99ab0d:0x37d7363c59ebb76!9m1!1b1",
+        "text": {
+            "languageCode": "en-US",
+            "text": "People say this Vietnamese restaurant serves delicious crispy pork belly, aubergine and tofu, and coconut tofu banh mi. They highlight the fresh bread, generous fillings, and authentic flavors. They also like the friendly and attentive staff, and the fast and efficient service."
+        }
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Christine Kim",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKUUeCeZAjMp6KG-4ySujTE--cWBWoCiYeDyCnv7Gjyl9rl3g=s128-c0x00000000-cc-rp-mo-ba6",
+                "uri": "https://www.google.com/maps/contrib/100275482988386019048/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kxMVlVNUlaRzUxZGpkQ2MzTklOVkJhY21salpsRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxMVlVNUlaRzUxZGpkQ2MzTklOVkJhY21salpsRRAB!2m1!1s0x487605826e99ab0d:0x37d7363c59ebb76",
+            "name": "places/ChIJDauZboIFdkgRdruexWNzfQM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxMVlVNUlaRzUxZGpkQ2MzTklOVkJhY21salpsRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "We came for lunch and I got the \"aha\" banh mi which had a decent amount of filling and was tasty. Is it the best banh mi I've tasted? No, but it's decent for London standards."
+            },
+            "publishTime": "2025-10-31T15:36:06.978261010Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "3 weeks ago",
+            "text": {
+                "languageCode": "en",
+                "text": "We came for lunch and I got the \"aha\" banh mi which had a decent amount of filling and was tasty. Is it the best banh mi I've tasted? No, but it's decent for London standards."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Natalie Anderson",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUr8yogEB0DFu5nJlpUzy9pa-ef_CwHiJmbJMC4PK0vAhO-m2HA=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/117198188615468795500/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25CM09HdzFhRk5wT0drM05UVlBVamRaWjBrNFRuYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CM09HdzFhRk5wT0drM05UVlBVamRaWjBrNFRuYxAB!2m1!1s0x487605826e99ab0d:0x37d7363c59ebb76",
+            "name": "places/ChIJDauZboIFdkgRdruexWNzfQM/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CM09HdzFhRk5wT0drM05UVlBVamRaWjBrNFRuYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Bahn mi with tofu was lovely, generous amount of tofu aswell. The Iced Salt coffee though!!! So delicious, I haven’t been able to find a proper one since coming back from a trip to Vietnam so I was delighted to find this spot"
+            },
+            "publishTime": "2025-09-23T20:03:41.838033881Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Bahn mi with tofu was lovely, generous amount of tofu aswell. The Iced Salt coffee though!!! So delicious, I haven’t been able to find a proper one since coming back from a trip to Vietnam so I was delighted to find this spot"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Alexander Nicholas",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUVAcCKJVUgvQSRlEY6PtEGykqz5dB8dp4qBF5BPZcKEEgXnWyn=s128-c0x00000000-cc-rp-mo-ba2",
+                "uri": "https://www.google.com/maps/contrib/113256909401318094837/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25kVE1HOVhOelJGVVhSdU9XcG9YMVZZTVd0elVrRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25kVE1HOVhOelJGVVhSdU9XcG9YMVZZTVd0elVrRRAB!2m1!1s0x487605826e99ab0d:0x37d7363c59ebb76",
+            "name": "places/ChIJDauZboIFdkgRdruexWNzfQM/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kVE1HOVhOelJGVVhSdU9XcG9YMVZZTVd0elVrRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Having recently returned from Vietnam I was craving bánh mi and this place delivered in bucket loads. Better than some places I went to in Vietnam itself. I had the Aha! bánh mi and it was stuffed with meat and pate, very well balanced by the fresh flavours of chilli and coriander that take this simple meal to the next level. The salt coffee was OK but could have been saltier but that didn’t detract from the meal. Recommended."
+            },
+            "publishTime": "2025-06-21T13:27:25.346991090Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "5 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Having recently returned from Vietnam I was craving bánh mi and this place delivered in bucket loads. Better than some places I went to in Vietnam itself. I had the Aha! bánh mi and it was stuffed with meat and pate, very well balanced by the fresh flavours of chilli and coriander that take this simple meal to the next level. The salt coffee was OK but could have been saltier but that didn’t detract from the meal. Recommended."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Safa",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLE5UHhs_QztQvdzApi3V-8oCWHKctII47XCNUYWVZjDAom=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/116689576261390970070/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR2NUpHRVZREAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR2NUpHRVZREAE!2m1!1s0x487605826e99ab0d:0x37d7363c59ebb76",
+            "name": "places/ChIJDauZboIFdkgRdruexWNzfQM/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2NUpHRVZREAE",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Love this place for a quick, hearty beef pho. Not the best pho in the city but it’s affordable and yummy. Their Bahn Mi is a must try though. Their bread is so fresh and fluffy with a great crust. I recommend their sweet and sour chicken filling!"
+            },
+            "publishTime": "2024-12-17T20:33:46.820534Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "11 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Love this place for a quick, hearty beef pho. Not the best pho in the city but it’s affordable and yummy. Their Bahn Mi is a must try though. Their bread is so fresh and fluffy with a great crust. I recommend their sweet and sour chicken filling!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Thien Duc Le",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX_jEcZx1l9DEF3LcLQGPaQ8yKTitqfZeI2gXlfPDA9v6CDqxfi=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/114526261054861082653/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNBbFBLWGRREAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNBbFBLWGRREAE!2m1!1s0x487605826e99ab0d:0x37d7363c59ebb76",
+            "name": "places/ChIJDauZboIFdkgRdruexWNzfQM/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBbFBLWGRREAE",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Fantastic Lunar New Year Lunch!\n\nOur office recently pre-ordered takeaway from this restaurant for a Lunar New Year lunch celebration, and it was an amazing experience! We selected a mix of Banh Mi and rice boxes, and everything was prepared on time, fresh, and absolutely delicious. The flavours were authentic and well-balanced, making for a perfect festive meal.\n\nThe entire process was smooth, from placing the order to collection, and we truly appreciated the efficiency and quality. Our team had a wonderful time enjoying the food together, and many of our colleagues are already looking forward to dining in soon.\n\nHighly recommended—thank you very much for a great experience!"
+            },
+            "publishTime": "2025-01-29T19:24:56.009624Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "9 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Fantastic Lunar New Year Lunch!\n\nOur office recently pre-ordered takeaway from this restaurant for a Lunar New Year lunch celebration, and it was an amazing experience! We selected a mix of Banh Mi and rice boxes, and everything was prepared on time, fresh, and absolutely delicious. The flavours were authentic and well-balanced, making for a perfect festive meal.\n\nThe entire process was smooth, from placing the order to collection, and we truly appreciated the efficiency and quality. Our team had a wonderful time enjoying the food together, and many of our colleagues are already looking forward to dining in soon.\n\nHighly recommended—thank you very much for a great experience!"
+            }
+        }
+    ],
+    "servesCoffee": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "shortFormattedAddress": "27 Endell St, London",
+    "takeout": true,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "vietnamese_restaurant",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+    ],
+    "userRatingCount": 85,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.515854330291496,
+            "longitude": -0.12326601970849796
+        },
+        "low": {
+            "latitude": 51.5131563697085,
+            "longitude": -0.125963980291502
+        }
+    },
+    "websiteUri": "https://banhmiaha.co.uk/",
+    "timestamp": 1764064800
+}

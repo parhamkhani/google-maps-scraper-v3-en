@@ -1,0 +1,797 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleParking": false,
+        "wheelchairAccessibleSeating": false
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "15a",
+            "shortText": "15a",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "New Row",
+            "shortText": "New Row",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2N 4PD",
+            "shortText": "WC2N 4PD",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJs4GOh8sEdkgRRiBFZKMP8ZE",
+                "placeId": "ChIJs4GOh8sEdkgRRiBFZKMP8ZE"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Tesco Express"
+                },
+                "name": "places/ChIJd_jjQMwEdkgRh1TovPapxSM",
+                "placeId": "ChIJd_jjQMwEdkgRh1TovPapxSM",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 38.087563,
+                "travelDistanceMeters": 58.8807,
+                "types": [
+                    "convenience_store",
+                    "establishment",
+                    "food",
+                    "grocery_or_supermarket",
+                    "point_of_interest",
+                    "store",
+                    "supermarket"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The White Swan"
+                },
+                "name": "places/ChIJkypeSMwEdkgRn8r2NlZeWYc",
+                "placeId": "ChIJkypeSMwEdkgRn8r2NlZeWYc",
+                "spatialRelationship": "ACROSS_THE_ROAD",
+                "straightLineDistanceMeters": 15.185546,
+                "travelDistanceMeters": 3.150814,
+                "types": [
+                    "bar",
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "TK Maxx"
+                },
+                "name": "places/ChIJkxhCVcwEdkgRPpPtDDaXqbM",
+                "placeId": "ChIJkxhCVcwEdkgRPpPtDDaXqbM",
+                "straightLineDistanceMeters": 94.40839,
+                "travelDistanceMeters": 131.4041,
+                "types": [
+                    "department_store",
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "HSBC Covent Garden"
+                },
+                "name": "places/ChIJl8j-acwEdkgRf3GqsMo9zhE",
+                "placeId": "ChIJl8j-acwEdkgRf3GqsMo9zhE",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 56.6441,
+                "travelDistanceMeters": 41.71256,
+                "types": [
+                    "bank",
+                    "establishment",
+                    "finance",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Noël Coward Theatre"
+                },
+                "name": "places/ChIJ85vnMskEdkgR884XxFXpoHc",
+                "placeId": "ChIJ85vnMskEdkgR884XxFXpoHc",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 106.03086,
+                "travelDistanceMeters": 104.56513,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "currentOpeningHours": {
+        "nextCloseTime": "2025-11-25T20:00:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 20,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 20,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 20,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 11,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 11:00 AM – 8:00 PM",
+            "Tuesday: 11:00 AM – 8:00 PM",
+            "Wednesday: 11:00 AM – 9:00 PM",
+            "Thursday: 11:00 AM – 9:00 PM",
+            "Friday: 11:00 AM – 9:00 PM",
+            "Saturday: 11:00 AM – 9:00 PM",
+            "Sunday: 11:00 AM – 8:00 PM"
+        ]
+    },
+    "delivery": true,
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Old Chang Kee Covent Garden"
+    },
+    "formattedAddress": "15a New Row, London WC2N 4PD, UK",
+    "goodForWatchingSports": false,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x487605fc409e7231:0xa3cbd913c19aa1c!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487605fc409e7231:0xa3cbd913c19aa1c!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=737672870458141212&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487605fc409e7231:0xa3cbd913c19aa1c!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487605fc409e7231:0xa3cbd913c19aa1c!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=737672870458141212&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJMXKeQPwFdkgRHKoZPJG9PAo",
+    "internationalPhoneNumber": "+44 20 7379 9235",
+    "liveMusic": false,
+    "location": {
+        "latitude": 51.5112084,
+        "longitude": -0.12560079999999998
+    },
+    "menuForChildren": true,
+    "name": "places/ChIJMXKeQPwFdkgRHKoZPJG9PAo",
+    "nationalPhoneNumber": "020 7379 9235",
+    "outdoorSeating": false,
+    "parkingOptions": {
+        "freeParkingLot": false
+    },
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Old Chang Kee Covent Garden",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUzhSKef4uT-kfDy0-wdVQ01Vntn0olL7eyc5pYZi1qfU5jA0o=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/105132533867459085293"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPYdOxBvpZga6LCV9Tpub6UfAT1QSa-BH25iq-A&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPYdOxBvpZga6LCV9Tpub6UfAT1QSa-BH25iq-A!2e10!4m2!3m1!1s0x487605fc409e7231:0xa3cbd913c19aa1c",
+            "heightPx": 3200,
+            "name": "places/ChIJMXKeQPwFdkgRHKoZPJG9PAo/photos/AWn5SU6nuwvN5xfSyfX8UuMouwHI_9WM85dHsujPwcS5pz57Vl7gY6NP7h_cVxMTpG_atyVDHBk7pKRUo8JGQ6cNMJPBb7Ol8qApPShUhXM0iajjG5bIaMhQ_0YfVLG7htryq5HbhjL4lvH1HvWZwgGxFOupq_E0BlOIS9QtMFI9yFcghcBPdwgJjDxaTBf82zWDUlJk8pltzW5Ps_1w2Kiknp2eJWSENY1s7bszmPO2DMsVREwY8r9xvE48X_zeqfBzOhig8lUKVJRq45qNIRWf6mCAm2Po3k5NJGq8LS__IvhTrQ",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Old Chang Kee Covent Garden",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUzhSKef4uT-kfDy0-wdVQ01Vntn0olL7eyc5pYZi1qfU5jA0o=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/105132533867459085293"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPiBX_U352WBNgsA92-fGsITYNdA9MBESMRoLlG&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPiBX_U352WBNgsA92-fGsITYNdA9MBESMRoLlG!2e10!4m2!3m1!1s0x487605fc409e7231:0xa3cbd913c19aa1c",
+            "heightPx": 2560,
+            "name": "places/ChIJMXKeQPwFdkgRHKoZPJG9PAo/photos/AWn5SU4_xUSTVEngpU7O3Qaj9v2RzTIYHtFJNUu9fTKFOznsfmKRPesP2rO9CY5f_w28R3VcglXwaA48T0JxNMpMJ0ib1VQINxzQosHhhBa-QUpdnVK_KkF8eoeJnQvUa_yG3lIlrhD14sVWi8ioD2p9rKyni0I9FiTZ5MSHxXBhuDWwIfz_bXdyryiWXBcckpzoXWju05lQcdqMdHcyiqHfLRXM0z5WkXv4PIs955YwFhX4YHsvfkJPZXRnGQqX4mlIF99fH19MScFknhqQ7tn5Pi_k2HLs2iYi4Eyze9SSpAmXtA",
+            "widthPx": 2048
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Deanna Liebert",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU0LZdLOjDhogYKsHL8mAlC7VfrOXfcKK212Ad0qeEahc3g0jEi5Q=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/112101050096497559712"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDqDUp9yxN3i2PW7u671aee&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDqDUp9yxN3i2PW7u671aee!2e10!4m2!3m1!1s0x487605fc409e7231:0xa3cbd913c19aa1c",
+            "heightPx": 4000,
+            "name": "places/ChIJMXKeQPwFdkgRHKoZPJG9PAo/photos/AWn5SU4FRxJ25_rF9-B4gMoJl2CDaHMzx8s6TcZE5dpUgTNHoh4IWcNJT88aUqLuqJ1N9LAv52RYUcc5hFCZNd0eCglnAX5Bm2jRW6SPSFu0QR3SjxUkNrL3KQOW6F_p33PBYMHmx-F9sjnUnV0WmOwqi8HY1lDeVulHMMQ9FgknFMGq3alND_UoLhIbxQv46Dcl36GNZaRsxdIRhAU_WWupXPOtFDKmrMFP1uKoYs20hQyxFye6_u1n5HFjyDWLC4CAcl-gehoNqWBTctcFKSiZcryN4U7iHmCAlTB62HmHH_CXuysIVZyqxf2yszx1f-NzI8AWwQwF5-7tpexj8UuFuLz7LloaMpDLvg4iyA_r7WdoXLqgLbF18tkfaehxZ-QOjbwdUq2ogPSjbBnV4H7cf-lNRG4q8F1vk6dKrbCEqBPg5CEyrToq3bdwuZY0RfR7",
+            "widthPx": 3000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Cee Dupree",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV2w0IAIpWiaWinuaSzTyZZAXdUUst0qjfHE6zhas7C1CdE10k=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/102995527321264184957"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCJ6xr3Q-Fba9his3l9m1zk&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCJ6xr3Q-Fba9his3l9m1zk!2e10!4m2!3m1!1s0x487605fc409e7231:0xa3cbd913c19aa1c",
+            "heightPx": 3600,
+            "name": "places/ChIJMXKeQPwFdkgRHKoZPJG9PAo/photos/AWn5SU4z9CpubBgbWZ7msf8z3rZev-eIoenwv1NSRcdJDspUH1kz5G7VURmNpyhQzfhmdQFNHub7fAlXm7TWkNwB5Mv4klny7BE19OabddKe1ZIgrH6ylGcTRfBa70njXqBRHTZ2e7qypRuDabidKt1s7XgoU89nOr9SatYYQpF7QSxM-QKh-L7n0-74LAZgfyIGt8VM2smjYZwx1eSZ--O3NYmSOpYOFTX9Q0JXKQ5ynSzknciJMnTtW8shGsnVCHr9zamucih5B58nE__ra5X0yr424eJm7Yw-KMARZjXbvWFNYrA3gbakOglMW08V6VoGTXkmTq4PNPt1WwSZClmV49PbG-PS0l8_4aMF0VcNqJp9hAfHV-ce0dtmJZkhx6JteUayNdHlXeiSZCp7ZhR9IIgoyF0P1CwX2ZoAAIeWkeHnszua1Ni-I0l3LTYPp4Gt",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Deanna Liebert",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU0LZdLOjDhogYKsHL8mAlC7VfrOXfcKK212Ad0qeEahc3g0jEi5Q=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/112101050096497559712"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAXsQRMEedc8IXz3fTTRGIB&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAXsQRMEedc8IXz3fTTRGIB!2e10!4m2!3m1!1s0x487605fc409e7231:0xa3cbd913c19aa1c",
+            "heightPx": 3000,
+            "name": "places/ChIJMXKeQPwFdkgRHKoZPJG9PAo/photos/AWn5SU5bi_SVenA-MKsQHTo09LaUSaggRa2DwfntulsZOKvrxESfcqSZ3fsABg6f9iAfoEtBD9xLYhDmku9ZlR_b5LK8c-nOOpqwWa1rc0J8ZIdKWz2kEDKdoYoQxD-VSUchuCwm4z5Brhjo_bfkm9EQYwFrBTTgAfyh9-7iAgyLgt0RueIwk_3tn7YoB86Ib-Zhp3WBpQMFAerlmfFbfEq73NOZmEfZmNrsKbvFvbHTd_pmjRkA_4hPOuTPQAID71XbSZE4osVo9Hc70ZGQw85TzqjqI1coHQwqFuTIPYcyKq3QrJyULXoXPJamKu0S_VJFeArlPWgTutTY1oxWJX0HgavxxmZgNEDZQtQ-oJ5DPXK48SSX3XXszT2szskeH5r2VsqPVUkGn7FWkU05J6qVR5ekiKwjVfaVSuxZmIELorKMfKM7RgTd5QsVSInH4Jd8",
+            "widthPx": 4000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Jon Wan",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWFy-wrUI_67EGCOWgbj1sNgpYvWkiCgvYYNwDmK7Kw6zsPQr-4=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/100955139997659919511"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICnye-Eag&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICnye-Eag!2e10!4m2!3m1!1s0x487605fc409e7231:0xa3cbd913c19aa1c",
+            "heightPx": 1920,
+            "name": "places/ChIJMXKeQPwFdkgRHKoZPJG9PAo/photos/AWn5SU6RF9bsHDnDecWN0wFwe8_daT5jzPGQlGuF3CqUbo6NZWq3nwedhu61Y-RmdVmgU5ZJMf2DQcX_wKiHmVLrQNtNxswm3tzZffgX2RFEh5l4KJ0nvfRtQIWeAXwQhjvqd6uii3POXGvoIS0N8bC_RKm_bDixu_SfOa-ncyFm7Il_VvNqUFYXIZWOSFkoT3UvGRDHjdaXoctFYhaJhFF7DlhkNKroyJd3_NQeYVOdWLn_l579YS57uJv50wNcB2vL5PFDQql_xgghJFlmbVeAPbLM3LXKS5L2Taf_NbW_AYfgfbJDbiGuuU6-FqbDsf0RyFD5KDPFGmWUDd8jkqZaqnxVn0W1-XfjbVoLMT7R-PxLh-1zzzF1i855dXpUpydrONnfXaeLAtJ-30IaXR54AYEPYdFgpc4v42vdLj6vggU",
+            "widthPx": 1440
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Petch",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV8Ybn7EvMA6WvihFXL5YhM0WaUuALHCjtPolRw9sivmyc2Gz3jIg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/106371651201269967609"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAyR7svttczNk7Q7mQqiV8b&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAyR7svttczNk7Q7mQqiV8b!2e10!4m2!3m1!1s0x487605fc409e7231:0xa3cbd913c19aa1c",
+            "heightPx": 3600,
+            "name": "places/ChIJMXKeQPwFdkgRHKoZPJG9PAo/photos/AWn5SU4bXe7WSz_xSb_NdUCMT7a86sWF342gGdwBWCnOoe3S8XPqQTR1EQEzbVO8jbNJQSnCkSfGVtJGNB8L77H98-aH0JP0eNu0d1hgWy5EXYkZI3tDkkobek2ad6BfdPoSjcgy1ITa_GZ302TyC4T-TpxGXQR-j9RRlpFuapgm8QrDgny5KubKhRO9uJ30zFkypYQbgsGV44PTKxE03MbGDElOopmBy-dl7bBWlcwoGprXoJRfj5O47ER6KhMsngWc1u5-IFUa1rQCDmaVhMe0nVhOEnMjZ8Xxe6NL81bvv_XMIDK-r8Eok1bY2Sb2JbiCCatRUD1X-xG0spqViVhGlGp1jt8-hwZ1ZzH8Wst-z7Wp10OzzE-rus9GQN9ZNOySSRIPdnxUxQ2Nl7IKiWLHJOdPRfVP3620Bj0WtMB3OnyLnbtTblBCBeCkfnwJoxng",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Old Chang Kee Covent Garden",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUzhSKef4uT-kfDy0-wdVQ01Vntn0olL7eyc5pYZi1qfU5jA0o=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/105132533867459085293"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPZP0KXX2sb1GFUWvntjDNGz45ZWKmg6ukdvNzO&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPZP0KXX2sb1GFUWvntjDNGz45ZWKmg6ukdvNzO!2e10!4m2!3m1!1s0x487605fc409e7231:0xa3cbd913c19aa1c",
+            "heightPx": 2700,
+            "name": "places/ChIJMXKeQPwFdkgRHKoZPJG9PAo/photos/AWn5SU7LMUnGv_LSnXsFPBwoKFy5dcsX7E6WwLieFYNM-vZMYTnH1KagFbVsx1fQguoTufzUMjzi8KRc5-JFrhfEKmxePAT1upL7s_qJHbnA33Kq4nWeEmGKNXPTice9CU_AvvT_oR2nPWod4G4yCvCohBT1ka78oHpBnOR7sE-7Pl-DiAb1JdUim5sVRqLpbG9PXfpbwHRJiaeTU8RM8Xnz29C68KxvfiOsSSIS9mGbJsBa3KloaI0FWQf8Na5Uqnjk8IEL7d6JfHxxIMd4hXG4sGZ9ZuwoDcMS2Jd2g3aqkFU6Kw",
+            "widthPx": 2160
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Sonia Siaw",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVDX6vW0wYSMsn5H8FnDFvc_5IHkHGlGisxwWQK-jLytKMW16e4=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/115956731697043334575"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIClyoG4WQ&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIClyoG4WQ!2e10!4m2!3m1!1s0x487605fc409e7231:0xa3cbd913c19aa1c",
+            "heightPx": 3024,
+            "name": "places/ChIJMXKeQPwFdkgRHKoZPJG9PAo/photos/AWn5SU7DrEUCeqLlEGWZPqpTLuUszThzmibMuObwgtEwg8HGPsn6v5nQFLqjVHguZNl2CV3I7gIe0FazCbAt1a35o8jTLYeCbrZAARzIteUqsO7PBpZm99ZeDfx0u7SlAqdSsyVz1mrfsdwLDmHsIi9HnaGgDGqq4EnQ-wP7J1CC0a7xMcOPard7pzYMtFYk4VK4CvETZMFLyuTD7OD31CNlSMSt0nBm2wUBx9CMqPhCLSf5SH2inWz1Y1iW4GS3m6EM14-AMxhb_CQcIOYyp63emcVxEdte4rV2lTDo8Z8sDvIJeHJRCQ4ymNccUeiZdjBRGk6StswbHutLr8QSlVzsHwfXD9Tr06GljtzWraL5xunM18Bj6magyLhDDLItfJl7nP8N3VCqz9AwN8pYdUVU6CZwL41Srmd75N4ALwVK4W0",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "The Hungry Foodie",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX-phFcb2ZYsVqqu7uYUXLZHZBZJFErCgf5FXgr3qXN3m6uhvQhSA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110291142433752251471"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDhvf_wDw&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDhvf_wDw!2e10!4m2!3m1!1s0x487605fc409e7231:0xa3cbd913c19aa1c",
+            "heightPx": 3024,
+            "name": "places/ChIJMXKeQPwFdkgRHKoZPJG9PAo/photos/AWn5SU5kn79Q_jfjXztn3WetJhYwxj-S95e9XIHWhVcQuYiqvynRhq_3JZlj8gZ6JP68Xa07kEij9JC8o71fTu2ECVdWWk61gX6MS20uRRHxQK9Zj0Y3rwFQkT-n0ORC2a5RiySdPTgwyv6KSbEvFImvLGxAb7FjcLdrtuhBAHiqNpMaaz4zgverbHVDfHrpmSw_928A9jkpuH99rcH9MQRjUXnawcfoTdH3YM2wCDzk43eFuRMVe77FJ51OuCMPBb8FRRlEhAoSw0NHHdnhfYu7UOX-4EWWdX-Yc4CO-aRCnZ846UhDY-NwdMX_Ox-Xlu_UaoNSSOzWrek4_Lqh8fhyZ0ymVL-WLqfglUnUz20lNfmokJvGstQL9FImbm8oLOGavaJS15l4ZL1xgSUrBUezDhdCSaiRgkjaXfiDfj5FP-nC6w",
+            "widthPx": 4032
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV6F+FQ London, UK",
+        "globalCode": "9C3XGV6F+FQ"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "15a New Row"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2N 4PD",
+        "regionCode": "GB"
+    },
+    "priceRange": {
+        "endPrice": {
+            "currencyCode": "GBP",
+            "units": "20"
+        },
+        "startPrice": {
+            "currencyCode": "GBP",
+            "units": "10"
+        }
+    },
+    "primaryType": "restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Restaurant"
+    },
+    "rating": 4.4,
+    "regularOpeningHours": {
+        "nextCloseTime": "2025-11-25T20:00:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 20,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 20,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 20,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 11,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 11:00 AM – 8:00 PM",
+            "Tuesday: 11:00 AM – 8:00 PM",
+            "Wednesday: 11:00 AM – 9:00 PM",
+            "Thursday: 11:00 AM – 9:00 PM",
+            "Friday: 11:00 AM – 9:00 PM",
+            "Saturday: 11:00 AM – 9:00 PM",
+            "Sunday: 11:00 AM – 8:00 PM"
+        ]
+    },
+    "reservable": false,
+    "reviewSummary": {
+        "disclosureText": {
+            "languageCode": "en-US",
+            "text": "Summarized with Gemini"
+        },
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=5%401:CAIQACodChtyc19oOnZ2WlE1NG55d091TmNneWd3bThWV1E%7CCAIQACorChtyc19oOnZ2WlE1NG55d091TmNneWd3bThWV1ESDAi_2OfEBhD44ZHwAg&d=17924085&t=8",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487605fc409e7231:0xa3cbd913c19aa1c!9m1!1b1",
+        "text": {
+            "languageCode": "en-US",
+            "text": "People say this Singaporean restaurant serves delicious curry puffs, rendang, and noodles. They also highlight the fast service, friendly staff, and reasonable prices.\n\nOther reviews mention the food can be bland."
+        }
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Cee Dupree",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV2w0IAIpWiaWinuaSzTyZZAXdUUst0qjfHE6zhas7C1CdE10k=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/102995527321264184957/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xsV1pHaDBNRlJCYVdkQldYVkdValpNUVdoWVNrRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsV1pHaDBNRlJCYVdkQldYVkdValpNUVdoWVNrRRAB!2m1!1s0x487605fc409e7231:0xa3cbd913c19aa1c",
+            "name": "places/ChIJMXKeQPwFdkgRHKoZPJG9PAo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsV1pHaDBNRlJCYVdkQldYVkdValpNUVdoWVNrRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Delicious curry puffs! The gentleman that helped us was very nice and made the selection process very easy. Tons of puffs to choose from and you can just get one or four and keep walking. They other stuff on the menu but we couldn’t resist the puffs. Highly recommend stopping in here we got the signature chicken and the curry potato."
+            },
+            "publishTime": "2025-09-23T15:08:07.881408143Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Delicious curry puffs! The gentleman that helped us was very nice and made the selection process very easy. Tons of puffs to choose from and you can just get one or four and keep walking. They other stuff on the menu but we couldn’t resist the puffs. Highly recommend stopping in here we got the signature chicken and the curry potato."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Petch",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV8Ybn7EvMA6WvihFXL5YhM0WaUuALHCjtPolRw9sivmyc2Gz3jIg=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/106371651201269967609/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twaVQyazNkakJmTlZOUFJqbE5WM0ZoUmpJeGVXYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twaVQyazNkakJmTlZOUFJqbE5WM0ZoUmpJeGVXYxAB!2m1!1s0x487605fc409e7231:0xa3cbd913c19aa1c",
+            "name": "places/ChIJMXKeQPwFdkgRHKoZPJG9PAo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twaVQyazNkakJmTlZOUFJqbE5WM0ZoUmpJeGVXYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "The food here was overpriced for the small quantity served. Taste-wise, it was very disappointing, especially when compared to Singapore OCK. The curry puff was hard and dry, and the chicken curry was bland and watery. On a positive note, the staff were very nice and friendly"
+            },
+            "publishTime": "2025-10-09T15:20:23.611157413Z",
+            "rating": 2,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "The food here was overpriced for the small quantity served. Taste-wise, it was very disappointing, especially when compared to Singapore OCK. The curry puff was hard and dry, and the chicken curry was bland and watery. On a positive note, the staff were very nice and friendly"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "neil pilling",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKm2QdIq5y_rHJ8v4GtsSBtRIOAMwRQckfh4uY6COMFcCMwfA=s128-c0x00000000-cc-rp-mo-ba6",
+                "uri": "https://www.google.com/maps/contrib/111974434287802783728/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xCbmQwWnZhbVJmWW1ONWRtZFlkRmRLZEVWNk1tYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCbmQwWnZhbVJmWW1ONWRtZFlkRmRLZEVWNk1tYxAB!2m1!1s0x487605fc409e7231:0xa3cbd913c19aa1c",
+            "name": "places/ChIJMXKeQPwFdkgRHKoZPJG9PAo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCbmQwWnZhbVJmWW1ONWRtZFlkRmRLZEVWNk1tYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Curry puffs were fabulous 😋 Malaysian style curry flavour with chicken and veg. Other fillings available. Disappointingly we only bought one each. 'will be visiting again soon.\nVisited a second time earlier today, this time had Nasi Lemak with Singapore chicken curry including chunky potatoes together with rice, cucumber, fried anchovies and sambal - FABULOUS 🤩"
+            },
+            "publishTime": "2025-11-01T03:44:52.137434877Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "3 weeks ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Curry puffs were fabulous 😋 Malaysian style curry flavour with chicken and veg. Other fillings available. Disappointingly we only bought one each. 'will be visiting again soon.\nVisited a second time earlier today, this time had Nasi Lemak with Singapore chicken curry including chunky potatoes together with rice, cucumber, fried anchovies and sambal - FABULOUS 🤩"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "weiwen",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJUZNPUEg-mXvTwcHmdPb9CuzRMIpECAuDaB3yS5HPoWGvQlg=s128-c0x00000000-cc-rp-mo-ba2",
+                "uri": "https://www.google.com/maps/contrib/105761552425425301441/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvbGNiNURnEAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvbGNiNURnEAE!2m1!1s0x487605fc409e7231:0xa3cbd913c19aa1c",
+            "name": "places/ChIJMXKeQPwFdkgRHKoZPJG9PAo/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvbGNiNURnEAE",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Been there for several times! The food is good and lovely price! I ordered signature Singaporean chicken curry with rice. It tasted as good as I expected! Other course like laksa and Nasi Lemak also great! High recommend!\n\nThe store is so cozy and cute.\n\nStaff there are excellent!! They were all very friendly and nice! I asked if I can get some more curry sauce(because sauce is the best part!) and they said yes, and game me some more in a separate bowl I found this so kind and smart.\n\nA big thank you!"
+            },
+            "publishTime": "2025-04-18T19:36:41.006793Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "7 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Been there for several times! The food is good and lovely price! I ordered signature Singaporean chicken curry with rice. It tasted as good as I expected! Other course like laksa and Nasi Lemak also great! High recommend!\n\nThe store is so cozy and cute.\n\nStaff there are excellent!! They were all very friendly and nice! I asked if I can get some more curry sauce(because sauce is the best part!) and they said yes, and game me some more in a separate bowl I found this so kind and smart.\n\nA big thank you!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Poh Tuen",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLu3u6WQ0WjmvQhgLrPGeoFS-dU-QLms5duBG48Udr3LdldkQ=s128-c0x00000000-cc-rp-mo-ba2",
+                "uri": "https://www.google.com/maps/contrib/102401270775834041246/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VOdmk0bzNOd3V2N0JnEAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VOdmk0bzNOd3V2N0JnEAE!2m1!1s0x487605fc409e7231:0xa3cbd913c19aa1c",
+            "name": "places/ChIJMXKeQPwFdkgRHKoZPJG9PAo/reviews/ChZDSUhNMG9nS0VOdmk0bzNOd3V2N0JnEAE",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Tried the Singapore Laksa from Old Chang Kee and was thoroughly disappointed. This was easily one of the worst renditions of laksa I’ve ever had. The broth was bland, lacking the rich, creamy depth that a proper laksa should have. The spice level was almost non-existent — barely a mild tingle when laksa is supposed to deliver a punch of heat and fragrance.\n\nWhat was most shocking was the absence of the signature laksa aroma. No hints of lemongrass, galangal, or dried shrimp — just a flat, uninspired soup with noodles. It felt like a watered-down version trying to play safe but ending up tasteless.\n\nIf you’re a fan of authentic Singapore laksa with bold flavours and proper spice, this is not it. I expected better from a brand like Old Chang Kee.\n\n⭐ 1/5 – Only because the bowl was hot. That’s about it."
+            },
+            "publishTime": "2025-06-12T20:15:45.659204Z",
+            "rating": 1,
+            "relativePublishTimeDescription": "5 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Tried the Singapore Laksa from Old Chang Kee and was thoroughly disappointed. This was easily one of the worst renditions of laksa I’ve ever had. The broth was bland, lacking the rich, creamy depth that a proper laksa should have. The spice level was almost non-existent — barely a mild tingle when laksa is supposed to deliver a punch of heat and fragrance.\n\nWhat was most shocking was the absence of the signature laksa aroma. No hints of lemongrass, galangal, or dried shrimp — just a flat, uninspired soup with noodles. It felt like a watered-down version trying to play safe but ending up tasteless.\n\nIf you’re a fan of authentic Singapore laksa with bold flavours and proper spice, this is not it. I expected better from a brand like Old Chang Kee.\n\n⭐ 1/5 – Only because the bowl was hot. That’s about it."
+            }
+        }
+    ],
+    "servesBeer": false,
+    "servesCocktails": false,
+    "servesCoffee": true,
+    "servesDessert": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "servesVegetarianFood": true,
+    "servesWine": false,
+    "shortFormattedAddress": "15a New Row, London",
+    "takeout": true,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 851,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.5125365802915,
+            "longitude": -0.12430066970849797
+        },
+        "low": {
+            "latitude": 51.5098386197085,
+            "longitude": -0.12699863029150202
+        }
+    },
+    "websiteUri": "http://www.oldchangkee.co.uk/",
+    "timestamp": 1764064800
+}

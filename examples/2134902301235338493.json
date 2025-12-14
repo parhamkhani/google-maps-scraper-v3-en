@@ -1,0 +1,827 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleEntrance": false,
+        "wheelchairAccessibleParking": false,
+        "wheelchairAccessibleRestroom": false,
+        "wheelchairAccessibleSeating": false
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "34",
+            "shortText": "34",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Wellington Street",
+            "shortText": "Wellington St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2E 7BD",
+            "shortText": "WC2E 7BD",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJs4GOh8sEdkgRRiBFZKMP8ZE",
+                "placeId": "ChIJs4GOh8sEdkgRRiBFZKMP8ZE"
+            },
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "London Transport Museum"
+                },
+                "name": "places/ChIJLZLvpcsEdkgRnDYX5KYtpA4",
+                "placeId": "ChIJLZLvpcsEdkgRnDYX5KYtpA4"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJgXlkg8sEdkgRBQIcjaxWHPs",
+                "placeId": "ChIJgXlkg8sEdkgRBQIcjaxWHPs"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Royal Ballet and Opera"
+                },
+                "name": "places/ChIJySOgh8sEdkgRCBzTYt83Klg",
+                "placeId": "ChIJySOgh8sEdkgRCBzTYt83Klg",
+                "straightLineDistanceMeters": 116.83856,
+                "travelDistanceMeters": 126.31265,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "London Transport Museum"
+                },
+                "name": "places/ChIJ4bF21K8FdkgRDXc6FiSVAzE",
+                "placeId": "ChIJ4bF21K8FdkgRDXc6FiSVAzE",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 77.45001,
+                "travelDistanceMeters": 124.92809,
+                "types": [
+                    "cafe",
+                    "establishment",
+                    "food",
+                    "museum",
+                    "point_of_interest",
+                    "store",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Lyceum Theatre"
+                },
+                "name": "places/ChIJcXx0Uoms2EcR8Be43HHdy2U",
+                "placeId": "ChIJcXx0Uoms2EcR8Be43HHdy2U",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 103.70691,
+                "travelDistanceMeters": 89.337746,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Theatre Royal Drury Lane"
+                },
+                "name": "places/ChIJj91E_coEdkgRlUibJh13Jws",
+                "placeId": "ChIJj91E_coEdkgRlUibJh13Jws",
+                "straightLineDistanceMeters": 59.836323,
+                "travelDistanceMeters": 104.23274,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "store",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Cicchetti by San Carlo - London Covent Garden"
+                },
+                "name": "places/ChIJF_HGAMsEdkgR2jUqMHt05s8",
+                "placeId": "ChIJF_HGAMsEdkgR2jUqMHt05s8",
+                "spatialRelationship": "BESIDE",
+                "straightLineDistanceMeters": 13.134513,
+                "travelDistanceMeters": 9.943947,
+                "types": [
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "currentOpeningHours": {
+        "nextOpenTime": "2025-11-25T12:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 – 10:00 PM",
+            "Tuesday: 12:00 – 10:00 PM",
+            "Wednesday: 12:00 – 10:00 PM",
+            "Thursday: 12:00 – 10:30 PM",
+            "Friday: 12:00 – 11:00 PM",
+            "Saturday: 12:00 – 11:00 PM",
+            "Sunday: 12:00 – 10:00 PM"
+        ]
+    },
+    "delivery": true,
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Banana Tree Covent Garden"
+    },
+    "editorialSummary": {
+        "languageCode": "en",
+        "text": "Pan-Asian fare served in a lively, industrial-chic restaurant with a bar & happy hours."
+    },
+    "formattedAddress": "34 Wellington St, London WC2E 7BD, UK",
+    "goodForChildren": true,
+    "goodForGroups": true,
+    "goodForWatchingSports": false,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x487605a1da73a261:0x1da0b254ef4bdcfd!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487605a1da73a261:0x1da0b254ef4bdcfd!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=2134902301235338493&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487605a1da73a261:0x1da0b254ef4bdcfd!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487605a1da73a261:0x1da0b254ef4bdcfd!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=2134902301235338493&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJYaJz2qEFdkgR_dxL71SyoB0",
+    "internationalPhoneNumber": "+44 20 3535 6801",
+    "liveMusic": false,
+    "location": {
+        "latitude": 51.512395299999994,
+        "longitude": -0.1207001
+    },
+    "menuForChildren": true,
+    "name": "places/ChIJYaJz2qEFdkgR_dxL71SyoB0",
+    "nationalPhoneNumber": "020 3535 6801",
+    "outdoorSeating": true,
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Banana Tree Covent Garden",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIJyEI2iEx5K9v3fsVBF02V9WKlHcSfGGrLf2uEi0FSSRam9Q=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/104221760143427879176"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMiOU1I1wyDw5y_5BTv0ZrQgVRMG2iHZrDxJ7aF&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMiOU1I1wyDw5y_5BTv0ZrQgVRMG2iHZrDxJ7aF!2e10!4m2!3m1!1s0x487605a1da73a261:0x1da0b254ef4bdcfd",
+            "heightPx": 3024,
+            "name": "places/ChIJYaJz2qEFdkgR_dxL71SyoB0/photos/AWn5SU6O5vuz55CLgPtf9CK4NuTs3gRn5rmCpK_bLXYEjS0bNfHZlJRbheow67oezeF3--2DYUceraOMZTCWsSsHVm3Udcnf4raIcm01CPVOCkKctfCZHzJjKreZjtqHG6llI-6mg3_TZ3RxVXaYveSO-xMPGH8JsXUZLXsyZxIjF9H230wgYytA8cw3omhXnwbLA13mSYKdoqzA094JKmwYuiazsSk_8S5_Bem4x4oPD55jpsZVyjF5gDDDCpzcDyuS1Tb3ev924hrnpeUFR38kwATapvPWwzw_Ir-BXgRjrEANOg",
+            "widthPx": 4032
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Banana Tree Covent Garden",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIJyEI2iEx5K9v3fsVBF02V9WKlHcSfGGrLf2uEi0FSSRam9Q=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/104221760143427879176"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM722UNRnenFHubQD2Skl8IM_yk-3CnTu3V40h3&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM722UNRnenFHubQD2Skl8IM_yk-3CnTu3V40h3!2e10!4m2!3m1!1s0x487605a1da73a261:0x1da0b254ef4bdcfd",
+            "heightPx": 1080,
+            "name": "places/ChIJYaJz2qEFdkgR_dxL71SyoB0/photos/AWn5SU56H3ACXiXfHE1SRXwnlYjUTK9n2cKyRrNRtBKOwlu7DXyl5dUqq0vY4QYoV7KTHw9QYc0lCxvJTSlfDOrv9QUsvPo1kbAQGNKN27w7VByeZQxg_9EUd5hgwSCMosbyhH9AbTQKTyrlh1tKh9_933qYwfzo91MGtRQbQft3-MMj89-P8idmOasB7_pNArD5rzfZvAbM5-coiaKaf-O_i2JCrxJszj5JL8gDawmeb7w2iuU2N8q130gqTR9xiANpguOEvYPqW-f2Ae8hrHg54qvJeSDCOAFjswA3D6sNsWaHOA",
+            "widthPx": 1920
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Aneta Grochowska",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKb2YqDgZuxR-NhWoBzIMaGuu9uRopv9UTsXEK_LRIs44XFqi4=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/103438509004731045818"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAub7epRm6tBUGkO49lpCvF&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAub7epRm6tBUGkO49lpCvF!2e10!4m2!3m1!1s0x487605a1da73a261:0x1da0b254ef4bdcfd",
+            "heightPx": 3024,
+            "name": "places/ChIJYaJz2qEFdkgR_dxL71SyoB0/photos/AWn5SU4R4ZUbj9wxBSsMlHWiZb4SdvblqQlVGBpMHERE-UxtFEXHg7tx-clKtKOyl3l9UBgN7gE14CBUI2on7jglBdlMLobFlaWgJQLShtfE406XAHc5sxc_wk6lruCVWzbsabKOGw1DUFGdCx_IsB8uM6b5aCV-cM0Yy1Lw_UPP1ckhA-NBgsVOkqi9Jqqa1y_1_skR-LOjHXqIEGHkXlSsy8HyPuG7q71klxltoAt49zqmfVGdK82LoqaKosdg8uripMjVQeXuRH6beGGU0CLWJtrmyusTEDRFdF8tgK0zLDjwcQUKfIN8od7F3mGq2cmxK7IU87lizKAN9PHys9Wr0jHzdojFUEQA2_TxEfX04-iBqd_dOR_0dWXnU_fP8Geq-iMKMmSh-fyOPZydlZoQhLmeuR3Bq4vIc9omnRuWBxri_jPnaKQM68WoWO1p4vgV",
+            "widthPx": 4032
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Dilara Aydemir",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXu7WKz7z93DYEp2diY6Y0L9DexI_e8xCoyeq4vO_m6ZXJ1rsf8=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/101193077561574248997"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCQ-ML16gE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCQ-ML16gE!2e10!4m2!3m1!1s0x487605a1da73a261:0x1da0b254ef4bdcfd",
+            "heightPx": 4032,
+            "name": "places/ChIJYaJz2qEFdkgR_dxL71SyoB0/photos/AWn5SU68Pu3DxcBNLS50YsK8v-x6I1dDOSe1IT2w6w6N4_xB-6uW51LYkdTxCtyuK2h2RFIgEIlop8X4IUVZ21eeQEvnoraqbGqU6tSJ9Tmgo_aIEjnqb3t8QX-psw4-gANloDeISQOG1USZBkon8FpGJ49C047pY93TeH30i2HePTiNGjRjShRUtndo5KfXMklfa-e1F3nP3BTlUr0gC0OJHyaMBnZTC_jEyIxL-59cfxGoKN5q0hEfzEy4dAYn1aAHaR03AA06mJiDYEuftREXKulK4qT5so9q9y0RdMr0IaRzvovTqWFOJ5U5nNF6Ka007KOYb4P6oX3d97aqDaa5Uv7vGQEoIKMHpPCIheSFDzM4rcwTWJxl-FoND992g84eJN3zKuy-3_wWj7qzAOZeLBhdNPiaXiQzQfBRLJxx5uuRVw46",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Aisling Siobhan",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUQvFpaKgNw4UGN2nLyIY6Jcq1cWZ65m1Rvk710FfJ-DC9QGoRS=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/104346899186758237257"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCHCMEALgtEV9hWxq9qHC91&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCHCMEALgtEV9hWxq9qHC91!2e10!4m2!3m1!1s0x487605a1da73a261:0x1da0b254ef4bdcfd",
+            "heightPx": 2884,
+            "name": "places/ChIJYaJz2qEFdkgR_dxL71SyoB0/photos/AWn5SU7EO-CJkHKp1xEfINYFwWQ1zd43GgHChkP35eYrBALMTW0_-_G6k3P2ABKlj8Ix_X-JNlDOlojBuGHPpo4vuwCr1lqJnAK4jorrR8Z6slVETjVHWKI_cjSK6tCYh8CYvkKFPvU2edE3Q_IgY_oajjbSVXmHP5owlDriZ2ii-XMZrG6V_lNdJrqnWGg4BJzxFT6QfeD_HTl5WIqidtsL320Wshst7vtWC3iqIFT1-tWjzdWv72lpY2_2pUjTgqck4KzNJ9T2rMCwcnYYd6V8zA6NpIHuMtwvUI6pOF5voR6zJZeej9FwvH973zq43L_80pwRARI1mUDIMh-YjTNkjU1uhdzzB1_uOnO96fp_8DoURK7nO761NWPhOtBuntaF3mMjSykOheDZtkyHDsemwccyu2xd5JDqaPBAvM3omVPJF3mrHOKS0Auf9n6-Kw",
+            "widthPx": 2986
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Drovia Yin",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUcdKc8uSwYfARTVFMQefXKb-m3YyCAZz5T9OMG55SoppZYGon7Vw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/114434888408746242279"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhC5WdmeuHd6vnSEU7P7IsRz&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhC5WdmeuHd6vnSEU7P7IsRz!2e10!4m2!3m1!1s0x487605a1da73a261:0x1da0b254ef4bdcfd",
+            "heightPx": 1376,
+            "name": "places/ChIJYaJz2qEFdkgR_dxL71SyoB0/photos/AWn5SU6K7v6Mcpp5D1e5mODt1_AyogGo-5yJW4kMD8Zwt5kXIUaw380DqzVftyngiPWvC_TUuMwck1kVcBwd1RECWLY5D7gT3AKbEEjzEYIGV9517MIIiLyc4AIhGkvUkjqej4HZzIYe1NluCQz8rXfU2AyBwUBdIusXMWJVMZfnXonvQEtWSWAQcGBOzjLWINYen6Jx9WnDfiS1r7T4R7u8QqEmnCsaNl2MQuOb-dbV4VpZdCVnhEQUqWunRbZsKSP_K7HxRKx95PZ3yFysINl8BU8AzDtFOGwJNeBE57KQrUBdQPHbdFscVIRgx7QD1s2DsobpyZpHV6mRJ_URMtrcWWYELMIJg4OsDWfZQxbomFtgA0FK1chmFNTWDEIo8AzQbcmH4BxClA55iclH0D-Y03Q6IFy4AP98GciT69785u03ULS88CQsQw0B8i_luS2Y",
+            "widthPx": 1537
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Heenal V",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLaBScsM8iVi5IwBC4wpL1iWPCIH0_X9p-rIep4qcZrSekNwQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/112432032805900083659"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICP-paa1gE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICP-paa1gE!2e10!4m2!3m1!1s0x487605a1da73a261:0x1da0b254ef4bdcfd",
+            "heightPx": 3000,
+            "name": "places/ChIJYaJz2qEFdkgR_dxL71SyoB0/photos/AWn5SU6N8_s06BL11hTpbfncfFh2Y0yHLbIXEU4AKeqpxfjmPdHSK4jS3iPmix3RB5hYuaFaq_dmeoBOHyls7iS4UP2-NfFViTSh8rovdLbAYodrOwSEl0-tLdS9FX-8mT25Gd4_r7IT7yL5xmPmM2u1bRETp9VxWH9vNLOLxLpIIbw5HXxvn7WE0FDOXqSx1O1M8yqEoVEC_sY4nRxnUIMkEuj3WLSIr0P8CtHtb_fjrEWzIuchVjgS7vgE0i6JNz7PoxErgsPUCOBY5pUR8m20D5GQ6E8bOxYowTxxLTWtce7VRXFoEeoQXoiy-G3g9mNk6DtAvnygapM1kD7fxSGZ_cb7ojPqNlpVxXYNFMKjR4UMFP-CACSB3KddXDhZ8GmaD4w-GNrLmDJbBKN_a0_TV7PND6khFmgP8dkcFO6vDgaby-yO",
+            "widthPx": 4000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Gemmalicious Tv",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXfz_L10FrwCnq985Cid4OfjI1o39oxuAfvZM6W_7_mFkb3yag7=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/112559645461979760727"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEIrkh-OX7tLfVA&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEIrkh-OX7tLfVA!2e10!4m2!3m1!1s0x487605a1da73a261:0x1da0b254ef4bdcfd",
+            "heightPx": 3000,
+            "name": "places/ChIJYaJz2qEFdkgR_dxL71SyoB0/photos/AWn5SU7XamFLbYblAVfOJLGsURRUnnHxra9qI5suTTpYAznhIf6dO7_OsNWP_Ov7N1OOnvnkIteB4-B_falQ-A8LHRyXsk0Iqy6ofbjF-Gslt_PPbnp-P2WtZQAqZyaMLMftdL1j6vVzLoYKARUZw2Il0HcE991tanCMaBUeDyZRcUDnFJV01_XdkxShuSfmeyBBPYOqCxqv5FcizJJe2QMRrJSSSOqpbh3KtpjQO27is0F7wk4PukPvpGmx3_VBLyW6fag0h-l4cBLzY6LsWMRJPSSusuACsywGeSKtblOJiLd_L7aEn8obBZl2z2ebIQm22xmKeH9-cw9GhjwGaN_r9ypfiBP7-IVGaak6yO9yw-2OFoVVtUwQzAt8LExZrZJ2Duzs0ERjLn6zO36zTm4b-B3vZ06D1y7CtYszN894ffDlIQ",
+            "widthPx": 4000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "karim Hamideh",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXLVX2eJUOOvhmPHFSjc87EGrcmvG-wO7KZV6Okkh-MoJNPYxgU=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/111220076270624184646"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCgj6eozQE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCgj6eozQE!2e10!4m2!3m1!1s0x487605a1da73a261:0x1da0b254ef4bdcfd",
+            "heightPx": 3600,
+            "name": "places/ChIJYaJz2qEFdkgR_dxL71SyoB0/photos/AWn5SU4bnJkQkDUt2KiZ0AIE513ENGYUiI2FMkh2UT0SDCXf5Rwrw1UGM3k1lWX4S95Z-DsLfwk5C6M39p9prlK3cZxptep7U_0vLEjHacnVOMWl0zvsKWYBJMRQ-y9pA1Zhbta6YcsZ4UKUglmN9nQ5M7n4D0yjXMN6BDQSUFSgwzbATL8fiHhnbY9xKJUzG00gS4l3uOhJWCSPPB0ai_zkarTtxRtTqZ_-dox8MjgU-YFzwntToK21KSyRtJ6B_ZfL_lv34ZIkiRXhbe-1yddf8zFbo8ecUoqqDb8jUUbZNAV_rgcGzzlCxu7fVFTZSwyZdaJugX-IU_hh8fI6v6F2XJj7NR0lWoAyMNACxtxVi1jKBywP9kdXM8gKMLPoqLQy2RZvs5YiBXJvP26TZaVOdy4k6e_SnnkENCq5Q4Z7c1UBCrY",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Julian Clark",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWaluFneOorZZHG9KVpmFYTxVAn_eLZ62mLKkVXp1wjYIuUFkw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/105860579021511854182"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCjvw7iCinbD5M6L-YCb_w0&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCjvw7iCinbD5M6L-YCb_w0!2e10!4m2!3m1!1s0x487605a1da73a261:0x1da0b254ef4bdcfd",
+            "heightPx": 3600,
+            "name": "places/ChIJYaJz2qEFdkgR_dxL71SyoB0/photos/AWn5SU7DZOhSpa8yfZOR6yyAy9lfbKyTYubE-agks99Z4msAC33x2hU6nbOmrXMGsKJbSInXVXWysCfNBv3ISJAD6gV3wHYOgwJAcMe9qSyZS14UFbxMlnObQpofEmGjMTSG3hhJ81xKh9tFcIkN3oP-Mp1zJ2zH0Qq-7hWqDQJwenmmcC_fGRAtEUoHyb3XoKLKHbyhe9spq7B9l7Ojwv5KRv98gqvy3Kp5-v5vsUG--h4XcRgKguAa4dbprxFoKbMqjlq43whLcbm6ucm4n6XBAJvOltBj_ZTXqcwQ0KcOCR1gbzNALiT5Ev2cQWVrHZ_a42btsALF_B0nBsfFe1fA1FHd3w1GHlD2TcLq7SBifnf7E3DfDIfPThQyHZxZGX1A0P5MyvQrkUQh-PhoowS5luPGa0q4YAZ17MpjgxpWVZajgW-j60enjO2FrOhGRlo8",
+            "widthPx": 4800
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV6H+XP London, UK",
+        "globalCode": "9C3XGV6H+XP"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "34 Wellington Street"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2E 7BD",
+        "regionCode": "GB"
+    },
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "priceRange": {
+        "endPrice": {
+            "currencyCode": "GBP",
+            "units": "30"
+        },
+        "startPrice": {
+            "currencyCode": "GBP",
+            "units": "20"
+        }
+    },
+    "primaryType": "restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Restaurant"
+    },
+    "rating": 4.6,
+    "regularOpeningHours": {
+        "nextOpenTime": "2025-11-25T12:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 – 10:00 PM",
+            "Tuesday: 12:00 – 10:00 PM",
+            "Wednesday: 12:00 – 10:00 PM",
+            "Thursday: 12:00 – 10:30 PM",
+            "Friday: 12:00 – 11:00 PM",
+            "Saturday: 12:00 – 11:00 PM",
+            "Sunday: 12:00 – 10:00 PM"
+        ]
+    },
+    "reservable": true,
+    "restroom": true,
+    "reviewSummary": {
+        "disclosureText": {
+            "languageCode": "en-US",
+            "text": "Summarized with Gemini"
+        },
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=5%401:CAIQACodChtyc19oOnljVWRCT1JGYUpGdW52OU40cjNoVnc%7CCAIQACoqChtyc19oOnljVWRCT1JGYUpGdW52OU40cjNoVncSCwiE6LbIBhDApeBE&d=17924085&t=8",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487605a1da73a261:0x1da0b254ef4bdcfd!9m1!1b1",
+        "text": {
+            "languageCode": "en-US",
+            "text": "People say this restaurant serves delicious Asian food, including laksa, pad thai, and massaman curry. They highlight the generous portions, good value, and tasty flavors. They also like the friendly and attentive staff, and the quick service."
+        }
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Syeda Ifrah Ali",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV3-gTr7QbLARbqvCbVXwqIDwCvaZA1g2gs5V75N55XI42wigA=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/104230751854401913921/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pCV05qbEJZbTlFT1hCc2RGTjNURlY2UzFJemJGRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCV05qbEJZbTlFT1hCc2RGTjNURlY2UzFJemJGRRAB!2m1!1s0x487605a1da73a261:0x1da0b254ef4bdcfd",
+            "name": "places/ChIJYaJz2qEFdkgR_dxL71SyoB0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCV05qbEJZbTlFT1hCc2RGTjNURlY2UzFJemJGRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Happened to visit Banana Tree on Sunday and restaurant was busy as anything. I ordered special noodles and it was quite good. Service by the gentlemen was exceptional, it was only two of them in the whole restaurant and man they were efficient. I booked through Tastecard and guys were very helpful."
+            },
+            "publishTime": "2025-10-26T19:18:51.172286971Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "4 weeks ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Happened to visit Banana Tree on Sunday and restaurant was busy as anything. I ordered special noodles and it was quite good. Service by the gentlemen was exceptional, it was only two of them in the whole restaurant and man they were efficient. I booked through Tastecard and guys were very helpful."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "S Stokoe",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKUbfeCWZ8kuYdnst68XNhNXBZW2vgvRAoH0OmHajowRDgr1HU=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/107299647071817647778/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21jNWJtaHFlREZwTTNoQ1RXa3dXVVZOYUhOM2FIYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21jNWJtaHFlREZwTTNoQ1RXa3dXVVZOYUhOM2FIYxAB!2m1!1s0x487605a1da73a261:0x1da0b254ef4bdcfd",
+            "name": "places/ChIJYaJz2qEFdkgR_dxL71SyoB0/reviews/Ci9DQUlRQUNvZENodHljRjlvT21jNWJtaHFlREZwTTNoQ1RXa3dXVVZOYUhOM2FIYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Excellent service at this restaurant. Came to London to celebrate mine and my twin girls' birthdays. Ahmed was extremely attentive. Food and drinks were served quickly and all was delicious. They made a big deal of it being our birthdays, serving us a lovely slice of banana and chocolate cake and ice cream with a candle and sang happy birthday. Was first time visiting this restaurant and would definitely come back."
+            },
+            "publishTime": "2025-08-04T17:40:05.797185642Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "3 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Excellent service at this restaurant. Came to London to celebrate mine and my twin girls' birthdays. Ahmed was extremely attentive. Food and drinks were served quickly and all was delicious. They made a big deal of it being our birthdays, serving us a lovely slice of banana and chocolate cake and ice cream with a candle and sang happy birthday. Was first time visiting this restaurant and would definitely come back."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Nicholas Passarelli",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUld--0wVOJ1BCPiFmt6ykFW19M1pOYzmTbuQVwkPmOaUpudvcEHQ=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/107460943844083530693/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tzeGF6SkVWamRmU21SRFdIUjNhMkpJTFdSS2RYYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tzeGF6SkVWamRmU21SRFdIUjNhMkpJTFdSS2RYYxAB!2m1!1s0x487605a1da73a261:0x1da0b254ef4bdcfd",
+            "name": "places/ChIJYaJz2qEFdkgR_dxL71SyoB0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tzeGF6SkVWamRmU21SRFdIUjNhMkpJTFdSS2RYYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "I had a fantastic experience here. Maryam was absolutely exceptional at taking care of us. She was extremely sweet and offered great service. The food was so delicious! Drinks were amazing.\nI will be coming back in the future!"
+            },
+            "publishTime": "2025-09-28T18:48:53.704170809Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "I had a fantastic experience here. Maryam was absolutely exceptional at taking care of us. She was extremely sweet and offered great service. The food was so delicious! Drinks were amazing.\nI will be coming back in the future!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Amy",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK15IjIgTXOhSGt78-L7ATsuCQMqT8rAfopR5rzi7gVXROgPg=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/104966080616746516648/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xoSmJYWlVVVlZyT1dwNlVrTk1VVzlZWW1oV2NtYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoSmJYWlVVVlZyT1dwNlVrTk1VVzlZWW1oV2NtYxAB!2m1!1s0x487605a1da73a261:0x1da0b254ef4bdcfd",
+            "name": "places/ChIJYaJz2qEFdkgR_dxL71SyoB0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoSmJYWlVVVlZyT1dwNlVrTk1VVzlZWW1oV2NtYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Went before a theatre show and the food and service was exceptional!\n\nWe got the bang bang broccoli to start and it was so fresh with the perfect light coating on the outside of it.\n\nFor mains I had the Chicken Massaman curry and all I can say is that I have a new favourite dish! The balance of the flavours in the curry with the pickles on the side and crunch of the crackers was perfect.\n\n2-4-1 cocktails were also absolutely delish, we got a Long Island iced tea and the Jungle Bird."
+            },
+            "publishTime": "2025-09-02T11:04:46.832885771Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "2 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Went before a theatre show and the food and service was exceptional!\n\nWe got the bang bang broccoli to start and it was so fresh with the perfect light coating on the outside of it.\n\nFor mains I had the Chicken Massaman curry and all I can say is that I have a new favourite dish! The balance of the flavours in the curry with the pickles on the side and crunch of the crackers was perfect.\n\n2-4-1 cocktails were also absolutely delish, we got a Long Island iced tea and the Jungle Bird."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Mich D",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ-WUH3pbHWqYuAMOOzo0tidlNkGqi_OMWfZRkn8Z1N7e0NONX9=s128-c0x00000000-cc-rp-mo-ba2",
+                "uri": "https://www.google.com/maps/contrib/107353563979415375033/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21scE9VcFNTelpDY0VONVQzZFRWVnB6VFhoVVlrRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21scE9VcFNTelpDY0VONVQzZFRWVnB6VFhoVVlrRRAB!2m1!1s0x487605a1da73a261:0x1da0b254ef4bdcfd",
+            "name": "places/ChIJYaJz2qEFdkgR_dxL71SyoB0/reviews/Ci9DQUlRQUNvZENodHljRjlvT21scE9VcFNTelpDY0VONVQzZFRWVnB6VFhoVVlrRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "What a great restaurant in Covent Garden. The music, energy, friendly service, cleanliness, and delicious food made this wonderful. Whether dining solo, as a couple or big group - all are welcome. The laughter and chatter are so much fun!\n\nGood vegetarian options, too.\n\nThanks Ahmed and team."
+            },
+            "publishTime": "2025-07-26T20:51:21.558594274Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "4 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "What a great restaurant in Covent Garden. The music, energy, friendly service, cleanliness, and delicious food made this wonderful. Whether dining solo, as a couple or big group - all are welcome. The laughter and chatter are so much fun!\n\nGood vegetarian options, too.\n\nThanks Ahmed and team."
+            }
+        }
+    ],
+    "servesBeer": true,
+    "servesBrunch": true,
+    "servesCocktails": true,
+    "servesCoffee": true,
+    "servesDessert": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "servesVegetarianFood": true,
+    "servesWine": true,
+    "shortFormattedAddress": "34 Wellington St, London",
+    "takeout": true,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "restaurant",
+        "brunch_restaurant",
+        "asian_restaurant",
+        "vegan_restaurant",
+        "vegetarian_restaurant",
+        "bar",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 2242,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.51371493029149,
+            "longitude": -0.11942176970849795
+        },
+        "low": {
+            "latitude": 51.51101696970849,
+            "longitude": -0.12211973029150198
+        }
+    },
+    "websiteUri": "https://bananatree.co.uk/restaurants/covent-garden/?utm_source=google&utm_medium=organic&utm_campaign=google_lpm_bananatree_coventgarden",
+    "timestamp": 1764064800
+}

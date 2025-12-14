@@ -1,0 +1,799 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": true
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "372",
+            "shortText": "372",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Strand",
+            "shortText": "Strand",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2R 0JE",
+            "shortText": "WC2R 0JE",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "und",
+                    "text": "Jubilee Market Hall"
+                },
+                "name": "places/ChIJ-ScSl8sEdkgRjISxG4sLNPY",
+                "placeId": "ChIJ-ScSl8sEdkgRjISxG4sLNPY"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "London Transport Museum"
+                },
+                "name": "places/ChIJLZLvpcsEdkgRnDYX5KYtpA4",
+                "placeId": "ChIJLZLvpcsEdkgRnDYX5KYtpA4"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The Savoy"
+                },
+                "name": "places/ChIJqUbg0ssEdkgR8QSuJx1uIAs",
+                "placeId": "ChIJqUbg0ssEdkgR8QSuJx1uIAs"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Strand Palace"
+                },
+                "name": "places/ChIJa7MYyssEdkgRW0GxGFyDvWw",
+                "placeId": "ChIJa7MYyssEdkgRW0GxGFyDvWw",
+                "spatialRelationship": "WITHIN",
+                "straightLineDistanceMeters": 3.9658039,
+                "travelDistanceMeters": 1.4655476,
+                "types": [
+                    "establishment",
+                    "lodging",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Lyceum Theatre"
+                },
+                "name": "places/ChIJcXx0Uoms2EcR8Be43HHdy2U",
+                "placeId": "ChIJcXx0Uoms2EcR8Be43HHdy2U",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 93.141594,
+                "travelDistanceMeters": 162.40155,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The Savoy"
+                },
+                "name": "places/ChIJTVquz8sEdkgRKdz7pP3v9BU",
+                "placeId": "ChIJTVquz8sEdkgRKdz7pP3v9BU",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 84.00744,
+                "travelDistanceMeters": 68.9749,
+                "types": [
+                    "establishment",
+                    "lodging",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Vaudeville Theatre"
+                },
+                "name": "places/ChIJczPJ8csEdkgRedKpYe0M6Wc",
+                "placeId": "ChIJczPJ8csEdkgRedKpYe0M6Wc",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 122.90272,
+                "travelDistanceMeters": 122.11204,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Jubilee Market"
+                },
+                "name": "places/ChIJZ5rPfcwEdkgRCld_oTBUf_k",
+                "placeId": "ChIJZ5rPfcwEdkgRCld_oTBUf_k",
+                "straightLineDistanceMeters": 106.99955,
+                "travelDistanceMeters": 190.02736,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "containingPlaces": [
+        {
+            "id": "ChIJa7MYyssEdkgRW0GxGFyDvWw",
+            "name": "places/ChIJa7MYyssEdkgRW0GxGFyDvWw"
+        }
+    ],
+    "currentOpeningHours": {
+        "nextOpenTime": "2025-12-11T12:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 14,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 14,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 15,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 15,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 16,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 16,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 17,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 17,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 – 11:00 PM",
+            "Tuesday: 12:00 – 11:00 PM",
+            "Wednesday: 12:00 – 11:00 PM",
+            "Thursday: 12:00 – 11:00 PM",
+            "Friday: 12:00 – 11:00 PM",
+            "Saturday: 12:00 – 11:00 PM",
+            "Sunday: 12:00 – 11:00 PM"
+        ]
+    },
+    "delivery": false,
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Afternoon Tea at Strand Palace"
+    },
+    "formattedAddress": "372 Strand, London WC2R 0JE, UK",
+    "goodForGroups": true,
+    "goodForWatchingSports": false,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x487605566a47e2a7:0xa81287884e6984b!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487605566a47e2a7:0xa81287884e6984b!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=756930710465845323&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487605566a47e2a7:0xa81287884e6984b!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487605566a47e2a7:0xa81287884e6984b!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=756930710465845323&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJp-JHalYFdkgRS5jmhHgogQo",
+    "internationalPhoneNumber": "+44 20 7379 4737",
+    "location": {
+        "latitude": 51.5108696,
+        "longitude": -0.12088720000000001
+    },
+    "name": "places/ChIJp-JHalYFdkgRS5jmhHgogQo",
+    "nationalPhoneNumber": "020 7379 4737",
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "chang lee",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVKvRBqkfWaAZ4HDWHsKHAWcTWZKL3ZvxHdQA0OVDUm3DHNfy5q=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/107590567267451897408"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICxg5rDaQ&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICxg5rDaQ!2e10!4m2!3m1!1s0x487605566a47e2a7:0xa81287884e6984b",
+            "heightPx": 4032,
+            "name": "places/ChIJp-JHalYFdkgRS5jmhHgogQo/photos/AZLasHoyIOu6yOMGjVEjPlMLt28VfHLuGxmw_v6JZXlsvleR95CxDraFjNfp_LKGAUfZQb41zdc11BcqVzx-5pEI0AYbdXd2oVN0W3SnE1kkz9-KME9qvZjxuXFN8DvPEXnCpLB6MAoiZrGd8cuiqqnHwLD5bjYQIIgNX1dMmupsBa4DJ4Qv2T7CXaF-0MNGPAtd3f7Ra3lqVE-Cb6r9D-tL29uKUOGe6gpxlMQTHb3ApVdgc4JbJW6CYvsUps-_u4HSN-mDhUBz5rM7bk6uFBsFBuXLDc9amOXCoyMH1g1yqDDdjL7VacL7dejqaGtmBXnTtWbk6E6cHVQWazyGWVvYGAASBvRlRk6i1VEuflERRzTGVyYEEcEi_eZ4VuU-mNKvsXAwN8qEu3BjIVbQ6lmZv7_P5-VTY_mu4J2p-V9t4I4",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Amber_Vlieghe",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVKPAGPMXae2kA1W378t4Zk_c4qapYfk5FWdICENJyfcoLEddZj=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/111406103493322543668"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDDisuXIg&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDDisuXIg!2e10!4m2!3m1!1s0x487605566a47e2a7:0xa81287884e6984b",
+            "heightPx": 711,
+            "name": "places/ChIJp-JHalYFdkgRS5jmhHgogQo/photos/AZLasHorsis94eRKJH39U1O4mJpFSqrUnn-dXgDRHjJCWxqM928bie-gpGyl3131khMx2vQQvQ7JoRRto7wbKcXGq7d_AieIGHLlyY31we_IpRQW4CDLHjwj1ykUYsMoDigUwLdXURCPzoTS-RHqewn3wLO6F_nXLN4vPWb7ftRbVjuypw0NC8gRIqlPisRrwLJLsRtJryFVpqH0Dy6ANnCOfBx0Hh3UJxGSPfLG9OAhGgW2rrRkIskZvA6KbQ9jAX7c48sxU2_7KrQlg0PEE8N3mUewc2uSmFtrsFYa7LL7Gp22MTy_H99406S9U7tMqAkh26WbW1LgnDhlJ9C4TG6H_qXqmfGUUFW77ZOOm284D6msAJhVsoCDO0AeON9ncS0N2vsuzXFDv81krY8MtxP3OaW9vbqio03vHm_jcSPysoCueg",
+            "widthPx": 690
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Sue Westwood",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUOz6DIWn-jViAYirncFgCcnBw31KBr9oiKYIXiRd5pJEan9b59XQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/106066949454803197775"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCkvlG7R4YCupMzG_LSA7yE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCkvlG7R4YCupMzG_LSA7yE!2e10!4m2!3m1!1s0x487605566a47e2a7:0xa81287884e6984b",
+            "heightPx": 4800,
+            "name": "places/ChIJp-JHalYFdkgRS5jmhHgogQo/photos/AZLasHqx43RhNtZF35F0mHXD9zyNY_-eSWYKBod91yGhtcVuFC7VJg-TWX3Ru6SvbN4-BhlT0t55St8LNKqsUJLxkOJLoA02-yv4MzWQ78vTsUvigMMD4DK3xZrg6kKNGkhzPZv4xXbZLXrCPllHT7ou9nyA4-bVJ-qlWDSJPUlRMXyRKaqsDJ-64vWkNWDyBkOQFlxb7M3kz1a1iWKd-2u4_cZo3cbZsTadGpG5--6DwxecV5cexqXk3pFk5mm0XoSbrYXLZ2WXi2oj4YME_3Ej9I1DwASBhnlPnki0zJupkFkd2Va013IOGJonY70h5FH6H9hgv7z7M_xc2bDNFMKYb6IDs7RNnk4h8M_-1uJJ9dfZRAb35EZ4mv6wimxciUpUL66BH4BeLtit-Yz9yy_6ja7GwfRgSARyKvhPay2WCkXEntaQ5MTz4bdUhZ_ooA",
+            "widthPx": 3600
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Sue Westwood",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUOz6DIWn-jViAYirncFgCcnBw31KBr9oiKYIXiRd5pJEan9b59XQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/106066949454803197775"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAAff5q4ks6z7endUum_iqR&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAAff5q4ks6z7endUum_iqR!2e10!4m2!3m1!1s0x487605566a47e2a7:0xa81287884e6984b",
+            "heightPx": 4032,
+            "name": "places/ChIJp-JHalYFdkgRS5jmhHgogQo/photos/AZLasHrL3xkh8t6JKIP7ji81MPhzP-FNigwbHrt3HkiJUAP-4C08v-86b3ME69gfng14wdiuCv-mjlpdKTmnYQQ2MhuqCkdIxWm-KJrvATaqaYcxXAr9fVjenuZJXfQuk1nouTXg0m646JyqwbnAxqZzzAMJHUDKubgeNK2izUaRi0IM5ypESMRQjOeCf1pQSast5H2bxNlNgIQTXGLjOz7ynd5EtlYCHqjU01X428tPbRugDTuAp_Ds8xDh0bMo2YI0pZw1did0kkGTzpuRIGMuJZWka2mPVwGhIoF6MZmA0Oeo4dpefgWZ5YVWd-0w-zb29upwtt9GBS8mMzdmWd2DJved5sX722_styuOWLFL4Q-QCLqa5AXNqlDA4Jfa4xnYCM3FIsxk2fUC656ap101GbHTQbuWZO5u2LvELys4vsrUtlj3J9mms2eonwvtZzgj",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Amber_Vlieghe",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVKPAGPMXae2kA1W378t4Zk_c4qapYfk5FWdICENJyfcoLEddZj=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/111406103493322543668"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDDiquf4gE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDDiquf4gE!2e10!4m2!3m1!1s0x487605566a47e2a7:0xa81287884e6984b",
+            "heightPx": 4032,
+            "name": "places/ChIJp-JHalYFdkgRS5jmhHgogQo/photos/AZLasHo5cxCpgsimdc2ZyZhC6IhCd2SyoIM4W_XCk8QpJKJoR1Bn1fUqljXBkYxxe0MGglTcoBL_0iJfQGJ3cYX3lzcNhjTV_xs31UBtElWHrW4afc4rKMspVCDWSfQI9OyqosEwpdC58DtDpTW6N6oVr4bmDeJIuySHlHkfCcztTnlxvvFT6P6vEaxb9qq46VIvy6MWb2S92t-Zzr07Ayb7-hQjbNjSH_ddHfFotYx5-XSwlKDUDZrZAcFZbmczbrJqzfwjBn5H77xM_8CkCH-EoVYQeWFN0jt8wZFDBSDwoYgqg-08cOMU3_FeBq6_weOyyZ4F40dmCrLoH5rcW-B7sLLedk17gnBdcAujmoZDT1m4vSxTO6myTZOe8g72oUGskoYy1KFPnHzmQl_65iZdBSNPm6SDfKdbqNpkPvXTNi8FhpT3",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Sue Westwood",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUOz6DIWn-jViAYirncFgCcnBw31KBr9oiKYIXiRd5pJEan9b59XQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/106066949454803197775"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhA3U8g6EUtuJ3YE6Au7EX2i&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhA3U8g6EUtuJ3YE6Au7EX2i!2e10!4m2!3m1!1s0x487605566a47e2a7:0xa81287884e6984b",
+            "heightPx": 4032,
+            "name": "places/ChIJp-JHalYFdkgRS5jmhHgogQo/photos/AZLasHrcXHeCGU7u16Yg7qYrSUA5uQk5yiqlTE3bu0MrExibidRYqgnNaZsz9d3whSfJ8iojYXH0dAYJ6LYVJrRrQRDxLUx5_0iDCjXU-iISYSYEF-QCBkynr45PVZQp_rEO6-vjUTORxZSsmNbXQxZBWJkvtp-z6YA4S5qhDkZxSgbBI_1o3FQhQ1A0v6X0734CwiwfInnzXhC4RLSOmcz5SH1VI8uLvZof424ywC7WNXfm6xApyyQLncJFawMCzr4dzLsMYUZDVDsH3i_1gwg3aqBXv_Nuv7Ru_1AQw8Pt5hjmboQWbJck8NMByRRXEF67y2FBMvg1Z0ubHHyBjuA8WytTeZho3LZ4ZQRXmq4cBo5pVuNvFD6VbDgcTayfv8ISuN42WTYojA_DfateYWNuQl1OuGVBYTkbA_Oi6WglrkYmQv4EKQJFBfbMUTnKo9rS",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Jana Abelovská",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLPBrtej-VDXkVE-HyvvV7nM_mZHnuml3Y7vcD-1c5enuIRyAV2=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/115798623790972614793"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICJgcDGvAE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICJgcDGvAE!2e10!4m2!3m1!1s0x487605566a47e2a7:0xa81287884e6984b",
+            "heightPx": 4032,
+            "name": "places/ChIJp-JHalYFdkgRS5jmhHgogQo/photos/AZLasHo2rPMFMszLMmH8u_mX4kO0Wr9rbNQJc9rvUQi44iCqIrh9AoqUOOuQMGFn9rQEV16CqXOSjfoiVMN4V72bWBFtyQsXzBheaYF_-cKUjPIJTouvmWBjpg9M5qkP_sJ_rglBZ8cka7CSsFZMDuGcwCQfKBTnXbXsWjxNKK7L_aeaIoIWh_H0tRCmAM99Y7ezC_JT3WTY5HDDYyYnv6fYyv-BkMbrQxHxuI6_PcucCnszaLEnt7e3Uof3wJWDwTrAsy2UMzWR6YywKWWR3Js_aH53AkE-P0a48cRgVEI8bliOVbjN1vj0rWmYrKgsabsVHp4iUiPYAs4dV6NW5g1VZH4NHfFS6izCjmX4E08QRw2evqiEbLk6E06ORPgT15e2gByjjuW_H8UdG15TyQkbrVMwWRhSE_Z9QlWpZ9oo4AwNhIVB",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Jana Abelovská",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLPBrtej-VDXkVE-HyvvV7nM_mZHnuml3Y7vcD-1c5enuIRyAV2=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/115798623790972614793"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICJgcDGAg&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICJgcDGAg!2e10!4m2!3m1!1s0x487605566a47e2a7:0xa81287884e6984b",
+            "heightPx": 4032,
+            "name": "places/ChIJp-JHalYFdkgRS5jmhHgogQo/photos/AZLasHoXIlfPDd8NXlab-7UXOUevWvaRGJSjV84jEZd1icTqGXFBSDbStP4N9WAxdZFuLgKCiVycBvZg8SilsGiKPcxk52Im7Nm6uZL7Zb3J1GO93kZCP0UQsK8YrK1IpE6GL1XN6YbkZ_gcPcHTWUBIG4o9EWRpTgdNQsRcvWiTNYjfcFWrhzyVXn6dUTcBU5UOEZqoaa4kuPRnd8CtcRLvhxziJoDByb8OWzrYkpVfMWnFWQj-15M61jZZo3bS2jWCh_X9ob9uSLO2ZGZ5JBNDx5hGOd1htQ9dnOqOU3DESohZ4QIEclQg-My9HkxnBoq3zslY4jaER2RiMo6HUagDbwU8EfHwEQG9bhkOGqdbr2wgGR2pKTTiIFaXifFSJcK1avzkzxWGOEERXu-lXbeggE5-V0gc12cUacpcOVNjzRcmeA",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Rachel Wise",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXyJoBGoFbK9x-3ziphpLtOU7jjG8uh7uD-alKBvyjXwhiZ-CTj=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/107472713513986216692"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDssZa_vAE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDssZa_vAE!2e10!4m2!3m1!1s0x487605566a47e2a7:0xa81287884e6984b",
+            "heightPx": 4032,
+            "name": "places/ChIJp-JHalYFdkgRS5jmhHgogQo/photos/AZLasHojuOl6RleU0yXIzwfyUpGX7wU9f3fxFkm5C3BIIUQhUr24yPPz06fi8XU4gKvNPFPahEw1LGFg1SjTZ8ADTo4nlOp6bQgzloGmETkJLNe1nFuZEM5zFka3XUqEkryaUfHMT4LkT6kxmIBQDlG9VCJGR5WhoDd2PSHNJMkrXP-ZgWWClFxbBXa7htMFkWyqwS1EeX820P9BQoRe33sxFf-I5pb2dX1urNEVPsKE3YAP5KnFekuzSRc-VzAKO0xmDkl0LbUmXpbSaLv-uqpZKmETZqxM4lLbBlatUdiRDpHQaqBZoS1BnD-5gY3a7Bf8A5c5bQ4u_VnrCiL_FUSgWokLhgXkUvODmFyhFwt12iZ0LPbBNNNlwYNsXJehh-FQheWy7jrifsqiiF4gyaA2btU99L3O7niz8rUnf-4H-6ExwHM",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Sue Westwood",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUOz6DIWn-jViAYirncFgCcnBw31KBr9oiKYIXiRd5pJEan9b59XQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/106066949454803197775"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCp_Q21nucAkhVzB4PxgnTG&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCp_Q21nucAkhVzB4PxgnTG!2e10!4m2!3m1!1s0x487605566a47e2a7:0xa81287884e6984b",
+            "heightPx": 4800,
+            "name": "places/ChIJp-JHalYFdkgRS5jmhHgogQo/photos/AZLasHoT_JLurdGjuTY3YiSq0yCaVViHa5FULTZ3oA5IV6s7YZ-wVc0_ByzxLW-GZHKDBy6TC7VSP1sDr0KXSbtQwyd23PfeP0ZzQoWGdyo2l-R-xBk7Zjxet3YPcGM8IhqSJPcHdEBbMxTXBd1qB2m0Y5vxcVKTCYSP0wunNXDBYC6JuSv_sGjpROek_4_Z3cyrRmHlfB6d5VLbFxdJnzY7Yw6HrMOUVApksRiI8tYo0CIaEpfWxuPP7Q8KCVubX6p0onYTxpAIMtydd0xvWOiS7-iHb2hOQqpOQlushX4GEkYTVQ_2Rt7KyabqPYaGfxRhtpOeNmX7fU4rNu1WqdPEuk3SK4EOquOJTeoi2ToUn1Xf3Q__2JBKKxcYEFxQ-sKqQSuZJZFtSyA2c70DAM2vVCgscsSFvTilCFNgRkz47zpjLqjIF1vVS1G78GDZNQ",
+            "widthPx": 3600
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV6H+8J London, UK",
+        "globalCode": "9C3XGV6H+8J"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "372 Strand"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2R 0JE",
+        "regionCode": "GB"
+    },
+    "priceRange": {
+        "endPrice": {
+            "currencyCode": "GBP",
+            "units": "60"
+        },
+        "startPrice": {
+            "currencyCode": "GBP",
+            "units": "50"
+        }
+    },
+    "primaryType": "restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Restaurant"
+    },
+    "rating": 3,
+    "regularOpeningHours": {
+        "nextOpenTime": "2025-12-11T12:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 – 11:00 PM",
+            "Tuesday: 12:00 – 11:00 PM",
+            "Wednesday: 12:00 – 11:00 PM",
+            "Thursday: 12:00 – 11:00 PM",
+            "Friday: 12:00 – 11:00 PM",
+            "Saturday: 12:00 – 11:00 PM",
+            "Sunday: 12:00 – 11:00 PM"
+        ]
+    },
+    "reservable": true,
+    "restroom": true,
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Smara Badea",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUQejY--MmNK4ESJiug68lm4iDTBkYD6JUEUBGqxh2Jeks2mE6m0w=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/110772646383328629883/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNUb3BPVEhBEAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNUb3BPVEhBEAE!2m1!1s0x487605566a47e2a7:0xa81287884e6984b",
+            "name": "places/ChIJp-JHalYFdkgRS5jmhHgogQo/reviews/ChZDSUhNMG9nS0VJQ0FnSUNUb3BPVEhBEAE",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Would not recommend this place for afternoon tea. The service is very poor for the price point, it took 1h10min for us to get our food, had to ask multiple times to more water or refill on our teas. We had asked for tap water from the start, yet were unknowingly served bottled water and charged for it. The food is not exactly afternoon tea style, mostly carbs and oversized. While the salon is very pretty, i would never come back here."
+            },
+            "publishTime": "2024-05-12T20:41:04.146401Z",
+            "rating": 1,
+            "relativePublishTimeDescription": "a year ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Would not recommend this place for afternoon tea. The service is very poor for the price point, it took 1h10min for us to get our food, had to ask multiple times to more water or refill on our teas. We had asked for tap water from the start, yet were unknowingly served bottled water and charged for it. The food is not exactly afternoon tea style, mostly carbs and oversized. While the salon is very pretty, i would never come back here."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Rachel Wise",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXyJoBGoFbK9x-3ziphpLtOU7jjG8uh7uD-alKBvyjXwhiZ-CTj=s128-c0x00000000-cc-rp-mo-ba2",
+                "uri": "https://www.google.com/maps/contrib/107472713513986216692/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURzc2VhODh3RRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURzc2VhODh3RRAB!2m1!1s0x487605566a47e2a7:0xa81287884e6984b",
+            "name": "places/ChIJp-JHalYFdkgRS5jmhHgogQo/reviews/ChdDSUhNMG9nS0VJQ0FnSURzc2VhODh3RRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "This was my first afternoon tea experience, but I loved every minute of it here. The service was phenomenal, and so was the food. They had a lovely tea selection and my server helped me choose the right one. It was a beautiful setting and so relaxing and enjoyable. I could not be happier with my first afternoon tea!"
+            },
+            "publishTime": "2020-03-07T14:46:23.422737Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "5 years ago",
+            "text": {
+                "languageCode": "en",
+                "text": "This was my first afternoon tea experience, but I loved every minute of it here. The service was phenomenal, and so was the food. They had a lovely tea selection and my server helped me choose the right one. It was a beautiful setting and so relaxing and enjoyable. I could not be happier with my first afternoon tea!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Jana Abelovská",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLPBrtej-VDXkVE-HyvvV7nM_mZHnuml3Y7vcD-1c5enuIRyAV2=s128-c0x00000000-cc-rp-mo-ba6",
+                "uri": "https://www.google.com/maps/contrib/115798623790972614793/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNKZ2NER25BRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNKZ2NER25BRRAB!2m1!1s0x487605566a47e2a7:0xa81287884e6984b",
+            "name": "places/ChIJp-JHalYFdkgRS5jmhHgogQo/reviews/ChdDSUhNMG9nS0VJQ0FnSUNKZ2NER25BRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Afternoon Tea made for Love Cocoa chocolate lovers 🍫🫖\n.\nSituated in the stunning tea room at Strande Palace Hotel, this afternoon tea combines traditional charm with a modern twist.\nI’m a huge fan of @lovecocoa chocolate so\nI was of course excited to try this collaboration between @strandpalace hotel and Love Cocoa.\n.\n🫖The Afternoon Tea consists of:\n🍰Sweet\n🍫Espresso Martini Brownie\n🍡Pistachio Macaron\n🍏Apple Marshmallow with Chocolate Shard\n🌰Love Cocoa Salted Caramel Truffle\n.\n🥪Savouries\n🍳Truffled Egg with Crispy Shallots\n🦀Cornish Crab on a Sweet Brioche Bun\n🌯Honey Smoked Ham and Cheese Wrap\n🍅Heritage Tomato Tartlet\n.\n🍯Scones with jam and clotted cream\n.\n💵£45pp (£49 with prosecco)\n🌱Vegan and GF version available\n.\nService and ambiance was amazing, we truly enjoyed it all. I would maybe have expected the sweet elements to be more elaborate and more focused on chocolate creations but overall it was a very pleasant afternoon tea experience.\n.\n📍Strand Palace Hotel\n🚇Nearest tube station: Trafalgar square"
+            },
+            "publishTime": "2023-06-28T12:05:56.483291Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "2 years ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Afternoon Tea made for Love Cocoa chocolate lovers 🍫🫖\n.\nSituated in the stunning tea room at Strande Palace Hotel, this afternoon tea combines traditional charm with a modern twist.\nI’m a huge fan of @lovecocoa chocolate so\nI was of course excited to try this collaboration between @strandpalace hotel and Love Cocoa.\n.\n🫖The Afternoon Tea consists of:\n🍰Sweet\n🍫Espresso Martini Brownie\n🍡Pistachio Macaron\n🍏Apple Marshmallow with Chocolate Shard\n🌰Love Cocoa Salted Caramel Truffle\n.\n🥪Savouries\n🍳Truffled Egg with Crispy Shallots\n🦀Cornish Crab on a Sweet Brioche Bun\n🌯Honey Smoked Ham and Cheese Wrap\n🍅Heritage Tomato Tartlet\n.\n🍯Scones with jam and clotted cream\n.\n💵£45pp (£49 with prosecco)\n🌱Vegan and GF version available\n.\nService and ambiance was amazing, we truly enjoyed it all. I would maybe have expected the sweet elements to be more elaborate and more focused on chocolate creations but overall it was a very pleasant afternoon tea experience.\n.\n📍Strand Palace Hotel\n🚇Nearest tube station: Trafalgar square"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Pádraig Foran",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWYH5t0ARXRy6vXw6bJphl9fFk8w9azycklZ4j0Is6cDIfGpo4noQ=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/111178335765973913542/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURHa2NIS2R3EAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURHa2NIS2R3EAE!2m1!1s0x487605566a47e2a7:0xa81287884e6984b",
+            "name": "places/ChIJp-JHalYFdkgRS5jmhHgogQo/reviews/ChZDSUhNMG9nS0VJQ0FnSURHa2NIS2R3EAE",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Had a brilliant festive afternoon tea here last Saturday - my first afternoon tea experience so was excited. I'm delighted to say we had a lovely afternoon and the food was top notch! Our waitress, Karla, made a brilliant effort to ensure we were happy and did everything she could to make sure our experience was a good one. Value for money was really good too. Highly recommend."
+            },
+            "publishTime": "2021-11-30T22:54:41.679747Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "4 years ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Had a brilliant festive afternoon tea here last Saturday - my first afternoon tea experience so was excited. I'm delighted to say we had a lovely afternoon and the food was top notch! Our waitress, Karla, made a brilliant effort to ensure we were happy and did everything she could to make sure our experience was a good one. Value for money was really good too. Highly recommend."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "David Jackson",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKOdt-NGJEaeA__AwwfWc0eVKByXDcQMRH5HNIm4oYUOCbU4A=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/102090915798596647755/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VPTDFzdWZWczVYdG13RRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VPTDFzdWZWczVYdG13RRAB!2m1!1s0x487605566a47e2a7:0xa81287884e6984b",
+            "name": "places/ChIJp-JHalYFdkgRS5jmhHgogQo/reviews/ChdDSUhNMG9nS0VPTDFzdWZWczVYdG13RRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Extremely poor experience. Food was tiny & not as advertised. Mamma Mia theme was comical with a few pictures put on the wall & not much else. Has to ask for included drinks to be brought over. This all seemed like a rip off experience. Avoid at all costs."
+            },
+            "publishTime": "2025-05-25T15:57:42.352254Z",
+            "rating": 1,
+            "relativePublishTimeDescription": "6 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Extremely poor experience. Food was tiny & not as advertised. Mamma Mia theme was comical with a few pictures put on the wall & not much else. Has to ask for included drinks to be brought over. This all seemed like a rip off experience. Avoid at all costs."
+            }
+        }
+    ],
+    "servesBeer": true,
+    "servesBreakfast": false,
+    "servesBrunch": true,
+    "servesCocktails": true,
+    "servesCoffee": true,
+    "servesDessert": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "servesWine": true,
+    "shortFormattedAddress": "372 Strand, London",
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 26,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.51222668029149,
+            "longitude": -0.11974551970849799
+        },
+        "low": {
+            "latitude": 51.5095287197085,
+            "longitude": -0.12244348029150202
+        }
+    },
+    "websiteUri": "https://www.strandpalacehotel.co.uk/restaurants-bars/afternoon-tea-at-strand-palace/",
+    "timestamp": 1765447200
+}

@@ -1,0 +1,574 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleParking": false
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "42",
+            "shortText": "42",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Cranbourn Street",
+            "shortText": "Cranbourn St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2H 7AN",
+            "shortText": "WC2H 7AN",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Wyndham's Theatre"
+                },
+                "name": "places/ChIJuzmblM0EdkgRHUQQweLq0Ek",
+                "placeId": "ChIJuzmblM0EdkgRHUQQweLq0Ek"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJs4GOh8sEdkgRRiBFZKMP8ZE",
+                "placeId": "ChIJs4GOh8sEdkgRRiBFZKMP8ZE"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Vue Cinema London - West End (Leicester Square)"
+                },
+                "name": "places/ChIJQ5TwgGyue0gRhxMwO-iXTYU",
+                "placeId": "ChIJQ5TwgGyue0gRhxMwO-iXTYU",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 65.82415,
+                "travelDistanceMeters": 43.01783,
+                "types": [
+                    "establishment",
+                    "food",
+                    "movie_theater",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The Hippodrome Casino London"
+                },
+                "name": "places/ChIJdcOZc9IEdkgROPIytVFeGXU",
+                "placeId": "ChIJdcOZc9IEdkgROPIytVFeGXU",
+                "straightLineDistanceMeters": 31.760574,
+                "travelDistanceMeters": 45.673717,
+                "types": [
+                    "bar",
+                    "casino",
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Wyndham's Theatre"
+                },
+                "name": "places/ChIJD2ylec0EdkgR3J0EaLlYvDk",
+                "placeId": "ChIJD2ylec0EdkgR3J0EaLlYvDk",
+                "spatialRelationship": "BESIDE",
+                "straightLineDistanceMeters": 34.76263,
+                "travelDistanceMeters": 55.380566,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Leicester Square"
+                },
+                "name": "places/ChIJVX1-GtIEdkgR1n_gGjHQZpI",
+                "placeId": "ChIJVX1-GtIEdkgR1n_gGjHQZpI",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 128.41548,
+                "travelDistanceMeters": 87.8162,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The National Gallery"
+                },
+                "name": "places/ChIJeclqF84EdkgRtKAjTmWFr0I",
+                "placeId": "ChIJeclqF84EdkgRtKAjTmWFr0I",
+                "straightLineDistanceMeters": 250.23476,
+                "travelDistanceMeters": 272.9614,
+                "types": [
+                    "art_gallery",
+                    "establishment",
+                    "museum",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "curbsidePickup": true,
+    "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 23,
+                    "minute": 59,
+                    "truncated": true
+                },
+                "open": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 0,
+                    "minute": 0,
+                    "truncated": true
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ]
+    },
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Primitivo"
+    },
+    "formattedAddress": "42 Cranbourn St, London WC2H 7AN, UK",
+    "goodForGroups": true,
+    "goodForWatchingSports": false,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x487605dd76573a45:0xf8c7806dc7919e0!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487605dd76573a45:0xf8c7806dc7919e0!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=1120402378172471776&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487605dd76573a45:0xf8c7806dc7919e0!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487605dd76573a45:0xf8c7806dc7919e0!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=1120402378172471776&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJRTpXdt0FdkgR4Bl53AZ4jA8",
+    "internationalPhoneNumber": "+44 20 3411 2444",
+    "liveMusic": false,
+    "location": {
+        "latitude": 51.5111633,
+        "longitude": -0.12873089999999998
+    },
+    "menuForChildren": true,
+    "name": "places/ChIJRTpXdt0FdkgR4Bl53AZ4jA8",
+    "nationalPhoneNumber": "020 3411 2444",
+    "outdoorSeating": true,
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Firas Hawat",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXsEtqPBzof-D3BNqtBz44XDmle5JHErM1p293sZLR-pbdDDhU=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/100513515670256595173"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID5orWt9gE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID5orWt9gE!2e10!4m2!3m1!1s0x487605dd76573a45:0xf8c7806dc7919e0",
+            "heightPx": 3600,
+            "name": "places/ChIJRTpXdt0FdkgR4Bl53AZ4jA8/photos/AWn5SU6BhR72CMJXlfjIrENDiVa4zmIB2QgciNF7JdWxESnaqya1ui_RLqzVtbYvK9keEeVWWDwkcgFVg6O09XZQv3DgLGxxQRO_PWYkhILEJc_p9XGcxLxO84wlPM8rD4tfS1VX1N4IpR73poOiYoO_coFnQtZMYR4TVjPzWmEdeDKQjdw2FMcFouH7LU7ZkRw7fqUq7q07X8RteDC81xgL8V2f3bl_SS4oySRGSG5lM8jofg0likUwfItyvdlvn-rdAvFDMqtaFaUjVpNtrE2pq9_p9NIPnb86XBo94xiHKrOUywl6bHY50uTxIf8gt2fkqk6St80xw78xodrotp9dEVse5vzZaYZQ491VJ0-EX19WVVpOf3BVlmX9S6Rrvbe_kF4KRtcddTnrH5V3lrvdKpfUOQb96BG8QmRGdKR1kCNkyJvC",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Joaquin Valenzuela",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWMmpz5b0Msc11jKbIUYu7aM5uAojyzrPFE_KYkO3Xb34yIKmCU=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113055203798569476081"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICrxYjUUA&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICrxYjUUA!2e10!4m2!3m1!1s0x487605dd76573a45:0xf8c7806dc7919e0",
+            "heightPx": 4032,
+            "name": "places/ChIJRTpXdt0FdkgR4Bl53AZ4jA8/photos/AWn5SU4wsq0zXYVm_vVzY4Gy88Yg7kTCsG20qooUtzkcX5LhRZcAvFFxn6q6q1P7qrDI4tcdVv-jg9HdBDAIgAP3iQFJyAwDa6PIitYHseafQ9v7Ph1ue3jhKMO254J_5FZdujFyQLk7M2XOivOcH2Q0IvfJ4BvzHQSE9-IbMWhI4XnvixCfLs0KEF9BDm21ZPQb8m5Fi0ADm_aPKF-X-0euroBOH50A6l3PR5iLli3CRHbAYyxpk8f3Ldp5ptgtu8nF_AgoSP5lSNrD8LJWjFokCmX_Q-zrRC_KT_qSlf63fF54u9pCQ6ljo_uFMWFjM8dZGTGCnwhWBx7bl9sXCv7bSYI5j7iKyGSJ3geDAq1kWWMgmHuwPS8SZFiSX5moei5tfyKf-_vg97WGJe7j344DGGiJsBBEEjViqFxYAmPo7OvyHQ",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Rob Hall",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVf7BB0c1F1WU3-NwyyNfcVpPcAKqQvCczgF2XiRrmBRXSmBY5r=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/115804774390050258959"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC79fL7SQ&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC79fL7SQ!2e10!4m2!3m1!1s0x487605dd76573a45:0xf8c7806dc7919e0",
+            "heightPx": 3000,
+            "name": "places/ChIJRTpXdt0FdkgR4Bl53AZ4jA8/photos/AWn5SU7MsV_8gXJFDe6G_3M44k6kFp0GlGAsuAGF_JRU7ruWmfp_jgRkG3-pP10YZoik_Md2wDaAoFa0L9Bz_QdX7sfxJxVeYkhXcOsVDB0looa37KnBp1ed6UhYJwFTrXXVwtgLWgVeSwHICqg41ZD0Zw_u7V87AYa4bO0SlphMuwRnWJGhNWrNPnQmVpo4z6SKqdyAQ155gn9YYcaLSYgnfGU36-y4wAbnuaTkCPNtmDTy3_T-bGDVr6AXY5QnVf-iu9z-Y67vMpusvDPInUU_Vwv7b2tQ4AXs2wYCKbP1SOKxi9pqRp-MmJ2nzFfjyp_kqs_nzGYZxWtXHTiJHVzRJVQncg-qgYbU8QDmI4EKaKS6Vd6Nzzy2fs9AhoY9NYdtM7tkDMWVu2tVwoSsjp5xO4hg7qOLP_NUyMfe4rEHaoTd8A",
+            "widthPx": 4000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Donat Krasniqi",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWUgq9LHd6t2IkOv4-CX-lc8JWWJgc5MF5KdNNwa_N0-kkNf58=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110909101581165526702"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICRko7u4AE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICRko7u4AE!2e10!4m2!3m1!1s0x487605dd76573a45:0xf8c7806dc7919e0",
+            "heightPx": 4032,
+            "name": "places/ChIJRTpXdt0FdkgR4Bl53AZ4jA8/photos/AWn5SU6F8_fwb0PUkUYH_S2YLOMXcPr5HKCMiDzd8QGFg7BLJlwRY3wQTezi7ZgDh7SyRLybJKImuKDRHksIuLHl8L5GayDK7FoXcSRNigB8y-wXItQCh0aMdfqv-5U395F51IvFoPCvgD8ipSmME54TlJVdhElLKVESj9Abi4_fkiRiBF0HWfi2uu1Nrwb-13NBMXgSOj1gtVEPqNNGcBeckS4I3zkzsgfAQ7lF-QEy0Y_B5S-xaUxWB3Jj-sLHHiiT6equ62wjgMtnnbbVIaW5pvWV-OxGhLlYyTcmwiJ4UdYSsJtM-QZ1dNdiohuocrWVw90slOzY7zxGbOD9EMJ5VXjQuvCAJIfMsxTcUWSRb31MiH2swlw9XzTGUWfUYsw-S6o4Asma6GGd-btX86AeA93myj7xWXAxigpmksUukIMy-_og",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "John Bailey",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVDzWwjTtHuinAknWYgibhCXztCjCFnpDtPhb4POERUn28g3Wwt=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117463594085000167216"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDTiIPGFA&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDTiIPGFA!2e10!4m2!3m1!1s0x487605dd76573a45:0xf8c7806dc7919e0",
+            "heightPx": 3024,
+            "name": "places/ChIJRTpXdt0FdkgR4Bl53AZ4jA8/photos/AWn5SU4VcjHpxhkHT7C0iOYzlTCHRXW5-KOV9Uyyjyo_mbR-YB127UQ8XPxWHPH5GQNHqDu-tpOOcXp-k9aSkhRfDTitV3GxnquWE_vu2znF_cD8PvozYObfiVso2eCx6qUOrMMjzGRawlc1GMsCqekB-49XWTtsrvE5j3ESR-PSybJOfzP-1ohIGO6WoGfAhV340LkpTAV_Ni8VjUuFP4H1lJtRk6WSkmSStA3CiC-7QbmJUvy3CBn4nMTfdxdZZLDY-s9QCiTTWCoyUQGijmufxIIEXpw295sKQ4AxNLgQhajUqAhb4BWlHeQswLGfAvnfMAPkaPsVrjkUrYrkVOEFLFA-L6iKmQUOiPT2q3cwS8nwpcegw_NMSWs-6BZvdi2EarCbaAj1-lyo9Prpx_KnYgbASeKSqo2oSelCS3TkIGSkhA",
+            "widthPx": 4032
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Hani Sulaiman",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKXovUvCNscIApDwWkO21QEURXEkACkm--bF1x3VvKC4pR9kA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/114051522519675104876"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDpgYH5ZA&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDpgYH5ZA!2e10!4m2!3m1!1s0x487605dd76573a45:0xf8c7806dc7919e0",
+            "heightPx": 768,
+            "name": "places/ChIJRTpXdt0FdkgR4Bl53AZ4jA8/photos/AWn5SU7PcdiCAGHYy0NniYJeIIC2afXnoT_VlbmvJU4Uc2CZBLE0DN42HHhiKXuPaYWcDdZ16aQrw6kVFSwnyrWJIlGO64A2qXYC4KTc2khfOzOW17krUIQXl_mH4CdMkUyA_3SEDWi4PnH09IrgIc-NW1GmNJPiyE7EF-ua7KpciGwQ7M9KPUlOWNK2DkJURwVNoGlp7CSYxNNRuAzDFb47c4YyWnEnHHGkh32vt4GsDz0aO3dPAP60c_016A9cjyhBpjslep1rUOqIU9022PEigaafR-qEZF06pVDMVVgaZToq9cDT8SA6YnUkWK1H46xG_lBrLXHQgyWIe2SSF1-arqJJWjZnygek0JkYoTSPgflQMvGaTVrpuRCoPlbqeObgBUgVQ1rHJQBffAeN3I9cOYfv4NZw-QkCBtBa2TKZoic",
+            "widthPx": 1024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "fatime hajderasi",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUt3u9z--uQxwo3l_7aq3l00FoPGaJSOpg9H-ibrCCuP6c5M04=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117200811249469598299"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDhiN7kygE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDhiN7kygE!2e10!4m2!3m1!1s0x487605dd76573a45:0xf8c7806dc7919e0",
+            "heightPx": 4032,
+            "name": "places/ChIJRTpXdt0FdkgR4Bl53AZ4jA8/photos/AWn5SU6-uoaAfdvHwcDkd_w5tP2AdQLd0u5wz6JnFfDmKPoejxuGWeH_sB2yFP6sgiJxIqtdGf31CLH3H6mpe7-sesDaAjEdF_UHuAQZUq39YQTBsZUJBrvAAKtju4Iqzgxiw9wLy2ght0xtZ9-8nhfwWz3ZAr4oj35X0wYW11njtIIHBoPgiaNgSnWTVhYjIJUO3NfX25dSYDPwwUIkuhEknNyBRrsn6EbcNViQcOFiYM6fKg4B1API5Uf_fTiCDEeDBaergKpS1mI9xnxYpwKuMRjDDDCqtPFfzDhUdajSn6PSfAex7xJDLLPYRisqE3akQE0hZhgaGjMts-oevHTqjQ9Gm_-hLjexrsCKjzFKrGbehM-kPQc_nxBR5VFO08s0bFRkSVyKYeBUDPp9XTFM7B2mQTh09tD8wq7VUKjs38PtMuay",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Hrid Sports",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKRsteiKwRQ2MVFncbGhNrdOI8_nXSzqtIJ3zn475yaNDhw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/100227141257728884686"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDB1cKn5QE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDB1cKn5QE!2e10!4m2!3m1!1s0x487605dd76573a45:0xf8c7806dc7919e0",
+            "heightPx": 2048,
+            "name": "places/ChIJRTpXdt0FdkgR4Bl53AZ4jA8/photos/AWn5SU6jcq4JOf_bTj_KYSPQCbJ6rlyI_QnK7weJQmdyiOks-d1uTHZwAq88pHdHcv_cLUzP-Lh05oaWx7w3RswlJomwziiwrg-7P_uMuTogR-SaK4w62fWt2OATvm_gDx8Z_GT1-qNn47h_GuBNPMOPQGe0qEjVzEkVrAOl2hQtvKXeKajkO1JxurKLP0F-oGnDI9OcOSghDyb_WU_ue-8cjyRGYXw00OKY0TyStvT9d8_RCqXwI9asAHODnUWYVtZ2yRASTTdhNABqg2Sag11w13u1c1vGx5rZsr5tGMNcDpq5eUcqnXGyA2bjH_zufqRfBaZsFrL5vzuh9utWFcsYam2Sss70bylbBbJ2B7ySSpCPuFLzWezL3WXUzzZs0dZ2VIYplPM3xjScNryIgnKS3QE_3H6bGmD9TH3zSuukYTspvSE",
+            "widthPx": 1536
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Primitivo Authentico Italiano",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIO2oIbV7z8A3smgePG9OW_b3ho-_pg_7cXXX2DQK-TtesC5Q=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113792187244910145508"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPClZSthb695CR_mo78QqJYPRmhWDrgF0Obmrd7&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPClZSthb695CR_mo78QqJYPRmhWDrgF0Obmrd7!2e10!4m2!3m1!1s0x487605dd76573a45:0xf8c7806dc7919e0",
+            "heightPx": 1600,
+            "name": "places/ChIJRTpXdt0FdkgR4Bl53AZ4jA8/photos/AWn5SU4W599iawKVcS0tjDYc8_ovsUId9GT_6RTQu6FE0MCZa1IQDNP5TohmJ2a_trxLMT-ks-znMtHNv82rRtGRvRYB4XP0Id5dJ2wfr1T0u4hUt8M1vtW2IFyd0u2dapA4t3tJrhvu8fiCHbqMtxHS6y_DqA4n3Rzi_JsgyydwuRJEfaUpRvJ2eVz4uKFo1BgdIXYczorQZu-h1L-pubgrErL0tS5ISXUwI1toUS9UXIm5jbO4I376oKAtshAPRcs03llGUcAyCsc_JJ0mxiuSOAcJVF-2cwZibvsr0CBi2OSAOg",
+            "widthPx": 1144
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Hrid Sports",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKRsteiKwRQ2MVFncbGhNrdOI8_nXSzqtIJ3zn475yaNDhw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/100227141257728884686"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDB1cKfGw&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDB1cKfGw!2e10!4m2!3m1!1s0x487605dd76573a45:0xf8c7806dc7919e0",
+            "heightPx": 984,
+            "name": "places/ChIJRTpXdt0FdkgR4Bl53AZ4jA8/photos/AWn5SU4dW_AAqSJKadRmf4T1-i9oaS5YFRHrGE_ROdbTfcGBa2LXaFo_MlKfcT9ZzDel1tIdSn5ng3_ilHZglIODDgwpdtLn8Wrn_RwBNde9vmIlqo5cSyMiNnbLPvXpHjiQcdKNeiBqI_geYTg4bN4lJ8ioY5Jetz4FnbS2SE2ZsAHULgAvJj5o4N8FYJZQFebS8Cst3OJdRkudxIg4T57Jcmoltt3_8QaPgdK-ZtbQbUziVXIKFvRdigTTHE9UZ0OqIV2ysZczpKCeo35Xnc7GY1cgvNMLLgkL-UPLAdgi8x-Ii_gxeUO5VeDDyQJF90SwBCrNO45ByqIDisD3tOgSidOUxWXefy4i4ZKqgDJlu2vqHv0ZbpcnAIBjpDkk_KC7MXAiCKed2XhGNZoNFXis3rkYaAPNnjGTD9K10FxWzc8",
+            "widthPx": 1290
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV6C+FG London, UK",
+        "globalCode": "9C3XGV6C+FG"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "42 Cranbourn Street"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2H 7AN",
+        "regionCode": "GB"
+    },
+    "primaryType": "italian_restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Italian Restaurant"
+    },
+    "rating": 2.4,
+    "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+            {
+                "open": {
+                    "day": 0,
+                    "hour": 0,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ]
+    },
+    "reservable": true,
+    "restroom": true,
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "khan zerin3",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX0bJW6ixZw1JjAOBauelmfrZV5TJXIkEQfuS7IYyAjvw0D2noM=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/101266233919339338733/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205T1prdHFVR1JCY21ST1pESlZaV1pTVlRoS00zYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205T1prdHFVR1JCY21ST1pESlZaV1pTVlRoS00zYxAB!2m1!1s0x487605dd76573a45:0xf8c7806dc7919e0",
+            "name": "places/ChIJRTpXdt0FdkgR4Bl53AZ4jA8/reviews/Ci9DQUlRQUNvZENodHljRjlvT205T1prdHFVR1JCY21ST1pESlZaV1pTVlRoS00zYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "It really amazing service. I like this pizza so good .i would recommend Come to here and enjoy delicious food and drinks ."
+            },
+            "publishTime": "2025-10-21T21:03:46.252718547Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "It really amazing service. I like this pizza so good .i would recommend Come to here and enjoy delicious food and drinks ."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Hani Sulaiman",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKXovUvCNscIApDwWkO21QEURXEkACkm--bF1x3VvKC4pR9kA=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/114051522519675104876/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURwN3F2RVpBEAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURwN3F2RVpBEAE!2m1!1s0x487605dd76573a45:0xf8c7806dc7919e0",
+            "name": "places/ChIJRTpXdt0FdkgR4Bl53AZ4jA8/reviews/ChZDSUhNMG9nS0VJQ0FnSURwN3F2RVpBEAE",
+            "originalText": {
+                "languageCode": "en",
+                "text": "It was quite a shocking experience. The food was overpriced and the quality was below normal. The taste is way far from the Italian unique plates and flavorful dishes. It was like what most comments described as a tourist trap. We literally fell into it due to that welcoming person at the entrance Marketing and pushing  anyways. Ordered couple of pizzas and pastas and were as mentioned not up to expectations I'm afraid. I gave some if the stars just for the location in lively crowded spot at Central London close to most popular squares. The staff was alright as well, but the high prices of their menu was insane specially with that 12.5 service charge specific in London. It is not recommended and will avoid passing by that spot in future."
+            },
+            "publishTime": "2023-08-23T04:50:06.407002Z",
+            "rating": 3,
+            "relativePublishTimeDescription": "2 years ago",
+            "text": {
+                "languageCode": "en",
+                "text": "It was quite a shocking experience. The food was overpriced and the quality was below normal. The taste is way far from the Italian unique plates and flavorful dishes. It was like what most comments described as a tourist trap. We literally fell into it due to that welcoming person at the entrance Marketing and pushing  anyways. Ordered couple of pizzas and pastas and were as mentioned not up to expectations I'm afraid. I gave some if the stars just for the location in lively crowded spot at Central London close to most popular squares. The staff was alright as well, but the high prices of their menu was insane specially with that 12.5 service charge specific in London. It is not recommended and will avoid passing by that spot in future."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Aleksandra Scipniak",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKmMwLIupWtRL0wbUsJxyT97ehqkPCct9twnh_5KhDxgUdC1w=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/111478138646433094334/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNMdXFYOW5RRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNMdXFYOW5RRRAB!2m1!1s0x487605dd76573a45:0xf8c7806dc7919e0",
+            "name": "places/ChIJRTpXdt0FdkgR4Bl53AZ4jA8/reviews/ChdDSUhNMG9nS0VJQ0FnSUNMdXFYOW5RRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "I have never experience anything like that. Service were amazing. The food was just PERFECT.  salmon was so delicious melting inside my mouth.  That was just perfect  vegetables were so soft new potatoes so tasty.... I I give even 100 stars if that would be possible.\nThat was the best food I have ever eaten in my life. Defintelly we will come back. Thank you so much for such a experience."
+            },
+            "publishTime": "2024-06-18T10:20:34.531593Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a year ago",
+            "text": {
+                "languageCode": "en",
+                "text": "I have never experience anything like that. Service were amazing. The food was just PERFECT.  salmon was so delicious melting inside my mouth.  That was just perfect  vegetables were so soft new potatoes so tasty.... I I give even 100 stars if that would be possible.\nThat was the best food I have ever eaten in my life. Defintelly we will come back. Thank you so much for such a experience."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "J. M.",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU-89ulc7kqWOAGis6EbcXkEjHEwkzA3CLqo1Ov6hjdZ2NgPstt=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/105569375704772865470/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUM3dmRLUHNRRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM3dmRLUHNRRRAB!2m1!1s0x487605dd76573a45:0xf8c7806dc7919e0",
+            "name": "places/ChIJRTpXdt0FdkgR4Bl53AZ4jA8/reviews/ChdDSUhNMG9nS0VJQ0FnSUM3dmRLUHNRRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "I am rarely leaving bad reviews, but it was just a mistake to visit this restaurant. The staff were not attentive, at some point it felt they totally forgot about me. The food was not good, especially fries, I am not sure if they were actually cooked. In the end, they also mixed the bill and showed me a wrong one with a higher price but similar dishes, so they had to change it after I indicated it’s not actually my bill. Never ever I would go there again."
+            },
+            "publishTime": "2024-08-18T10:19:27.932520Z",
+            "rating": 3,
+            "relativePublishTimeDescription": "a year ago",
+            "text": {
+                "languageCode": "en",
+                "text": "I am rarely leaving bad reviews, but it was just a mistake to visit this restaurant. The staff were not attentive, at some point it felt they totally forgot about me. The food was not good, especially fries, I am not sure if they were actually cooked. In the end, they also mixed the bill and showed me a wrong one with a higher price but similar dishes, so they had to change it after I indicated it’s not actually my bill. Never ever I would go there again."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Jia AJ",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUZXgtV24056J710RLdMkvGSOg34hcdCq7qfGhCh82PCXOKQojv=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/112962548340123290784/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN0dlBDNjFBRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN0dlBDNjFBRRAB!2m1!1s0x487605dd76573a45:0xf8c7806dc7919e0",
+            "name": "places/ChIJRTpXdt0FdkgR4Bl53AZ4jA8/reviews/ChdDSUhNMG9nS0VJQ0FnSUN0dlBDNjFBRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "We were chased down the down by your staff to go eat in your restaurant and we had the most horrible experience at your place. Your staff was extremely rude and unprofessional. They made us wait a long time for our food and then rushed us to eat so they can have a free table.\n\nLater when the bill arrived we did not agree to pay a \"Tip\" or a service of 25% as the service was so bad. And this is a free country you cannot force people to pay you extra money for a awful service. And the food was average and overpriced. But the manager refused to let us go unless we pay an extra 25% Tip. We were harassed and threatened to pay the extra 25% Tip.  And the waiter lied saying it is mandatory to pay 25% service.\n\nI will gladly share this bad review with everyone, on insta on Google, so people will know not to eat in your restaurant ever again. This is the most horrible restaurant in the world.\n\nWe would appreciate it if you can refund the extra 25% service Tip forcefully charged to us."
+            },
+            "publishTime": "2024-01-29T18:12:52.752273Z",
+            "rating": 1,
+            "relativePublishTimeDescription": "a year ago",
+            "text": {
+                "languageCode": "en",
+                "text": "We were chased down the down by your staff to go eat in your restaurant and we had the most horrible experience at your place. Your staff was extremely rude and unprofessional. They made us wait a long time for our food and then rushed us to eat so they can have a free table.\n\nLater when the bill arrived we did not agree to pay a \"Tip\" or a service of 25% as the service was so bad. And this is a free country you cannot force people to pay you extra money for a awful service. And the food was average and overpriced. But the manager refused to let us go unless we pay an extra 25% Tip. We were harassed and threatened to pay the extra 25% Tip.  And the waiter lied saying it is mandatory to pay 25% service.\n\nI will gladly share this bad review with everyone, on insta on Google, so people will know not to eat in your restaurant ever again. This is the most horrible restaurant in the world.\n\nWe would appreciate it if you can refund the extra 25% service Tip forcefully charged to us."
+            }
+        }
+    ],
+    "servesBeer": true,
+    "servesBreakfast": true,
+    "servesCocktails": true,
+    "servesCoffee": true,
+    "servesDessert": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "servesWine": true,
+    "shortFormattedAddress": "Cameo House, 42 Cranbourn St, London",
+    "takeout": true,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "italian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 439,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.512549780291494,
+            "longitude": -0.127247169708498
+        },
+        "low": {
+            "latitude": 51.5098518197085,
+            "longitude": -0.12994513029150204
+        }
+    },
+    "timestamp": 1764064800
+}

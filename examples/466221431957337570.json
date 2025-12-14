@@ -1,0 +1,1041 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": true
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "28",
+            "shortText": "28",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Bow Street",
+            "shortText": "Bow St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2E 7AW",
+            "shortText": "WC2E 7AW",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJs4GOh8sEdkgRRiBFZKMP8ZE",
+                "placeId": "ChIJs4GOh8sEdkgRRiBFZKMP8ZE"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJgXlkg8sEdkgRBQIcjaxWHPs",
+                "placeId": "ChIJgXlkg8sEdkgRBQIcjaxWHPs"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Holborn"
+                },
+                "name": "places/ChIJA7_adjUbdkgR_XPGaE3twAI",
+                "placeId": "ChIJA7_adjUbdkgR_XPGaE3twAI"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Royal Ballet and Opera"
+                },
+                "name": "places/ChIJySOgh8sEdkgRCBzTYt83Klg",
+                "placeId": "ChIJySOgh8sEdkgRCBzTYt83Klg",
+                "spatialRelationship": "ACROSS_THE_ROAD",
+                "straightLineDistanceMeters": 62.873295,
+                "travelDistanceMeters": 31.818493,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Zizzi - Bow Street (Covent Garden)"
+                },
+                "name": "places/ChIJKe1bXcsEdkgRpy-Y-fxKxck",
+                "placeId": "ChIJKe1bXcsEdkgRpy-Y-fxKxck",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 38.317196,
+                "travelDistanceMeters": 31.320753,
+                "types": [
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Masala Zone Covent Garden"
+                },
+                "name": "places/ChIJ40_ZncwEdkgRKYHPtm7wi28",
+                "placeId": "ChIJ40_ZncwEdkgRKYHPtm7wi28",
+                "spatialRelationship": "ACROSS_THE_ROAD",
+                "straightLineDistanceMeters": 48.213657,
+                "travelDistanceMeters": 45.847523,
+                "types": [
+                    "bar",
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Linbury Theatre"
+                },
+                "name": "places/ChIJw27ybssEdkgRnx9Jz130OOs",
+                "placeId": "ChIJw27ybssEdkgRnx9Jz130OOs",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 61.832867,
+                "travelDistanceMeters": 59.560165,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJQR9pg8sEdkgRKeWNNYlDdPU",
+                "placeId": "ChIJQR9pg8sEdkgRKeWNNYlDdPU",
+                "straightLineDistanceMeters": 165.89668,
+                "travelDistanceMeters": 180.29817,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "shopping_mall"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "curbsidePickup": false,
+    "currentOpeningHours": {
+        "nextCloseTime": "2025-11-25T10:30:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 10,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 10,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 10,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 10,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 10,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 10,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 10,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 7:00 – 10:30 AM, 12:00 – 10:00 PM",
+            "Tuesday: 7:00 – 10:30 AM, 12:00 – 10:00 PM",
+            "Wednesday: 7:00 – 10:30 AM, 12:00 – 10:00 PM",
+            "Thursday: 7:00 – 10:30 AM, 12:00 – 10:00 PM",
+            "Friday: 7:00 – 10:30 AM, 12:00 – 10:30 PM",
+            "Saturday: 7:00 – 10:30 AM, 12:00 – 10:30 PM",
+            "Sunday: 7:00 – 10:30 AM, 12:00 – 10:00 PM"
+        ]
+    },
+    "delivery": false,
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Twenty8 NoMad"
+    },
+    "formattedAddress": "28 Bow St, London WC2E 7AW, UK",
+    "goodForWatchingSports": false,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x487605511d45e60f:0x67859ec167db5e2!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487605511d45e60f:0x67859ec167db5e2!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=466221431957337570&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487605511d45e60f:0x67859ec167db5e2!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487605511d45e60f:0x67859ec167db5e2!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=466221431957337570&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJD-ZFHVEFdkgR4rV9FuxZeAY",
+    "internationalPhoneNumber": "+44 20 3906 1600",
+    "liveMusic": false,
+    "location": {
+        "latitude": 51.5134848,
+        "longitude": -0.12202839999999998
+    },
+    "name": "places/ChIJD-ZFHVEFdkgR4rV9FuxZeAY",
+    "nationalPhoneNumber": "020 3906 1600",
+    "outdoorSeating": false,
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": false
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Twenty8 NoMad",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVEE5U98bX26Gedkal5PxFjqOnKsQS28YmTvs-hlzaPfCOqwF0=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/111987497348633393492"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOXvMry6LraO7OqnipyIt6W3tVFg4CZTqf5yxM_&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOXvMry6LraO7OqnipyIt6W3tVFg4CZTqf5yxM_!2e10!4m2!3m1!1s0x487605511d45e60f:0x67859ec167db5e2",
+            "heightPx": 1875,
+            "name": "places/ChIJD-ZFHVEFdkgR4rV9FuxZeAY/photos/AWn5SU5g9m3lScJt6ONnotcm50WFrzHQNki0pjB5Wev_BxIsx5IiAOVuha72HiuDiMPxH30UYWy4i3kpE5k_LH3UTbqm4gYwcyD4YaZfoEktn-qaoxAeYFslEzkTpltYDnp98E_St-U7G-UjmwB6TF3kaLCoiXrqm8YPQUfAcVFNjqe4CzI_XaSWMw8tHuGMJRwrxNf2NhPdfsgRl7AF4BKiViQqRu4qvbOpMRdNC_qlS3TaGu3GFXFsoDl6p6tEEXm42IJczku4xDfIkjaf6CB9R6QUgoSxJu43DJ5PPSQ0ZtFS4Q",
+            "widthPx": 2500
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Twenty8 NoMad",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVEE5U98bX26Gedkal5PxFjqOnKsQS28YmTvs-hlzaPfCOqwF0=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/111987497348633393492"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNZcn3me6E2AOpO5Jz2uVAXdv_kfkHWGX0ofyS6&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNZcn3me6E2AOpO5Jz2uVAXdv_kfkHWGX0ofyS6!2e10!4m2!3m1!1s0x487605511d45e60f:0x67859ec167db5e2",
+            "heightPx": 1500,
+            "name": "places/ChIJD-ZFHVEFdkgR4rV9FuxZeAY/photos/AWn5SU5FnmULmZ60gJClK_QsdeVxAnlBUpbBN4Tc9oXEEV6RICnD785aOqXQ303tIw43lwP55XK65QyRM_z_KMczHOsHYoHLW3JeGsxQlpqSKKsseh4HAcTfU8atYb7DstbRATvxzvzijbuvXY0fRs7ICERA1UNpxzTWqc42k1SExHskWvfAdnQZ7-jZhV1RGVuYKXjFLGPYl-kdkB9C3_byiql12DruzlxB8nA11isZOYxXVQvyo8RN8nPMnYnLu-bpKWR37LNxTUYnTWeUr60Ti6mV5XNl59xo9hOp9YpOA0Es6g",
+            "widthPx": 2000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Twenty8 NoMad",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVEE5U98bX26Gedkal5PxFjqOnKsQS28YmTvs-hlzaPfCOqwF0=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/111987497348633393492"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOH1IV-LG2t8I8JNm1GEEJTfW_kdI5b5oJAzFfV&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOH1IV-LG2t8I8JNm1GEEJTfW_kdI5b5oJAzFfV!2e10!4m2!3m1!1s0x487605511d45e60f:0x67859ec167db5e2",
+            "heightPx": 1875,
+            "name": "places/ChIJD-ZFHVEFdkgR4rV9FuxZeAY/photos/AWn5SU48Rxgp6ytcaKaXu0EBazmA5TJXlCqgV9xJBdJ8YCmmUnV8VoW6H5L-_9HQ0pIBt9PoBO1XRPpQhyL1QdNSUHd0vjlK14fS-ZZI76jacgXLyPCPdiL6OENzCjZmrfLr6LqUqxjKekMYMqDiB_0CUc4RcYIunWCyxVHHCxwUbTK3R7rx4YHfd3uhdoKwJ2Gr5zvLtcNhSBFaHR4dB2225IyRBs9YSuQgstcAPWCLaMZKEPgAtRV5JzNybZjj0JF0pZbdYxNHJRZgrtBfu6QFh0HSat3kaKOOANsxMQtgZQVIcQ",
+            "widthPx": 2500
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Twenty8 NoMad",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVEE5U98bX26Gedkal5PxFjqOnKsQS28YmTvs-hlzaPfCOqwF0=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/111987497348633393492"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOSs7stv9PdHYXK_yM-zWkMhnoDdGEDRqRW-rxq&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOSs7stv9PdHYXK_yM-zWkMhnoDdGEDRqRW-rxq!2e10!4m2!3m1!1s0x487605511d45e60f:0x67859ec167db5e2",
+            "heightPx": 1500,
+            "name": "places/ChIJD-ZFHVEFdkgR4rV9FuxZeAY/photos/AWn5SU5OKVgnm4aGz0DmkiLrXgvoIXy2a3gq4qHgfimVfxnm6EgkCp4lmUrnyRg5QraEPVCf9CD7eEh09Zg-w3emK-mJjJ3uAKDvhhXqB8t-bT6P8rhZ_srq9zEOmmS0d3SAM39xgDIgQXTG9Up_2LL43vCjg-VGfWak435RKhpAvMUL1wrRTA1fsxPqJJQWf0G41HikB7LIKPeWtnbY69M7m0EdR3tLSNZmjymE6cT5idRaGy022zj2P8QAM1UDcHzdOH8HxMATAa3vl3S1cGNpVObTm--6w7kzGeQtNgLQ0sKgPw",
+            "widthPx": 2000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Paul Bobo",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUZ15RrJlMF2z83JFpSJ9FcsXyfn1x4PrV1lBrxFmKJaCD3Zl2z3g=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/109804294568581320437"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhClo7A0z5wmefNFKjQmAUO_&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhClo7A0z5wmefNFKjQmAUO_!2e10!4m2!3m1!1s0x487605511d45e60f:0x67859ec167db5e2",
+            "heightPx": 3638,
+            "name": "places/ChIJD-ZFHVEFdkgR4rV9FuxZeAY/photos/AWn5SU5ZAGdMK9cBGu_S0vhdOkfKNmpLaq_0_MBCA8XjYpO9Stl60206PKnyKLu7DxndYlB1LeRYp0z3aDqTlJoXkh9Vr9ELvi0SRPVbY-ksj-elEug5Wh1aE63GSccm1paSUaRlbblOj3fmaaOBgijQE0ThjoLMYXL0pdWiqd4NfaYX7AFdP-SF7wEZL-Mah-Px1GHBAZo4r4tdl_Kl7g8a_oANSiYjiRWcT4yvTh0Oq0d3mosRe39jl6bT_duJB4bcCyKTCt3ZIm6RGHjecud7o0J6UBe-mrsYY-OWs1zo_9Cy4z3R1sUqFGiszq0nrhHE3MRCQDheAZJuIFkkvhL-LKWlyJ3aVQEGTF7Rm-YknAk436x7I5Zf4iOoxO-Up-Sd8itc1w0IKpeE5zgVrKDqYrQi_ZJ5lnNIrtAELICEoEz4WsUvudtV9yVQireaCw",
+            "widthPx": 2807
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Liz M",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKXtdopNm8pau_jRgE1tDfQzmw9u8doLdlQSyy5JDMa2wId7ZU=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/112898812846875972764"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDtOoNwLqkM6O6D0wApG-7n&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDtOoNwLqkM6O6D0wApG-7n!2e10!4m2!3m1!1s0x487605511d45e60f:0x67859ec167db5e2",
+            "heightPx": 4800,
+            "name": "places/ChIJD-ZFHVEFdkgR4rV9FuxZeAY/photos/AWn5SU4vDd2tf4JZgpTlnHwIweJNtOCklWKv39FMDj-OcKFx0HyV57XKPFs1-Ns5vS312R8hEc14FZ7gejetd4ktmHqQ2H0usrJaTqTJ8vA_lDyefCye0OPL4JncMZJ1hKQI9bxO-p03Q-59_yzWXPYp5jl-ZU1izKjykvgQwJemX3RhOdgGXQZA13eUo5UYe1DKL5iiJY3jjwJVJjrRMeKZeVVoffhv18AbYGwVCMqvdQVlKdA5wzT32cB5OJCZsR8VPrF-F7OJckTRuougBppDEmjdZnlBvbMAN8V0voELIITl7BAjKQq38lqUkyq2NOZTFrODpN9jaqaK8iQvRugd79_75Kb89E5aEmYpU34TiIsh4-y6dGBZkDn_RD80r9OQkk-qZR7RmTloMHdiA7SBvckhbnNSeJfyFBxkWAtPzTvEukxvnStzsP2Bz_QVHgcr",
+            "widthPx": 3600
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Colleen Chandler",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIrITc3_mymf4C0JC_3tHHk48yXcKl4MvRQycBzF95BRe08dg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/109286630602592057297"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAdjW2PHEIN6Az9L6Tc6lM-&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAdjW2PHEIN6Az9L6Tc6lM-!2e10!4m2!3m1!1s0x487605511d45e60f:0x67859ec167db5e2",
+            "heightPx": 4032,
+            "name": "places/ChIJD-ZFHVEFdkgR4rV9FuxZeAY/photos/AWn5SU7GHorj3hqBFkSOpvGpySW8s_CYbzp_7Xdu4DQ1cPAtpARX4s-emmmVEKD-RallJb2R0CynufK9JT2I3jf4-PO4qubNfbRWWk-SgA-ctAb3YUyH0w5s8H6U8qIGz2LKA4CM_3mjezUqHN8x71Jh6omkIzfPf-bsI6Vw4tpO0IjsMTKV8FwoPjsMNbbV83QMWNL3QCR5Ujgrau23ZR222RfkFDJY-BCREzuztYx7YRkympObPPIXdKqmnEiA-U4adMTUWwscce2vHumpLPEBzwAos6BX9fs8_rFIjq-qIkAK4f-VgKikd6cpWyTYK51BysK0nfE1tYa445btUpRgC1QP8gOVxiaaAZsDQ4ol78nxRcplB3H4wJwR9PbjVAQLx3ihhBAcYE1814xF-ZWNzV0qi1Lslr88fNXJdLAyZW9ePhpzHDMor856ovZvIkzx",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "S",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU6ogC4UkJAEbpnBFBPESqQa6zWC8IoxuZMzGqpzZA71VlBSgrT=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/112753665393624378970"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhA3piKkEllpFmCORd5v9_dR&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhA3piKkEllpFmCORd5v9_dR!2e10!4m2!3m1!1s0x487605511d45e60f:0x67859ec167db5e2",
+            "heightPx": 4000,
+            "name": "places/ChIJD-ZFHVEFdkgR4rV9FuxZeAY/photos/AWn5SU7rSLKUldr9bWOXbnEJ4r2jBb-tUHYdVMf4eGVZwj9HCp1sTBsNg6GgNS2B5umJz8KsaMc3KvRXgrJXacRO9MdKrZsB8DGR0U8nii6cOynCCe2rukAd4LpH4dN4Cst-UAK-EV0m3rEUYelSyRQxvU82MDIajJgxhEIQYVJswIlTfmK00SM0FPEsAY8EMYLifcRXJMo0i-IW2872gj6ADnG3Gy4rA25XeY8mGzGxBEvqBrPHD7duEGgz2gQTm5CswFj8PEtkKScB6Px6uxlJZo-bJg0uO9vlZoxeLQirb0g_CM7JsTprq-En7uvWDIuaX35zCRXYKxtrgaglljFFQ2o6Vhri7Rf61uW-PVuP3YTpJprigC9qkNwO87iOsVYJb8jLDIVD77ojgicuZ7Xw40VE-8mv1mM7iVc3VOvzynuRpiZHp_oALDTM2CXYvQ",
+            "widthPx": 3000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Twenty8 NoMad",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVEE5U98bX26Gedkal5PxFjqOnKsQS28YmTvs-hlzaPfCOqwF0=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/111987497348633393492"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNYHDknzX3tgBIxmjgbuG3a1dP-EBiwDxPOBT-y&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNYHDknzX3tgBIxmjgbuG3a1dP-EBiwDxPOBT-y!2e10!4m2!3m1!1s0x487605511d45e60f:0x67859ec167db5e2",
+            "heightPx": 2500,
+            "name": "places/ChIJD-ZFHVEFdkgR4rV9FuxZeAY/photos/AWn5SU7Aqr_PB6cIN1daxThMv6Jp3Q6pdHwzgCLRhm_rkgTCW_IT2qUPDGxjeVZFg4LVVHXQKXvOu9-Bu0sbb4JBslWjOHvzEPp9AaIwn-ogSbsoXZC237Cj6xU1O9s3vOKEd12c-istzzxSu33y_byPUwRgSWkwDI852yVtxI4ym7eHWR_7H4HupWCMgh8fU8QLu8bpM6Goj_Hi5JjK2058c89c58G569FoUEJF4sIndz-cJ7rHEqqS-TRrm9euSFRLsaNedIr6xSwasXa0GwBHW0TL9Y0MizFm3QLH0RA2F04mOw",
+            "widthPx": 1875
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Nana Hung",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUQgMRVeKgSypqutQvhNraC_RLvDeYQ8HYv5Ca8fS4Vt63YC80aIQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/109162737105806846242"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhC3XpaLuLN0uZ81vBHWtdfC&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhC3XpaLuLN0uZ81vBHWtdfC!2e10!4m2!3m1!1s0x487605511d45e60f:0x67859ec167db5e2",
+            "heightPx": 4034,
+            "name": "places/ChIJD-ZFHVEFdkgR4rV9FuxZeAY/photos/AWn5SU4OxlnAGRNuztRJgb7EFzaFwTaT5e-pZGwHoZ5skPVtQ_nOo1cHyvNCT3E4F2lQMJVe3bKxO9Rddh7Vb8-Fx2f9VVbEoIG5FfENJ202yYjeZm5Da0hYaDxznc9BiQyyFuNLJ8GB8KwMY-HiSxnzvpOqnFcRDvgieLnWQ-sGV4U1nI8ybW15ewj9t6UAmYbRV5u2J6L_4FkPyJW3y7ME8nJnLbjN5EQBkBRieNblcNiI3BUDrQ-RIujs6AQ0aYXw7JjG-R87sET9KOHx5Pi8CT7PzxOTwH5QjnVCnDJI_NaxjteMxJfZsITk6a9U2x1RHUMWjc79U4Kn6EhPQoErfkQw7OaFFXz_UePCKx02xkzV0qAM74ihgKekirKBmzbnqdSFDoNJSTBUPaFJRTz6cz3X_3gtlQ_Tg1i0yp-sFyfloV7wSAU7H0UOKp06qw",
+            "widthPx": 3024
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV7H+95 London, UK",
+        "globalCode": "9C3XGV7H+95"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "28 Bow Street"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2E 7AW",
+        "regionCode": "GB"
+    },
+    "primaryType": "restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Restaurant"
+    },
+    "rating": 4.8,
+    "regularOpeningHours": {
+        "nextCloseTime": "2025-11-25T10:30:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 10,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 10,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 10,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 10,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 10,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 10,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 10,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 7:00 – 10:30 AM, 12:00 – 10:00 PM",
+            "Tuesday: 7:00 – 10:30 AM, 12:00 – 10:00 PM",
+            "Wednesday: 7:00 – 10:30 AM, 12:00 – 10:00 PM",
+            "Thursday: 7:00 – 10:30 AM, 12:00 – 10:00 PM",
+            "Friday: 7:00 – 10:30 AM, 12:00 – 10:30 PM",
+            "Saturday: 7:00 – 10:30 AM, 12:00 – 10:30 PM",
+            "Sunday: 7:00 – 10:30 AM, 12:00 – 10:00 PM"
+        ]
+    },
+    "reservable": true,
+    "restroom": true,
+    "reviewSummary": {
+        "disclosureText": {
+            "languageCode": "en-US",
+            "text": "Summarized with Gemini"
+        },
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=5%401:CAIQACodChtyc19oOmJpU251U01OTEZ3R3YzT2Y5NjctNGc%7CCAIQACorChtyc19oOmJpU251U01OTEZ3R3YzT2Y5NjctNGcSDAi_2OfEBhD44ZHwAg&d=17924085&t=8",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487605511d45e60f:0x67859ec167db5e2!9m1!1b1",
+        "text": {
+            "languageCode": "en-US",
+            "text": "People say this restaurant offers delicious food with many options, and great cocktails. They highlight the lively atmosphere, attentive service, and friendly staff. They also like the generous portion sizes and well-balanced dishes."
+        }
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Colleen Chandler",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIrITc3_mymf4C0JC_3tHHk48yXcKl4MvRQycBzF95BRe08dg=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/109286630602592057297/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWb09FOWpiemN4UTJSaWVqSnVkUzF4YlUwdFFuYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWb09FOWpiemN4UTJSaWVqSnVkUzF4YlUwdFFuYxAB!2m1!1s0x487605511d45e60f:0x67859ec167db5e2",
+            "name": "places/ChIJD-ZFHVEFdkgR4rV9FuxZeAY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWb09FOWpiemN4UTJSaWVqSnVkUzF4YlUwdFFuYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Our visit was for a friend's belated birthday lunch.\nWe received a lovely welcome on arrival at the restaurant and found the service throughout our visit to be excellent.\nThe decor and surroundings were bright and airy.\nThe food was superb - I loved my deconstructed Prawn Cocktail with beautiful large prawns.  My lobster pasta was excellent. The pasta was perfectly cooked and the sauce silky smooth and nicely seasoned.  The cocktails were good too - I'd recommend the Sherry Painkiller.\n\nOur server, Gabor, was lovely. Friendly and efficient without being intrusive.\n\nWe're looking at when we can return."
+            },
+            "publishTime": "2025-08-12T17:46:10.507335307Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "3 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Our visit was for a friend's belated birthday lunch.\nWe received a lovely welcome on arrival at the restaurant and found the service throughout our visit to be excellent.\nThe decor and surroundings were bright and airy.\nThe food was superb - I loved my deconstructed Prawn Cocktail with beautiful large prawns.  My lobster pasta was excellent. The pasta was perfectly cooked and the sauce silky smooth and nicely seasoned.  The cocktails were good too - I'd recommend the Sherry Painkiller.\n\nOur server, Gabor, was lovely. Friendly and efficient without being intrusive.\n\nWe're looking at when we can return."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Paul Bobo",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUZ15RrJlMF2z83JFpSJ9FcsXyfn1x4PrV1lBrxFmKJaCD3Zl2z3g=s128-c0x00000000-cc-rp-mo-ba8",
+                "uri": "https://www.google.com/maps/contrib/109804294568581320437/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWM2VFd3dRVUZKZUhKNFVIaE1NSEE0VTJsTWFrRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWM2VFd3dRVUZKZUhKNFVIaE1NSEE0VTJsTWFrRRAB!2m1!1s0x487605511d45e60f:0x67859ec167db5e2",
+            "name": "places/ChIJD-ZFHVEFdkgR4rV9FuxZeAY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWM2VFd3dRVUZKZUhKNFVIaE1NSEE0VTJsTWFrRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Easily the best cocktails I've had in London. The dirty martini with blue cheese stuffed olives was out of this world. A stunning venue with the nicest staff and a lovely atmosphere. Can't reccomend this place enough."
+            },
+            "publishTime": "2025-08-28T20:00:23.546654773Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Easily the best cocktails I've had in London. The dirty martini with blue cheese stuffed olives was out of this world. A stunning venue with the nicest staff and a lovely atmosphere. Can't reccomend this place enough."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Nana Hung",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUQgMRVeKgSypqutQvhNraC_RLvDeYQ8HYv5Ca8fS4Vt63YC80aIQ=s128-c0x00000000-cc-rp-mo-ba2",
+                "uri": "https://www.google.com/maps/contrib/109162737105806846242/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xFM2JUSktTM1JNUkZCemIzZEpOa05JVUc5WVYzYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xFM2JUSktTM1JNUkZCemIzZEpOa05JVUc5WVYzYxAB!2m1!1s0x487605511d45e60f:0x67859ec167db5e2",
+            "name": "places/ChIJD-ZFHVEFdkgR4rV9FuxZeAY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xFM2JUSktTM1JNUkZCemIzZEpOa05JVUc5WVYzYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "We booked a Sunday dinner to celebrate our 4th wedding anniversary, and we were pleasantly surprised with a thoughtful card prepared for us such a lovely touch! The interior is beautiful, the food was delicious, and what impressed us the most was the outstanding service."
+            },
+            "publishTime": "2025-09-01T23:05:26.187091846Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "We booked a Sunday dinner to celebrate our 4th wedding anniversary, and we were pleasantly surprised with a thoughtful card prepared for us such a lovely touch! The interior is beautiful, the food was delicious, and what impressed us the most was the outstanding service."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Ernesta Baltutyte",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUilRLT8Cl2bcVOUeq3wEedhMp6zz6UIwnuknvCbP-_mQOMsWbr=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/110093526878262216178/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2poemNXa3lXbVl4VUhOUGNHMXhaSGh6WTNoTmIwRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2poemNXa3lXbVl4VUhOUGNHMXhaSGh6WTNoTmIwRRAB!2m1!1s0x487605511d45e60f:0x67859ec167db5e2",
+            "name": "places/ChIJD-ZFHVEFdkgR4rV9FuxZeAY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poemNXa3lXbVl4VUhOUGNHMXhaSGh6WTNoTmIwRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "I visited Twenty8 at NoMad for lunch and was thoroughly impressed by the experience. The setting is absolutely beautiful—calm, elegant, and thoughtfully designed, making it a lovely spot to relax and enjoy a meal.\n\nService was warm and attentive from the moment I stepped into the hotel. The staff made me feel welcome and looked after throughout. Although there was a bit of a wait for our mains, we were deep in conversation and didn't mind at all.\n\nI highly recommend the Chicken Milanese—it was perfectly cooked, flavorful, and satisfying. A great choice for lunch.\n\nOverall, a refined yet comfortable experience. I’d definitely return."
+            },
+            "publishTime": "2025-06-26T22:07:12.113424778Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "5 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "I visited Twenty8 at NoMad for lunch and was thoroughly impressed by the experience. The setting is absolutely beautiful—calm, elegant, and thoughtfully designed, making it a lovely spot to relax and enjoy a meal.\n\nService was warm and attentive from the moment I stepped into the hotel. The staff made me feel welcome and looked after throughout. Although there was a bit of a wait for our mains, we were deep in conversation and didn't mind at all.\n\nI highly recommend the Chicken Milanese—it was perfectly cooked, flavorful, and satisfying. A great choice for lunch.\n\nOverall, a refined yet comfortable experience. I’d definitely return."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Hansa Sutcu",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVIgwMAvz3zm7tHDWmbPWnuIJSEZdlRLKmIoyq4l95mYr1t1832Mg=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/101097853093605178888/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25oUU1XNU9PSFl0UlUxZlVsSXpiVjlpYlZGRU0wRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oUU1XNU9PSFl0UlUxZlVsSXpiVjlpYlZGRU0wRRAB!2m1!1s0x487605511d45e60f:0x67859ec167db5e2",
+            "name": "places/ChIJD-ZFHVEFdkgR4rV9FuxZeAY/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oUU1XNU9PSFl0UlUxZlVsSXpiVjlpYlZGRU0wRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "The staff were very kind and friendly. They explained the menu clearly and helped us choose.\n\nThe food was very tasty and prepared with care. They also have halal meat options if you order in advance.\n\nThere are many vegetarian choices on the menu.\n\nWe really enjoyed our meal. Thank you!"
+            },
+            "publishTime": "2025-07-25T21:39:51.555868454Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "4 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "The staff were very kind and friendly. They explained the menu clearly and helped us choose.\n\nThe food was very tasty and prepared with care. They also have halal meat options if you order in advance.\n\nThere are many vegetarian choices on the menu.\n\nWe really enjoyed our meal. Thank you!"
+            }
+        }
+    ],
+    "servesBeer": true,
+    "servesBreakfast": true,
+    "servesBrunch": true,
+    "servesCocktails": true,
+    "servesCoffee": true,
+    "servesDessert": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "servesWine": true,
+    "shortFormattedAddress": "28 Bow St, London",
+    "takeout": false,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 39,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.5148157802915,
+            "longitude": -0.12079981970849797
+        },
+        "low": {
+            "latitude": 51.5121178197085,
+            "longitude": -0.12349778029150202
+        }
+    },
+    "websiteUri": "https://www.hilton.com/en/hotels/lonnmnd-nomad-london/dining/twenty8-nomad/",
+    "timestamp": 1764064800
+}

@@ -1,0 +1,534 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleEntrance": true
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "47",
+            "shortText": "47",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Charing Cross Road",
+            "shortText": "Charing Cross Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2H 0AN",
+            "shortText": "WC2H 0AN",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJs4GOh8sEdkgRRiBFZKMP8ZE",
+                "placeId": "ChIJs4GOh8sEdkgRRiBFZKMP8ZE"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Angus Steakhouse"
+                },
+                "name": "places/ChIJwaGrbNIEdkgRaMpO65jtVrQ",
+                "placeId": "ChIJwaGrbNIEdkgRaMpO65jtVrQ",
+                "spatialRelationship": "BESIDE",
+                "straightLineDistanceMeters": 24.652435,
+                "travelDistanceMeters": 14.576173,
+                "types": [
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Leicester Square"
+                },
+                "name": "places/ChIJ98Dokc0EdkgRy3-ajwvdD94",
+                "placeId": "ChIJ98Dokc0EdkgRy3-ajwvdD94",
+                "spatialRelationship": "ACROSS_THE_ROAD",
+                "straightLineDistanceMeters": 50.808243,
+                "travelDistanceMeters": 17.011435,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "subway_station",
+                    "transit_station"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "KFC London - Leicester Square"
+                },
+                "name": "places/ChIJMVplzTwFdkgRuSvAK9t1XSk",
+                "placeId": "ChIJMVplzTwFdkgRuSvAK9t1XSk",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 25.95568,
+                "travelDistanceMeters": 24.170048,
+                "types": [
+                    "establishment",
+                    "food",
+                    "meal_takeaway",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Palace Theatre"
+                },
+                "name": "places/ChIJYxVJmtIEdkgRSFNK6hLhPvQ",
+                "placeId": "ChIJYxVJmtIEdkgRSFNK6hLhPvQ",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 162.71057,
+                "travelDistanceMeters": 181.246,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Ole & Steen"
+                },
+                "name": "places/ChIJm3Nr5hsFdkgRYVqoHAbXgdQ",
+                "placeId": "ChIJm3Nr5hsFdkgRYVqoHAbXgdQ",
+                "spatialRelationship": "ACROSS_THE_ROAD",
+                "straightLineDistanceMeters": 16.0582,
+                "travelDistanceMeters": 16.849295,
+                "types": [
+                    "bakery",
+                    "cafe",
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "store"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "currentOpeningHours": {
+        "nextCloseTime": "2025-11-25T21:00:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 8,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 8,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 8,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 8,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 9,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 18,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 9,
+                    "minute": 30
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 8:00 AM – 9:00 PM",
+            "Tuesday: 8:00 AM – 9:00 PM",
+            "Wednesday: 8:30 AM – 9:00 PM",
+            "Thursday: 8:00 AM – 9:00 PM",
+            "Friday: 9:00 AM – 10:00 PM",
+            "Saturday: 9:30 AM – 6:30 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "The Big Chill Restaurant"
+    },
+    "formattedAddress": "47 Charing Cross Rd, London WC2H 0AN, UK",
+    "goodForGroups": true,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x487605ab88df5f21:0xebfe894e4c7bdee!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487605ab88df5f21:0xebfe894e4c7bdee!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=1062823763273825774&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487605ab88df5f21:0xebfe894e4c7bdee!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487605ab88df5f21:0xebfe894e4c7bdee!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=1062823763273825774&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "id": "ChIJIV_fiKsFdkgR7r3H5JTovw4",
+    "location": {
+        "latitude": 51.5118418,
+        "longitude": -0.1285724
+    },
+    "name": "places/ChIJIV_fiKsFdkgR7r3H5JTovw4",
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Benjanin Cole",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJnDGvUclQmDc_Fn_K-WZ6OryrtA43yGXAw6NZ79GoUVD-fUQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117429660127528047148"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDywYrY-gE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDywYrY-gE!2e10!4m2!3m1!1s0x487605ab88df5f21:0xebfe894e4c7bdee",
+            "heightPx": 761,
+            "name": "places/ChIJIV_fiKsFdkgR7r3H5JTovw4/photos/AWn5SU5TWiAWaHzYcOcdJTchPRmiIm1sy-AZHljCaSqkqZRCx2iXZSeb_my8jHZOXiiE3qXWdLgITp8YZIXwPxsQ8v5J_dX-QWojAjuPMqX5CjV8lCGfEZ8ZISRgIKjiPGExKw7rWlK0Gkwz2poH7gXP6Slky3_oD9-HOFw1-2S7Q-4CIgXObOUZimAKQjmpPvISn8eusF6nk_bXwA6ZjsjO8h4-ZHV_a1CgOYKZkF_X5pj7OEsq_URh5Mh8b-1tARMqBQUkrjBiy6iv5GINVqWzrVEgRExXZdJAt-bF-ibWtSv67Y0KcogL3Lt4dluhE5cn95qWA45LS-7-pegwZwryW_rywUiNy9nloNy6QO2QFXpSpQLyDLq-J5ZoJszX9byzJtdEEigwHbdOBvzq00JrDhJmv8xbjPjFMfD71Z1zbimdW352",
+            "widthPx": 720
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV6C+PH London, UK",
+        "globalCode": "9C3XGV6C+PH"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "47 Charing Cross Road"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2H 0AN",
+        "regionCode": "GB"
+    },
+    "primaryType": "bar_and_grill",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Bar & Grill"
+    },
+    "rating": 4.5,
+    "regularOpeningHours": {
+        "nextCloseTime": "2025-11-25T21:00:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 8,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 8,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 8,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 8,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 9,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 18,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 9,
+                    "minute": 30
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 8:00 AM – 9:00 PM",
+            "Tuesday: 8:00 AM – 9:00 PM",
+            "Wednesday: 8:30 AM – 9:00 PM",
+            "Thursday: 8:00 AM – 9:00 PM",
+            "Friday: 9:00 AM – 10:00 PM",
+            "Saturday: 9:30 AM – 6:30 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "restroom": true,
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Solomonalex Alex",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKqBLGcI2LMZ7dMBQBzUHZ7CiQEEEqpw7P3G37eBO32uZ2KxQ=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/106007011671179213063/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM1bV9Ua09nEAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM1bV9Ua09nEAE!2m1!1s0x487605ab88df5f21:0xebfe894e4c7bdee",
+            "name": "places/ChIJIV_fiKsFdkgR7r3H5JTovw4/reviews/ChZDSUhNMG9nS0VJQ0FnSUM1bV9Ua09nEAE",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Nice place and food was very good"
+            },
+            "publishTime": "2023-10-17T09:21:45.823404Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 years ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Nice place and food was very good"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Benjanin Cole",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJnDGvUclQmDc_Fn_K-WZ6OryrtA43yGXAw6NZ79GoUVD-fUQ=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/117429660127528047148/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR5d1lyT3d3RRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR5d1lyT3d3RRAB!2m1!1s0x487605ab88df5f21:0xebfe894e4c7bdee",
+            "name": "places/ChIJIV_fiKsFdkgR7r3H5JTovw4/reviews/ChdDSUhNMG9nS0VJQ0FnSUR5d1lyT3d3RRAB",
+            "publishTime": "2021-03-09T21:07:35.787510Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "4 years ago"
+        }
+    ],
+    "servesBeer": true,
+    "servesCoffee": true,
+    "servesDessert": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "servesWine": true,
+    "shortFormattedAddress": "47 Charing Cross Rd, London",
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "bar_and_grill",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 2,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.513195080291496,
+            "longitude": -0.12714571970849797
+        },
+        "low": {
+            "latitude": 51.510497119708496,
+            "longitude": -0.129843680291502
+        }
+    },
+    "timestamp": 1764064800
+}

@@ -1,0 +1,248 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "ko",
+            "longText": "edwerdian hotel",
+            "shortText": "edwerdian hotel",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Leicester Square"
+                },
+                "name": "places/ChIJoQ6SENIEdkgR2KECVj0PBdY",
+                "placeId": "ChIJoQ6SENIEdkgR2KECVj0PBdY"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The National Gallery"
+                },
+                "name": "places/ChIJGzUABc4EdkgRkmmrVTDDnUw",
+                "placeId": "ChIJGzUABc4EdkgRkmmrVTDDnUw"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Leicester Square"
+                },
+                "name": "places/ChIJVX1-GtIEdkgR1n_gGjHQZpI",
+                "placeId": "ChIJVX1-GtIEdkgR1n_gGjHQZpI",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 66.38326,
+                "travelDistanceMeters": 27.32973,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Trafalgar Square"
+                },
+                "name": "places/ChIJH-tBOc4EdkgRJ8aJ8P1CUxo",
+                "placeId": "ChIJH-tBOc4EdkgRJ8aJ8P1CUxo",
+                "straightLineDistanceMeters": 263.35687,
+                "travelDistanceMeters": 278.90137,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The National Gallery"
+                },
+                "name": "places/ChIJeclqF84EdkgRtKAjTmWFr0I",
+                "placeId": "ChIJeclqF84EdkgRtKAjTmWFr0I",
+                "straightLineDistanceMeters": 185.2216,
+                "travelDistanceMeters": 129.31793,
+                "types": [
+                    "art_gallery",
+                    "establishment",
+                    "museum",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Official London Theatre Ticket Booth (partnered with tkts)"
+                },
+                "name": "places/ChIJ8ZtRd-gQdkgREcRfHvBDPJQ",
+                "placeId": "ChIJ8ZtRd-gQdkgREcRfHvBDPJQ",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 52.5718,
+                "travelDistanceMeters": 33.765682,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "National Portrait Gallery"
+                },
+                "name": "places/ChIJeclqF84EdkgRYkL4mtJ7rLM",
+                "placeId": "ChIJeclqF84EdkgRYkL4mtJ7rLM",
+                "straightLineDistanceMeters": 173.5979,
+                "travelDistanceMeters": 172.41116,
+                "types": [
+                    "art_gallery",
+                    "establishment",
+                    "museum",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "ko",
+        "text": "jido"
+    },
+    "formattedAddress": "United Kingdom, London, edwerdian hotel",
+    "goodForGroups": true,
+    "goodForWatchingSports": false,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x48760534adefd1eb:0x19a748850cc553d7!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x48760534adefd1eb:0x19a748850cc553d7!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=1848525908340986839&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x48760534adefd1eb:0x19a748850cc553d7!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x48760534adefd1eb:0x19a748850cc553d7!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=1848525908340986839&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJ69HvrTQFdkgR11PFDIVIpxk",
+    "liveMusic": false,
+    "location": {
+        "latitude": 51.5098408,
+        "longitude": -0.13053879999999998
+    },
+    "name": "places/ChIJ69HvrTQFdkgR11PFDIVIpxk",
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "John James Keenan",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUz4klWDMNXRIAPHAF9_sevfCc6wE-77Wa3jX_n94pTg1kIMuu_Zg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/108151661966508328865"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICJruKAkgE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICJruKAkgE!2e10!4m2!3m1!1s0x48760534adefd1eb:0x19a748850cc553d7",
+            "heightPx": 3024,
+            "name": "places/ChIJ69HvrTQFdkgR11PFDIVIpxk/photos/AZLasHrKLqlUWiAPw31V1xQrTV5OO6okNZDT0KrudLEJQdzXKh_MMeOpXqCyiMVaHWf3njnYZD11Q34pX8-X1QL1m6IsRtVPFVlHOMWrlxj83OSqnz8WXBsmI6Crm5y6d2K_hjefduk2YIOAi1Ym5uUTIgg8KYaEUBNWDTCNd7kverBIcs3H7vhRczbqAZPEXo41H9BXLR-UkeHOEQ9Ex1ke0YrWeeSnbCfApQHLqpdxcgxA-fY8YsLtglDeNGCL9Bd4-NuaiPFCSAdolCyBqP--PY8y7-BuyFDpurTGluVU1X0HcrzS9X7MI9GTdVI5WCZ4aCCVYmqRQm0U8MLselN9jPnDJjE2nKi2257FsL5GqgAidjZIV9lT7TOz1zgDFuU0pAw-WDQgziXrnzq0E1q8fDquv0sqFPv3LM5OuIwP-e2EjqYc",
+            "widthPx": 4032
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV59+WQ London, UK",
+        "globalCode": "9C3XGV59+WQ"
+    },
+    "postalAddress": {
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2H 7DX",
+        "regionCode": "GB"
+    },
+    "primaryType": "restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Restaurant"
+    },
+    "restroom": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "shortFormattedAddress": "London",
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.5112441802915,
+            "longitude": -0.12943846970849798
+        },
+        "low": {
+            "latitude": 51.508546219708506,
+            "longitude": -0.13213643029150202
+        }
+    },
+    "timestamp": 1765447200
+}

@@ -1,0 +1,776 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleEntrance": true
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en",
+            "longText": "Sainsbury Wing National Gallery",
+            "shortText": "Sainsbury Wing National Gallery",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Trafalgar Square",
+            "shortText": "Trafalgar Sq",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2N 5DN",
+            "shortText": "WC2N 5DN",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The National Gallery"
+                },
+                "name": "places/ChIJGzUABc4EdkgRkmmrVTDDnUw",
+                "placeId": "ChIJGzUABc4EdkgRkmmrVTDDnUw"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Trafalgar Square"
+                },
+                "name": "places/ChIJH-tBOc4EdkgRJ8aJ8P1CUxo",
+                "placeId": "ChIJH-tBOc4EdkgRJ8aJ8P1CUxo",
+                "straightLineDistanceMeters": 169.14421,
+                "travelDistanceMeters": 140.39037,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The National Gallery"
+                },
+                "name": "places/ChIJeclqF84EdkgRtKAjTmWFr0I",
+                "placeId": "ChIJeclqF84EdkgRtKAjTmWFr0I",
+                "spatialRelationship": "ACROSS_THE_ROAD",
+                "straightLineDistanceMeters": 119.58417,
+                "travelDistanceMeters": 8.935032,
+                "types": [
+                    "art_gallery",
+                    "establishment",
+                    "museum",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "National Portrait Gallery"
+                },
+                "name": "places/ChIJeclqF84EdkgRYkL4mtJ7rLM",
+                "placeId": "ChIJeclqF84EdkgRYkL4mtJ7rLM",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 141.97966,
+                "travelDistanceMeters": 147.20963,
+                "types": [
+                    "art_gallery",
+                    "establishment",
+                    "museum",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Theatre Royal Haymarket"
+                },
+                "name": "places/ChIJCerNntEEdkgREXyOfBHn6fQ",
+                "placeId": "ChIJCerNntEEdkgREXyOfBHn6fQ",
+                "straightLineDistanceMeters": 115.139366,
+                "travelDistanceMeters": 243.95374,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Leicester Square"
+                },
+                "name": "places/ChIJVX1-GtIEdkgR1n_gGjHQZpI",
+                "placeId": "ChIJVX1-GtIEdkgR1n_gGjHQZpI",
+                "straightLineDistanceMeters": 156.72694,
+                "travelDistanceMeters": 155.62756,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "curbsidePickup": false,
+    "currentOpeningHours": {
+        "nextOpenTime": "2025-11-25T11:30:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 18,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 18,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 18,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 18,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 18,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 20,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 11,
+                    "minute": 30
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 11:30 AM – 6:00 PM",
+            "Tuesday: 11:30 AM – 6:00 PM",
+            "Wednesday: 11:30 AM – 6:00 PM",
+            "Thursday: 11:30 AM – 6:00 PM",
+            "Friday: 11:30 AM – 10:30 PM",
+            "Saturday: 11:30 AM – 8:30 PM",
+            "Sunday: 11:30 AM – 6:00 PM"
+        ]
+    },
+    "delivery": false,
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Locatelli at the National Gallery"
+    },
+    "formattedAddress": "Sainsbury Wing National Gallery, Trafalgar Sq, London WC2N 5DN, UK",
+    "goodForChildren": true,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x4876053c7e9928f9:0x2571dbe18c8532d0!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x4876053c7e9928f9:0x2571dbe18c8532d0!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=2698179413543301840&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x4876053c7e9928f9:0x2571dbe18c8532d0!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x4876053c7e9928f9:0x2571dbe18c8532d0!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=2698179413543301840&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJ-SiZfjwFdkgR0DKFjOHbcSU",
+    "internationalPhoneNumber": "+44 20 7367 9012",
+    "location": {
+        "latitude": 51.5089153,
+        "longitude": -0.12999929999999998
+    },
+    "menuForChildren": true,
+    "name": "places/ChIJ-SiZfjwFdkgR0DKFjOHbcSU",
+    "nationalPhoneNumber": "020 7367 9012",
+    "outdoorSeating": false,
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Locatelli at the National Gallery",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVegs14UgXus7YtoKoYtOjTl6VOti0Ofe61GfELqPPHuFTY4Qo=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117010571186941143709"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOmys2VqCrEwAFeHHJ47SRv12li4TRb4bHjJ30z&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOmys2VqCrEwAFeHHJ47SRv12li4TRb4bHjJ30z!2e10!4m2!3m1!1s0x4876053c7e9928f9:0x2571dbe18c8532d0",
+            "heightPx": 724,
+            "name": "places/ChIJ-SiZfjwFdkgR0DKFjOHbcSU/photos/AWn5SU5Cbfkch_Pl-QPTIa-jN7eMm_0VeWqGlbeLjxTnkEMdhpjK8jsSBpJICv0EmhHNJW0dQqEQxH-WYjrBlsCTVhITuQAyNyphzA9_FsUXqtp4tWyujh9MqmG7K6kZiY1hLyFlgUPDWtzXwukGhhFjaXdTEQvg9ho77_6FF7DKcFbrTB9niPi0zGc-BNWnWNpRSL9UxyppfFmJau5J43efzoEYKkp_eRuLcxjrlQsvmqLt-erPxibqxwJuCF6Sq1FTH7xBPWSEz00_OyK8idHEapzxVldquweh91x9CbsaaMfV2g",
+            "widthPx": 1024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Luca",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXF3kr-eENYfTEijvePfO0CvGziON46UOVCkY6HjIHMKbDUVRn5=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/100439305473535009752"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBTd3lYTsbSSW-EJEfJM9r1&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBTd3lYTsbSSW-EJEfJM9r1!2e10!4m2!3m1!1s0x4876053c7e9928f9:0x2571dbe18c8532d0",
+            "heightPx": 4800,
+            "name": "places/ChIJ-SiZfjwFdkgR0DKFjOHbcSU/photos/AWn5SU5PljFTad6sBAZggHCxJ8DtFKEn9pxQE3SJ-nRLJYbWv9WP_C-gPNMXod8gp5MTiTiNcy1Iwr29hgptlDd6XUMHNfeuXbPXXkV14xDeINvjepekcFdigOiDqqhwWCj3xmItNAq7JCm4-oG6Oj3f4ArodwLOxjPf9lG2_ASKmGOkheAG7m7hVlGG0mSAGb5xm5h-bSH_W42DRsP2Me3Kq5fXgFp8g2IwP_m85MRoP8n6th8nqGeg99AVVPOZsSUXifEWmnJuqqxFB_MbXEMXRZEGFef5-9mC66QAjRzjFbpL7l3oUqzA1bHQNbJEdFRMez12zmETc1Tj1ZwrpfEda1zY8iErDKOcZRlHs7M4iVKPsHndflf6FDD41Kf7PLZpQ9xyd0XvbU0Fy-vAL3Qm_5MRvPtI1sCnwnv0DedAoEI2Shb23qa-BhWm2b3HN4Hl",
+            "widthPx": 3600
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Locatelli at the National Gallery",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVegs14UgXus7YtoKoYtOjTl6VOti0Ofe61GfELqPPHuFTY4Qo=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117010571186941143709"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNuqeumiPKgol3ydzzitwtGGcvb3fg0vTr_fLwv&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNuqeumiPKgol3ydzzitwtGGcvb3fg0vTr_fLwv!2e10!4m2!3m1!1s0x4876053c7e9928f9:0x2571dbe18c8532d0",
+            "heightPx": 1080,
+            "name": "places/ChIJ-SiZfjwFdkgR0DKFjOHbcSU/photos/AWn5SU5fj1edIkuLentVvBFXHsJf2sj7VF0Rmf4nLLSEJMKq_HdODFNg8FY293EeX_mOoGcjSDSR5aoHXfz7BHft8cuiClVFrku_6bom1ViV6Ft_3h2osmkZRxkUhr3Y1PyGSRAJvRcBpgDK2sKE9BKl7e1lUgCt5W1_VuvVEUjxDtCLAmepMDOTuHF0bhhzZa1FzNdQIVuO5CJXhmZcxbEzsJhuJGvJmZ2_QADDMiGtjaOiMwa1TSzf2-fw555g0LOEswH-IWK7EKr7Po-je8dGJI1kU8ysaF4K-9go65gSKkAFLw",
+            "widthPx": 1920
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Locatelli at the National Gallery",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVegs14UgXus7YtoKoYtOjTl6VOti0Ofe61GfELqPPHuFTY4Qo=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117010571186941143709"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMv8wn6l7jZ843y7P7o57aUpGnwwgVbaPNJGw6Q&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMv8wn6l7jZ843y7P7o57aUpGnwwgVbaPNJGw6Q!2e10!4m2!3m1!1s0x4876053c7e9928f9:0x2571dbe18c8532d0",
+            "heightPx": 1536,
+            "name": "places/ChIJ-SiZfjwFdkgR0DKFjOHbcSU/photos/AWn5SU5PLgJsDusmTTBwUflJL-9mfZqz5s1PemyUWAdYMhhlMiApdw3lL9Z_7tVQbttirNnVRySB9vxP36Q7FjP6WJhjjSCn4tN2GGfCqBU9pGtOPEJohPxOjefvgt4eqNyPNSn-bwaOjAkwFaC3iQoVJ3G-s9_eXZwyG11hTaVV5y1gcAxUQZUSY5tqCUlm0r62ZDAg4JpoYLp59ELDGQDCYkiATMSX7pkvOU_IL_NEQ-wL4SVIQyYVSgRuaKorYyMJ0TUyXhq4ZYyDyczQ66IK6X7-_pis1B6D8VFaJak_EJFNDQ",
+            "widthPx": 2304
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Luca",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXF3kr-eENYfTEijvePfO0CvGziON46UOVCkY6HjIHMKbDUVRn5=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/100439305473535009752"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAnUf6AuqKKTQfWpnkF5Ty6&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAnUf6AuqKKTQfWpnkF5Ty6!2e10!4m2!3m1!1s0x4876053c7e9928f9:0x2571dbe18c8532d0",
+            "heightPx": 4800,
+            "name": "places/ChIJ-SiZfjwFdkgR0DKFjOHbcSU/photos/AWn5SU5jKJ5UCw9ZLUTbaarsva1MhOTgpPR3niCVzhUmBhDCvSIvJ1N3gaffIppM7uJpOOu8pub5-tDje8HhFy7eREU4HBUqtQe5eo8NsOok5KzZcHSO1vhgl1vqQoTVnssAC9M9Wo703oC5F1VLWGTHvSeQQR-s5ZT55hPkj9HiyK0mFHb9H8DyUXlKBKJfMwLG8v6dBf4m6RM1vun58TFbsrSVmqbkniE3skEhLESPGvi2jT9uieF2ICeKrJMk2-5MESCkBEre03vchzVozF8_Qr0T9fgAi5731iZC9sg0TNW2FmmwbVXi-NjDbKfCMzSlUo6LwXJj1U4sxYWM73uM5rV2vZP8V56OZ19qDQOLcgAytMUN670dDsJWybip3UpNCIrXonedqob-ci8iHtXWjReSHjbZguUk0XbO9yEM2PV90fd1ONMesvjQd3fUYVud",
+            "widthPx": 3600
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Valeria Marzotto",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW-x53_VfCROjjBsKCh7Ii3LAK1gSt4-A0qvkPILYrDk9ad_j8=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/109267566664521229122"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCK0t0tohOKRlt6Sru4A-O7&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCK0t0tohOKRlt6Sru4A-O7!2e10!4m2!3m1!1s0x4876053c7e9928f9:0x2571dbe18c8532d0",
+            "heightPx": 4800,
+            "name": "places/ChIJ-SiZfjwFdkgR0DKFjOHbcSU/photos/AWn5SU7Qxapv4C-830POHPcTNV2PnLrtV0wBJ3eiywFwniyscnDNQDUfhUH5a9WA9AcGtcFgqLKW82b9Nh8nTeA961YAPYrRuzDGtR0jzJAqTBhPhtcApitTo_e072mGgNCS7Ai9wJKC_R4SYYou8dknZKN3CzcHXMIjfBiAeqazwWMHlK7HiiIbbqDhdj6XOxZuhuuoc4PyFf30APGLi1bDBfq2J1cKlTEC3w9_8RvH7p_REiEf60I-LsLsmDhMIieYANKq-DtJa6bNX2XYlUQRStKUg94Wj0kSL1DIDJ_8V1KmGb6KaCfp8zVGJSnmFLzGlm1Y8MqSHGkEE9F4WOr7sK8F8FA0aRv8N5gjoyDUDqhZc7eQdqh6SPFIOj1Qmn6f6xEBc5_YpVDactnEXICl2iCPUXiPlq3k5dJXQAmbwA070aMAfBsRnWAFrexvarcV",
+            "widthPx": 3600
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Locatelli at the National Gallery",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVegs14UgXus7YtoKoYtOjTl6VOti0Ofe61GfELqPPHuFTY4Qo=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117010571186941143709"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipP2uyAOzXyyohYxxi2TYa7NiO1Le7bLfxRnULD8&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP2uyAOzXyyohYxxi2TYa7NiO1Le7bLfxRnULD8!2e10!4m2!3m1!1s0x4876053c7e9928f9:0x2571dbe18c8532d0",
+            "heightPx": 1381,
+            "name": "places/ChIJ-SiZfjwFdkgR0DKFjOHbcSU/photos/AWn5SU5a32O7ba4msGz_E5jpCsKJjQmMWZrx30EYZtZEMfWn08Zu3acmpXc7olNqerMx70xdfBDjaCBHQuxLjDX2Ehdz2HCoeFyAJ0evUi7mWRLvWD1W1B29aTfmOKjSiJ2hE0SuK57sIZwJXxpem8lS2Xzzg-0-LytA-ehpdjrdOOTzpyvCnGbDbTu19JTzcjnYbReSl2tdsYy49wp61SIcNsqml-yuUyDtCHzGUlRDh41zwp9ioCpJU_BufLdJeciuu2HdRpzcyxGdGUx9uud25QK7m2icADz4YGYMjDU9leP97w",
+            "widthPx": 1381
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Locatelli at the National Gallery",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVegs14UgXus7YtoKoYtOjTl6VOti0Ofe61GfELqPPHuFTY4Qo=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117010571186941143709"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNbODyCa7nm0E_mWKm4lsacAeVBM3xwHe_9OyP9&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNbODyCa7nm0E_mWKm4lsacAeVBM3xwHe_9OyP9!2e10!4m2!3m1!1s0x4876053c7e9928f9:0x2571dbe18c8532d0",
+            "heightPx": 1536,
+            "name": "places/ChIJ-SiZfjwFdkgR0DKFjOHbcSU/photos/AWn5SU5g1z2zsltVoMTDzTcWa7ImdJoD4PIADpIoSgGAMOilLuKEPw3BtAAIhL2YB7uLIn2aQ0UZ6z_6nxF9xhMx4pjDMYq5b3Jv-t9CMpjZjMxe1OmV8qhEA4jt2JE0C-XWkEzZ-8AeAjV1dHwLa787Se-tESIpNOuADc3nro4dYlZM5RcYNNc5a8sArfuXExFBBuYWOdHAoAkdBBAgeELn7udSYa4vxLFqx23Qk9omkoIwY__M9bejIcJDJGqoEtsKWKtvmnYOmdnasUVI5sEeZUiv2Qa37FidaJ25Un8l3Xii9g",
+            "widthPx": 2304
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Alison Medd",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL52084wLwdxOAM8CTUGGkSFdJP9uTvD4zZbZoVOuC-aHaRiw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/100940780409914537980"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDaBQSEtwC1RO0qrGxTuZ8m&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDaBQSEtwC1RO0qrGxTuZ8m!2e10!4m2!3m1!1s0x4876053c7e9928f9:0x2571dbe18c8532d0",
+            "heightPx": 3024,
+            "name": "places/ChIJ-SiZfjwFdkgR0DKFjOHbcSU/photos/AWn5SU564fDXZhfLtCKPLg9WBel_1ddhvaS_vgjMe0vDa8cFDAHBgScg5-B05e3G-KjduP-H6zShRxv_XjmThw7hMTHRb45CTS4yTuhJi1V3L-pECMH_Os07yf39pYLefLMtwTSSND6tdzmcREb_OYiYmCIWQEbJscAZBWsAjrz_aVGnbHhfM54FExADn4aV9Wc-VuZNwyyLf32q46z6Wsv1RyxMvTkfbb33ziEURaZuLvEzga5EyWr0SJPc2eNd4nGzgZOxxP4ANCbMhDITdS6ZajZpdnT7n203shQEdrL80yaZwjh_y5UsbfkRPg23bJZHsJ8icYNhDhlUgHiuSpmFk3cAm983U7mOD7c4QGvQ19OIFuCCWJAWmfd4bg_UF899Hah8xcyi7ppn59kJakaJ24-EqolvxE9oi8IuywfpcSTc4AfPjg1pfeJSfmw_1V23",
+            "widthPx": 4032
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Valeria Marzotto",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW-x53_VfCROjjBsKCh7Ii3LAK1gSt4-A0qvkPILYrDk9ad_j8=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/109267566664521229122"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhANbIjqRghuPyfT43-M3Twy&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhANbIjqRghuPyfT43-M3Twy!2e10!4m2!3m1!1s0x4876053c7e9928f9:0x2571dbe18c8532d0",
+            "heightPx": 4800,
+            "name": "places/ChIJ-SiZfjwFdkgR0DKFjOHbcSU/photos/AWn5SU6UwwRbDWCjkqSc75eeJX6oTZpL9jUNZXfG6oSFasqghl3seW0TK-HXXcAPnlKvhsqpJSI06J3NSyDuRnuOPuPrgkXGjAd-laxGi0rZpqc2b8IWprT8en0zX4pTFhL-C-p6wNFMLw--K-e-YkEMA_NSdvd75_R0Z-RyHLSnHMJJIcXgi8sAXEbr-zwc_Y-k_YmXvCqZQt013USPLUIgoMcsHXVXnx_opkGkwYxhgWjpy2Vu0EaeJLUbDFUxqH7M5ANqVwHOCtW2m3bT2mRteQiWQqVrEqnJSfoxG8WxgsmtOiCId08m_C1WkfUE6SAAtxDS9r9yozHREO1R6VO99M_QuG5QH831i3G6Vf3FPROHaPspjAMmVW_P6IyDWkEfXbDskDzlO3pb5bqRlZDuj2nMvEwzhCat2w1AySwQhQ4WT6nIdsmCHObJEH8RPYF6",
+            "widthPx": 3600
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV5C+H2 London, UK",
+        "globalCode": "9C3XGV5C+H2"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "Sainsbury Wing National Gallery",
+            "Trafalgar Square"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2N 5DN",
+        "regionCode": "GB"
+    },
+    "primaryType": "italian_restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Italian Restaurant"
+    },
+    "rating": 4.2,
+    "regularOpeningHours": {
+        "nextOpenTime": "2025-11-25T11:30:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 18,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 18,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 18,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 18,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 18,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 20,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 11,
+                    "minute": 30
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 11:30 AM – 6:00 PM",
+            "Tuesday: 11:30 AM – 6:00 PM",
+            "Wednesday: 11:30 AM – 6:00 PM",
+            "Thursday: 11:30 AM – 6:00 PM",
+            "Friday: 11:30 AM – 10:30 PM",
+            "Saturday: 11:30 AM – 8:30 PM",
+            "Sunday: 11:30 AM – 6:00 PM"
+        ]
+    },
+    "reservable": true,
+    "restroom": true,
+    "reviewSummary": {
+        "disclosureText": {
+            "languageCode": "en-US",
+            "text": "Summarized with Gemini"
+        },
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=5%401:CAIQACodChtyc19oOjY1XzIwamx3RXREVzNOd25NZUFmV2c%7CCAIQACorChtyc19oOjY1XzIwamx3RXREVzNOd25NZUFmV2cSDAj60JXJBhCopbqRAw&d=17924085&t=8",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x4876053c7e9928f9:0x2571dbe18c8532d0!9m1!1b1",
+        "text": {
+            "languageCode": "en-US",
+            "text": "People say this Italian restaurant serves delicious pasta with bottarga, good fish, and steak. They also highlight the attentive and friendly service, and the lovely, comfortable, and relaxing atmosphere.\n\nOther reviews mention the food can be underseasoned."
+        }
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Sofia Gkazepi",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUwFK0m9guct1EEk7tDQ36UCE1lxqZo57udgUmaMRYwd95cCCZI4w=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/114317967558900176196/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21nMWVYTTJiVk4xVFVwM1R6aFdlbUpHU214M2NtYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21nMWVYTTJiVk4xVFVwM1R6aFdlbUpHU214M2NtYxAB!2m1!1s0x4876053c7e9928f9:0x2571dbe18c8532d0",
+            "name": "places/ChIJ-SiZfjwFdkgR0DKFjOHbcSU/reviews/Ci9DQUlRQUNvZENodHljRjlvT21nMWVYTTJiVk4xVFVwM1R6aFdlbUpHU214M2NtYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "10/10, hands down the best italian food i had so far. The pasta was melting in my mouth. And the location, the atmosphere and the decor....plus the amazing service. New favourite spot."
+            },
+            "publishTime": "2025-11-04T20:37:20.079935885Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 weeks ago",
+            "text": {
+                "languageCode": "en",
+                "text": "10/10, hands down the best italian food i had so far. The pasta was melting in my mouth. And the location, the atmosphere and the decor....plus the amazing service. New favourite spot."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Alison Medd",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL52084wLwdxOAM8CTUGGkSFdJP9uTvD4zZbZoVOuC-aHaRiw=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/100940780409914537980/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWSVZIRXRNM3BIVmtOalYwMVVkR0poTWtWWFdrRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWSVZIRXRNM3BIVmtOalYwMVVkR0poTWtWWFdrRRAB!2m1!1s0x4876053c7e9928f9:0x2571dbe18c8532d0",
+            "name": "places/ChIJ-SiZfjwFdkgR0DKFjOHbcSU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWSVZIRXRNM3BIVmtOalYwMVVkR0poTWtWWFdrRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "This is a lovely light bright space for a light lunch.\nI found the food perfectly cooked if a little underseasoned. Fresh ingredients, delicious bread and a good wine list too. The chocolate tart was most definitely a highlight it’s amazing.\nIt does feel a bit airport lounge but I blame the architect for that!"
+            },
+            "publishTime": "2025-09-15T16:03:58.206744396Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "This is a lovely light bright space for a light lunch.\nI found the food perfectly cooked if a little underseasoned. Fresh ingredients, delicious bread and a good wine list too. The chocolate tart was most definitely a highlight it’s amazing.\nIt does feel a bit airport lounge but I blame the architect for that!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Luiz Valério P. Trindade",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUMdQOrBvVttSVd7HeD0H6CTvZZxdcxUvfFIPXiRR_pBOOjXQa7nA=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/102521262317230679623/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xsSFprNTZUMjFDTUhsa1pWSnBjVmwwTlVaSWRtYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsSFprNTZUMjFDTUhsa1pWSnBjVmwwTlVaSWRtYxAB!2m1!1s0x4876053c7e9928f9:0x2571dbe18c8532d0",
+            "name": "places/ChIJ-SiZfjwFdkgR0DKFjOHbcSU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsSFprNTZUMjFDTUhsa1pWSnBjVmwwTlVaSWRtYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "The experience of having lunch at Locatelli Restaurant, combined with a visit to the amazing National Gallery, is not only unforgettable, but also unique in a city as iconic as London.\n\nThe dishes are absolutely delicious, prepared with incredible care, impeccably presented, and the staff is very attentive and friendly.\n\nThe tables are spaced well apart, ensuring adequate privacy even when there are many diners.\n\nWe were extremely pleased with our dining experience at this restaurant and will definitely come back on future trips to London."
+            },
+            "publishTime": "2025-08-25T06:52:52.488487387Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "3 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "The experience of having lunch at Locatelli Restaurant, combined with a visit to the amazing National Gallery, is not only unforgettable, but also unique in a city as iconic as London.\n\nThe dishes are absolutely delicious, prepared with incredible care, impeccably presented, and the staff is very attentive and friendly.\n\nThe tables are spaced well apart, ensuring adequate privacy even when there are many diners.\n\nWe were extremely pleased with our dining experience at this restaurant and will definitely come back on future trips to London."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Giacomo Novara",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXErbqxpzIrOdP2Yn6RfD5oYeio6KeIzJziz_SGYthpudvCEko9=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/110454974472505405577/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25aMlVrb3RTRVJ3UjA5bFVHOUpiRFZ4UzBsMFMzYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aMlVrb3RTRVJ3UjA5bFVHOUpiRFZ4UzBsMFMzYxAB!2m1!1s0x4876053c7e9928f9:0x2571dbe18c8532d0",
+            "name": "places/ChIJ-SiZfjwFdkgR0DKFjOHbcSU/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aMlVrb3RTRVJ3UjA5bFVHOUpiRFZ4UzBsMFMzYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "It is not fine dining at its best but it is nice.\nThe selection of dishes was not so wide. Ingredients were of clearly good quality and all the dishes I had were nice but, for example, the ragù lacked a little bit of kick.\nLocation awesome.\nService kind.\nPrice: 3 dishes, £45. More than acceptable for London."
+            },
+            "publishTime": "2025-09-15T07:17:53.915050868Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "2 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "It is not fine dining at its best but it is nice.\nThe selection of dishes was not so wide. Ingredients were of clearly good quality and all the dishes I had were nice but, for example, the ragù lacked a little bit of kick.\nLocation awesome.\nService kind.\nPrice: 3 dishes, £45. More than acceptable for London."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Shona W",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIAPfOx35CbwXMGF3NnWKe7G8-eDxktuzWmNAYXXU1V0t8Cog=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/108190042487378891847/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25GbWVsTlJXakEyUkZwR1ZDMXFURlZsWW05VVdFRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GbWVsTlJXakEyUkZwR1ZDMXFURlZsWW05VVdFRRAB!2m1!1s0x4876053c7e9928f9:0x2571dbe18c8532d0",
+            "name": "places/ChIJ-SiZfjwFdkgR0DKFjOHbcSU/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GbWVsTlJXakEyUkZwR1ZDMXFURlZsWW05VVdFRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Treated myself to a solo lunch here on a day trip to London. Atmosphere is a bit odd due to the expanse but other customers made it jollier. Lamb with polenta was excellent although sat a bit heavy afterwards due to the richness. Was sorry not to see a set menu for lunch.\n\nDisappointed by the American-style service which while polite was aimed at trying to push more drinks and courses on me when I was clearly decisive about my order. I find this irritating and disingenuous. I don’t want my waiter trying to make conversation about my plans for the rest of the day. Usually this is done in the US in the name of ‘good service’ for a bigger tip but 13% was slapped on my bill without me requesting it anyway. Can the service not be more Italian? Courteous, discreet, efficient and not over familiar? This in turn generates the appropriate tip."
+            },
+            "publishTime": "2025-10-30T13:34:30.410296474Z",
+            "rating": 3,
+            "relativePublishTimeDescription": "3 weeks ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Treated myself to a solo lunch here on a day trip to London. Atmosphere is a bit odd due to the expanse but other customers made it jollier. Lamb with polenta was excellent although sat a bit heavy afterwards due to the richness. Was sorry not to see a set menu for lunch.\n\nDisappointed by the American-style service which while polite was aimed at trying to push more drinks and courses on me when I was clearly decisive about my order. I find this irritating and disingenuous. I don’t want my waiter trying to make conversation about my plans for the rest of the day. Usually this is done in the US in the name of ‘good service’ for a bigger tip but 13% was slapped on my bill without me requesting it anyway. Can the service not be more Italian? Courteous, discreet, efficient and not over familiar? This in turn generates the appropriate tip."
+            }
+        }
+    ],
+    "servesCocktails": true,
+    "servesCoffee": true,
+    "servesDessert": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "servesVegetarianFood": true,
+    "servesWine": true,
+    "shortFormattedAddress": "Sainsbury Wing National Gallery, St Vincent House, Trafalgar Sq, London",
+    "takeout": false,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "italian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 33,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.51027043029149,
+            "longitude": -0.12862071970849795
+        },
+        "low": {
+            "latitude": 51.50757246970849,
+            "longitude": -0.131318680291502
+        }
+    },
+    "websiteUri": "https://locatelliatnationalgallery.co.uk/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+    "timestamp": 1764064800
+}

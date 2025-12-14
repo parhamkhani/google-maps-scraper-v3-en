@@ -1,0 +1,806 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": true
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "41",
+            "shortText": "41",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Earlham Street",
+            "shortText": "Earlham St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Seven Dials",
+            "shortText": "Seven Dials",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2H 9LX",
+            "shortText": "WC2H 9LX",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "St Martin's Courtyard"
+                },
+                "name": "places/ChIJ0YfiAc0EdkgRoKYIH7344ZA",
+                "placeId": "ChIJ0YfiAc0EdkgRoKYIH7344ZA"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJs4GOh8sEdkgRRiBFZKMP8ZE",
+                "placeId": "ChIJs4GOh8sEdkgRRiBFZKMP8ZE"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Dr. Martens - Neal Street"
+                },
+                "name": "places/ChIJ9S8lwMwEdkgRBHLhxbz2ovk",
+                "placeId": "ChIJ9S8lwMwEdkgRBHLhxbz2ovk",
+                "straightLineDistanceMeters": 75.09954,
+                "travelDistanceMeters": 69.29382,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "shoe_store",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "NBCUniversal"
+                },
+                "name": "places/ChIJv4f2tzIbdkgR9ockIRcTijo",
+                "placeId": "ChIJv4f2tzIbdkgR9ockIRcTijo",
+                "straightLineDistanceMeters": 264.3077,
+                "travelDistanceMeters": 322.98804,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The Mousetrap at St. Martin's Theatre"
+                },
+                "name": "places/ChIJ2dkqXs0EdkgRlVUsXtEbwsQ",
+                "placeId": "ChIJ2dkqXs0EdkgRlVUsXtEbwsQ",
+                "straightLineDistanceMeters": 164.53336,
+                "travelDistanceMeters": 224.77661,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJQR9pg8sEdkgRKeWNNYlDdPU",
+                "placeId": "ChIJQR9pg8sEdkgRKeWNNYlDdPU",
+                "straightLineDistanceMeters": 298.74307,
+                "travelDistanceMeters": 177.69737,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "shopping_mall"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Cambridge Theatre"
+                },
+                "name": "places/ChIJ059kIs0EdkgRAbuyqaAavxU",
+                "placeId": "ChIJ059kIs0EdkgRAbuyqaAavxU",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 57.93124,
+                "travelDistanceMeters": 70.22285,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "store",
+                    "tourist_attraction"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "containingPlaces": [
+        {
+            "id": "ChIJlUVX28wEdkgR2X0RG3mYP3U",
+            "name": "places/ChIJlUVX28wEdkgR2X0RG3mYP3U"
+        }
+    ],
+    "currentOpeningHours": {
+        "nextOpenTime": "2025-12-11T11:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 14,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 14,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 15,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 15,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 16,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 16,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 17,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 17,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 11,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 – 10:00 PM",
+            "Tuesday: 12:00 – 10:00 PM",
+            "Wednesday: 11:00 AM – 10:00 PM",
+            "Thursday: 11:00 AM – 10:00 PM",
+            "Friday: 11:00 AM – 10:00 PM",
+            "Saturday: 11:00 AM – 10:00 PM",
+            "Sunday: 11:00 AM – 9:00 PM"
+        ]
+    },
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Hash Hut"
+    },
+    "formattedAddress": "41 Earlham St, Seven Dials, London WC2H 9LX, UK",
+    "goodForChildren": true,
+    "goodForGroups": true,
+    "goodForWatchingSports": false,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x487605feff83f647:0x962733e59147a8d!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487605feff83f647:0x962733e59147a8d!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=676229605678676621&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487605feff83f647:0x962733e59147a8d!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487605feff83f647:0x962733e59147a8d!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=676229605678676621&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJR_aD__4FdkgRjXoUWT5zYgk",
+    "liveMusic": true,
+    "location": {
+        "latitude": 51.513976199999995,
+        "longitude": -0.1259218
+    },
+    "name": "places/ChIJR_aD__4FdkgRjXoUWT5zYgk",
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Sam Aberman",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWW8LD98tdvZGX2GSpZHvoTTtCKd8qb17YM2nQsTU6mmb_xz9uN7Q=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/111941996399252793572"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCr6vD2VW5N5lYUXeH9RLTH&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCr6vD2VW5N5lYUXeH9RLTH!2e10!4m2!3m1!1s0x487605feff83f647:0x962733e59147a8d",
+            "heightPx": 2252,
+            "name": "places/ChIJR_aD__4FdkgRjXoUWT5zYgk/photos/AZLasHotEZZr6MYzJ1wLDOjwPV3D9Oxk4ujMgo9ykwOMjCdcisBlmQtUDIgLqbUZJA6-sYDPnS0uEZULUuIOKTjMORpD9l0gdriZp--5XSF54DsRmQo_BroDUKgApxIIIlQA2cbdc01aDh3nK1ARKmOLszEjJ87_xbYFD8TvOUD9gRybTMcz275eZW091hPyLx8uUhCaJbHeWZK0SzoBU0n58nmaVmv9_ON7h3awHOMZ2TgpbHTknTy-CZ8RIXw7fu8fbd_cc_EDPn1jOQB4yazD33605JWzemD7_F5cYuJYRgP5Nax1MQxV9Oe4zZUnKSZCTlri_5XZt5yavAPZH5vaCnkdT5wIGe_XDVUd2lkqelAlWo5OnrXO_lOxt_VIPYE2cipit5Okj2pXGl7xP6EHBaPBygY8Kf6nTSDiZAOlAoS2E-i-Z6sCSy9ITz0h6A",
+            "widthPx": 4000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Jamie Perkins",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUviS7rc2UOSdHh9nWUk4zT3YuB_pf1-yjNWGOkXh350A1k_A=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/104520355402742814001"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICTx6-lrgE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICTx6-lrgE!2e10!4m2!3m1!1s0x487605feff83f647:0x962733e59147a8d",
+            "heightPx": 1512,
+            "name": "places/ChIJR_aD__4FdkgRjXoUWT5zYgk/photos/AZLasHoLMFIR6zRSRvVTTEypce8McAzu4-00FC6IJm2xw7MvFB2LRGbFhwthXITkB0UN5ISw-d0LrtPbXQAw4avFYJvOuWDctNpSfBI5HsHI32iRU7xVnIY-s-rx_5_AAdQ3nW9fq0jOKjC3srrlZ1Ew7sc6iFXq1BeTqjTj948qT3luBMGIHR_ijdn7LUadrCKGpOAb-RBLexswEldMdru1D-0hb-z9b4HXZqinPytkYxMxtS94wpoOX1hVWgfNV2d-5ZcguZooRLYAQ9PuHw0vBb1PZlsPBhDH8fwoTw7RXHxfD66YxSGR1etojwjRde06WJtbtY19VxZaAa7VZ04eDLEGJQZO0FBchyxVPzMrNfwsrouYwFTlv47UXZPEB5P1KQ2VFoklAE8Lpwlb_-3rwI1ZOGvv1E3ChQW3KXoDfByKV6hl",
+            "widthPx": 2688
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Hanan Abdulbaqi",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWvjJe8Pisdri_UcDL3SXiDblUm6eBFpUtXJrSyVqm-97l3Vgc=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/103148475739056484789"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDv5aDt5wE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDv5aDt5wE!2e10!4m2!3m1!1s0x487605feff83f647:0x962733e59147a8d",
+            "heightPx": 3024,
+            "name": "places/ChIJR_aD__4FdkgRjXoUWT5zYgk/photos/AZLasHprRfhfT_5Y3sJ_QrFVrgLychMPMIMv0biLXcBWrkJQScRAXmdUzcfjNOFQbOxv4Qjr7UNSC38YgcZLbq98HtODoq3TBwm2Nmw9WUunKM3wPCnt0SlLIE2JItBhOTLKhx5SxTm5cQwxB0rz4Tj6b2cde4WTcibvBtDWT9mrkISLEdHhgKNupAbAAzAaSf2usEW1yLGJeV9-LvCzH0Wtumy8CP8MfzNCqv_C82MZ5fD-F4xImcmgIUDc5urpokFwVso8jkvaOIynVLn1YGwvqd4D5vR7Knun_ZSBMS8l69mKMWEkX0WEDZylTsK12bKLWSZIpT2dkuW5vefFIvdfLX1GszOtx2mcr3G8mR44GbvuOd7UmxnZ1g7LpInW5gbDHiXryVU-A9iy1f0cefyKT6ytjhe9W5CfJeaS66OPPWyfr5uR",
+            "widthPx": 4032
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "N M",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIWKPKA2uR0_sfDvIF7y8TtvHmrnLjHyPqEDFYXNOTJXy4BUA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/115066727649709797635"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC_pNKXBQ&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC_pNKXBQ!2e10!4m2!3m1!1s0x487605feff83f647:0x962733e59147a8d",
+            "heightPx": 4032,
+            "name": "places/ChIJR_aD__4FdkgRjXoUWT5zYgk/photos/AZLasHrLFducbSyOiYyI7L-VNCxaGpb29INLE8Fc-aZn-tPG8STgb7MoeUpOy1tkswVET53bca4JSNQMA9OVTk1HzWkCSbuyqslsy-U2g-GeW0xQ0N5E48cyK0ffN9OwaPD6Wwqu-HeVfSw_CPWYzVR74TGJDtymZU-fMe8pNXVjPjHSq3PmoGet3L0M2IrlzSZ3K__krptDuBhs4ES3glvJ3feqQYFS5jx-xrfwb0pH1v_sSURWER6OpFEV4SZNbpnFlWx2z6g07iE8Es58jsDynS-vZeL91ECrVEeseIDEBQqLdi-w99t3AYn4HpZdlSntYvzpXkf9yMBIzhXS08lIrcyrsMbiGPvfcPEC7B_NQw1dbVH6_iwuZva8ETHiLdxot4h8KXIx5IYclKgl1-jVYEtWFN-Rp_5Um4NIELzzkDrhTQ",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "T.J.",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXaa2U3l2WCuxHNudRL1rBi2uenR5khkf46jAtiW15Z55EDjGln=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/115459808982252533987"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAxJS7KKHteoqB1lFAqYTnw&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAxJS7KKHteoqB1lFAqYTnw!2e10!4m2!3m1!1s0x487605feff83f647:0x962733e59147a8d",
+            "heightPx": 1868,
+            "name": "places/ChIJR_aD__4FdkgRjXoUWT5zYgk/photos/AZLasHqHcF4DEjmZZRJ0NYKwIr0d31M7TE697vKUSlGEqrjP1gDIotxfv91fa-1rI3VaLSYctCCKw156CKXT5qiDUimCPvlKLc3xpNgjTovY3nITPEYBQyVjZdwfP2dbdy3ujG3zOwbVbjxwJxlEkn7FShrG5eKa-iOWTp5fZD8gvUs6y9V8ObgbXrUvfhGo4vNOiFJIFmDgVGJSzk9--Fj0N-dYW5oXQxiZwdHgq1Y-_5xuBlziWMOncxO4EYShRQMn9WrEmWk1lwtADnwla8B3NzQJmOpGTPxvhe79HEsdDBy8_xYRICnrsJ-goglaQfA6HFZ5OwM2wm3Lfd-vkCREl_AAMpEpx47PMm9TwQoC8dchhA9SJ_vOAVu0cEsTRrb6SAXysfZTXETPdsTDflf3iDtDpBdr7v2_BJjLJwKE3zFw9WxEpOOY1z2lp7edeA",
+            "widthPx": 4000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Jade",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVcod5jcfQTjDtH6VRpX2Vo0iJkWZgcVq9EhEP3vQbYltxaien7=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/105519630292978003356"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICbgsTXiQE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICbgsTXiQE!2e10!4m2!3m1!1s0x487605feff83f647:0x962733e59147a8d",
+            "heightPx": 1450,
+            "name": "places/ChIJR_aD__4FdkgRjXoUWT5zYgk/photos/AZLasHp-bZSojrhy4tReyyCur2DoqhX89Kv3b4elYOFtRKtNvm2BmQUqitHbXHAuS_kuhw5NQJ3o_FDeMwy49iYGN-u_HIvy7VrVtGgIUSCwHrdgvmfJcImO3HqkxRoQiOkB5vHQdkLmAQizWeMMGLufQesOsIfUnSTZhKWKNKoQLLCEXQZ_6KEPF9FeRp1fdtnlBLtEC7Y7jzF-wcSxcjLJ7zrpPcuS32TixqIdDq9LbQHYS2wOOvJB3l0XMgyvDrvAkGYsQrcHsfrxZIwAKLMD5WExVLOnaFAqbTLlKRfEBVpS73XZvdd_lrYlPMV229sdoVKAoIq4nd-AEVpuUE-6hWgdTU5syPoJ1uRvbYUjOukf5wxJQSbvTHdsRocYQaIbr9PnM14a6rdgcxcN2DUEqejORjTOmI15DJIAsalkK87iP4W2",
+            "widthPx": 1179
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Sahar Binsalem",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ6pYswn_bQsoB4ltPGrDmHlX4n5SOu_i1sRB3lULHet-gyllMP=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/114623458477525557885"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICn-LqkOQ&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICn-LqkOQ!2e10!4m2!3m1!1s0x487605feff83f647:0x962733e59147a8d",
+            "heightPx": 1630,
+            "name": "places/ChIJR_aD__4FdkgRjXoUWT5zYgk/photos/AZLasHoBK5-DbyWch6uMdAgvODJopkRkvgwL-3lzUa_4zZfrKaPeejrsq_7-4LUvkC2xnpQqtS0_uRKXgRXl4v84de8Okc_hXZX6SXo9mqgPsz6Fd_A8uIRJGIvo6FIMT2pp8xw27j5s7InJN0q7ab63HB2_PNmJJf6DZpFy0bTkqglwTXmBnt62glGs1kDhHEHNp-gUsP_Brd1pgZHapaw2gFWHX0znJgtxont4l1il0T9Kzw9FiCZ1oZ5peE1aM5CLt-fGI30XMH47QLGW8JCelnVtwDv3XYbh1Xw1D9Zd8bzoJCXEgIiXpdEYal_NBQ_12PxaOWQGQzoA4tUij21hrW0p9vrFonX8skMxCypHOc720u_Fcd8SUnYw9yPUxW8GnuFJr5rQC7U89iqDQbJ7LgtmsZPTes4-Fkpv1hS_WMeCWg",
+            "widthPx": 1179
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Nina Fan",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKwY27qDeL3WIW7fQ3lDpxDwMJ5MbHa9yH6eKbJ0igLZoGaUA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/115686276616340247549"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICLp7SgdQ&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICLp7SgdQ!2e10!4m2!3m1!1s0x487605feff83f647:0x962733e59147a8d",
+            "heightPx": 4032,
+            "name": "places/ChIJR_aD__4FdkgRjXoUWT5zYgk/photos/AZLasHqJN4iOlo3o-WkS1LtXBtIr9_Eq1ZVLmavLe1iHsUqUdX_SO1KQPHbe-j-AWvTAmqByMQurum_AyRR_D7zrn1Ofb4bcCLilPkil3iQRg1tTvGMZ-pIW6KsXMXqsYJkfd_NdLnNlkUrKAnUBWm2zXUXY8BFM5muwMlomkEmTXw868wLikC-MGvu3yHyhlwQrAR3r_I3iDYa0-VXP8n19M1fHmkF55otly0zDSmLofSkTbbpf4WuJGHGwL10dDbxy4CXbs9meQIR9vyxyzAuATkHZJD4Kz5rljsOde9FxRQs0S-ymXa7VSVFoNoXxDaL-5izTlnVzsaEGu4UJ982X1gqdu-Vr3jIuN8rwOwVwZ6TenFbiI2o4AeclsaGcFN5hfrm7cacecJE7l4Bq3OiGLIQDc1a8KBqytqxRE2sDRCsj1w",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "helen t",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIag0zQjPXWawqKGBdBkN3ZRWm0bE58Na7dsgGTCp0jU3L3IQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/115049495771166316854"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICdvLqyfQ&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICdvLqyfQ!2e10!4m2!3m1!1s0x487605feff83f647:0x962733e59147a8d",
+            "heightPx": 4032,
+            "name": "places/ChIJR_aD__4FdkgRjXoUWT5zYgk/photos/AZLasHqblOn2silzFxl2Rb2Pvifr9m2nRhAR-GOnPX-czTal2tjU5exbL32HLFgVNIcaE2n12ZMZUxLCEse0zWgkdo_Yc-Ih5MgLXXC_wrqoWGU1WaR4abQvufaQGZv8AcxYzgChowJJD8J1a16TOmrJWeRcomiO1DFA8-7bqLwR8cgdf1BbYI5I7YnieJ_w65u85RgtqR5YLWQkHdETGBdST0PIFmWR0nIqGkJD5J6vTpzqnUxIX__b1UtYVK6Weq2yHrcrHOvsy-2vXZgCC2O_Pc1XU_iiTrodzcwLu7QPV5i1V5Jbeh7GFiX26VLFMUr4808rsdefwi0yklRo-JX7mNaZEdkKskDuENExLY8HFJTcwcSViyjKsACRY0GU2C3JXkLQ2rzOFykZ-O_f43cFkVrXHE4bRdSzuC317DWr7mLsAg",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "K Richmond",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX0iFfJmU7Xx0kb-Tr3xXfE_uHIHNiIrXV4Ua6T3JYZJ9D0mfGJ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/102431640427155237573"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCA76foFw&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCA76foFw!2e10!4m2!3m1!1s0x487605feff83f647:0x962733e59147a8d",
+            "heightPx": 4032,
+            "name": "places/ChIJR_aD__4FdkgRjXoUWT5zYgk/photos/AZLasHq7f8ZlwiwlcuYMCZDYPeGQLM74qnkzUcKmaBwkGy4Co-3i3zzkldVIsN6xlnD6h-HXCA1L75Hmt9QNWQYS4DGcuqTMhVjO-Lio4UEh26P1dhdkVyU540vIUgqz-CbSMrd-t9SV4A-QX9AysW_kH6FwyX3byQWcHzAUsewtmYK2e7WmCFTe1bzbUXOfI_N-6mdt0tYMDR4QomzzCS1ui0ksXgpfJbGU3QNZO-BtnbBjAUVLmWFNzGOIFwjBC_1uYxvTw9aBcUOCCjvb--gG1lspoTCepYtscHyx5UKXfLuFrcgO1tEOXLDdVkbM26vJNYbGTDw_6LEL2uQhJl4umJEtYXa4vrOrb2BMgJOEAOPtgBS-FK2AV1pGyr9LtGqkRqfscslfDHY3OQMhIacFq0ftqYAO5HzvTkKxL72509g",
+            "widthPx": 3024
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV7F+HJ London, UK",
+        "globalCode": "9C3XGV7F+HJ"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "41 Earlham Street",
+            "Seven Dials"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2H 9LX",
+        "regionCode": "GB"
+    },
+    "priceRange": {
+        "endPrice": {
+            "currencyCode": "GBP",
+            "units": "20"
+        },
+        "startPrice": {
+            "currencyCode": "GBP",
+            "units": "10"
+        }
+    },
+    "primaryType": "restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Restaurant"
+    },
+    "rating": 4.3,
+    "regularOpeningHours": {
+        "nextOpenTime": "2025-12-11T11:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 11,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 – 10:00 PM",
+            "Tuesday: 12:00 – 10:00 PM",
+            "Wednesday: 11:00 AM – 10:00 PM",
+            "Thursday: 11:00 AM – 10:00 PM",
+            "Friday: 11:00 AM – 10:00 PM",
+            "Saturday: 11:00 AM – 10:00 PM",
+            "Sunday: 11:00 AM – 9:00 PM"
+        ]
+    },
+    "restroom": true,
+    "reviewSummary": {
+        "disclosureText": {
+            "languageCode": "en-US",
+            "text": "Summarized with Gemini"
+        },
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=5%401:CAIQACodChtyc19oOlYxN1V1d0lPejNaN3dBQ01NRmhQSFE%7CCAIQACoqChtyc19oOlYxN1V1d0lPejNaN3dBQ01NRmhQSFESCwjM9JbJBhDbhsJ-&d=17924085&t=8",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487605feff83f647:0x962733e59147a8d!9m1!1b1",
+        "text": {
+            "languageCode": "en-US",
+            "text": "People say this restaurant serves delicious mac and cheese with hash browns, and generous toppings. They also highlight the friendly and helpful service, and the chill market vibe.\n\nOther reviews mention the mac and cheese can be small."
+        }
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Kaitlyn Kline",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVOizXFsgpEsj3wJEcMfgP1h_G1k8pSZbvJ3M6b2ETWfldndTFJJQ=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/107066132725326344284/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWcldtdzBSR2xTVW5CQlNGcFJPWEZuTWxsNE5uYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWcldtdzBSR2xTVW5CQlNGcFJPWEZuTWxsNE5uYxAB!2m1!1s0x487605feff83f647:0x962733e59147a8d",
+            "name": "places/ChIJR_aD__4FdkgRjXoUWT5zYgk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWcldtdzBSR2xTVW5CQlNGcFJPWEZuTWxsNE5uYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "The mac and cheese they’re serving is actually mind blowing. I didn’t think I could enjoy something so simple, so much. The cheese wasn’t overly rich, and the ratio of noodle to cheese was just right. Adding  crispy onions and spring onions on top just brought the whole experience home. So good!"
+            },
+            "publishTime": "2025-08-31T15:41:11.127536191Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "3 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "The mac and cheese they’re serving is actually mind blowing. I didn’t think I could enjoy something so simple, so much. The cheese wasn’t overly rich, and the ratio of noodle to cheese was just right. Adding  crispy onions and spring onions on top just brought the whole experience home. So good!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Jai",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWu9VLySgycgwugnaZIlKxVl9IDUMvxloq2GWLHAh28MZ2eO9YA=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/115579963267229756134/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNua3M3UjZBRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNua3M3UjZBRRAB!2m1!1s0x487605feff83f647:0x962733e59147a8d",
+            "name": "places/ChIJR_aD__4FdkgRjXoUWT5zYgk/reviews/ChdDSUhNMG9nS0VJQ0FnSUNua3M3UjZBRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Don’t be fooled by the simplicity of hash browns! These tasted amazing. I ordered the hash browns with mac and cheese and I was not disappointed. One of the best stalls at the market for sure. The only thing I would say is if you go on a busy day prepare to wait, however that’s more to do with the market then the stall it self. Would definitely recommend and will be going again!!!"
+            },
+            "publishTime": "2024-09-24T12:11:34.936153Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a year ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Don’t be fooled by the simplicity of hash browns! These tasted amazing. I ordered the hash browns with mac and cheese and I was not disappointed. One of the best stalls at the market for sure. The only thing I would say is if you go on a busy day prepare to wait, however that’s more to do with the market then the stall it self. Would definitely recommend and will be going again!!!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Cranky Deer",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVaOLkz0gr-zaLoT1vNPaZMrTyGVWFwYJ1FiQgF_pq75jZQuOZJ=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/112343984886842310443/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ3eHI2bmxnRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ3eHI2bmxnRRAB!2m1!1s0x487605feff83f647:0x962733e59147a8d",
+            "name": "places/ChIJR_aD__4FdkgRjXoUWT5zYgk/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ3eHI2bmxnRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Loaded hash browns sounds so simple on paper but is AMAZING in reality 🤩🤩 The food service was friendly and fast, and the food itself was freshly made in front of us, hot and ready to go. The hash browns were perfectly crisps but soft, fluffy and hot in the centre, with a gorgeous mac and cheese topping that was rich with flavour. Parmesan was generously provided 😋😋 and crispy onions to add an extra kick of flavour.\n\nI got the mac and cheese special which was divine, and for £12.50 (with standard hashbrown meals ranging at £10), it is incredibly decent pricing for such delicious and satisfying portions. DO NOT MISS IT!"
+            },
+            "publishTime": "2024-08-23T22:00:20.201346Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a year ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Loaded hash browns sounds so simple on paper but is AMAZING in reality 🤩🤩 The food service was friendly and fast, and the food itself was freshly made in front of us, hot and ready to go. The hash browns were perfectly crisps but soft, fluffy and hot in the centre, with a gorgeous mac and cheese topping that was rich with flavour. Parmesan was generously provided 😋😋 and crispy onions to add an extra kick of flavour.\n\nI got the mac and cheese special which was divine, and for £12.50 (with standard hashbrown meals ranging at £10), it is incredibly decent pricing for such delicious and satisfying portions. DO NOT MISS IT!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "N M",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIWKPKA2uR0_sfDvIF7y8TtvHmrnLjHyPqEDFYXNOTJXy4BUA=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/115066727649709797635/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNfcE5LWHVRRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNfcE5LWHVRRRAB!2m1!1s0x487605feff83f647:0x962733e59147a8d",
+            "name": "places/ChIJR_aD__4FdkgRjXoUWT5zYgk/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfcE5LWHVRRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Stumbled across Hash Hut in Seven Dials Market when doing the Christmas lights walk and it didn’t disappoint. We went for the Hash Hut Famous Mac & Cheese and it was delicious! It initially seemed quite expensive for £12.50 for 4 hash brown triangles but looks can be deceiving- it was very filling! Hash brows were lovely and crispy and the toppings were very generous."
+            },
+            "publishTime": "2025-01-13T00:35:18.596762Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "11 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Stumbled across Hash Hut in Seven Dials Market when doing the Christmas lights walk and it didn’t disappoint. We went for the Hash Hut Famous Mac & Cheese and it was delicious! It initially seemed quite expensive for £12.50 for 4 hash brown triangles but looks can be deceiving- it was very filling! Hash brows were lovely and crispy and the toppings were very generous."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "kirsty James",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLfMWJxF7S9OFYs80MA6keiHgRtN9m_IwLrJckb7-15Lska_st3=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/100474122631476528258/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURQd3V6Y0RnEAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURQd3V6Y0RnEAE!2m1!1s0x487605feff83f647:0x962733e59147a8d",
+            "name": "places/ChIJR_aD__4FdkgRjXoUWT5zYgk/reviews/ChZDSUhNMG9nS0VJQ0FnSURQd3V6Y0RnEAE",
+            "originalText": {
+                "languageCode": "en",
+                "text": "So glad we hunted this place down whilst visiting London.\nGreat fresh produce, great value and lovely service.\nChoose from a stick, triangles or hash bites, with a choice of toppings and garnish. We had the Spicey and the buffalo. Delicious!!"
+            },
+            "publishTime": "2024-11-30T09:40:01.115621Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a year ago",
+            "text": {
+                "languageCode": "en",
+                "text": "So glad we hunted this place down whilst visiting London.\nGreat fresh produce, great value and lovely service.\nChoose from a stick, triangles or hash bites, with a choice of toppings and garnish. We had the Spicey and the buffalo. Delicious!!"
+            }
+        }
+    ],
+    "servesBreakfast": true,
+    "servesCoffee": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "servesVegetarianFood": true,
+    "shortFormattedAddress": "Seven Dials Market, 41 Earlham St, Seven Dials, London",
+    "takeout": true,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 71,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.5152698802915,
+            "longitude": -0.12459731970849798
+        },
+        "low": {
+            "latitude": 51.5125719197085,
+            "longitude": -0.12729528029150203
+        }
+    },
+    "websiteUri": "https://www.hashhut.co.uk/",
+    "timestamp": 1765447200
+}

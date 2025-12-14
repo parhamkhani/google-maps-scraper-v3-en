@@ -1,0 +1,820 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleParking": false,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": true
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "7",
+            "shortText": "7",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Saint Giles High Street",
+            "shortText": "St Giles High St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2H 8AB",
+            "shortText": "WC2H 8AB",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Fitzrovia"
+                },
+                "name": "places/ChIJX6QHYCkbdkgR9-PkycLMXGI",
+                "placeId": "ChIJX6QHYCkbdkgR9-PkycLMXGI"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Bloomsbury"
+                },
+                "name": "places/ChIJweU0JC4bdkgR0_XApfwHFCs",
+                "placeId": "ChIJweU0JC4bdkgR0_XApfwHFCs"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "NBCUniversal"
+                },
+                "name": "places/ChIJv4f2tzIbdkgR9ockIRcTijo",
+                "placeId": "ChIJv4f2tzIbdkgR9ockIRcTijo",
+                "straightLineDistanceMeters": 56.344505,
+                "travelDistanceMeters": 127.23684,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Central Saint Giles"
+                },
+                "name": "places/ChIJ50g9uDIbdkgRlCV8K3CctEM",
+                "placeId": "ChIJ50g9uDIbdkgRlCV8K3CctEM",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 34.421497,
+                "travelDistanceMeters": 37.048897,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Google London - Central Saint Giles"
+                },
+                "name": "places/ChIJVSZzVR8FdkgR-HklrBMO0Hc",
+                "placeId": "ChIJVSZzVR8FdkgR-HklrBMO0Hc",
+                "straightLineDistanceMeters": 57.099594,
+                "travelDistanceMeters": 79.74199,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The Shaftesbury Theatre"
+                },
+                "name": "places/ChIJP9s7JzMbdkgRUqiioDkVnzI",
+                "placeId": "ChIJP9s7JzMbdkgRUqiioDkVnzI",
+                "straightLineDistanceMeters": 138.78145,
+                "travelDistanceMeters": 169.13155,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Endeavour House"
+                },
+                "name": "places/ChIJJ_HBzTIbdkgRPmjFyvQYYSE",
+                "placeId": "ChIJJ_HBzTIbdkgRPmjFyvQYYSE",
+                "straightLineDistanceMeters": 96.39147,
+                "travelDistanceMeters": 186.23148,
+                "types": [
+                    "book_store",
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
+            }
+        ]
+    },
+    "allowsDogs": false,
+    "businessStatus": "OPERATIONAL",
+    "containingPlaces": [
+        {
+            "id": "ChIJ50g9uDIbdkgRlCV8K3CctEM",
+            "name": "places/ChIJ50g9uDIbdkgRlCV8K3CctEM"
+        }
+    ],
+    "currentOpeningHours": {
+        "nextOpenTime": "2025-11-25T12:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 – 10:00 PM",
+            "Tuesday: 12:00 – 10:00 PM",
+            "Wednesday: 12:00 – 10:00 PM",
+            "Thursday: 12:00 – 11:00 PM",
+            "Friday: 12:00 – 11:00 PM",
+            "Saturday: 12:00 – 11:00 PM",
+            "Sunday: 12:00 – 9:00 PM"
+        ]
+    },
+    "delivery": true,
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Cabana"
+    },
+    "editorialSummary": {
+        "languageCode": "en",
+        "text": "Brazilian charcoal-barbecued skewers and cocktails in modern steel-and-wood surrounds, with terrace."
+    },
+    "formattedAddress": "7 St Giles High St, London WC2H 8AB, UK",
+    "goodForChildren": true,
+    "goodForGroups": true,
+    "goodForWatchingSports": true,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x48761b5785864c95:0x11f438a96c843de5!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x48761b5785864c95:0x11f438a96c843de5!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=1293721293283409381&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x48761b5785864c95:0x11f438a96c843de5!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x48761b5785864c95:0x11f438a96c843de5!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=1293721293283409381&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJlUyGhVcbdkgR5T2EbKk49BE",
+    "internationalPhoneNumber": "+44 20 7632 9630",
+    "liveMusic": false,
+    "location": {
+        "latitude": 51.5159932,
+        "longitude": -0.1279319
+    },
+    "menuForChildren": true,
+    "name": "places/ChIJlUyGhVcbdkgR5T2EbKk49BE",
+    "nationalPhoneNumber": "020 7632 9630",
+    "outdoorSeating": true,
+    "parkingOptions": {
+        "freeParkingLot": true
+    },
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Cabana",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVzr81X7l9HzYJ9KyYsTgcq-6Z3Ngr_POwTHqMj3SDRmT06ZDdq=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/104591793620535201514"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPxI7wUXlTyaABcC_ZNrXUOBWNUelY5D8HK02Dl&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPxI7wUXlTyaABcC_ZNrXUOBWNUelY5D8HK02Dl!2e10!4m2!3m1!1s0x48761b5785864c95:0x11f438a96c843de5",
+            "heightPx": 3024,
+            "name": "places/ChIJlUyGhVcbdkgR5T2EbKk49BE/photos/AWn5SU7YhllY-0qxbEnQkdjOb9y80SPbCSwr1OhC_lRjPaKwfnL6sK4TnNAzkMWI8CtAUyOHJ76K6mvVRrgUeBV6yUFkkghkQzGvQjUBzV_z7PVs5PnUSDx6sZqb-pyAqYAsAKT9Ud0km2nG0O-s172L-BcsoaP0LQ-02pmbYioCIJxxKBOJWcwT--qAyIo4z7kAYd-wQ6KzS5A4d9I_VRnW3qoakizfxvDv8HeMbivw3SCA8QYLHmuPsXzT3CZ-z2cQr-_RNPExMJe5er08eaWmJVJe1l47TBoDc7DOo0ArUrW7fg",
+            "widthPx": 4032
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Cabana",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVzr81X7l9HzYJ9KyYsTgcq-6Z3Ngr_POwTHqMj3SDRmT06ZDdq=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/104591793620535201514"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMElgCNd8CYyZyCaGu7jVIF_n0U3j-0UYQHmD3M&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMElgCNd8CYyZyCaGu7jVIF_n0U3j-0UYQHmD3M!2e10!4m2!3m1!1s0x48761b5785864c95:0x11f438a96c843de5",
+            "heightPx": 2732,
+            "name": "places/ChIJlUyGhVcbdkgR5T2EbKk49BE/photos/AWn5SU5cM6fGeX0x4BecvkqQlY4M8LXpRaLMBEYDr8CJBhZuZY8TSFOU71VTbUyVpePTMCR3AE-OTbJrinwqojQFHjylJPWdECP7CnYwjSrHxOR9ropWnDFvLcTRha9-u1tqgp6LgoFLaNBGgF9rpvV9RcTDnauTGdF-s00pLVY97LF9OLXRy1GTh2HB7HrY_GpBXa4GZdPEy1WDMRgHYuNzw1eVKPthZ1e5faqR-hiCDRIKxaFRAejvJkFzI7fSaYeCRIeHiE-eHITMgEBwCxEO3V881rBk2tNl4gxZ28XjhtlGqA",
+            "widthPx": 4096
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Simon Morrison",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL6WTlV9kzEIXkWUm6g263VtqEO-t48EoOJxNyK1lfR5ohFZQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/115414899676336209531"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDfXyB5Bmld1qbz40ZaOSkt&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDfXyB5Bmld1qbz40ZaOSkt!2e10!4m2!3m1!1s0x48761b5785864c95:0x11f438a96c843de5",
+            "heightPx": 3600,
+            "name": "places/ChIJlUyGhVcbdkgR5T2EbKk49BE/photos/AWn5SU48DXFYfhAFpYwvddTo4kurg1OHNInr1nZ5RV-u0jAATOy3W9ZPOC44ihnCYc_0jjB7lsOnrnUYKUoFvimNGGj3cxy1MNnWo3s3_ww1CimrJuC9ayTmF3tzh8I5STNUVL79Veh0Zv6JvksgMRS_dmhViMZLC-ZbqwGAlzXCfx2BOZbR_snFGKmlND8r0Vk2xTdXBQtEA0J-9E2T26LeAO7zZP-PlqjOby1p2oeZ2IB9W1qHVbFpW-Rb98q-VaJ_0kJ_2S1MzPZp7AAprIMeMyPWHIQ-qg9ejVo0zF6khiuiQWg6jsIWJpQpGBtwthRgz_R0z4nhQC0dxUSFRGqRePUEdJ8VbqjCWkoEIAE4jbCi7jGY6y9xnTSNq2fAIwg1tD7SzZL4GPmu5IpDu_Tv08Forr2j9m7YSxDevvQLe3SxEUuw-VBE8B9eLkyp_YvG",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Michelle Lam",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIygs1DptAw_sm8FjkY9EAHcShM1JxNmRgzSsH7nNVdcsU7=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/104057387270988537630"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhB58vnBlpL-3mnv5Tu5U-Zz&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhB58vnBlpL-3mnv5Tu5U-Zz!2e10!4m2!3m1!1s0x48761b5785864c95:0x11f438a96c843de5",
+            "heightPx": 2268,
+            "name": "places/ChIJlUyGhVcbdkgR5T2EbKk49BE/photos/AWn5SU6kDgLfzUZak0s0zwue4pCqpWFRqNyEXlsmnroPahIMuTILV-SmJbAzwwhm65G0ZiMoZuY3PlxZRV5eMQTMpQ8NAZoL1F7Ot75MR5sl2XLnmA91EBsDCw03bHo_Z4OHMsieS560bpR1bqiXpCEvI-zdHjgTRRi3EumWWAWOirMNSOn1E3RFau--TPORMxhRLsZoxGvGro1CgymbOLivaLy2UCEQJeNFGpXVgX1YcsFCy7rVxoUyrzZmdO0zo6JGIwnFp7k6jzSBPzYn_ug9evJ-sg5u_HC8XEDUZjElPhi0KvtQxQ6TO363LoloaOfodJO_8I5AGHKonxUWOIbOK1b4Vcst-_3aRhRPw0LSDOk8u47t1ZNc40D8s-ppFwKM_ko67H17DWFO14nnopt1nUKBr4yGXazOZhoA0T9NGjYeovtzjYJsflyGLncaAYIU",
+            "widthPx": 4032
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Simon Morrison",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL6WTlV9kzEIXkWUm6g263VtqEO-t48EoOJxNyK1lfR5ohFZQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/115414899676336209531"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCTkBcLdcrS6FRtfecCOh4X&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCTkBcLdcrS6FRtfecCOh4X!2e10!4m2!3m1!1s0x48761b5785864c95:0x11f438a96c843de5",
+            "heightPx": 3600,
+            "name": "places/ChIJlUyGhVcbdkgR5T2EbKk49BE/photos/AWn5SU7aVMkdrx2NVR7wV0-1kF8C743RqpzZ_6r-fd5GFmWxdyhzrYlCoRp-EZvDeLm9lA4FBiAt96vGQK7E6M4mZfRz7LebhA4cj41ANX_tBNDo75xZRUoSPtrUldgbpdlZ0ftc6oVIGoU_Z-9bOYjSUdmhvTeRr0bG14U5BfOXhglunp9_k9v7j9eojVe9-1rky9RKPaKYqfkR6pgf3XFrsN2H0E9kFx_8hM3L0v5UH3vHgnFknJfCwz2NoOoghGFKjWnn3kHi4JylmxMSifjJLtEQ4yDnd1p5vrk2vOAdBN6Sqpg6YkEqH2rWxeCyoTW5wbQ5bpikkXpWj4FNzU1L-f9RyF7N79krjYXQMa6TcPgrPZQki18YyU_b2nDZCpzgwEj5eBK2CoB26Es-nrFbK3kWRH4XZdpp-zWHMWvbk5QuThRcxiHn8RCCGG7g469H",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Cabana",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVzr81X7l9HzYJ9KyYsTgcq-6Z3Ngr_POwTHqMj3SDRmT06ZDdq=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/104591793620535201514"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMrVDyYqrQLwMfWg5QS7aKtFZARcbTlASOkg37Z&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMrVDyYqrQLwMfWg5QS7aKtFZARcbTlASOkg37Z!2e10!4m2!3m1!1s0x48761b5785864c95:0x11f438a96c843de5",
+            "heightPx": 901,
+            "name": "places/ChIJlUyGhVcbdkgR5T2EbKk49BE/photos/AWn5SU7CBTIhoSmLxw8u-ahZMYAQmQv7OjL6ErcDyM9KuU7ZaBAIU0xSgE1Ziq6_FkoRxXWAr8cEcPi5fSuNKy-gj94BKzxpEtTWk_zdL6w5E3wBYyT7kVeYQU25xjK_cA6aj5MNJuBV81BkDFc_IZOcalCcqiCjs5ROuFIAahrI9lUQ8uhyC73e40PAVhffIWH8ALuOhG-a0VXIE9djvaC66CCyVgeDh1gPd-HYFMBOWJGgA8QTVLoym53VUSpE5Cjd6jKhGeb75nwwYPNmKejRk1yHnH9naCojX6Zdd43AL6zRLQ",
+            "widthPx": 1600
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Adnan Merhabi",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXhS17ZWqDLKWk5fGwotps7nvWGK48RpyupaReGfxvhsMzrkJyPbA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110418768825328450817"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDq9d3y-QE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDq9d3y-QE!2e10!4m2!3m1!1s0x48761b5785864c95:0x11f438a96c843de5",
+            "heightPx": 1080,
+            "name": "places/ChIJlUyGhVcbdkgR5T2EbKk49BE/photos/AWn5SU7VBtPSpkWUh_reWCDaMplUm385RAhZ1kU6pKxfMPpLoFcjlEVWku1dES4M_6dpONUMuNtyhQLjlqpUnN4USgErb8DpoDU-_Qaa2oiR1-ucvBdICTlifO6bOfGC10yep5qeBgBJSM8iTiodhMydBVqsS4Cqo7yPwImzH8jFJxTH-rGQi-EaUseAruChyumWgDB5Q6KAWU_3nkZ4aPVsGyNbTmELU-WJ4YV6dQXsQYhvFKQlke94ErjIQYxXM3NOh0UouxTYBRQUlJ_-D82QpUeX0sX7yB4qIUJV4N4Z0F7F7Ld2pEEFqVdWC1ROfCK1sKS1HJ0tAeVmr2unNNla3I7KCwMjSBFkaf9ynGCWIWYGVF8cjo0zieXReRHhc6V8_pr6i_6Mj1_HK0dxSDzzd-i-ieh1Ci1lJpKoGMrMhZguZa2y",
+            "widthPx": 1920
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Cabana",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVzr81X7l9HzYJ9KyYsTgcq-6Z3Ngr_POwTHqMj3SDRmT06ZDdq=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/104591793620535201514"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipME40TBW8QOB-_xg4-Yv8pCd8y5jgTf5OZJugvD&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipME40TBW8QOB-_xg4-Yv8pCd8y5jgTf5OZJugvD!2e10!4m2!3m1!1s0x48761b5785864c95:0x11f438a96c843de5",
+            "heightPx": 1117,
+            "name": "places/ChIJlUyGhVcbdkgR5T2EbKk49BE/photos/AWn5SU7p3lIK6Cbb_m1X3iahkJji0r0Wt-ay9TxZjF411DwdEL5FW9QehVaJvVno2hkilaEzsHgzPN9ybkPWoMCxdj5WxlAbTiF7BH3CFH_V_aWgcLTJHxB06v_ek85qpYN-q6AwvuEngdnP15dg7zbEDSuiQhpF9Zlm-9CjoX0Sx8dkX3XT0SH0duAEL1Qto5IBb_rDtEfDl_f5A_FfiXBIT0S0y_hDSvgFh4EFfruhPG2l9okyhB4GcqKDcD3cTNs97LekppZzfHKxwfrRc0af5fo-YMzPFUXvZ9mcP-0pFngVoA",
+            "widthPx": 1125
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Veronika Kennedy",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXycFMMhDlYHkYhNwnUHdq2iy028JzlEMrjW3m2Hbamo92E4OfA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/101460745498505161251"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEIWl9Mzg7Yf97gE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEIWl9Mzg7Yf97gE!2e10!4m2!3m1!1s0x48761b5785864c95:0x11f438a96c843de5",
+            "heightPx": 4032,
+            "name": "places/ChIJlUyGhVcbdkgR5T2EbKk49BE/photos/AWn5SU7Lzup7RTPRPg95EZUv3TqahHs7CLYAyrdebojS_AGbg1dgITECEvISzCXzrX55_Yh5ak-OCd4MmVGDa6VLTPnR0lqyv1W5pCsV0kyKYzjZOBzCqvOWY4pE6x_8DU7ztHzbHF1c2P1Rc5kQiBBsRIY0p8OtE3pOK9QtovJllUHdb3jIqxTpEtYNJIG4CDcZhQyltZYi2V689oEb9IB4m-i_d4zsbgRFnPRVs3qn2lXwozZOmr92uplK-BtuZvuucHfBnuib1DHqNiaENmyrSWvkA4xLT4pAHaf5zIwBhqP9eTTzP4SRPeZyI9OV0jJc07GaXqo2VvnVXYnp1IZSmt-WaYT8ccd47Rfeeiq0MyjpQK3Y4nuiprG-hsqTvaXvaLz0Qa1uC3W2-s7P8V75wGZecpimi6xA3LfxV0kVepqSWo1p",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Veronika Kennedy",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXycFMMhDlYHkYhNwnUHdq2iy028JzlEMrjW3m2Hbamo92E4OfA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/101460745498505161251"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEKjXxvLQ1L6eBg&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEKjXxvLQ1L6eBg!2e10!4m2!3m1!1s0x48761b5785864c95:0x11f438a96c843de5",
+            "heightPx": 3600,
+            "name": "places/ChIJlUyGhVcbdkgR5T2EbKk49BE/photos/AWn5SU5b9Kz2rnL_gcX4oSqbddlF9DQ9tazRGyZ5_kXZIg3MFdYX_Bb098AJBzCfgv1aN4HAnzgouIFEpboLzK_hvMIb6eVpUQGOvJVNk04dOJ2fv8zxbbPhIUVQx5W_R60uwVnH5yaPdjd1ErbUT8pGmiYVQSrrvh8rO738iF2sboJDolUo60LL_1Rwmzo3GHTttJTnzWx_11rNLYfAXG3dZ7pYe4STgCWli5O6WNOKgnauIv1gIrTutMabF5yXA_vzDaNJCLOVd6hz4gxtsTZj7k2aNnOJSQG3-J0baTV8AXZydFINnGYrTChE_atH-PhaQgUZdcZcyW8t0u6onDHGwBnQIoM07hh-pJFV2f62PqIqo5xEfaV09dIGf1Y90Wdv0a6cpTqwRtY9HDi4BtNOaKFfOxl6ty8CVZDT3NlCjz-MZw",
+            "widthPx": 4800
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV8C+9R London, UK",
+        "globalCode": "9C3XGV8C+9R"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "7 Saint Giles High Street"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2H 8AB",
+        "regionCode": "GB"
+    },
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "priceRange": {
+        "endPrice": {
+            "currencyCode": "GBP",
+            "units": "40"
+        },
+        "startPrice": {
+            "currencyCode": "GBP",
+            "units": "20"
+        }
+    },
+    "primaryType": "brazilian_restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Brazilian Restaurant"
+    },
+    "rating": 4.1,
+    "regularOpeningHours": {
+        "nextOpenTime": "2025-11-25T12:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 – 10:00 PM",
+            "Tuesday: 12:00 – 10:00 PM",
+            "Wednesday: 12:00 – 10:00 PM",
+            "Thursday: 12:00 – 11:00 PM",
+            "Friday: 12:00 – 11:00 PM",
+            "Saturday: 12:00 – 11:00 PM",
+            "Sunday: 12:00 – 9:00 PM"
+        ]
+    },
+    "reservable": true,
+    "restroom": true,
+    "reviewSummary": {
+        "disclosureText": {
+            "languageCode": "en-US",
+            "text": "Summarized with Gemini"
+        },
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=5%401:CAIQACodChtyc19oOktvN3VucEtDZl9QM2RORkxReFhxU2c%7CCAIQACoqChtyc19oOktvN3VucEtDZl9QM2RORkxReFhxU2cSCwiE6LbIBhDApeBE&d=17924085&t=8",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x48761b5785864c95:0x11f438a96c843de5!9m1!1b1",
+        "text": {
+            "languageCode": "en-US",
+            "text": "People say this Brazilian restaurant serves delicious chicken wings, flat iron steak, and feijoada. They also highlight the vibrant atmosphere, friendly staff, and attentive service.\n\nOther reviews mention the portions can be small."
+        }
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Kk W",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIxB6QAnOCa_YTjlk4kPzWh3C7ByzH3HbQ9zwIyW0vVuowwLw=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/113885965628996827725/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSM09WQkZjRmx0VDFOVWFqYzJiRlZ5ZUVONVNrRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSM09WQkZjRmx0VDFOVWFqYzJiRlZ5ZUVONVNrRRAB!2m1!1s0x48761b5785864c95:0x11f438a96c843de5",
+            "name": "places/ChIJlUyGhVcbdkgR5T2EbKk49BE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSM09WQkZjRmx0VDFOVWFqYzJiRlZ5ZUVONVNrRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Nice looking restaurant. Came with friends.  Service was slow,  restaurant was not busy at the time. Vibe was nice enough. All the food was decent, but needed more punchier flavours of Brazil. It's a place to stop off for a casual lunch. A good food place, with some adjustments to the flavour and service it could be great. Still left happy enough. Full and satisfied so no complaints."
+            },
+            "publishTime": "2025-09-20T03:43:03.321659390Z",
+            "rating": 3,
+            "relativePublishTimeDescription": "2 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Nice looking restaurant. Came with friends.  Service was slow,  restaurant was not busy at the time. Vibe was nice enough. All the food was decent, but needed more punchier flavours of Brazil. It's a place to stop off for a casual lunch. A good food place, with some adjustments to the flavour and service it could be great. Still left happy enough. Full and satisfied so no complaints."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Mimi",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV4NEArml3io80phfYSH4sQSDrp317BlvWbbrrXQOgQPINa2JbF=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/102524929525698934295/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tOcFptdGhhR1ZNUVZsWmEybDRUM2RMVUd4T1JXYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOcFptdGhhR1ZNUVZsWmEybDRUM2RMVUd4T1JXYxAB!2m1!1s0x48761b5785864c95:0x11f438a96c843de5",
+            "name": "places/ChIJlUyGhVcbdkgR5T2EbKk49BE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOcFptdGhhR1ZNUVZsWmEybDRUM2RMVUd4T1JXYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "I had such a wonderful time at Cabana! The atmosphere was vibrant yet relaxing.  The perfect spot to unwind and enjoy great food. What really made the experience exceptional was the service from Alexandra. She was warm, attentive, and genuinely made us feel welcome. Her recommendations were spot-on, and she checked in often without ever being intrusive. It’s rare to find someone who combines professionalism with such a friendly, personal touch.\n\nThanks to Alexandra, our visit felt extra special. I’ll definitely be coming back and I’ll be asking for her next time!"
+            },
+            "publishTime": "2025-10-05T13:50:46.111093655Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "I had such a wonderful time at Cabana! The atmosphere was vibrant yet relaxing.  The perfect spot to unwind and enjoy great food. What really made the experience exceptional was the service from Alexandra. She was warm, attentive, and genuinely made us feel welcome. Her recommendations were spot-on, and she checked in often without ever being intrusive. It’s rare to find someone who combines professionalism with such a friendly, personal touch.\n\nThanks to Alexandra, our visit felt extra special. I’ll definitely be coming back and I’ll be asking for her next time!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Horace Grimsby",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXrDUJ-h4O-kDFVW6-jln9Kt5fWz4qza01lRZNZFJCdJGeJ8a40=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/117735326260772756520/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s5YWRIWm1XbEYxV2xaTlQyUk5hWGRUU21JMU9HYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5YWRIWm1XbEYxV2xaTlQyUk5hWGRUU21JMU9HYxAB!2m1!1s0x48761b5785864c95:0x11f438a96c843de5",
+            "name": "places/ChIJlUyGhVcbdkgR5T2EbKk49BE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5YWRIWm1XbEYxV2xaTlQyUk5hWGRUU21JMU9HYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "The food here was absolutely delicious but that’s just the start. The space is awesome, staff super friendly and they even had a live DJ playing relaxing music at a civilised volume. Our order-taker answered our questions about the food on the menu and gave us great advice on what combinations would go well together. Food came quickly and was piping hot. Now to talk about the food again, each dish had its own standout flavour. Everything was well seasoned. The steak came out perfect and the chicken wings had that distinct open flame flavour. They were also very juicy and meaty. The sides of chips, beans and rice were so good, I could eat them by themselves! Such a great meal and atmosphere I’ll definitely be going back."
+            },
+            "publishTime": "2025-07-27T09:32:06.376949584Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "4 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "The food here was absolutely delicious but that’s just the start. The space is awesome, staff super friendly and they even had a live DJ playing relaxing music at a civilised volume. Our order-taker answered our questions about the food on the menu and gave us great advice on what combinations would go well together. Food came quickly and was piping hot. Now to talk about the food again, each dish had its own standout flavour. Everything was well seasoned. The steak came out perfect and the chicken wings had that distinct open flame flavour. They were also very juicy and meaty. The sides of chips, beans and rice were so good, I could eat them by themselves! Such a great meal and atmosphere I’ll definitely be going back."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Simon Morrison",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL6WTlV9kzEIXkWUm6g263VtqEO-t48EoOJxNyK1lfR5ohFZQ=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/115414899676336209531/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKVVZYWXpTMjFJUjI5ck1rRjNZa05GVWpSaU1XYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKVVZYWXpTMjFJUjI5ck1rRjNZa05GVWpSaU1XYxAB!2m1!1s0x48761b5785864c95:0x11f438a96c843de5",
+            "name": "places/ChIJlUyGhVcbdkgR5T2EbKk49BE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKVVZYWXpTMjFJUjI5ck1rRjNZa05GVWpSaU1XYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Brazilian restaurant, just next to Centre Point, near Tottenham Court Road. Nice decor and very quiet for a lunchtime meal.\n\nCrispy Pork belly with guacamole and grilled halloumi for starters. Fancied the mini lamb skewers for main course, but was told they’d run out. Opted for the mini beef and mushroom skewers. The beef was definitely overcooked, and rubbery in texture.\nThe basque cheesecake was good, but drowning in caramel sauce."
+            },
+            "publishTime": "2025-10-31T15:55:59.659273882Z",
+            "rating": 2,
+            "relativePublishTimeDescription": "3 weeks ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Brazilian restaurant, just next to Centre Point, near Tottenham Court Road. Nice decor and very quiet for a lunchtime meal.\n\nCrispy Pork belly with guacamole and grilled halloumi for starters. Fancied the mini lamb skewers for main course, but was told they’d run out. Opted for the mini beef and mushroom skewers. The beef was definitely overcooked, and rubbery in texture.\nThe basque cheesecake was good, but drowning in caramel sauce."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "debakins2",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVIiPA2hSqbtJ8bKunEo9mTfDaY7ziZcP1RAiE7QXKkFpkqL2wf_Q=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/118313652317374690619/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pCVVdGWjZNbkpEYjFOeWVYWXlMWFoxVEhOa2RYYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCVVdGWjZNbkpEYjFOeWVYWXlMWFoxVEhOa2RYYxAB!2m1!1s0x48761b5785864c95:0x11f438a96c843de5",
+            "name": "places/ChIJlUyGhVcbdkgR5T2EbKk49BE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCVVdGWjZNbkpEYjFOeWVYWXlMWFoxVEhOa2RYYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Came for a late lunch/early dinner here. Seated promptly and orders taken.  Starters came real quick and were very good. Ordered our mains and drinks shortly after. Happy hour was on for drinks, so we got 2 for the price of 1. The food was good and tasty, and the service was efficient. The atmosphere and ambience were lovely, and the weather was awesome, considering it had rained earlier in the day. Had a lovely day out overall."
+            },
+            "publishTime": "2025-07-20T08:45:00.287395041Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "4 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Came for a late lunch/early dinner here. Seated promptly and orders taken.  Starters came real quick and were very good. Ordered our mains and drinks shortly after. Happy hour was on for drinks, so we got 2 for the price of 1. The food was good and tasty, and the service was efficient. The atmosphere and ambience were lovely, and the weather was awesome, considering it had rained earlier in the day. Had a lovely day out overall."
+            }
+        }
+    ],
+    "servesBeer": true,
+    "servesBreakfast": false,
+    "servesBrunch": true,
+    "servesCocktails": true,
+    "servesCoffee": true,
+    "servesDessert": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "servesVegetarianFood": true,
+    "servesWine": true,
+    "shortFormattedAddress": "7 St Giles High St, London",
+    "takeout": true,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "brazilian_restaurant",
+        "barbecue_restaurant",
+        "bar_and_grill",
+        "bar",
+        "event_venue",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 1994,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.5171403802915,
+            "longitude": -0.12655021970849797
+        },
+        "low": {
+            "latitude": 51.5144424197085,
+            "longitude": -0.129248180291502
+        }
+    },
+    "websiteUri": "http://www.cabana-brasil.com/",
+    "timestamp": 1764064800
+}

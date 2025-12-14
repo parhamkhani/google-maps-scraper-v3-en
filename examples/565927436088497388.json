@@ -1,0 +1,790 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "16",
+            "shortText": "16",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Irving Street",
+            "shortText": "Irving St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2H 7AU",
+            "shortText": "WC2H 7AU",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Leicester Square"
+                },
+                "name": "places/ChIJoQ6SENIEdkgR2KECVj0PBdY",
+                "placeId": "ChIJoQ6SENIEdkgR2KECVj0PBdY"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The National Gallery"
+                },
+                "name": "places/ChIJGzUABc4EdkgRkmmrVTDDnUw",
+                "placeId": "ChIJGzUABc4EdkgRkmmrVTDDnUw"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJs4GOh8sEdkgRRiBFZKMP8ZE",
+                "placeId": "ChIJs4GOh8sEdkgRRiBFZKMP8ZE"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The National Gallery"
+                },
+                "name": "places/ChIJeclqF84EdkgRtKAjTmWFr0I",
+                "placeId": "ChIJeclqF84EdkgRtKAjTmWFr0I",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 114.50716,
+                "travelDistanceMeters": 142.94096,
+                "types": [
+                    "art_gallery",
+                    "establishment",
+                    "museum",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Trafalgar Square"
+                },
+                "name": "places/ChIJH-tBOc4EdkgRJ8aJ8P1CUxo",
+                "placeId": "ChIJH-tBOc4EdkgRJ8aJ8P1CUxo",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 212.57841,
+                "travelDistanceMeters": 221.457,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "National Portrait Gallery"
+                },
+                "name": "places/ChIJeclqF84EdkgRYkL4mtJ7rLM",
+                "placeId": "ChIJeclqF84EdkgRYkL4mtJ7rLM",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 78.25345,
+                "travelDistanceMeters": 99.847725,
+                "types": [
+                    "art_gallery",
+                    "establishment",
+                    "museum",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Leicester Square"
+                },
+                "name": "places/ChIJVX1-GtIEdkgR1n_gGjHQZpI",
+                "placeId": "ChIJVX1-GtIEdkgR1n_gGjHQZpI",
+                "straightLineDistanceMeters": 91.6351,
+                "travelDistanceMeters": 57.458782,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Official London Theatre Ticket Booth (partnered with tkts)"
+                },
+                "name": "places/ChIJ8ZtRd-gQdkgREcRfHvBDPJQ",
+                "placeId": "ChIJ8ZtRd-gQdkgREcRfHvBDPJQ",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 69.521126,
+                "travelDistanceMeters": 42.957367,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "curbsidePickup": true,
+    "currentOpeningHours": {
+        "nextOpenTime": "2025-12-11T12:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 14,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 14,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 15,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 15,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 16,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 16,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 17,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 17,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 – 10:00 PM",
+            "Tuesday: 12:00 – 10:00 PM",
+            "Wednesday: 12:00 – 10:00 PM",
+            "Thursday: 12:00 – 10:00 PM",
+            "Friday: 12:00 – 10:00 PM",
+            "Saturday: 12:00 – 10:00 PM",
+            "Sunday: 12:00 – 10:00 PM"
+        ]
+    },
+    "delivery": true,
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Silk Noodle 面对面 （西北菜馆）"
+    },
+    "formattedAddress": "16 Irving St, London WC2H 7AU, UK",
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x487605c2dbc4356b:0x7da940134b3d4ec!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487605c2dbc4356b:0x7da940134b3d4ec!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=565927436088497388&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487605c2dbc4356b:0x7da940134b3d4ec!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487605c2dbc4356b:0x7da940134b3d4ec!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=565927436088497388&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJazXE28IFdkgR7NSzNAGU2gc",
+    "location": {
+        "latitude": 51.509858799999996,
+        "longitude": -0.1290102
+    },
+    "name": "places/ChIJazXE28IFdkgR7NSzNAGU2gc",
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Silk Noodle",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK7kjXWQoTFtvxelB2AErYhw6Y07lz75OG0jqUwiWE01whClw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/108033125404934367652"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOs9novB-FJeA1i7-f_3iT1FYk-5pjznM6vpPti&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOs9novB-FJeA1i7-f_3iT1FYk-5pjznM6vpPti!2e10!4m2!3m1!1s0x487605c2dbc4356b:0x7da940134b3d4ec",
+            "heightPx": 3162,
+            "name": "places/ChIJazXE28IFdkgR7NSzNAGU2gc/photos/AZLasHolUHH-kNy7wHUR2yZDp3-OXmHfMzYjc4hgE-EAVb5nzk8K0n5vzSj2GOUgeZhVFfy93XbZMioAc9rQGyI2xe15jVZApcRnmaaHOC98KvVOP5WQVlTL40VnYPZscZ6CzBsPI6JRwqbwsNfGC5e0ytG2bUDkEmNV4n156bZ-FI4b4Gh1hkXOlXkBf2D-vYEw2KuINtnquK8c-FVuaSfPuGJl6N7532mhWKsPQlneD7Wz7kG1oYlH3aa4zuG5a-HCjgKmjjBgDPTp5yKDplOAxNm40z-MUk2QZk7eeAHzPzQEcw",
+            "widthPx": 4743
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Silk Noodle",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK7kjXWQoTFtvxelB2AErYhw6Y07lz75OG0jqUwiWE01whClw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/108033125404934367652"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipN1yJKAGdg7xSPLaF0sfwkVakFuCZ_PmE17CHVn&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN1yJKAGdg7xSPLaF0sfwkVakFuCZ_PmE17CHVn!2e10!4m2!3m1!1s0x487605c2dbc4356b:0x7da940134b3d4ec",
+            "heightPx": 3201,
+            "name": "places/ChIJazXE28IFdkgR7NSzNAGU2gc/photos/AZLasHocDOqUep2f-z54I3wvEQ55jhpi-W_2_zR7ZmaETm7SOXvVONCbYUXWZbmsUhf2p6F7N5RlpDKnYLd1SQbVIX81qPbbGIT2XqvcIFux2uuOkW7JBmPC_Vh_jldmD-8zuFc6deL8Rvot5VctoFbORW0ZXLLIzfhqLC6Iu_MUy3KPb9ivqMzg7JIYEGaoxOtoGA7fZYVuFoQ9HgCBP-m2-s6NQdbTNn267pdXk1SU96VOrNPkstRGiCaSqga_BMUPUZ1oA29z-Y1-QRfi2yLm4p2gPW9FOIhBImubTN5gq1cWKw",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "徐省同",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJcVLwH2BWKHfctp18wlHNg7W_OxhuxibXtWNvS3lN8CrG-iw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/111559637417233544664"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAIcQ7cp9oAJTcZjsrGpqan&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAIcQ7cp9oAJTcZjsrGpqan!2e10!4m2!3m1!1s0x487605c2dbc4356b:0x7da940134b3d4ec",
+            "heightPx": 3024,
+            "name": "places/ChIJazXE28IFdkgR7NSzNAGU2gc/photos/AZLasHqvhBmGXwhIU9G_zEr7pafd_Gs_BexTbR9qthBRKx4USAq7WF9rfnKSOqsCONk5oUrc_X5eqY5V0qKCaVTDgEfFXIOdLWO5xuta8Bz-5OBogtFnP_mRDCIjn-uccovI9DnenzWbOm27MpiuAzLjhX2NGbEzXz6rUct9JGBJF4dZBlHWRSpt-EHAn0Dp1bpHjcxY4mz5HFwPMODqvWwxXPBS4xy4mgQdy2Ezxvtq7zUI_dC9wjf0zt2jQW4f4DGWoGi6D-vGidvNOIcZAs06sRSPpa7vhaoJl5jDIkUbdjWzz-OtO1Zc0UiBrf9kj1rJ-R5-lVAmi-Hir2t35QfQxVjDW2qrpSfQNjLA7Vf8mh6bjZYiTk7DQPIRHRdXz5h9ymNPziZ1tbVw7JXSL_3ThyphWqO-G8AYKQCxzWF7UdxjHU8_n3vWKx_R9A8KxXp9",
+            "widthPx": 4032
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Silk Noodle",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK7kjXWQoTFtvxelB2AErYhw6Y07lz75OG0jqUwiWE01whClw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/108033125404934367652"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMBlqKdDWxSZVnCKUo0zJ4NbK7Z5NOpqTsafCvY&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMBlqKdDWxSZVnCKUo0zJ4NbK7Z5NOpqTsafCvY!2e10!4m2!3m1!1s0x487605c2dbc4356b:0x7da940134b3d4ec",
+            "heightPx": 3201,
+            "name": "places/ChIJazXE28IFdkgR7NSzNAGU2gc/photos/AZLasHpMXUtVpKjtH9JARodkhwcsnqzZJpGKXYv0Oa7WvU2aGDIYN5rsuvFiqRFRKJo7EtGGV7EELm-jhC2TeKDplcX5jhOn7vWhs4frc70vbWiMJSmlqRkCL-Blp7FQhQUD3v47Ct1fGB_PA_aCqMIHLMSZsAKKa5z3mVcP_p1vZLXaXYGYQm4TkbSubMTA_d99mZgFaS6vtgllRj-_AzBTKMDVKMgBpdek4_hhtPwr9kSSc67lOppLgOHGmrifZWpbAWINoblyu55rPxNfI042LWpGUPS9ZlsFT4GFCTNVM9F9qg",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "xin",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXVRwo6oneLuvzt8gUlLBMNig7CrRYgy8tXoHhyPu8nCpk8b34HVg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/111917115222731175854"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDWqjKknnNT70Yn1mQAQ6k8&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDWqjKknnNT70Yn1mQAQ6k8!2e10!4m2!3m1!1s0x487605c2dbc4356b:0x7da940134b3d4ec",
+            "heightPx": 4608,
+            "name": "places/ChIJazXE28IFdkgR7NSzNAGU2gc/photos/AZLasHpksJQ8Zv8pRptVEwk7r15_xXEE-xmDfSX_rTEon1BkAFjqDFn_5FqTPwzZlfiMEW3yEjGxcoT-V2d6d_UiZhrEMwp0LS7K3XIBzWpdCvl5FGeC4gDDFP2ucy2ZUv9ixR2ASQsH5clWzz1jvWyNbqsekvzFDqtujbJsWA-FypLWUO409VsEuRE9eB6FJqWUt2VENNLx06UAohg-W014D1Nt3yEKCoC2GWsPH9YsKcSLTChFDiDB3NtQc_AuWOSU10qr2Sr0e-HZvD7qRaq1pdcdOBmb5_QaA-9gzhLO_gcXeXnKyLWtUz_LdOGvX8_uMRMfbT7T_x7-wCaGo-7YWJ7KJd2-LWz4cbdVhkSgggk2n4wG2MH2TyiGBzDpmjSfv7M2hFWH1Uy5X1FQ95qcNWwsq1tSQ2E1IuCH2p6BYWyJNXpOBAE1Pv6OsZ84RF57",
+            "widthPx": 3456
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Silk Noodle",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK7kjXWQoTFtvxelB2AErYhw6Y07lz75OG0jqUwiWE01whClw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/108033125404934367652"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMisyrZbwo88S_UoQdMMTmcfn8I6Rw0jUMg0ghr&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMisyrZbwo88S_UoQdMMTmcfn8I6Rw0jUMg0ghr!2e10!4m2!3m1!1s0x487605c2dbc4356b:0x7da940134b3d4ec",
+            "heightPx": 3201,
+            "name": "places/ChIJazXE28IFdkgR7NSzNAGU2gc/photos/AZLasHr5gKRsyqJEnlOWRbEmLzfaApWjAVEBUYpH4mRIA-Mq_NkRP4GFcntXn-ZSvJVqHILi0Lzmrcmpc5cV1yDsRQFPKbFP9dFYH1_pBCxAFZrG_2DvAEZAkpoNeKJEqNPSLGb1MXf-LwvMLjMQvLtuMvRs51SwLUOMnp89Ku3OwPAKaUP08fmoSQe0uly3Tzorwua3Pheved8k3gXrHzJj2XjDUzvgKMMle3oV5XeWvtSD7zSMhx29JjDHgEm0KQmG1AauQZOeTQgVXTlcOO5HDLPD6mPASHHPEi0IGP4dOOhAWA",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Silk Noodle",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK7kjXWQoTFtvxelB2AErYhw6Y07lz75OG0jqUwiWE01whClw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/108033125404934367652"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNKP5VPLOnFSJ_M6CK5hY2edQTkOw8F-OamKqsc&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNKP5VPLOnFSJ_M6CK5hY2edQTkOw8F-OamKqsc!2e10!4m2!3m1!1s0x487605c2dbc4356b:0x7da940134b3d4ec",
+            "heightPx": 3201,
+            "name": "places/ChIJazXE28IFdkgR7NSzNAGU2gc/photos/AZLasHr0GLFBeI-vRWFCI0wji0HLZ8AP7K6hgkJ7XoZkp5SjHGv-iMEsRNWah8GXijL1dqbGDWLevfa15anWJE0hvxojCm-uHEtBzINKlFnlJ7dHg2vWMX62FTduqvQDsKRlOH6OZ9L_yHiwqtfQcUO8kagjlBpRikTVP5y5ygaQFcUPGThXKVTKGwDeS2eivnBVivqJrcqEl5hmzMquQXLn5aL8ENKsYWnOUQ4RbAbiOnhRjGXzvazVLdi8ajMH-SSMBuuKOVlTL0B4Dvm7koshzHW7WngjQZBjMxRQiMTNmfE75A",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Silk Noodle",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK7kjXWQoTFtvxelB2AErYhw6Y07lz75OG0jqUwiWE01whClw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/108033125404934367652"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOeeRHTYuMkgbxwRIjLcj1a-v20X3Tba3nedeoZ&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOeeRHTYuMkgbxwRIjLcj1a-v20X3Tba3nedeoZ!2e10!4m2!3m1!1s0x487605c2dbc4356b:0x7da940134b3d4ec",
+            "heightPx": 3201,
+            "name": "places/ChIJazXE28IFdkgR7NSzNAGU2gc/photos/AZLasHoyssj_V5U9z-gobe3cF6EMYJ0lflrR0FR7Qs48r0Kv0Jwn7vRVahUHkh9DnoohEo0cYzEe1DxTD5KgBHfvG5_3waHB0v16wqLLECJ2Q0m5cr8mTCrg-9lYhfrWv84iKXDDaSDfbVvRnNQFmxfm0boukr5zsdqq2kkyCoqfPIlZARGY4w10UV8INQYvtSw5JJFD0zM-ePAIS46hLSyYhH70zcj_iPoFI75eBc8Toy5pBb2KzIvC8ZC78zL2l5bd_4tyxMrJuOhLMZ3hd8MuCHca5GNsLK2r-7IPjHdfukvbtQ",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Kristie Zhao",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLZogQkfaf9AzFrTX3DN4W63yxW02-2T7u-ry_XPSTsuPPZAg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/104445334597560301095"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCiKQRcosriQ8nt9SqPj5Bu&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCiKQRcosriQ8nt9SqPj5Bu!2e10!4m2!3m1!1s0x487605c2dbc4356b:0x7da940134b3d4ec",
+            "heightPx": 4032,
+            "name": "places/ChIJazXE28IFdkgR7NSzNAGU2gc/photos/AZLasHpFBJod7R3tjUe4b1AwHUmaiHI2Ut0_usBBXjGDyliULL-UfaXZDgMlxPmFVTW5yUaw7tgUm5y2UIecQ09HkVkYoMDHHYo5S0AdyjNIA18b07XeKaguclejFqq6Dw4jWNqgJcRMZ7KvI2-XBYKC2t7kBiCpNgeBENx4gg1-tYBlQv6kW7pWuAl3InePoODxuNo7qKpI7vL4i63xU_MUKZVGIzK_jkUjyploBbBeJRfqcvmbFbSr6fP8QGxU260_oyy4DQUGYspX56obEpfNEp2Kr0jriXQWnA_zAh6vLCrnukyZv-GdkMZkE_-Mdh0kM6obUF1iJpbC2vXsf4rwg34v5UEmY6VgsAx2CAi4DQx5F5PUxxqe-M3gKBySQjTVs_NK3pVn09C0noynxrROvp41zzybgUqk4AT0V6irl9os2Wyk7BybN8fUNT_rpn9z",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Silk Noodle",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK7kjXWQoTFtvxelB2AErYhw6Y07lz75OG0jqUwiWE01whClw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/108033125404934367652"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOjQAMCyc0mqtzH0dBokjdn0khEaOj0zh4N7vEL&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOjQAMCyc0mqtzH0dBokjdn0khEaOj0zh4N7vEL!2e10!4m2!3m1!1s0x487605c2dbc4356b:0x7da940134b3d4ec",
+            "heightPx": 3201,
+            "name": "places/ChIJazXE28IFdkgR7NSzNAGU2gc/photos/AZLasHq2L_-nWmPbEDWRe3KZjU4mnO5S1WiO0NOr4AanwFWrV2UUo1w9aj5n6BDgaZ3yDKoDMge35XGdnG5sOsoCiFtjDRAqt5mgMzc-lQZnAI1Ee84HhA1nvFDcPZpXntYT9fNqmYFPq0CrrWABox-FTBz7V7ADM7qgPXJaeT2UE-5gCBkMWQ0ADzPshY-w2QzBgPvry-kbPI6t_dYzfVmGR8oM3rgZwP6yilbtsQ6J3JmDbrqlvrEUaTvGXbyC-TDIo4dTbNW9yDUxoQrZc2mYKnxi5snIQKMfPPIiBwPesr-KQw",
+            "widthPx": 4800
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV5C+W9 London, UK",
+        "globalCode": "9C3XGV5C+W9"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "16 Irving Street"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2H 7AU",
+        "regionCode": "GB"
+    },
+    "priceRange": {
+        "endPrice": {
+            "currencyCode": "GBP",
+            "units": "20"
+        },
+        "startPrice": {
+            "currencyCode": "GBP",
+            "units": "10"
+        }
+    },
+    "primaryType": "restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Restaurant"
+    },
+    "rating": 4.8,
+    "regularOpeningHours": {
+        "nextOpenTime": "2025-12-11T12:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 – 10:00 PM",
+            "Tuesday: 12:00 – 10:00 PM",
+            "Wednesday: 12:00 – 10:00 PM",
+            "Thursday: 12:00 – 10:00 PM",
+            "Friday: 12:00 – 10:00 PM",
+            "Saturday: 12:00 – 10:00 PM",
+            "Sunday: 12:00 – 10:00 PM"
+        ]
+    },
+    "reviewSummary": {
+        "disclosureText": {
+            "languageCode": "en-US",
+            "text": "Summarized with Gemini"
+        },
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=5%401:CAIQACodChtyc19oOkkybDJVNV9Wa2I1SF9KMzJUZGVpN1E%7CCAIQACorChtyc19oOkkybDJVNV9Wa2I1SF9KMzJUZGVpN1ESDAjko8_JBhCA7IuUAg&d=17924085&t=8",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487605c2dbc4356b:0x7da940134b3d4ec!9m1!1b1",
+        "text": {
+            "languageCode": "en-US",
+            "text": "People say this restaurant serves delicious hand-pulled noodles, beef brisket, and lamb dishes. They highlight the generous portions, reasonable prices, and authentic Chinese flavors. They also like the friendly and welcoming staff."
+        }
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Qasim Bhatti",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUnuPUvc019JKzZLUqxKTIaMz0plpDo3jmGHF8yjSkR-yImnqc=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/109443504754360260303/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21Kb2NYRkxVVUozTURGcFJXeFFTRFZPUmtsMk5XYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21Kb2NYRkxVVUozTURGcFJXeFFTRFZPUmtsMk5XYxAB!2m1!1s0x487605c2dbc4356b:0x7da940134b3d4ec",
+            "name": "places/ChIJazXE28IFdkgR7NSzNAGU2gc/reviews/Ci9DQUlRQUNvZENodHljRjlvT21Kb2NYRkxVVUozTURGcFJXeFFTRFZPUmtsMk5XYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Wow.\nFound this place on the off chance just off Leicester square going back to our hotel.\n\nFully halal.\nExcellent customer service.\n\nThe beef dish came on the bone and she denied it for me..so tender with the pulled flat noodles.\nThe BBQ lamb skewers were excellent and so flavourful .\nThe fried rice amongst the best iv ever had... proper wok hei.\n\nAnd the rice noodles (gluten free ) were amazing too.\nHands down one of the best Chinese food experiences of my life."
+            },
+            "publishTime": "2025-11-23T13:25:19.787543313Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 weeks ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Wow.\nFound this place on the off chance just off Leicester square going back to our hotel.\n\nFully halal.\nExcellent customer service.\n\nThe beef dish came on the bone and she denied it for me..so tender with the pulled flat noodles.\nThe BBQ lamb skewers were excellent and so flavourful .\nThe fried rice amongst the best iv ever had... proper wok hei.\n\nAnd the rice noodles (gluten free ) were amazing too.\nHands down one of the best Chinese food experiences of my life."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Evelyn Giovanie",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIp9KwNk5JV6fafqPNzZ9cRXxeSPkudmJMnWfHEEbpXTAi31A=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/107240819542249675833/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWSVQwWnFTR3hQV2pCZmJtMVRhMVJvVm1Ga01XYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWSVQwWnFTR3hQV2pCZmJtMVRhMVJvVm1Ga01XYxAB!2m1!1s0x487605c2dbc4356b:0x7da940134b3d4ec",
+            "name": "places/ChIJazXE28IFdkgR7NSzNAGU2gc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWSVQwWnFTR3hQV2pCZmJtMVRhMVJvVm1Ga01XYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "The food is amazing!! Saw about this place on TikTok, tried it once and went back a second time from how good it was!\n\nFirst time round we ordered the beef brisket oil spill hand-pulled noodles, mutton noodle soup and squid skewer. Second time we ordered the beef brisket noodles again along with some fried noodles. All were soo good!\n\nPlus, the side dishes are really tasty, there’s seaweed and other radishes. Service is also really really nice~\n\nWould totally recommend and come back again! :) ⭐️⭐️⭐️⭐️⭐️"
+            },
+            "publishTime": "2025-11-11T07:20:48.103297781Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "The food is amazing!! Saw about this place on TikTok, tried it once and went back a second time from how good it was!\n\nFirst time round we ordered the beef brisket oil spill hand-pulled noodles, mutton noodle soup and squid skewer. Second time we ordered the beef brisket noodles again along with some fried noodles. All were soo good!\n\nPlus, the side dishes are really tasty, there’s seaweed and other radishes. Service is also really really nice~\n\nWould totally recommend and come back again! :) ⭐️⭐️⭐️⭐️⭐️"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Suzy Q",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIlN89P5caP2lz_AdQUVYb0RZRyxTXHVq3nxHAp3Tm5HwaiYw=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/104558422856334891056/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tacVYzWmlSbDgwYXkxV1lrODBTR2RFWjJSek1WRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tacVYzWmlSbDgwYXkxV1lrODBTR2RFWjJSek1WRRAB!2m1!1s0x487605c2dbc4356b:0x7da940134b3d4ec",
+            "name": "places/ChIJazXE28IFdkgR7NSzNAGU2gc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tacVYzWmlSbDgwYXkxV1lrODBTR2RFWjJSek1WRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "food/customer service/cleanliness/decor here is all top notch. from the moment they see you entering through the window to the moment you've finished and are out standing on the pavement again, and every moment in between, the staff are so attentive. you won't need to bring a man with you, the staff will pull out your chair and top up your drink for you. and all halal! a waitress gave us an excellent recommendation - her favourite dish - of the oil spill hand pulled noodles with beef brisket. excellent value for money as well. we got 2 mains, 4 sides, and a drink for £60, with complimentary bamboo and dessert! haven't eaten so much for that amount of money in London since ~2012.\nthank you all so much. hope to be back soon :)"
+            },
+            "publishTime": "2025-10-24T20:41:33.657962387Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "food/customer service/cleanliness/decor here is all top notch. from the moment they see you entering through the window to the moment you've finished and are out standing on the pavement again, and every moment in between, the staff are so attentive. you won't need to bring a man with you, the staff will pull out your chair and top up your drink for you. and all halal! a waitress gave us an excellent recommendation - her favourite dish - of the oil spill hand pulled noodles with beef brisket. excellent value for money as well. we got 2 mains, 4 sides, and a drink for £60, with complimentary bamboo and dessert! haven't eaten so much for that amount of money in London since ~2012.\nthank you all so much. hope to be back soon :)"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Tatiana Ianciuc",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJt4Z3GsybuJQ0ZqDFa-IblRf1ur8ntq8EZBdlnBpM0KD_YRw=s128-c0x00000000-cc-rp-mo-ba2",
+                "uri": "https://www.google.com/maps/contrib/114877003574860707377/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2taRmVqRm5NazV4WVdkNU9HWkhabE4zU0VkV1ZuYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taRmVqRm5NazV4WVdkNU9HWkhabE4zU0VkV1ZuYxAB!2m1!1s0x487605c2dbc4356b:0x7da940134b3d4ec",
+            "name": "places/ChIJazXE28IFdkgR7NSzNAGU2gc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taRmVqRm5NazV4WVdkNU9HWkhabE4zU0VkV1ZuYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "We came without any idea if this place is good or not. Amazing! This place deserves to be the best place for Chinese food.\nOur server Victor helps us to choose the most delicious food, beef with noodle in tasty broth, noodle with chicken and prawns.\nThe place is very nice, beautiful oriental design.\nTop of the top!\nDefinitely will come back!\nNo food pictures- we was hungry and forgot🤣 to take it🤣"
+            },
+            "publishTime": "2025-11-20T18:53:23.307080364Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 weeks ago",
+            "text": {
+                "languageCode": "en",
+                "text": "We came without any idea if this place is good or not. Amazing! This place deserves to be the best place for Chinese food.\nOur server Victor helps us to choose the most delicious food, beef with noodle in tasty broth, noodle with chicken and prawns.\nThe place is very nice, beautiful oriental design.\nTop of the top!\nDefinitely will come back!\nNo food pictures- we was hungry and forgot🤣 to take it🤣"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Viktoriya Gladkova",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUxCk1Bcf9as6OYGnP22CVC8H1-nFdBuG5Qzo1XHSJBg039WQex=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/114049973066244620053/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xSWWJFRm5TV1ZyU2tReVdWbG9NR2hNWVd4elRGRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSWWJFRm5TV1ZyU2tReVdWbG9NR2hNWVd4elRGRRAB!2m1!1s0x487605c2dbc4356b:0x7da940134b3d4ec",
+            "name": "places/ChIJazXE28IFdkgR7NSzNAGU2gc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSWWJFRm5TV1ZyU2tReVdWbG9NR2hNWVd4elRGRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "I visited this Chinese restaurant for the first time, and I was truly impressed. The food was delicious, and the service was very fast. Everything was wonderful, and I really enjoyed my experience here.\n\nA special thank you to our waiter, Viktor. He recommended delicious dishes and salads, and he was very polite and friendly. It was a real pleasure to interact with him.\n\nI will definitely come back!"
+            },
+            "publishTime": "2025-11-20T18:55:01.312828071Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 weeks ago",
+            "text": {
+                "languageCode": "en",
+                "text": "I visited this Chinese restaurant for the first time, and I was truly impressed. The food was delicious, and the service was very fast. Everything was wonderful, and I really enjoyed my experience here.\n\nA special thank you to our waiter, Viktor. He recommended delicious dishes and salads, and he was very polite and friendly. It was a real pleasure to interact with him.\n\nI will definitely come back!"
+            }
+        }
+    ],
+    "servesBeer": true,
+    "servesDessert": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "shortFormattedAddress": "16 Irving St, London",
+    "takeout": true,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 329,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.5112250302915,
+            "longitude": -0.127371519708498
+        },
+        "low": {
+            "latitude": 51.5085270697085,
+            "longitude": -0.13006948029150203
+        }
+    },
+    "timestamp": 1765447200
+}

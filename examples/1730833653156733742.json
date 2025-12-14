@@ -1,0 +1,809 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleSeating": true
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "21",
+            "shortText": "21",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "The Market",
+            "shortText": "The Market",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2E 8RD",
+            "shortText": "WC2E 8RD",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJgXlkg8sEdkgRBQIcjaxWHPs",
+                "placeId": "ChIJgXlkg8sEdkgRBQIcjaxWHPs"
+            },
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJs4GOh8sEdkgRRiBFZKMP8ZE",
+                "placeId": "ChIJs4GOh8sEdkgRRiBFZKMP8ZE"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "und",
+                    "text": "Jubilee Market Hall"
+                },
+                "name": "places/ChIJ-ScSl8sEdkgRjISxG4sLNPY",
+                "placeId": "ChIJ-ScSl8sEdkgRjISxG4sLNPY"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Royal Ballet and Opera"
+                },
+                "name": "places/ChIJySOgh8sEdkgRCBzTYt83Klg",
+                "placeId": "ChIJySOgh8sEdkgRCBzTYt83Klg",
+                "straightLineDistanceMeters": 152.28352,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Jubilee Market"
+                },
+                "name": "places/ChIJZ5rPfcwEdkgRCld_oTBUf_k",
+                "placeId": "ChIJZ5rPfcwEdkgRCld_oTBUf_k",
+                "straightLineDistanceMeters": 77.08513,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJQR9pg8sEdkgRKeWNNYlDdPU",
+                "placeId": "ChIJQR9pg8sEdkgRKeWNNYlDdPU",
+                "spatialRelationship": "WITHIN",
+                "straightLineDistanceMeters": 46.58194,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "shopping_mall"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Apple Covent Garden"
+                },
+                "name": "places/ChIJ19zvf8wEdkgROmHH72PtzZg",
+                "placeId": "ChIJ19zvf8wEdkgROmHH72PtzZg",
+                "straightLineDistanceMeters": 77.79976,
+                "types": [
+                    "electronics_store",
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "London Transport Museum"
+                },
+                "name": "places/ChIJ4bF21K8FdkgRDXc6FiSVAzE",
+                "placeId": "ChIJ4bF21K8FdkgRDXc6FiSVAzE",
+                "straightLineDistanceMeters": 98.650375,
+                "types": [
+                    "cafe",
+                    "establishment",
+                    "food",
+                    "museum",
+                    "point_of_interest",
+                    "store",
+                    "tourist_attraction"
+                ]
+            }
+        ]
+    },
+    "allowsDogs": true,
+    "businessStatus": "OPERATIONAL",
+    "containingPlaces": [
+        {
+            "id": "ChIJQR9pg8sEdkgRKeWNNYlDdPU",
+            "name": "places/ChIJQR9pg8sEdkgRKeWNNYlDdPU"
+        }
+    ],
+    "currentOpeningHours": {
+        "nextOpenTime": "2025-12-11T12:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 14,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 14,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 15,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 15,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 16,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 16,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 17,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 17,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 – 11:00 PM",
+            "Tuesday: 12:00 – 11:00 PM",
+            "Wednesday: 12:00 – 11:00 PM",
+            "Thursday: 12:00 – 11:00 PM",
+            "Friday: 12:00 – 11:00 PM",
+            "Saturday: 12:00 – 11:00 PM",
+            "Sunday: 12:00 – 9:00 PM"
+        ]
+    },
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "VyTA Restaurant & Laki Kane Lounge, Covent Garden"
+    },
+    "editorialSummary": {
+        "languageCode": "en",
+        "text": "Polished venture with multiple open-air dining areas fixing up Italian plates & inventive cocktails."
+    },
+    "formattedAddress": "21 The Market, London WC2E 8RD, UK",
+    "goodForChildren": false,
+    "goodForGroups": true,
+    "goodForWatchingSports": false,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x487605ca3605896b:0x1805280985b2e32e!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487605ca3605896b:0x1805280985b2e32e!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=1730833653156733742&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487605ca3605896b:0x1805280985b2e32e!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487605ca3605896b:0x1805280985b2e32e!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=1730833653156733742&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJa4kFNsoFdkgRLuOyhQkoBRg",
+    "internationalPhoneNumber": "+44 20 7654 3030",
+    "liveMusic": true,
+    "location": {
+        "latitude": 51.5116325,
+        "longitude": -0.12294279999999999
+    },
+    "menuForChildren": true,
+    "name": "places/ChIJa4kFNsoFdkgRLuOyhQkoBRg",
+    "nationalPhoneNumber": "020 7654 3030",
+    "outdoorSeating": true,
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "VyTA Restaurant & Laki Kane Lounge, Covent Garden",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXRSMfqpcYwoF-Ark9npeftOL40_s_NpgBj_fHxM3wQrF3z7Z8=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/104086422011439244190"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMRREqPcruBSpTwEIhAgzzBmBSjUY8yB5izYAdv&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMRREqPcruBSpTwEIhAgzzBmBSjUY8yB5izYAdv!2e10!4m2!3m1!1s0x487605ca3605896b:0x1805280985b2e32e",
+            "heightPx": 900,
+            "name": "places/ChIJa4kFNsoFdkgRLuOyhQkoBRg/photos/AZLasHoL0VaSScYyQRObx3zWqJ8MOLiud4ZtpL2iwJgNsUnPbIUsyeYsTK3uNd4DSchxg3f5ybOQ0EQjeAjZXODFj8nGpUZvGeecZQne2SfD_GU85_rK9Vtj47-g8Ft0c_8qBU1QIvS6003MdkA0DSfs5g0B28F9ApmXZZ-0StSxMuWdhaxqmbbNZI5B9hdojdcVCDnHTqpQ2arw9xTcZkezaMdw_qH94f_KzUMOht0r2g0D9jPPRh4iH4uIZ8GoYsgKn-b_7CsnvRd5imcWun6gXi_BQJngdB9gom3xoXp7xwDP6w",
+            "widthPx": 1200
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "VyTA Restaurant & Laki Kane Lounge, Covent Garden",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXRSMfqpcYwoF-Ark9npeftOL40_s_NpgBj_fHxM3wQrF3z7Z8=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/104086422011439244190"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMSL-VwFazgM2JkW0Sj9kQ_FsMTmj8MyDt5GPk_&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMSL-VwFazgM2JkW0Sj9kQ_FsMTmj8MyDt5GPk_!2e10!4m2!3m1!1s0x487605ca3605896b:0x1805280985b2e32e",
+            "heightPx": 4000,
+            "name": "places/ChIJa4kFNsoFdkgRLuOyhQkoBRg/photos/AZLasHoKqBQDfv3brTCzkBqHTiwk19IHmxeIALB1lW6BDVMxNywnjyo2KpQKL4WgkYhTgZ_SsQyIex1hC7r6HrbvbEr9jXk3ORkbiMDMu7_PDPHPftpHFS0Wmf_85OuTcav7E_zmjFs4L7YvZKBcwQZWzvurmiluH-Hvld_T2ZvNyv8MskUDG4Uh7EkuyQloEoIiA1SlHAX5oKyIOYdELWgCVX92ZXU9wfRnnbr0aC6LfJqn3ZwnTUufPELFGiAgOR_toJB5HNg84v5A_SGNkqSyuhItbqO2XbRlaiEAtzqqOxAsMg",
+            "widthPx": 2668
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "VyTA Restaurant & Laki Kane Lounge, Covent Garden",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXRSMfqpcYwoF-Ark9npeftOL40_s_NpgBj_fHxM3wQrF3z7Z8=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/104086422011439244190"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPdimwSXu3_8zweB9BWf8R-32PnFLVVlvVYroR0&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPdimwSXu3_8zweB9BWf8R-32PnFLVVlvVYroR0!2e10!4m2!3m1!1s0x487605ca3605896b:0x1805280985b2e32e",
+            "heightPx": 1440,
+            "name": "places/ChIJa4kFNsoFdkgRLuOyhQkoBRg/photos/AZLasHqjD3mt3ADrKCatq7M4TDIPB0AFciF4OkgptWOqDMWIbJeOlo7wxhy6YImq5M5aq8KNpTjVF7hM2JrVM8tj3ZKvWGrGlKoKuSDKVUWVDk2bxRdWvqCeKD4i69iHqlGHsdu5AQuIvZWLXEUBwXM-STcMksZvioPGZkUD-dxv-mA4yW-4I-k1vzhzSX4y1PenQzv4t0tM6qDqDj18JMs7EsZKDPekk41_-Pv7mcNSyWMXvCytOWNR8pDVEEgZEIxKYMgRqYs4YU9tBEycBcCrcYv9hegZKWBe1chIP5lAU1K2xQ",
+            "widthPx": 1080
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "VyTA Restaurant & Laki Kane Lounge, Covent Garden",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXRSMfqpcYwoF-Ark9npeftOL40_s_NpgBj_fHxM3wQrF3z7Z8=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/104086422011439244190"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipP7E7dc1IO9jlL--p8KQQ2PINoSm4SL7c-Hfx2-&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP7E7dc1IO9jlL--p8KQQ2PINoSm4SL7c-Hfx2-!2e10!4m2!3m1!1s0x487605ca3605896b:0x1805280985b2e32e",
+            "heightPx": 4000,
+            "name": "places/ChIJa4kFNsoFdkgRLuOyhQkoBRg/photos/AZLasHp5AVilQ2qUKl2zbdGdRDOgL7OxuyhbNocmUYW6m6zTO7vzwS1sZhyqwDbn9v2bWr-CBs3vm5-6SOM3x3Afpx_FDqZ2dQxFuAfg-Z9jT8rRlLOzxcuXzzvIkIC-jL7BLtYu2DkXMKKAQGKL-6V6_9n0MR3lSrUc9HrgGxVif30f_f_N2NxZTRE0uUMQBL7a4WNtjVuofqfdtbzqjf91NQkE4YvTwCAuOuwKLxdw2068hwpKU78mjb2kMz6s8JFgQ8KGk3IDcG16gA8Y4wpRC-uODGwIT9tfeN-46NStqc3O-w",
+            "widthPx": 2668
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Couple of London Photography",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXvLOlv9vcYNf84TJCw4DXCqdNqnmL-cGnLJq-fnsDcjAo5GQCL=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/111674202644520299430"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBeFI2xupJ5dPinpGkgRYN3&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBeFI2xupJ5dPinpGkgRYN3!2e10!4m2!3m1!1s0x487605ca3605896b:0x1805280985b2e32e",
+            "heightPx": 3000,
+            "name": "places/ChIJa4kFNsoFdkgRLuOyhQkoBRg/photos/AZLasHpXFFgv5GDG7fhrobxchMLX6YShdcfxVaiIrmCpNj_UWGOn41FWyvrLqdl-bqxv5YtJgk8IxLLNngMdgYnEMbBSzuWIfISFFFRUYeUpjo0subSIPNxqMPpTU3BoOXC1bTg2Q_PV9cw57gucy_hhVL3Z_kMZw768C23OVfM2AVLGUPGSmvyiVMVReay6ROcHxe18J1xvdXnwJzaXrNcWkjVaGkGkr0ZiwYz8hlRdMNsC5fCx4wnzxkVlIVwwRHU-52X4owzG1VbIHMmk1PW1gw6zqmhmBTU2zIEzO5m3Pbw3Ld75wIbCkYGnqRH3oleChRRCCOhDVf70kO4PjOQeA8jEh-vT705H879Khm_OxF4KjW3fOt6yS6ICVJPikZ4nn684ja9i9WURMIFQXyF8QoboIBj89vJos4BNhszcBl5nIsq0DswyNGUXYSnQOwSd",
+            "widthPx": 4000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "VyTA Restaurant & Laki Kane Lounge, Covent Garden",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXRSMfqpcYwoF-Ark9npeftOL40_s_NpgBj_fHxM3wQrF3z7Z8=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/104086422011439244190"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOenr_zb90kFABpoMl_rNi6QpjIZAFf-pZuT5pT&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOenr_zb90kFABpoMl_rNi6QpjIZAFf-pZuT5pT!2e10!4m2!3m1!1s0x487605ca3605896b:0x1805280985b2e32e",
+            "heightPx": 2668,
+            "name": "places/ChIJa4kFNsoFdkgRLuOyhQkoBRg/photos/AZLasHr6onCSfYBekWmqvkK9u5WDPaGBC8D10yuytq3Ssj-1aZj5Eo5lJhyj_YEMWyrIWgq1mMt1vwFkgNp57az8tbFh3ULsTgAWoKE7bczPemKfVt-PrG1KQsPGuUIYzEh48x1TPQseAPItdj2J7k5oPFg1MZjAHeowZXtck8H6nyywejQzY2du_Yw5lSVKkCHRY0E62G_U-8zrt5sgB4UyG1PHfK_9_XL5fbwCwV4_LFfHiWx2dsqDYbCpbvvtLcUC_70PH3S7Ab9nt6_XS75D62gqyG4au29HnkAEVIsYXVOsMw",
+            "widthPx": 4000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Tea. withTas",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKAFJ230yqMsbvBiXYNdE4TvhkQke6ZJlNXCNeL04vQ-SLG9Q=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/103894229807773502020"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDduv_N2gE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDduv_N2gE!2e10!4m2!3m1!1s0x487605ca3605896b:0x1805280985b2e32e",
+            "heightPx": 3024,
+            "name": "places/ChIJa4kFNsoFdkgRLuOyhQkoBRg/photos/AZLasHpGjxcNjOTlc5QhOCDVjZItwd7LVTYoQMUIOntJl29wGltpV0eVg5oXWiBNYaoysL0-lR1MS049GQABSgMTM3NQz4TxO4tWO7L3r_EpyVVMNJ2xoBmIZOZ5ZydiD03Qf5la8RZ1IMmEd7zpnWv40oXNIpwchNIjVmCPWf-fjZq7qkyf2VN_R9VtLVlQLUy6U4khxhSJScb6PhZKfxDGwCRon_-HVNg2rIMudTbDPDZnF_H_NdBty3yxT3AZ8JdxFwXJd0ff4CD2aOS9jkGRjRaSZCCYBQW2o6DOhajsh8l0mA21K4RH8TppiId3XOoEHWEITnjzXEZt7rjLoW2wd69MobBQNgm1LZotNJpC6C3qyfKiq_r7ct5WGhTL4iJoYSbknkoK8n-EmMJXwVZU-pG3FAniYj9PKcluSS0pNEDimaQ",
+            "widthPx": 4032
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "julie francis",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX39Qn2VLLUutxaHzIr7cQrW6_mU4yD4zCkBzxcrse5fc3YKHfQ6Q=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/116553100134781281736"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID_guXC_QE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID_guXC_QE!2e10!4m2!3m1!1s0x487605ca3605896b:0x1805280985b2e32e",
+            "heightPx": 4000,
+            "name": "places/ChIJa4kFNsoFdkgRLuOyhQkoBRg/photos/AZLasHryxpABdwENir4tMHtY8dahir2Un2GE7BaTzL94R4mo7RvZap5Ewaycj-3ZOUSkviz0_FUYLM5uIjoMf0wW1SrkArC66sscz5mTTyoMKyS3jUmq7jB913iIsHSNXYXxk77aKOeP7CCZtGObXzZ5QZ2OjxavACXMhcq7zJqn5nf0U9k2JJmsdfi1HPiiEvUqahTkDhwKjO3bLs5JJ05IHSPH3FoqGpV6J1WqkQeB4Zovv5Hb05qsS25i71-S7bIgk6uJR6y_72sutFzST60KjkVqek5fHvIwT1xX1k7r4To9p19MlkkS332JOz4qJHgCj3P-Wld-ULK6BN3tiZ_M1Hb18yUxj-W_6E7BjT3KulCGgBmfGTMXcJ2am_airBJB6z7RfdU036mi4UWpd0SiTgEHGDMm0It1sVNPotDVnsxfcn_9",
+            "widthPx": 3000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "VyTA Restaurant & Laki Kane Lounge, Covent Garden",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXRSMfqpcYwoF-Ark9npeftOL40_s_NpgBj_fHxM3wQrF3z7Z8=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/104086422011439244190"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM1vMiBVGGcsq6NgqIfsph6nbFHuSIFJg-NdRQK&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM1vMiBVGGcsq6NgqIfsph6nbFHuSIFJg-NdRQK!2e10!4m2!3m1!1s0x487605ca3605896b:0x1805280985b2e32e",
+            "heightPx": 1236,
+            "name": "places/ChIJa4kFNsoFdkgRLuOyhQkoBRg/photos/AZLasHoLUzkI4LkTxcUmhsR2Tef-EFGit9jaQR1_BdyF9YG8qYWyLRMrpZEZ8Z7lQZe7GNm0eaxWLoultNE-wPgzoKMu-WsdKm3HcpZm7oZWS_7qqiG3yFiHqlBUn3zhjPPlJ7N6jCAZFGuOTZ2B9YlP6ji01WpRFBcFJApntTwlSquUKN7uCVRjXmBb-MVAmFaSO-4ZR9egZ_F6Txrd2WJFMWTe5c8NaBjQZT0ekikPbUM9uau4Dk78QHL1QBnhAdqrpGB-AuodwWm8Uihh9_y2hD8uLhPuSMlvTHd_13cLxo-QJQ",
+            "widthPx": 1080
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Phatt H.",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUEFGNWLkAsjBiF-UYGNuiedNeKtAemd1G1OJhgNXlB7QS3uW98=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/105712301386571696752"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCo_qX6DA&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCo_qX6DA!2e10!4m2!3m1!1s0x487605ca3605896b:0x1805280985b2e32e",
+            "heightPx": 1560,
+            "name": "places/ChIJa4kFNsoFdkgRLuOyhQkoBRg/photos/AZLasHpxRK3jIysGBGVCO9zKW6aJ8fmT_o2mZjKNhc0AraN2yg6CXio-pFXNQ0DRTQeyA5qDTgU4HWBLG1vdWde45U5jFDURW_ByYxfErwzHcyqH7Rnm8pfJGCqQaZucILBPoe6JuEzPWYZ2ztAbvGqcmLbv3OdMz0bUn_TjGlh5iIyxftuQ3y8MUzTteyMYeuS92bV_NhDIyUEzJZlSTUQkLF9HroP8Vt6i7LshrVvd73q-GHZlqxtmdNiQgwexkw7BW0Bih5ilBRQdiU3ZXtVaVBA50iIM2vynhVONNIVPqEKyQXNTGgPvdCJjtJqwzwnrIAoLe6lIkrhoXKwTtcx50ZS063WBUBwg3PVLKzAo_vVX_uLHDxpuyyhJCTOWGNnMDNpTVBouBqwjT8Bi6z4fEpmxIcFtT6ps2zzpc3YUiDKexQ",
+            "widthPx": 1170
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV6G+MR London, UK",
+        "globalCode": "9C3XGV6G+MR"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "21 The Market"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2E 8RD",
+        "regionCode": "GB"
+    },
+    "primaryType": "restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Restaurant"
+    },
+    "rating": 4.4,
+    "regularOpeningHours": {
+        "nextOpenTime": "2025-12-11T12:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 – 11:00 PM",
+            "Tuesday: 12:00 – 11:00 PM",
+            "Wednesday: 12:00 – 11:00 PM",
+            "Thursday: 12:00 – 11:00 PM",
+            "Friday: 12:00 – 11:00 PM",
+            "Saturday: 12:00 – 11:00 PM",
+            "Sunday: 12:00 – 9:00 PM"
+        ]
+    },
+    "reservable": true,
+    "restroom": true,
+    "reviewSummary": {
+        "disclosureText": {
+            "languageCode": "en-US",
+            "text": "Summarized with Gemini"
+        },
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=5%401:CAIQACodChtyc19oOnBjVGdmcWlzNnJ5OGNvc0pZeHNqTnc%7CCAIQACoqChtyc19oOnBjVGdmcWlzNnJ5OGNvc0pZeHNqTncSCwjvpbLJBhDQqtRe&d=17924085&t=8",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487605ca3605896b:0x1805280985b2e32e!9m1!1b1",
+        "text": {
+            "languageCode": "en-US",
+            "text": "People say this restaurant offers delicious pasta dishes, lasagna, and chicken cotoletta, as well as a pistachio dessert. They also highlight the friendly, attentive, and professional service, and the beautiful, relaxed, and classy atmosphere.\n\nOther reviews mention the food can be overpriced."
+        }
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Couple of London Photography",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXvLOlv9vcYNf84TJCw4DXCqdNqnmL-cGnLJq-fnsDcjAo5GQCL=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/111674202644520299430/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2sxbk5WOWZkekJXVTJKRWVsRlpRUzFETUVSa2NIYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxbk5WOWZkekJXVTJKRWVsRlpRUzFETUVSa2NIYxAB!2m1!1s0x487605ca3605896b:0x1805280985b2e32e",
+            "name": "places/ChIJa4kFNsoFdkgRLuOyhQkoBRg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxbk5WOWZkekJXVTJKRWVsRlpRUzFETUVSa2NIYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "We had an absolutely wonderful evening at Vyta Restaurant & Laki Kane Lounge in Covent Garden! From start to finish, the experience was exceptional. We were warmly hosted by Bence, and Charlotte took amazing care of us throughout the night — her service was attentive, friendly, and professional.\n\nThe signature drinks were fantastic and beautifully presented. The Italian food was both stunning and delicious — the carpaccio was fresh and perfectly seasoned, the Lobster Linguini was rich and full of flavour, and the steak was tender and cooked to perfection.\n\nThe atmosphere was elegant yet relaxed, making it the perfect spot for a special evening out. Overall, a truly memorable experience — can’t wait to return!"
+            },
+            "publishTime": "2025-11-15T18:56:59.713838312Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "3 weeks ago",
+            "text": {
+                "languageCode": "en",
+                "text": "We had an absolutely wonderful evening at Vyta Restaurant & Laki Kane Lounge in Covent Garden! From start to finish, the experience was exceptional. We were warmly hosted by Bence, and Charlotte took amazing care of us throughout the night — her service was attentive, friendly, and professional.\n\nThe signature drinks were fantastic and beautifully presented. The Italian food was both stunning and delicious — the carpaccio was fresh and perfectly seasoned, the Lobster Linguini was rich and full of flavour, and the steak was tender and cooked to perfection.\n\nThe atmosphere was elegant yet relaxed, making it the perfect spot for a special evening out. Overall, a truly memorable experience — can’t wait to return!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Julia Lu-Sellers",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXyAIqpDEs8my0KX2em_953L7MH1pgQnUTfpWlWtKbWoh7tqbyM=s128-c0x00000000-cc-rp-mo-ba6",
+                "uri": "https://www.google.com/maps/contrib/111949638128474489227/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT210SGVIaFZaVGwyTkhaTVVtczFUVzVTYjI5UFVrRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210SGVIaFZaVGwyTkhaTVVtczFUVzVTYjI5UFVrRRAB!2m1!1s0x487605ca3605896b:0x1805280985b2e32e",
+            "name": "places/ChIJa4kFNsoFdkgRLuOyhQkoBRg/reviews/Ci9DQUlRQUNvZENodHljRjlvT210SGVIaFZaVGwyTkhaTVVtczFUVzVTYjI5UFVrRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Love their outdoor alfresco areas that overlooks the market and their street performers. Great service, seasonal drinks and light easy bites that aren't too expensive. Their indoor area isnt big but very well designed with a few balcony seats. Thumbs up will return"
+            },
+            "publishTime": "2025-08-08T18:38:02.103156530Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "4 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Love their outdoor alfresco areas that overlooks the market and their street performers. Great service, seasonal drinks and light easy bites that aren't too expensive. Their indoor area isnt big but very well designed with a few balcony seats. Thumbs up will return"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Miss Universe",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUjdcFAdcIb8Y5aAscc6Y8IR7S6zjLb6nvP0ITFYHIgyaTzCv4=s128-c0x00000000-cc-rp-mo-ba2",
+                "uri": "https://www.google.com/maps/contrib/110265791307393051601/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25ad2RHMXFTV3hsUVdKaVlsaDFlRzgxVDI1VlVsRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25ad2RHMXFTV3hsUVdKaVlsaDFlRzgxVDI1VlVsRRAB!2m1!1s0x487605ca3605896b:0x1805280985b2e32e",
+            "name": "places/ChIJa4kFNsoFdkgRLuOyhQkoBRg/reviews/Ci9DQUlRQUNvZENodHljRjlvT25ad2RHMXFTV3hsUVdKaVlsaDFlRzgxVDI1VlVsRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "we came in without any reservations from a long walk around town, shopping and meeting friends, we were parched! my husband has difficulty walking and Ian busy with another customer asked as to wait to give us the best view of the square with some performing artist. he suggested the best non-alcoholic for me and spritz, a tall sparkling water. Ian was so attentive with the situation our situation as we feel more relaxed watching him work, he treats the other guests the same care the same care. i appreciate that. we only have drinks last night, it will be a bigger better order next time with Ian and his colleague around. i might say, it was a TEAM effort also. BTW, thank you for cleaning our table the fastest way and giving that spot."
+            },
+            "publishTime": "2025-07-26T10:16:37.569072464Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "4 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "we came in without any reservations from a long walk around town, shopping and meeting friends, we were parched! my husband has difficulty walking and Ian busy with another customer asked as to wait to give us the best view of the square with some performing artist. he suggested the best non-alcoholic for me and spritz, a tall sparkling water. Ian was so attentive with the situation our situation as we feel more relaxed watching him work, he treats the other guests the same care the same care. i appreciate that. we only have drinks last night, it will be a bigger better order next time with Ian and his colleague around. i might say, it was a TEAM effort also. BTW, thank you for cleaning our table the fastest way and giving that spot."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Roel Garcia",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVcjXfiky4RNFUb-Y9x07DB8Z4qJ_ZR4-hGsK5XtdPsAdOq6UCk=s128-c0x00000000-cc-rp-mo-ba6",
+                "uri": "https://www.google.com/maps/contrib/108189020848527771473/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21oRlRWUllWM0Z2V0VadFJ6WnJTMEZ0V0RGclZXYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21oRlRWUllWM0Z2V0VadFJ6WnJTMEZ0V0RGclZXYxAB!2m1!1s0x487605ca3605896b:0x1805280985b2e32e",
+            "name": "places/ChIJa4kFNsoFdkgRLuOyhQkoBRg/reviews/Ci9DQUlRQUNvZENodHljRjlvT21oRlRWUllWM0Z2V0VadFJ6WnJTMEZ0V0RGclZXYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "We had a drink at V Y TA in Covent Garden, one of the most charming spots in London. The atmosphere was lovely, and the staff were friendly, although I didn’t love the fact that they “push” you to leave a tip from the start. Still, the place was worth it, so we stayed. The girl who served us was really nice."
+            },
+            "publishTime": "2025-07-27T06:39:14.327857174Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "4 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "We had a drink at V Y TA in Covent Garden, one of the most charming spots in London. The atmosphere was lovely, and the staff were friendly, although I didn’t love the fact that they “push” you to leave a tip from the start. Still, the place was worth it, so we stayed. The girl who served us was really nice."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Elliot Wang (ZiwOo)",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKFJ1DYSwtjL3uD06tv1KX7Ty8hYZastJRMVDiqM335s0yKmQ=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/109906586354985214990/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2poWlgzVnBjWEp6TjBsc1NXTTNjRWhMVlVSV2JtYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2poWlgzVnBjWEp6TjBsc1NXTTNjRWhMVlVSV2JtYxAB!2m1!1s0x487605ca3605896b:0x1805280985b2e32e",
+            "name": "places/ChIJa4kFNsoFdkgRLuOyhQkoBRg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poWlgzVnBjWEp6TjBsc1NXTTNjRWhMVlVSV2JtYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "I went to VyTA Covent Garden with two friends (we’re Asian), and this was honestly one of the worst service experiences I’ve had in London.\n\nWe waited in line for quite a long time, which we didn’t complain about because it was busy. But when it was finally our turn, there were still free four-person tables inside. Instead of offering us any of those, they pushed the three of us to a tiny table outside right by the entrance, and added a small red stool. It was cramped, people constantly walking past us, and it really felt like we were just being parked there to get us out of the way.\n\nI politely asked if the empty tables were reserved. The staff told me they were not reserved. Then a bald male server came over and, in a very rude tone, told us that this little outside table was the only place he would give us. No explanation, no apology – just repeatedly “yes or no?” like he was interrogating us, not serving customers.\n\nWe are three paying guests. Being spoken to like that, while clearly better tables were empty, made us feel extremely disrespected. As Asian customers, it really felt like we were being treated differently and pushed to the worst spot simply because they could.\n\nWe only stayed because one of my friends needed somewhere to sit while waiting for a repair at the Apple Store nearby. Otherwise we would have walked away immediately.\n\nI would not recommend this place at all. The location may be nice, but the way they treat people is absolutely not."
+            },
+            "publishTime": "2025-11-15T17:52:05.879483335Z",
+            "rating": 1,
+            "relativePublishTimeDescription": "3 weeks ago",
+            "text": {
+                "languageCode": "en",
+                "text": "I went to VyTA Covent Garden with two friends (we’re Asian), and this was honestly one of the worst service experiences I’ve had in London.\n\nWe waited in line for quite a long time, which we didn’t complain about because it was busy. But when it was finally our turn, there were still free four-person tables inside. Instead of offering us any of those, they pushed the three of us to a tiny table outside right by the entrance, and added a small red stool. It was cramped, people constantly walking past us, and it really felt like we were just being parked there to get us out of the way.\n\nI politely asked if the empty tables were reserved. The staff told me they were not reserved. Then a bald male server came over and, in a very rude tone, told us that this little outside table was the only place he would give us. No explanation, no apology – just repeatedly “yes or no?” like he was interrogating us, not serving customers.\n\nWe are three paying guests. Being spoken to like that, while clearly better tables were empty, made us feel extremely disrespected. As Asian customers, it really felt like we were being treated differently and pushed to the worst spot simply because they could.\n\nWe only stayed because one of my friends needed somewhere to sit while waiting for a repair at the Apple Store nearby. Otherwise we would have walked away immediately.\n\nI would not recommend this place at all. The location may be nice, but the way they treat people is absolutely not."
+            }
+        }
+    ],
+    "servesBeer": true,
+    "servesBrunch": true,
+    "servesCocktails": true,
+    "servesCoffee": true,
+    "servesDessert": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "servesWine": true,
+    "shortFormattedAddress": "South Hall, 21 The Market, London",
+    "takeout": true,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "restaurant",
+        "italian_restaurant",
+        "bar",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 1258,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.512898530291494,
+            "longitude": -0.12158931970849797
+        },
+        "low": {
+            "latitude": 51.510200569708495,
+            "longitude": -0.124287280291502
+        }
+    },
+    "websiteUri": "http://www.vytacoventgarden.co.uk/?utm_campaign=SDM&utm_id=GMB&utm_medium=website+click&utm_source=GMB",
+    "timestamp": 1765447200
+}

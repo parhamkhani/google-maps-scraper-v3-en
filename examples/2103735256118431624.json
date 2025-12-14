@@ -1,0 +1,276 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "3",
+            "shortText": "3",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Leicester Street",
+            "shortText": "Leicester St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2H 7BL",
+            "shortText": "WC2H 7BL",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Leicester Square"
+                },
+                "name": "places/ChIJoQ6SENIEdkgR2KECVj0PBdY",
+                "placeId": "ChIJoQ6SENIEdkgR2KECVj0PBdY"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "M&M'S London"
+                },
+                "name": "places/ChIJv_CbOtIEdkgR-XVC-Vkqj3g",
+                "placeId": "ChIJv_CbOtIEdkgR-XVC-Vkqj3g",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 46.932568,
+                "travelDistanceMeters": 75.70267,
+                "types": [
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Leicester Square"
+                },
+                "name": "places/ChIJVX1-GtIEdkgR1n_gGjHQZpI",
+                "placeId": "ChIJVX1-GtIEdkgR1n_gGjHQZpI",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 110.95942,
+                "travelDistanceMeters": 65.94414,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Prince Charles Cinema"
+                },
+                "name": "places/ChIJs_wVR9IEdkgRqColcXYGFE0",
+                "placeId": "ChIJs_wVR9IEdkgRqColcXYGFE0",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 77.82152,
+                "travelDistanceMeters": 91.21842,
+                "types": [
+                    "establishment",
+                    "movie_theater",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Vue Cinema London - West End (Leicester Square)"
+                },
+                "name": "places/ChIJQ5TwgGyue0gRhxMwO-iXTYU",
+                "placeId": "ChIJQ5TwgGyue0gRhxMwO-iXTYU",
+                "spatialRelationship": "BESIDE",
+                "straightLineDistanceMeters": 124.695045,
+                "travelDistanceMeters": 7.8419876,
+                "types": [
+                    "establishment",
+                    "food",
+                    "movie_theater",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Lyric Theatre"
+                },
+                "name": "places/ChIJbQwMvtMEdkgR-_irM-pk0YE",
+                "placeId": "ChIJbQwMvtMEdkgR-_irM-pk0YE",
+                "straightLineDistanceMeters": 181.98409,
+                "travelDistanceMeters": 235.29187,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "ja",
+        "text": "酔瓉楼"
+    },
+    "formattedAddress": "3 Leicester St, London WC2H 7BL, UK",
+    "goodForGroups": true,
+    "goodForWatchingSports": false,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x487605bffa0a12c7:0x1d31f811c2678f88!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487605bffa0a12c7:0x1d31f811c2678f88!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=2103735256118431624&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487605bffa0a12c7:0x1d31f811c2678f88!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487605bffa0a12c7:0x1d31f811c2678f88!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=2103735256118431624&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJxxIK-r8FdkgRiI9nwhH4MR0",
+    "liveMusic": false,
+    "location": {
+        "latitude": 51.511086,
+        "longitude": -0.13116049999999999
+    },
+    "name": "places/ChIJxxIK-r8FdkgRiI9nwhH4MR0",
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Marcelle Wetzer",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXy-Idveo4f0U-_bZ9-Y2g-RtGZAPT-ADEz3yQILm0rWkQhojDNzg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/104975588217786194772"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhA6qsdHeCgrfYI2t8M-oKyi&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhA6qsdHeCgrfYI2t8M-oKyi!2e10!4m2!3m1!1s0x487605bffa0a12c7:0x1d31f811c2678f88",
+            "heightPx": 4000,
+            "name": "places/ChIJxxIK-r8FdkgRiI9nwhH4MR0/photos/AWn5SU5wZZ-cpWn_XVbI8cFOpppwliD_1sAQWaXa80TagvCmTRRG6b6J04nQ6iTOHo-9ISYHTBFcecaXuWCQoszPWwk6Esugd6sMe3i5LkZK89S-LOpgmvc6bUBI5Q1Y1XmzFBNu2ZGHIkvO62pyGPBWLjohYIpqdFYm7Ejxs-MjVgYrcVTEagRGfCgF43OxtQLapwjIIAKvMRfdkx9RkGDYZLq8K0yfRlWIoHjol9zsvxITPVP2J_fSZ_Jli1iRoVklQeH87NCfqCS1GevE2hDW7QZ7MqsaS7PgwzDlXILwo0b4vdFhJ5FsovsLwzlCobyfX86836NqgYc3NSXtl5NLCGg8LyLnfQWG2vDZe0Q6DDMMOgrnKRpizEWF_IXawb_oxHFumjuDnQtS3tvT1ErcQ9RnAlvccB2ys1EL46Dua3DC9ErUdMFcRrgrrmGktg",
+            "widthPx": 3000
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV69+CG London, UK",
+        "globalCode": "9C3XGV69+CG"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "3 Leicester Street"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2H 7BL",
+        "regionCode": "GB"
+    },
+    "primaryType": "asian_restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Asian Restaurant"
+    },
+    "rating": 1,
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Marcelle Wetzer",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXy-Idveo4f0U-_bZ9-Y2g-RtGZAPT-ADEz3yQILm0rWkQhojDNzg=s128-c0x00000000-cc-rp-mo-ba2",
+                "uri": "https://www.google.com/maps/contrib/104975588217786194772/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xnMkxUVnRWbEp4UWxGZk5rUlliblZKZFhSaVoyYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xnMkxUVnRWbEp4UWxGZk5rUlliblZKZFhSaVoyYxAB!2m1!1s0x487605bffa0a12c7:0x1d31f811c2678f88",
+            "name": "places/ChIJxxIK-r8FdkgRiI9nwhH4MR0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xnMkxUVnRWbEp4UWxGZk5rUlliblZKZFhSaVoyYxAB",
+            "originalText": {
+                "languageCode": "nl",
+                "text": "Slecht\nVette rijst met mais en letterlijk 2 garnalen is de chefs special.\nMenu king prawn scalops en mixet vegetables zijn 6 garnalen met wat broccoli. Geen scallops te vinden.\nBediening duurt erg lang .\nSorry maar beter wordt het niet. Kosten 80 pond. Erg teleurstellend."
+            },
+            "publishTime": "2025-10-13T18:46:13.646489940Z",
+            "rating": 1,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en-US",
+                "text": "Poor\nGreasy rice with corn and literally two shrimp is the chef's special.\nThe king prawn scallops and mixed vegetables menu is six shrimp with some broccoli. No scallops to be found.\nThe service is very slow.\nSorry, but it doesn't get any better. It costs £80. Very disappointing."
+            }
+        }
+    ],
+    "servesDessert": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "shortFormattedAddress": "3 Leicester St, London",
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "asian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 1,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.5124194802915,
+            "longitude": -0.129858619708498
+        },
+        "low": {
+            "latitude": 51.5097215197085,
+            "longitude": -0.13255658029150202
+        }
+    },
+    "timestamp": 1764064800
+}

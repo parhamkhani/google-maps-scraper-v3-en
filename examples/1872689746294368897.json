@@ -1,0 +1,786 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "15A",
+            "shortText": "15A",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Little Newport Street",
+            "shortText": "Little Newport St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2H 7JJ",
+            "shortText": "WC2H 7JJ",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJs4GOh8sEdkgRRiBFZKMP8ZE",
+                "placeId": "ChIJs4GOh8sEdkgRRiBFZKMP8ZE"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Vue Cinema London - West End (Leicester Square)"
+                },
+                "name": "places/ChIJQ5TwgGyue0gRhxMwO-iXTYU",
+                "placeId": "ChIJQ5TwgGyue0gRhxMwO-iXTYU",
+                "spatialRelationship": "ACROSS_THE_ROAD",
+                "straightLineDistanceMeters": 61.067562,
+                "travelDistanceMeters": 43.488846,
+                "types": [
+                    "establishment",
+                    "food",
+                    "movie_theater",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "KFC London - Leicester Square"
+                },
+                "name": "places/ChIJMVplzTwFdkgRuSvAK9t1XSk",
+                "placeId": "ChIJMVplzTwFdkgRuSvAK9t1XSk",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 22.704264,
+                "travelDistanceMeters": 30.764791,
+                "types": [
+                    "establishment",
+                    "food",
+                    "meal_takeaway",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Leicester Square"
+                },
+                "name": "places/ChIJ98Dokc0EdkgRy3-ajwvdD94",
+                "placeId": "ChIJ98Dokc0EdkgRy3-ajwvdD94",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 54.695667,
+                "travelDistanceMeters": 23.817629,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "subway_station",
+                    "transit_station"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Angus Steakhouse"
+                },
+                "name": "places/ChIJwaGrbNIEdkgRaMpO65jtVrQ",
+                "placeId": "ChIJwaGrbNIEdkgRaMpO65jtVrQ",
+                "straightLineDistanceMeters": 38.695404,
+                "travelDistanceMeters": 55.405235,
+                "types": [
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The Hippodrome Casino London"
+                },
+                "name": "places/ChIJdcOZc9IEdkgROPIytVFeGXU",
+                "placeId": "ChIJdcOZc9IEdkgROPIytVFeGXU",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 38.637253,
+                "travelDistanceMeters": 59.73471,
+                "types": [
+                    "bar",
+                    "casino",
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "curbsidePickup": true,
+    "currentOpeningHours": {
+        "nextOpenTime": "2025-11-25T11:30:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 21,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 21,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 21,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 21,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 21,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 11,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 11:30 AM – 9:30 PM",
+            "Tuesday: 11:30 AM – 9:30 PM",
+            "Wednesday: 11:30 AM – 9:30 PM",
+            "Thursday: 11:30 AM – 9:30 PM",
+            "Friday: 11:00 AM – 10:00 PM",
+            "Saturday: 11:00 AM – 10:00 PM",
+            "Sunday: 11:00 AM – 9:30 PM"
+        ]
+    },
+    "delivery": true,
+    "dineIn": false,
+    "displayName": {
+        "languageCode": "zh",
+        "text": "Sushi Joy"
+    },
+    "formattedAddress": "15A Little Newport St, London WC2H 7JJ, UK",
+    "goodForWatchingSports": false,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x487605966a63b197:0x19fd2166fe646a81!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487605966a63b197:0x19fd2166fe646a81!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=1872689746294368897&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487605966a63b197:0x19fd2166fe646a81!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487605966a63b197:0x19fd2166fe646a81!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=1872689746294368897&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJl7FjapYFdkgRgWpk_mYh_Rk",
+    "internationalPhoneNumber": "+44 7506 376666",
+    "liveMusic": false,
+    "location": {
+        "latitude": 51.5118072,
+        "longitude": -0.1287224
+    },
+    "name": "places/ChIJl7FjapYFdkgRgWpk_mYh_Rk",
+    "nationalPhoneNumber": "07506 376666",
+    "outdoorSeating": false,
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Serena Buzzano",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUDq84MbqTCUBWfpbNo7YH8NkE2dRNYrsZw2gRAL0djkMGYEp_H=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117210487992801653276"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDelPkmhYUjXkq2woS8psOr&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDelPkmhYUjXkq2woS8psOr!2e10!4m2!3m1!1s0x487605966a63b197:0x19fd2166fe646a81",
+            "heightPx": 4800,
+            "name": "places/ChIJl7FjapYFdkgRgWpk_mYh_Rk/photos/AWn5SU5c7LMI1dgdu4IqRylEAJ77U8bnL3oQG_FuSxiDHCWYHUML4v5gwCJDPlYR862kJ3tTBca0sgl7aC895hxZe-AI2n1rolAWfwW_iFsqOqc8nZkeoHEqPkFwD6VaPk-F6isgYI2hoDt5sr8uD5Us2qlNoR_0HZxYNb5tyxlgl8j9dWMmwup_jEHjVCtugITgGed3n03C6xxL_P7vCd7uHUXkmCtc3M6SxZZVYBqY0iBQ0hi3o_7tLEXWG74-i2g2P3PrO-nz0bUBb9vc8gkRuD0Q92sau1h5hHXQp46cEJOok_xCWZxwfgi6iutEUbYAeud6yuG2_7Fm0VSnPwjmajUReUjBp6T50Izg-m0iTNQgo9u9dfTMv9qoJ-zLe4Y14xijDKga0WtDmh3xg5ZDHTCm9lJjIIYVowy4vDvxSJuMcnuzWuyqfwKJXhqPHw",
+            "widthPx": 3600
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Sushi Joy",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWUNKhFKTUL9OHec3xNmgIXrzoeWH7HxPWYwCesZ9_wa6QLP5I=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/109161999983532238533"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPSL-8eWc6J9XmK6dYeDAe_1pTP2isXduwKja1J&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPSL-8eWc6J9XmK6dYeDAe_1pTP2isXduwKja1J!2e10!4m2!3m1!1s0x487605966a63b197:0x19fd2166fe646a81",
+            "heightPx": 1080,
+            "name": "places/ChIJl7FjapYFdkgRgWpk_mYh_Rk/photos/AWn5SU7LTg3d81FwWSmLE-6nBF_kKwVkA-_MN2tsrSOdEVFiNm53g6KYlWtfe6DlPbHixbbXRC9JuJOkrgPe6w7xfZKYiYIVILdb4pSvt-ZUTBRud-CTJL03AlWPjsRSE66HGSu7_7QESgjnfaITpM6HhPaMfAQNzsEspq1uluKD2cEQuBV-0hceKoz3WtinzfvwBus-WDakbMBZ8GvSBG8oXVzghPXkDPrDRWtDg8GwszRXLTIEe9amUSw0OPtsmzeCVxPFzRmO5UO_NcGozbK17TzEDfWepwm-pwLu7IGZEZRa_g",
+            "widthPx": 1920
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Paul Bobo",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUZ15RrJlMF2z83JFpSJ9FcsXyfn1x4PrV1lBrxFmKJaCD3Zl2z3g=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/109804294568581320437"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAOVk1srtd6pxWrYPv8p9OB&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAOVk1srtd6pxWrYPv8p9OB!2e10!4m2!3m1!1s0x487605966a63b197:0x19fd2166fe646a81",
+            "heightPx": 3456,
+            "name": "places/ChIJl7FjapYFdkgRgWpk_mYh_Rk/photos/AWn5SU7ggAB7vZI_yMJIeWLHeo56OsCFpXH10KWkr6dLs2UcDxsYg-hbK1fGRsHZWuFlJ5kyO888PzP3nhYL-210SlKhqGTrX6jENraaMLVQrmH8JM55L-_rD8fBrhMaG2RzOmV5Zotb-fMkrRHZWlS1ujzo7ZvXd9dWVNmoFKUricjx42kaLJSKk_9eGaGSbcf7UOSF55t_nCrNDckgSIGTFWHkHrLpGVPOJxLSQHJZwmal1axzvwDqaorf_QEYYa8Kf9eEqoTUGCTdLExeOT_0SDnago0jXXAbLcphphFz3Wq_qcUFTP1ivrSeTu9CzfweWP0zmmojZdu-OBJiFHE2MdueRfjZui-UthPq_GN3qxW6lsUZwQm6e_L7ljH4O6uVdbU7IlIuQNgrUqNuFpFqCW03P7shJ6WJSIwjLVAgwkcPwWFDJN46bA4nBQ9Ua_9P",
+            "widthPx": 3072
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Sushi Joy",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWUNKhFKTUL9OHec3xNmgIXrzoeWH7HxPWYwCesZ9_wa6QLP5I=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/109161999983532238533"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipN4DQigX105fZ9Re7LWqURA5jUUoe9TQiQd7r8q&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN4DQigX105fZ9Re7LWqURA5jUUoe9TQiQd7r8q!2e10!4m2!3m1!1s0x487605966a63b197:0x19fd2166fe646a81",
+            "heightPx": 4483,
+            "name": "places/ChIJl7FjapYFdkgRgWpk_mYh_Rk/photos/AWn5SU5CyTjgyBf9R-DxDstbPCbzEtKQFul7o8Iuirq0JljsRZ6WGyP_5r-RmzR6YjZ-iLB9jR-j0Q7mWWttCw1uCMd-9XArDya1SEuxlzvErdhWo7N6PdKIQvYqKZo7-pXRZjGLhJEmP7MMfOV902vCrI9vTCLdLESi2K82htB1wP4jNSE9roUG-RMcjF2br41ftZYG3O4w3yYGW_IRTl3VUv_FH2F31WmeshFXVnC90nuxe2nM3TYOuMAflhcbhyIVQJuizT6vIg_o5m4ew3TErnJkq_fnlXELfJrtCWBizahz7Q",
+            "widthPx": 3600
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Heidi",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUWZB1ZFXN80Wbx9JNfvX-b9DgzKp6xzez-G7PMYNBkGmNDlNIc2Q=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/100439054011185876161"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCE6Y3QrPjbuniltwm3vnSi&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCE6Y3QrPjbuniltwm3vnSi!2e10!4m2!3m1!1s0x487605966a63b197:0x19fd2166fe646a81",
+            "heightPx": 4000,
+            "name": "places/ChIJl7FjapYFdkgRgWpk_mYh_Rk/photos/AWn5SU4ANuXIkpXsWGnEN72v7Z_oqZbdptkZsnqIT1ffPThPGVW0y7T_vTNwvOEgsbvm1sxT9HcdGx6npUEhVwl49Q8mQimuRb027wY5lmM_HSio2zR-qv1OcL6ovBfOEpT32X_PaLDPar1tVsoijfT9ONdbAnRTdtABrSmmvj_I7Lw24cytIXy0tyj1hsnafC4Cf2dMU5TjgrF42gESbqxs-7FXbgRBl3dXYVyWPzQPkDStAE6Vve-jImXi7BvaQIaEQuhOOpSA2gf46x7qI8SabLKa9y6oULbEmf6pK6l0IMDxz5vRI2IcWUUtfIaVFRROHPxgOOlyNROdNlPzVQlxb2-8BAgQ6vmeaq5RZuAC9xIojZBL9yILMTRlRwWABu9yu1q3Pr6h4FhFf7I8EKiQKSzd7DOzR2mM9gyQZtNbuwQgXJCWVtsMZ-ZC8lG4hQ",
+            "widthPx": 3000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Travelling Doc",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWa6anCVjIE4-SEX5fkkAxFEFEn5BjDDNcuvcayqRgqpZB0p9k1=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/106576863305937511302"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCUG7s70ciSAQzCVlBR7pgB&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCUG7s70ciSAQzCVlBR7pgB!2e10!4m2!3m1!1s0x487605966a63b197:0x19fd2166fe646a81",
+            "heightPx": 4032,
+            "name": "places/ChIJl7FjapYFdkgRgWpk_mYh_Rk/photos/AWn5SU5bHlDlNuZA48xvyQFlXKGzLgnonmxAv7xhrG49VJI1F2kHkj6Q5jNiHnxJSytg_gaB1Zy4qQYpEs8oNEBUEHK1QQiFEghAiPNLHdvXahIs6O3N20L9KtvafH7U13-Ys0CSCeaUwyo6OXJA6XSzzbvKgKl6oUMdNZ8F7llNtDz9u-JdnyyLZGsP4eKbFhye0wQy5yEkhwEqV2J7g20COXbhDVWEQ_GI8ozMzZrkfk70w04w-h3osjcBvcmaOgOafeC4UeLcrcDrbZ8r0_GM9uUpdrAW8rWgj_Q8TI1vk2KHAyQE7F1XyFrmv4vcs5chyTxnUgo1I4VXWkvVx6MlsLFWuw6jLFweojPW8_2ZiEoke5-axpYwwNiwZxOqJcMfriCWwWcrCPXN-SgxVlWjbsHnWZ9j_aIyr-7l_oLUaol3WvCbD51Joea9oDaAbKO3",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Yasmin",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL2UjZdH0LCa_g0un1r1YB6Adoy-CeXziCJVpUwJIZhzhZz9g=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/114046512508368624392"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCkgWA38rAaWxz3hY_2a1vL&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCkgWA38rAaWxz3hY_2a1vL!2e10!4m2!3m1!1s0x487605966a63b197:0x19fd2166fe646a81",
+            "heightPx": 1408,
+            "name": "places/ChIJl7FjapYFdkgRgWpk_mYh_Rk/photos/AWn5SU66KEJQdk_KUP23gYur4QS9X698w7KRSJbhow3erkpqWe1cZx39u4Uk7TfNEGFgAwLl_BqFSy1yTi-0OVv4hNWlIU7TJL0j7ir_Ca8PAyvaBKx5AFf38kI3Ou09USsAup69f7_L-MWXYWhF3vn7vnV4d0Q-jaeOzFvo5F1MKfy14Tm7J4GC8pUpVL_EKVzJ8qNz313jJ0qkpZSoJQDysM04ZehlUbaW0RghXiaY2_Xi952p-Nki_T-LZBHJqptRr6-m3HEJD5-7PJ3unfbtyd2MQ8v01q53SqqWkctrCbmH7RET6j_CbPXFIKETgJp3SiHivDKGKIgwiu9CgestdDIIgS2AIV-tfWMV1RX0jYY0bxk6smOIpc9IgaiNXr923Dz4aehcOwVyhB4A5csyB_9UbNNaeU-G0hV-TJdkBzHWq0BLwvVBm2FT9qi898VR",
+            "widthPx": 1917
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Barilly Li",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU8PM0kP3eaA0Zp2wbn-L-syBXPmriQtCe0ldpMjKrFIC78G1a2=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/102767057222839890101"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCQ-MykhgE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCQ-MykhgE!2e10!4m2!3m1!1s0x487605966a63b197:0x19fd2166fe646a81",
+            "heightPx": 4800,
+            "name": "places/ChIJl7FjapYFdkgRgWpk_mYh_Rk/photos/AWn5SU5dU79rxOd6OUdI3dqI5yP6fiIq7YAoh1aHbqYK71Lr8EKugx-tlUW3aRV1N9WgtZzcZdmF5bvX_sX-de7tAnjd83OoCoiJ8wfZUXsKnuaDspdbbLCxLcW6nUcSUukWNbMfm-J1o59JG10O-15oJ8v_0KoO6I6GXK9iBiDGOZBEBbgq-vK-bQYXuwquZmSQgVbuk_oCLjN2my_QAiAq0islAAnMnKmVJ9T8nbVG3J9PRq6zaXA-bTmtsgF1mUJE51mGJyMHuobjDKJBVhJDuSyjsQM6ounaJB4u--Lf_Yfl6fwolZSYQwOxG-7uoR_9aUEz2qkHDEdYNUOLmDAcMRMlV17p_tnou95Et7jlOAdwNq2rZt35-TzbhaJ1vvni4BRRA71KodclpL_pZbJqAEefomFrhhx5mEp734--Yl_aalI",
+            "widthPx": 3600
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Travelling Doc",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWa6anCVjIE4-SEX5fkkAxFEFEn5BjDDNcuvcayqRgqpZB0p9k1=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/106576863305937511302"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDjzlD59mkL9pV2LK2usVUM&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDjzlD59mkL9pV2LK2usVUM!2e10!4m2!3m1!1s0x487605966a63b197:0x19fd2166fe646a81",
+            "heightPx": 4032,
+            "name": "places/ChIJl7FjapYFdkgRgWpk_mYh_Rk/photos/AWn5SU4GiPiwbB4QiDzHMFBGc2Nl5jrpnL0xXrSgW5pVvihhaZ_kzXjQBuCMpEvkUf3iHVhFhenzkFHGBv0DlC2uUMc8bLbyEYr0d6PPKLoLIs00CPo2qWcDXV4ydQPBZDHFaA7oVh5yptR3wcyNKcz-rneF-VoCV7jpr0h9x3e0xwCmmfrPMU2U6Zz1DT7--BGz5cEvlCpUgb5RVhMg18YkPoNwebac7q5ZrZEJOmdSDMExnQIGqJXsqnFYLoMnNl8SfvrIYz-15TtQFsTwb3fyawxPl9NMGEN0JN6WTKq5_vZefbFkmznK3yJgT2MqtWF0ovwAMBrS8HJKWSdzHeWosNwu0TM7aDVGkCt351L7d6qkyVApMjvK01-xxWTYj2ehWZwjVQEvnRUEcO2oCoOADQRM0dERrrasso3eUd5DEVB3f3rBEDWkznt2EepIQA",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Barilly Li",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU8PM0kP3eaA0Zp2wbn-L-syBXPmriQtCe0ldpMjKrFIC78G1a2=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/102767057222839890101"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCQ-Myk6gE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCQ-Myk6gE!2e10!4m2!3m1!1s0x487605966a63b197:0x19fd2166fe646a81",
+            "heightPx": 4800,
+            "name": "places/ChIJl7FjapYFdkgRgWpk_mYh_Rk/photos/AWn5SU7CUjutKvGGUUdk8n8DG7rpM7j-zXvEzb85gAKdrXlhsD120qU0LIHmUJoTjZyLjrBfaJKByjD2JG4Kdreq2o8ODlRZjR_5Xe5ZuiH7ECvQbLxCw2KZ62CEzcDXkubO0Db1ES9eN0_M0OsovZqteoAWLBdsTI6VTR3vzm4fzXEMsGUHLUWcyvH5MbWfXt0dJojtcYGG1Mf3S4pqTHDyrNldwUdI-TuoA874dtzewZ-h_HiJLKFN5MWkKGpXnM_0jDmvIoJka-VNERlP4OYShQHqE407iiBjsdzO9CE3bf71g22J1brFQ4OrTgikZKoVLOmEka1irvwZfouuwm7vQGW9oFGKqfsB1GQGJ3qYvvD7AuevFBhhwSA5g3pX1v9O3wGZzmuus0H63h189l50e5F3As6dy9ICQOkUxbKOcGGg1tRp",
+            "widthPx": 3600
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV6C+PG London, UK",
+        "globalCode": "9C3XGV6C+PG"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "15A Little Newport Street"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2H 7JJ",
+        "regionCode": "GB"
+    },
+    "priceRange": {
+        "endPrice": {
+            "currencyCode": "GBP",
+            "units": "10"
+        },
+        "startPrice": {
+            "currencyCode": "GBP",
+            "units": "1"
+        }
+    },
+    "primaryType": "meal_takeaway",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Takeout Restaurant"
+    },
+    "rating": 4.7,
+    "regularOpeningHours": {
+        "nextOpenTime": "2025-11-25T11:30:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 21,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 21,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 21,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 21,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 21,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 11,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 11:30 AM – 9:30 PM",
+            "Tuesday: 11:30 AM – 9:30 PM",
+            "Wednesday: 11:30 AM – 9:30 PM",
+            "Thursday: 11:30 AM – 9:30 PM",
+            "Friday: 11:00 AM – 10:00 PM",
+            "Saturday: 11:00 AM – 10:00 PM",
+            "Sunday: 11:00 AM – 9:30 PM"
+        ]
+    },
+    "reviewSummary": {
+        "disclosureText": {
+            "languageCode": "en-US",
+            "text": "Summarized with Gemini"
+        },
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=5%401:CAIQACodChtyc19oOmNrUUE2anhia20zX24xb2ZlRlBLdEE%7CCAIQACorChtyc19oOmNrUUE2anhia20zX24xb2ZlRlBLdEESDAi_2OfEBhD44ZHwAg&d=17924085&t=8",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487605966a63b197:0x19fd2166fe646a81!9m1!1b1",
+        "text": {
+            "languageCode": "en-US",
+            "text": "People say this sushi takeaway shop offers a delicious and varied selection of fresh nigiri, including classics like ebi and tuna, as well as jellyfish and seaweed salad options. They highlight the reasonable prices and the unique concept of picking each piece individually. They also like the friendly staff and quick service."
+        }
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "K L",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIvlNxmFkXORf-Vb-onw5Q_5sVSWcJNEBPxhyo_qz07roVEUw=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/111471358048226204764/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xaUGFEaHJTWGhTYVZOQ1owaGhZVTU1VkdzMVYwRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaUGFEaHJTWGhTYVZOQ1owaGhZVTU1VkdzMVYwRRAB!2m1!1s0x487605966a63b197:0x19fd2166fe646a81",
+            "name": "places/ChIJl7FjapYFdkgRgWpk_mYh_Rk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaUGFEaHJTWGhTYVZOQ1owaGhZVTU1VkdzMVYwRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "We came at around 6pm on a Saturday and they still had lots on offer. We waited around 15mins in the queue. Great selection of sushi and small Japanese snacks. There’s always a queue that this means pretty quickly. The food was delicious and good value for money. Highly recommend the inari!"
+            },
+            "publishTime": "2025-10-06T20:26:01.462712730Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "We came at around 6pm on a Saturday and they still had lots on offer. We waited around 15mins in the queue. Great selection of sushi and small Japanese snacks. There’s always a queue that this means pretty quickly. The food was delicious and good value for money. Highly recommend the inari!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Safa",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLE5UHhs_QztQvdzApi3V-8oCWHKctII47XCNUYWVZjDAom=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/116689576261390970070/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GMVVXOTBaRzlFZDJJeWNIZDFUWFIyZWxSV2RIYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GMVVXOTBaRzlFZDJJeWNIZDFUWFIyZWxSV2RIYxAB!2m1!1s0x487605966a63b197:0x19fd2166fe646a81",
+            "name": "places/ChIJl7FjapYFdkgRgWpk_mYh_Rk/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GMVVXOTBaRzlFZDJJeWNIZDFUWFIyZWxSV2RIYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "So delicious here! Fresh sushi that you can quickly grab on the go. Very fast service most of the time which makes it easy to come here on a lunch break. There’s nothing I wouldn’t try on this menu! Totally recommend."
+            },
+            "publishTime": "2025-10-17T20:12:30.669518889Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "So delicious here! Fresh sushi that you can quickly grab on the go. Very fast service most of the time which makes it easy to come here on a lunch break. There’s nothing I wouldn’t try on this menu! Totally recommend."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Heidi",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUWZB1ZFXN80Wbx9JNfvX-b9DgzKp6xzez-G7PMYNBkGmNDlNIc2Q=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/100439054011185876161/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21nMVZXVm5USGQxUVZveWFXd3RWMEZ6ZVRoRVZVRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21nMVZXVm5USGQxUVZveWFXd3RWMEZ6ZVRoRVZVRRAB!2m1!1s0x487605966a63b197:0x19fd2166fe646a81",
+            "name": "places/ChIJl7FjapYFdkgRgWpk_mYh_Rk/reviews/Ci9DQUlRQUNvZENodHljRjlvT21nMVZXVm5USGQxUVZveWFXd3RWMEZ6ZVRoRVZVRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "I had seen this on tik tok and thought it looked  great so was keen to visit, however the reality wasn't as good as I hoped. Admittedly we arrived quite late in the day so most items were sold out, but what we did have wasn't overly special. It looked good but the taste wasn't great and the flavours just didn't seem to be there. Really disappointed to be honest."
+            },
+            "publishTime": "2025-11-17T10:25:20.985410603Z",
+            "rating": 3,
+            "relativePublishTimeDescription": "a week ago",
+            "text": {
+                "languageCode": "en",
+                "text": "I had seen this on tik tok and thought it looked  great so was keen to visit, however the reality wasn't as good as I hoped. Admittedly we arrived quite late in the day so most items were sold out, but what we did have wasn't overly special. It looked good but the taste wasn't great and the flavours just didn't seem to be there. Really disappointed to be honest."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Travelling Doc",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWa6anCVjIE4-SEX5fkkAxFEFEn5BjDDNcuvcayqRgqpZB0p9k1=s128-c0x00000000-cc-rp-mo-ba8",
+                "uri": "https://www.google.com/maps/contrib/106576863305937511302/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GUU9HNVBWV3hNVEhKNFVUZFVlVVZVV0ZSUkxYYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GUU9HNVBWV3hNVEhKNFVUZFVlVVZVV0ZSUkxYYxAB!2m1!1s0x487605966a63b197:0x19fd2166fe646a81",
+            "name": "places/ChIJl7FjapYFdkgRgWpk_mYh_Rk/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GUU9HNVBWV3hNVEhKNFVUZFVlVVZVV0ZSUkxYYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Review for the 15/8:\n\nAnother wonderful and speedy meal. I arrived just before 11 a.m. and they were already open, welcoming me in without hesitation.\n\nI ordered the 3 nigiri set – unagi, grilled salmon, and spicy salmon – each perfectly fresh and flavourful, with two satisfying, bite-sized pieces each.\n\nThe tuna corn salad inari reminded me of a tuna sweetcorn sandwich filling, but far tastier and with a lovely sushi twist. The wasabi baby octopus inari had a different texture that some might find unusual, but I enjoyed it.\n\nThe ebi tempura nigiri was just as excellent as last time – crisp, fresh, and generously portioned. Everything was served quickly in a takeaway container, with wasabi, ginger, and cutlery provided. The only thing missing was soy sauce.\n\nOverall, just like my first visit, everything tasted fresh and delicious. Sushi Joy continues to impress.\n\nReview beginning of August\nOpening at 11:30 AM, this hidden gem is literally a hole-in-the-wall spot located just off the main road, opposite one of the Square tube stops. Despite its unassuming appearance, there’s already a small queue forming by opening time.\n\nThe shop features a display of various Japanese bites, all reasonably priced (I paid around £14 in total), and I found the overall taste to be very good.\n\nHowever, the presentation does take a hit once you take it away. For example, the Salmon Dragon Roll Maki, though generous in size (took me six bites to finish), ended up a bit squashed in the takeaway box, making it look less appealing than it did on display.\n\nHere’s a quick breakdown of what I tried:\n•\tUnagi Nigiri: Nicely flavoured, though the portion of eel was quite small—just enough to get a taste but not enough to fully enjoy.\n•\tWasabi Baby Octopus: Slightly too sweet for my liking, and the octopus portion was light compared to the large amount of rice underneath. Still, not bad overall.\n•\tGrilled Tamagoyaki: The crispy top was a little hard and dry, but dipping it in soy sauce helped. Decent, though not the standout.\n•\tJellyfish Nigiri: Surprisingly good! Slightly sweet, but the rice-to-jellyfish ratio was much better than the baby octopus, making it a more balanced bite.\n•\tFried Ebi Nigiri: Easily the best dish I had. A large, perfectly cooked tempura prawn on a smaller bed of rice—crispy, hot, and delicious.\n•\tSalmon Dragon Roll Maki: A generous portion, well-prepared with a good balance of ingredients inside. Tasted great, though again, a bit squashed in the takeaway box.\n\nOverall, this is one of the better-value Japanese takeaway spots I’ve tried in London. It’s perfect for grabbing a variety of small bites and bringing them home to share—just make sure you have your own soy sauce, as they don’t include any (though you do get small sachets of wasabi and pickled ginger).\n\nThe menu focuses on three main categories: Nigiri, Inari Maki Rolls, and Onigiri, with the grilled Tamagoyaki as a standout side was average . It’s takeaway-only, served through a simple counter window with card payment accepted.\n\nWould definitely return!"
+            },
+            "publishTime": "2025-08-15T14:27:05.734901416Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "3 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Review for the 15/8:\n\nAnother wonderful and speedy meal. I arrived just before 11 a.m. and they were already open, welcoming me in without hesitation.\n\nI ordered the 3 nigiri set – unagi, grilled salmon, and spicy salmon – each perfectly fresh and flavourful, with two satisfying, bite-sized pieces each.\n\nThe tuna corn salad inari reminded me of a tuna sweetcorn sandwich filling, but far tastier and with a lovely sushi twist. The wasabi baby octopus inari had a different texture that some might find unusual, but I enjoyed it.\n\nThe ebi tempura nigiri was just as excellent as last time – crisp, fresh, and generously portioned. Everything was served quickly in a takeaway container, with wasabi, ginger, and cutlery provided. The only thing missing was soy sauce.\n\nOverall, just like my first visit, everything tasted fresh and delicious. Sushi Joy continues to impress.\n\nReview beginning of August\nOpening at 11:30 AM, this hidden gem is literally a hole-in-the-wall spot located just off the main road, opposite one of the Square tube stops. Despite its unassuming appearance, there’s already a small queue forming by opening time.\n\nThe shop features a display of various Japanese bites, all reasonably priced (I paid around £14 in total), and I found the overall taste to be very good.\n\nHowever, the presentation does take a hit once you take it away. For example, the Salmon Dragon Roll Maki, though generous in size (took me six bites to finish), ended up a bit squashed in the takeaway box, making it look less appealing than it did on display.\n\nHere’s a quick breakdown of what I tried:\n•\tUnagi Nigiri: Nicely flavoured, though the portion of eel was quite small—just enough to get a taste but not enough to fully enjoy.\n•\tWasabi Baby Octopus: Slightly too sweet for my liking, and the octopus portion was light compared to the large amount of rice underneath. Still, not bad overall.\n•\tGrilled Tamagoyaki: The crispy top was a little hard and dry, but dipping it in soy sauce helped. Decent, though not the standout.\n•\tJellyfish Nigiri: Surprisingly good! Slightly sweet, but the rice-to-jellyfish ratio was much better than the baby octopus, making it a more balanced bite.\n•\tFried Ebi Nigiri: Easily the best dish I had. A large, perfectly cooked tempura prawn on a smaller bed of rice—crispy, hot, and delicious.\n•\tSalmon Dragon Roll Maki: A generous portion, well-prepared with a good balance of ingredients inside. Tasted great, though again, a bit squashed in the takeaway box.\n\nOverall, this is one of the better-value Japanese takeaway spots I’ve tried in London. It’s perfect for grabbing a variety of small bites and bringing them home to share—just make sure you have your own soy sauce, as they don’t include any (though you do get small sachets of wasabi and pickled ginger).\n\nThe menu focuses on three main categories: Nigiri, Inari Maki Rolls, and Onigiri, with the grilled Tamagoyaki as a standout side was average . It’s takeaway-only, served through a simple counter window with card payment accepted.\n\nWould definitely return!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Aimee Tariq",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUkLW4BIlrDU5Qe3OHFSHjp-Ca7wccIMtCQs_M9y2auBOM6DaM=s128-c0x00000000-cc-rp-mo-ba6",
+                "uri": "https://www.google.com/maps/contrib/108761545172496204124/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tsWmRWaFRjblF3U1d4aVRIWmxTa3gwWDFCMlIxRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsWmRWaFRjblF3U1d4aVRIWmxTa3gwWDFCMlIxRRAB!2m1!1s0x487605966a63b197:0x19fd2166fe646a81",
+            "name": "places/ChIJl7FjapYFdkgRgWpk_mYh_Rk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsWmRWaFRjblF3U1d4aVRIWmxTa3gwWDFCMlIxRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Tucked away at the very end of China town, this little gem is an absolute must. The person working the shop is so sweet and happy and the food is absolutely delicious and divine at unbeatable prices. It doesn’t matter what you order, it’ll be delicious. You might as well try one of each 😉 they definitely do bring the joy into sushi 🍣 ✨"
+            },
+            "publishTime": "2025-09-02T03:58:13.160731257Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Tucked away at the very end of China town, this little gem is an absolute must. The person working the shop is so sweet and happy and the food is absolutely delicious and divine at unbeatable prices. It doesn’t matter what you order, it’ll be delicious. You might as well try one of each 😉 they definitely do bring the joy into sushi 🍣 ✨"
+            }
+        }
+    ],
+    "servesBeer": false,
+    "servesCocktails": false,
+    "shortFormattedAddress": "15A Little Newport St, London",
+    "takeout": true,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 139,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.5131130302915,
+            "longitude": -0.12736531970849796
+        },
+        "low": {
+            "latitude": 51.51041506970851,
+            "longitude": -0.13006328029150202
+        }
+    },
+    "websiteUri": "https://sushijoy.co.uk/",
+    "timestamp": 1764064800
+}

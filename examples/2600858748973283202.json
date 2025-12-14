@@ -1,0 +1,806 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleEntrance": false,
+        "wheelchairAccessibleParking": false,
+        "wheelchairAccessibleSeating": false
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "26",
+            "shortText": "26",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "New Row",
+            "shortText": "New Row",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2N 4LA",
+            "shortText": "WC2N 4LA",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJs4GOh8sEdkgRRiBFZKMP8ZE",
+                "placeId": "ChIJs4GOh8sEdkgRRiBFZKMP8ZE"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "St Martin's Courtyard"
+                },
+                "name": "places/ChIJ0YfiAc0EdkgRoKYIH7344ZA",
+                "placeId": "ChIJ0YfiAc0EdkgRoKYIH7344ZA"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Noël Coward Theatre"
+                },
+                "name": "places/ChIJ85vnMskEdkgR884XxFXpoHc",
+                "placeId": "ChIJ85vnMskEdkgR884XxFXpoHc",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 37.308636,
+                "travelDistanceMeters": 35.095932,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "St Martins Lane London, a Morgans Originals hotel"
+                },
+                "name": "places/ChIJF4PizM0EdkgRRMPLsE5qX_0",
+                "placeId": "ChIJF4PizM0EdkgRRMPLsE5qX_0",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 73.91275,
+                "travelDistanceMeters": 96.00958,
+                "types": [
+                    "establishment",
+                    "lodging",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Trafalgar Square"
+                },
+                "name": "places/ChIJH-tBOc4EdkgRJ8aJ8P1CUxo",
+                "placeId": "ChIJH-tBOc4EdkgRJ8aJ8P1CUxo",
+                "straightLineDistanceMeters": 355.95898,
+                "travelDistanceMeters": 314.27338,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Browns"
+                },
+                "name": "places/ChIJkWJjuc0EdkgRqL0ffd2j1aA",
+                "placeId": "ChIJkWJjuc0EdkgRqL0ffd2j1aA",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 45.842594,
+                "travelDistanceMeters": 58.494064,
+                "types": [
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The National Gallery"
+                },
+                "name": "places/ChIJeclqF84EdkgRtKAjTmWFr0I",
+                "placeId": "ChIJeclqF84EdkgRtKAjTmWFr0I",
+                "straightLineDistanceMeters": 268.19415,
+                "travelDistanceMeters": 354.60327,
+                "types": [
+                    "art_gallery",
+                    "establishment",
+                    "museum",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "currentOpeningHours": {
+        "nextCloseTime": "2025-11-25T21:00:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 19,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 11,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 11:00 AM – 9:00 PM",
+            "Tuesday: 11:00 AM – 9:00 PM",
+            "Wednesday: 11:00 AM – 9:00 PM",
+            "Thursday: 11:00 AM – 9:00 PM",
+            "Friday: 11:00 AM – 9:00 PM",
+            "Saturday: 11:00 AM – 9:00 PM",
+            "Sunday: 12:00 – 7:00 PM"
+        ]
+    },
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "JAMAICA PATTY CO."
+    },
+    "editorialSummary": {
+        "languageCode": "en",
+        "text": "Simple takeaway for traditional Jamaican patties, plus soups, coffee, juice and imported cakes."
+    },
+    "formattedAddress": "26 New Row, London WC2N 4LA, UK",
+    "goodForChildren": true,
+    "goodForWatchingSports": false,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x487604cdb60e0e3d:0x24181b409384f782!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487604cdb60e0e3d:0x24181b409384f782!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=2600858748973283202&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487604cdb60e0e3d:0x24181b409384f782!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487604cdb60e0e3d:0x24181b409384f782!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=2600858748973283202&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJPQ4Ots0EdkgRgveEk0AbGCQ",
+    "internationalPhoneNumber": "+44 20 7836 3334",
+    "liveMusic": false,
+    "location": {
+        "latitude": 51.5111328,
+        "longitude": -0.1266536
+    },
+    "menuForChildren": false,
+    "name": "places/ChIJPQ4Ots0EdkgRgveEk0AbGCQ",
+    "nationalPhoneNumber": "020 7836 3334",
+    "outdoorSeating": true,
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "JAMAICA PATTY CO.",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVrpa6KoNny13nUJshR533T_30BFA3Wgm1nupC2zqZ54Z7JBuA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113560492227938928087"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMXRSuFvCXPwTlYkMqBedxD8l4zj362udp3gPY&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMXRSuFvCXPwTlYkMqBedxD8l4zj362udp3gPY!2e10!4m2!3m1!1s0x487604cdb60e0e3d:0x24181b409384f782",
+            "heightPx": 377,
+            "name": "places/ChIJPQ4Ots0EdkgRgveEk0AbGCQ/photos/AWn5SU7sh6m3PLIqxf-wxIU5kbOk9dhBzKVVmMzpF4q3Qf7oupJb-2vhW8st-jFfZXC_sIxLudvlvY2hGozFGhmlMCTM4Ui8SGztJghBrKsiqg7ESC1znPqZJB8QiyiRXZ6S9-0bFvCDTp_j1pqeD-ugrIEHiMHNcN5IUi3X4ZQuzBwDQXX_5-gA5KF_3yd007aUaK4LLijXj4G9wz8bmZud0And6WTgh9VSa5uXrE0L-MlNQTf03zIhMTCA03wvtTbDSQwNYoAYAywFiBVVZyvpgP7ZrXVpdFNYgCgtShkZy2Y",
+            "widthPx": 669
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "JAMAICA PATTY CO.",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVrpa6KoNny13nUJshR533T_30BFA3Wgm1nupC2zqZ54Z7JBuA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113560492227938928087"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPAxTh51qyUKV4cdunNlFs0EtIm3nu6SP9Bpn0&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPAxTh51qyUKV4cdunNlFs0EtIm3nu6SP9Bpn0!2e10!4m2!3m1!1s0x487604cdb60e0e3d:0x24181b409384f782",
+            "heightPx": 827,
+            "name": "places/ChIJPQ4Ots0EdkgRgveEk0AbGCQ/photos/AWn5SU7vKH5s3u1HR7zuwtIGpSQMYLXabEuE9hmhkY2sVk8z_CN-H6PVxq-hamvyI38Ry8AP6hsvGdbFi5qg_kVmpg_6QVaER147VG8ofKNJLUg9nU0TxkM43tNN_YPYQGf6GxFSjuN-MCxC_6g8y6BmR5Eg5ZjUJbWrzu22-Ne9fpzUrHUj90KKSms1JpJBdDPf0DobFbk9vmh3ZYbIBj5B9xKrgA6g1waBf3LB3zAvzJdG6RMRDtTlvbOMeM7OjriiedLMNjzaFE4RgYIXUsbJTGypeyP9PkApys_BTfQZ-_Q",
+            "widthPx": 640
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Krunal Tailor",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWmUxF1H3OhiBD1995jTWSZzHWNdihYyHNO7RaqsWavwiiUra7eKg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/109397124079306271922"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDz_olRK70Ezp6NnJsqPMpk&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDz_olRK70Ezp6NnJsqPMpk!2e10!4m2!3m1!1s0x487604cdb60e0e3d:0x24181b409384f782",
+            "heightPx": 1720,
+            "name": "places/ChIJPQ4Ots0EdkgRgveEk0AbGCQ/photos/AWn5SU7KRawdPlHPrUJbIrbf_7EvX4xGtISfSKMH_C5w9Wy6k7FrwfIPTu98Nz2YwV71Gichjl-8MKHlAuOoxGfWfM8GDOY7fkRdCk-rJdhNto6aCKMN6Bt2zrmekrw4VkLASUrSmz7aJUwqmonHtFzV5pUlEO3OSWD63SC3JgEwig2toM5rzRAmjApZ5WCO2Zcn2CUsq1OwGZ6W7dNyXVV4fnP2JRg9Dmx_LfsmgaUK4ac19BhnX9MJyGRJZwXTWmhgMi5j8Pow9mgW6GQd4Lcitg-CrM7U4F28lotcL0QDAiN3FV4EwYj6toFJszBliAtBP6cZHKMjdZUq_k-5P6dZZ1PX350OEgXQEz2jJAKwC8vj-Cbw1JgF4TfFllTpfCKr65qAxh2uKecxRCuUAhFJJitcLEF_mpWtZqQZE30TIM0R2zmxRPd-XL_9sZuQboS2",
+            "widthPx": 1290
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Zachary Zhu",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUUgFjEV-aztBmPS2JVJrnM9F-y4MgIpU9wYur3EZA100kmFY-6hQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/109688823438981546663"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCj8RCxBI6ce0daoK00g2eL&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCj8RCxBI6ce0daoK00g2eL!2e10!4m2!3m1!1s0x487604cdb60e0e3d:0x24181b409384f782",
+            "heightPx": 4800,
+            "name": "places/ChIJPQ4Ots0EdkgRgveEk0AbGCQ/photos/AWn5SU5n0RN8cQy2aQsSGd40Vj9u6dRVyMMgPgcpEVhZk3f4MBcGcY2WcFBJI8DGzMWwSk51jnr1HwyqMpiQyKO-cMYtIQbtLL9SHWWoobTHSUYkVgdmBbL4DVhZbhwRPrfodg-hDj38gS-oY3jQCzkSsP1UFdaFnM3s6P1BoJ7QXjcvYtmeWhn4tC6Y6th7uoy8klgjRQc73DQb-7nNy_-6gWKiO75bt0wHY9MeUzUR_1hSIlzuxbvnLDt0VoLnmpHevpIdgGsWKYb-MLuuNA-oZux52eSvfJ_JiINnotpjhGuUo4SgbuOynJ9_BjR5h7iDXvSUQWnhPqG-2p_X2gDgwEvD8oMNi9Ggi8C5WLakFWPy87L-sVMv8ArYiPjcSwRPrqCpwDMVY3u1DyxZEtdm9e0Oooo0xrGSy6lltxdj6SCJw9Fek9OzTQdGmOHVKw",
+            "widthPx": 3600
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "FR",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIHHh8JcvOZoUMZzoiSXmjIiWlsfDW80wK-CNF67yl8l_yrgg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/101093250461583089578"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDPlZuJfA&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDPlZuJfA!2e10!4m2!3m1!1s0x487604cdb60e0e3d:0x24181b409384f782",
+            "heightPx": 3472,
+            "name": "places/ChIJPQ4Ots0EdkgRgveEk0AbGCQ/photos/AWn5SU4eatXz_V5N0ysKqiGygIqOjkYcjQUSPYJoD-eJj50tbXGS1uPsrucuirlKxwNsvpH4ToDb_S8k4txqeXux7Fe4_ZoIqyzzA5C8IjzSm9NFnOGL8TSOHqzm1xNHy4wefMkF-o7lyI5cpJUr3zvCcfjRXE9GYmWppMSBbA9k1Uf2zqbZsniChLlkKxAPUmXynFTew2G5409GIH1s2MMRn4PQOn2vgbncmG6kyCHC0nx9mcFrTRuP2KCxh864USemr7byWsqbKOiARuwZdmFm2oRtmOqoDmgPVxPawNOb1wsiDIzydT4ya21TubxoveS8TosAJ8X1sivUrDlIZarD7OyfWKi_c6SUsuWkrBe6MxAofu1_L-_ocdGtQyA3_VxKJACQalk0Rt_OIWDcd8yzXM8iPNfFdtD2X89WnOLgnL-g2g",
+            "widthPx": 4624
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Erino Campbell",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJoNaQhHwctBZcC1M5WfX8G-vxStnYtRcaeb_c05RE7L3iptA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/109296719843761374562"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDggKyflQE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDggKyflQE!2e10!4m2!3m1!1s0x487604cdb60e0e3d:0x24181b409384f782",
+            "heightPx": 576,
+            "name": "places/ChIJPQ4Ots0EdkgRgveEk0AbGCQ/photos/AWn5SU6KA9YrN2P7SWY-GSCuVr9IAnkd1RLvhE7D6Kl_9vN3fhDWx79jnFYr0KNVo8glFfLBU-XGXJ0PYHsNYxrFfRuomyyz_7avMdlSh2cq-_-zT2T4qD6UrDVGL4YkgbPckLe6Y8lF8h0N_MRhpj5d8cFuFr9mXwj03WI6GKQ4RePLzED7LjNc50La2EXc5Xq8xxJB5-vTfifG2XCqs2xbwUz3UWDT0c4ozjfe1rgUUR79dt_7Yw3wE42SDGbu_u2dDQvzooqsq6A_ADN7ZMHzbVvcsbQMRUzXsDARmUk-yGTNnFueeYt4RT2IDaE2yg27jjthBeI741ONWR_QqzKlkealReMdYH7cPfhaS8b8UtSYF8hfOA0QcGRPYWS2NdtOC42qwjpy-TWFSm5efwhPxgOop-6AWsdcTpujmhDKPHbdQKA",
+            "widthPx": 1044
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Latoya Browne",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV-JdTzGZA_cx0JqMoyz5tsfo08oryYHDtSunoxqWliwUeqjjJOQA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/112899207795811250039"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCo17ebTw&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCo17ebTw!2e10!4m2!3m1!1s0x487604cdb60e0e3d:0x24181b409384f782",
+            "heightPx": 4032,
+            "name": "places/ChIJPQ4Ots0EdkgRgveEk0AbGCQ/photos/AWn5SU4vKLGl9gEn5xT970FOzh_YpBENC7X9XZonTbRhgQgXMhKqssSmv9a1sKc6g51MsqLlpYjxwHTTL3axZJG2y31oW9aJabbp34zKZJ5WYC198pKJors3GMjI__9cgMRJ4eAhsX8BtTCm-00Q9ArbA8TH6mEMInMnbfVoO-Fka_bYKGsQVPN-hAJyuloKogpFr8wJwlhBfIdYVK0E6Wig8Mkihkd96kEn5kXzeF1_KXBJcdeX-iw_lfdenvLeTq0b5G0TqAyGq-YHfnJ6JL2lR9AXgLJ0r8RqhpVDEcLp5kEv9LDo0ejyEn1TBN4twLKYAmoForjoJMKESknl2atLpnzGzC0dBwz6wj8mRYv4SbNaPVx0kENTCsW9uctA1yBSGUa0PnFZ90wRg6LaFay07czbFXJm01YMJOqLE3cIIYpaAg",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Lorren Shire",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVdIE66vh43QLAIXxg4aKV04nQBI0XHpiPkJyHb3UYOgJRFudkK=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113117036151036612180"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCyCj573WIqQ6BFi2C3mlgR&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCyCj573WIqQ6BFi2C3mlgR!2e10!4m2!3m1!1s0x487604cdb60e0e3d:0x24181b409384f782",
+            "heightPx": 4000,
+            "name": "places/ChIJPQ4Ots0EdkgRgveEk0AbGCQ/photos/AWn5SU48OMmK0TBnri2goIUeWNDpGkMJ3bIoNCz4d3HZ4DObaFsxtFc3SjcjBYKyBETspWFuxRUqCKCQBA8vmM32_bUcwiuTIsbw8qIj7hrnOkuuabgXUQ7Wj1mXs7Yoy7DMypFnIXACFXFM0dxqLio-YfH9pOgFNcpwqecl_0ACtuXnuZuTHxcUuHb1oslXpxPORy39iQJhBnacj2rBEjN5Pq_wz1Ui2t2ISRMpSobBi_GjBtIodNQrcciSngMY56Ru8RzFAYlDTvO40BEj025p-cq_OqO_Xljd9Bw-IHogUcgJHmhna2vxDY_E5HEba-Q8KVG0pvgqEiSR0CqFRxG6c_S3heUgi2fN7xH4ibpzegUYDv7GmP6f10cC4ay-43idWfgGEMOXhj9P3FNOyeQLZKhpHiWVQX5_y-gcvCK1Sxa50MFzTCMuhp065gSf4Yhn",
+            "widthPx": 3000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Dr. Keiland Smith",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXpYXRsuO_B2XpYYMU4Zr1bOlpIsxW0Y9EGEoZs1XC5_W93ZCwu=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117553783216194090882"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCwp6fKRw&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCwp6fKRw!2e10!4m2!3m1!1s0x487604cdb60e0e3d:0x24181b409384f782",
+            "heightPx": 4032,
+            "name": "places/ChIJPQ4Ots0EdkgRgveEk0AbGCQ/photos/AWn5SU7yEDEj4MCFj81mWxMQe-Y6uP9IEJrSofTl4MSp958oAYv56kLyZX6tM0AntP1D_hw-Tx2xqOvCVUz_vjkWbW15NaZcYt2W-1uxHwPEqmJzsSroGtD4rFSFj4FMaulyQKqk0sFR5wOy8ypWBHbKPM9sHCeqsC2p2-NqwsKrKvL1a6troQX9anZvX-jP2lS7sTs3yTTluvaz-QWZCH_K_pE3du5XpszYZlq3Uk-6AVBg2o6CGn8iRfabToj9qFSiZQ91hLNDtU4vE78SCiWLA1-KKkoxuDjzCP4BLyW8RtekHFCA_efXdSyeJEyjp_LRgThqWEJTtw1WV2iQsdRut3YfCY_cx-UuzKrL67voV3D9iSOP4HWvWhDT50dfOEjg_FXGpVeJdh-5NBtsCg0ElPYUV5a8bFQE0HQrzuFBGhcnIg",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "modem 128",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLokL0GXxzEteBTbknfDCip6j0ygrUKpZMCDAq9FC_w8JzAJA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/103689404389290506241"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBC885zlwfrk5oQby4GT5t4&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBC885zlwfrk5oQby4GT5t4!2e10!4m2!3m1!1s0x487604cdb60e0e3d:0x24181b409384f782",
+            "heightPx": 4032,
+            "name": "places/ChIJPQ4Ots0EdkgRgveEk0AbGCQ/photos/AWn5SU6r183PTSovbsjgEQfBWVZVNEt9ZQHLRtLpjQHAYxFUVmhpe0EKDCRRNAh1Zhqxu6511rVA5h-Tw7W6PpLMDJyTDgEnz7IPuuZwICFHIRBKvibyWZ5PAN_BGwG-xbJd-_kqcjEBSQKW_HghYbqYGe8AZv-zJm43o00a8I3UrDjpk9rSRal-qbq1mU4d_drV0hHQRWEepS1s7UFsOJuBpPtPJ_1eYABDixHD6MdMqLVZXBvdtRo5_77Uw0bvnlLDr3GFMFbGpwWBGoJUtoL6nOnbcBEMEowyPWQj5_nvmwRbD-PC_6dDwUdl-5IOXc43plG3zYrZZJHBH4xJOsnpnz7mJO0GJOJCSQwy12smJtklV9IuozvCWbgcsKqT6Hbdgz1egfLK1s5_oDdU2VgfoEtdhE6ZFILc3hbZ7ZVQSz73YtJSV3eSI6N6mZ1MOw",
+            "widthPx": 3024
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV6F+F8 London, UK",
+        "globalCode": "9C3XGV6F+F8"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "26 New Row"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2N 4LA",
+        "regionCode": "GB"
+    },
+    "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+    "priceRange": {
+        "endPrice": {
+            "currencyCode": "GBP",
+            "units": "10"
+        },
+        "startPrice": {
+            "currencyCode": "GBP",
+            "units": "1"
+        }
+    },
+    "primaryType": "restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Restaurant"
+    },
+    "rating": 4.4,
+    "regularOpeningHours": {
+        "nextCloseTime": "2025-11-25T21:00:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 19,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 11,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 11:00 AM – 9:00 PM",
+            "Tuesday: 11:00 AM – 9:00 PM",
+            "Wednesday: 11:00 AM – 9:00 PM",
+            "Thursday: 11:00 AM – 9:00 PM",
+            "Friday: 11:00 AM – 9:00 PM",
+            "Saturday: 11:00 AM – 9:00 PM",
+            "Sunday: 12:00 – 7:00 PM"
+        ]
+    },
+    "reservable": false,
+    "reviewSummary": {
+        "disclosureText": {
+            "languageCode": "en-US",
+            "text": "Summarized with Gemini"
+        },
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=5%401:CAIQACodChtyc19oOjlPY2lmcjEtWWttVzdhOGMzSWtpWUE%7CCAIQACorChtyc19oOjlPY2lmcjEtWWttVzdhOGMzSWtpWUESDAi_2OfEBhD44ZHwAg&d=17924085&t=8",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487604cdb60e0e3d:0x24181b409384f782!9m1!1b1",
+        "text": {
+            "languageCode": "en-US",
+            "text": "People say this Jamaican restaurant serves delicious patties, including spicy beef, jerk chicken, and curry goat, as well as vegan options. They highlight the generous fillings, flaky pastry, and authentic flavors. They also like the reasonable prices and the lively, energetic atmosphere with good music."
+        }
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Judith Dixon",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVHlFP_4QfSIi2ngaYffxuSmWkR5qgl4szocsh5cD5tAzqdM2yN=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/111563788096870503399/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2sxNFkwWkxPWE50U2tVNGRtdEVWbGxDTWs1NFgyYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxNFkwWkxPWE50U2tVNGRtdEVWbGxDTWs1NFgyYxAB!2m1!1s0x487604cdb60e0e3d:0x24181b409384f782",
+            "name": "places/ChIJPQ4Ots0EdkgRgveEk0AbGCQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxNFkwWkxPWE50U2tVNGRtdEVWbGxDTWs1NFgyYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "The patties themselves are really good – the pastry is light, flaky, and well-baked, and the fillings are rich, flavourful, and nicely seasoned. If you’re looking for authentic taste, the food definitely delivers.\n\nUnfortunately, the experience is let down by the staff. They come across as miserable and unfriendly, with no smiles or warmth. I found them unhelpful, and it felt like serving customers was a chore rather than something they wanted to do.\n\nI attending a kiosk on the canary wharf.\n\nOverall: excellent patties, but the customer service really needs improving"
+            },
+            "publishTime": "2025-08-23T23:50:52.125514226Z",
+            "rating": 3,
+            "relativePublishTimeDescription": "3 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "The patties themselves are really good – the pastry is light, flaky, and well-baked, and the fillings are rich, flavourful, and nicely seasoned. If you’re looking for authentic taste, the food definitely delivers.\n\nUnfortunately, the experience is let down by the staff. They come across as miserable and unfriendly, with no smiles or warmth. I found them unhelpful, and it felt like serving customers was a chore rather than something they wanted to do.\n\nI attending a kiosk on the canary wharf.\n\nOverall: excellent patties, but the customer service really needs improving"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Zachary Zhu",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUUgFjEV-aztBmPS2JVJrnM9F-y4MgIpU9wYur3EZA100kmFY-6hQ=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/109688823438981546663/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xod1ZGWTNaRUpXV0hCWVozaEJZVTU0VW1jdE1FRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xod1ZGWTNaRUpXV0hCWVozaEJZVTU0VW1jdE1FRRAB!2m1!1s0x487604cdb60e0e3d:0x24181b409384f782",
+            "name": "places/ChIJPQ4Ots0EdkgRgveEk0AbGCQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xod1ZGWTNaRUpXV0hCWVozaEJZVTU0VW1jdE1FRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Super tasty Jamaican patty! Was craving a late afternoon snack and this absolutely hit the spot. Flakey and crunchy on the outside, and absolutely savory and delicious on the inside. Whether you’re looking for a snack, breakfast, or a heartier meal, I think this is a gem of Covent Garden. Next time I’m around, I’ll be back to try more of the flavors"
+            },
+            "publishTime": "2025-09-10T00:03:22.815306227Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Super tasty Jamaican patty! Was craving a late afternoon snack and this absolutely hit the spot. Flakey and crunchy on the outside, and absolutely savory and delicious on the inside. Whether you’re looking for a snack, breakfast, or a heartier meal, I think this is a gem of Covent Garden. Next time I’m around, I’ll be back to try more of the flavors"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Chantay",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocINipTdqcsOv8zGzdhEzxLREjhDkC-BbH2JC5Rt9cIqxPSQYY8=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/103786666496891346816/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWUVdXNWpTR1pzT0RsRlIzRm1WVk5IT1RsV1NGRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWUVdXNWpTR1pzT0RsRlIzRm1WVk5IT1RsV1NGRRAB!2m1!1s0x487604cdb60e0e3d:0x24181b409384f782",
+            "name": "places/ChIJPQ4Ots0EdkgRgveEk0AbGCQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWUVdXNWpTR1pzT0RsRlIzRm1WVk5IT1RsV1NGRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "We ordered the vegan “soya” patties. Oh my goodness, outstanding flavor and perfect crust! I will definitely go back before I leave London. Likely more than once.😆"
+            },
+            "publishTime": "2025-10-05T00:12:06.810642336Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "We ordered the vegan “soya” patties. Oh my goodness, outstanding flavor and perfect crust! I will definitely go back before I leave London. Likely more than once.😆"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Elawynn Paxdriel",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL5W0ctSdVSMdiDFuuljKZiYxANllqcxNRLrsmZtWPVuWzzNg=s128-c0x00000000-cc-rp-mo-ba2",
+                "uri": "https://www.google.com/maps/contrib/100679673295375648880/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25JMFEzZ3RhbGxVVkROYWF5MXZYekZpTUdsQlRXYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25JMFEzZ3RhbGxVVkROYWF5MXZYekZpTUdsQlRXYxAB!2m1!1s0x487604cdb60e0e3d:0x24181b409384f782",
+            "name": "places/ChIJPQ4Ots0EdkgRgveEk0AbGCQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT25JMFEzZ3RhbGxVVkROYWF5MXZYekZpTUdsQlRXYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Maybe the first image speaks for itself. The second image is after I squished the contents to make it a bit more appetising. Generally fine and tasty, like sausage meat in some pastry. For a better but similar thing try a curry puff from old Chang kee down the road."
+            },
+            "publishTime": "2025-10-15T21:41:46.665940512Z",
+            "rating": 3,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Maybe the first image speaks for itself. The second image is after I squished the contents to make it a bit more appetising. Generally fine and tasty, like sausage meat in some pastry. For a better but similar thing try a curry puff from old Chang kee down the road."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Charlie French",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJvliKeRbXmTvhgN3fLWolrVGo9qsuMjGMviiG8h2vXPeleXQ=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/101478282508808517330/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xKVVdXdDFiM2hIV2treVdFTTNXVW8xVG1OT2RsRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKVVdXdDFiM2hIV2treVdFTTNXVW8xVG1OT2RsRRAB!2m1!1s0x487604cdb60e0e3d:0x24181b409384f782",
+            "name": "places/ChIJPQ4Ots0EdkgRgveEk0AbGCQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKVVdXdDFiM2hIV2treVdFTTNXVW8xVG1OT2RsRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Myself and children finally got to try a chicken patty and it was worth the travelling that day. We have never had a patty like this ever. The pastry was so unique the flavour of it, then the chicken truly seasoned and beautifully cooked. You could taste the love. I will be in regular now. Oooo the best patty I have had in London ever. 10/10"
+            },
+            "publishTime": "2025-08-02T12:45:00.686856604Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "3 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Myself and children finally got to try a chicken patty and it was worth the travelling that day. We have never had a patty like this ever. The pastry was so unique the flavour of it, then the chicken truly seasoned and beautifully cooked. You could taste the love. I will be in regular now. Oooo the best patty I have had in London ever. 10/10"
+            }
+        }
+    ],
+    "servesBeer": true,
+    "servesBreakfast": true,
+    "servesBrunch": true,
+    "servesCocktails": false,
+    "servesCoffee": true,
+    "servesDessert": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "servesWine": false,
+    "shortFormattedAddress": "26 New Row, London",
+    "takeout": true,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 1194,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.51244568029149,
+            "longitude": -0.125321919708498
+        },
+        "low": {
+            "latitude": 51.50974771970849,
+            "longitude": -0.12801988029150202
+        }
+    },
+    "websiteUri": "https://jamaicapatty.co.uk/",
+    "timestamp": 1764064800
+}

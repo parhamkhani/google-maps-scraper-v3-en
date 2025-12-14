@@ -1,0 +1,789 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleParking": false
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en",
+            "longText": "Strand",
+            "shortText": "Strand",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2N 5EJ",
+            "shortText": "WC2N 5EJ",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Westminster"
+                },
+                "name": "places/ChIJVbSVrt0EdkgRQH_FO4ZkHc0",
+                "placeId": "ChIJVbSVrt0EdkgRQH_FO4ZkHc0"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Trafalgar Square"
+                },
+                "name": "places/ChIJH-tBOc4EdkgRJ8aJ8P1CUxo",
+                "placeId": "ChIJH-tBOc4EdkgRJ8aJ8P1CUxo",
+                "straightLineDistanceMeters": 200.57053,
+                "travelDistanceMeters": 230.35915,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Charing Cross"
+                },
+                "name": "places/ChIJEbut6s4EdkgRNxY-NezJYd8",
+                "placeId": "ChIJEbut6s4EdkgRNxY-NezJYd8",
+                "straightLineDistanceMeters": 42.09746,
+                "travelDistanceMeters": 127.545265,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "train_station",
+                    "transit_station"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "M&S Simply Food"
+                },
+                "name": "places/ChIJz0jn7M0EdkgRCNLpnrA0Y80",
+                "placeId": "ChIJz0jn7M0EdkgRCNLpnrA0Y80",
+                "straightLineDistanceMeters": 33.422253,
+                "travelDistanceMeters": 178.70663,
+                "types": [
+                    "convenience_store",
+                    "establishment",
+                    "food",
+                    "grocery_or_supermarket",
+                    "point_of_interest",
+                    "store",
+                    "supermarket"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Charing Cross station"
+                },
+                "name": "places/ChIJ5dUFACUbdkgRQF6Ii9QBPrk",
+                "placeId": "ChIJ5dUFACUbdkgRQF6Ii9QBPrk",
+                "straightLineDistanceMeters": 44.375328,
+                "travelDistanceMeters": 182.11584,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The Clermont London, Charing Cross"
+                },
+                "name": "places/ChIJZf2Jlc4EdkgRklHks51KYBo",
+                "placeId": "ChIJZf2Jlc4EdkgRklHks51KYBo",
+                "straightLineDistanceMeters": 67.81902,
+                "travelDistanceMeters": 179.3092,
+                "types": [
+                    "bar",
+                    "establishment",
+                    "food",
+                    "lodging",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "containingPlaces": [
+        {
+            "id": "ChIJEbut6s4EdkgRNxY-NezJYd8",
+            "name": "places/ChIJEbut6s4EdkgRNxY-NezJYd8"
+        }
+    ],
+    "currentOpeningHours": {
+        "nextCloseTime": "2025-12-11T23:00:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 14,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 20,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 14,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 8,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 15,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 20,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 15,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 16,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 20,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 16,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 17,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 17,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 7,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 7:00 AM – 8:00 PM",
+            "Tuesday: 7:00 AM – 8:00 PM",
+            "Wednesday: 7:00 AM – 11:00 PM",
+            "Thursday: 7:00 AM – 11:00 PM",
+            "Friday: 7:00 AM – 11:00 PM",
+            "Saturday: 7:00 AM – 11:00 PM",
+            "Sunday: 8:00 AM – 8:00 PM"
+        ]
+    },
+    "delivery": true,
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Upper Crust Charing Cross"
+    },
+    "formattedAddress": "Strand, London WC2N 5EJ, UK",
+    "goodForWatchingSports": false,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x487604cdece748cf:0x8a679bbd84ef25!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487604cdece748cf:0x8a679bbd84ef25!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=38957465383268133&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487604cdece748cf:0x8a679bbd84ef25!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487604cdece748cf:0x8a679bbd84ef25!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=38957465383268133&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJz0jn7M0EdkgRJe-EvZtnigA",
+    "internationalPhoneNumber": "+44 20 7529 8369",
+    "liveMusic": false,
+    "location": {
+        "latitude": 51.5078697,
+        "longitude": -0.1251768
+    },
+    "name": "places/ChIJz0jn7M0EdkgRJe-EvZtnigA",
+    "nationalPhoneNumber": "020 7529 8369",
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Upper Crust Charing Cross",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWgvl_4oqyn6RJQv-GfiSKAeypFdIWo9QDCI6H5wBw2DnPcsq8=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113042163822874562795"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPsurdv9101WIxmGbswGAV0wSyxWZScF6WA2HY-&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPsurdv9101WIxmGbswGAV0wSyxWZScF6WA2HY-!2e10!4m2!3m1!1s0x487604cdece748cf:0x8a679bbd84ef25",
+            "heightPx": 1211,
+            "name": "places/ChIJz0jn7M0EdkgRJe-EvZtnigA/photos/AZLasHp--p0oekYLJzPfwJQWRP_43-uAfW28QNSpw3fAQ9BYfO6MKaR53Il1Mqu_rh_2KL4RoLespqgwwoCVW416viIFn0BxPDH-fDCoKiEXDjYpJVNIFyLqxGfTOUsjyDiua6aq3YIb0sQWcp-orSqumHOp7UeCNq3bAmtChfZh-x0MKPsSdRTanTMy1TZcf2bpBqXJGMaA1xaYjmGFGNVnt7OssvRmyHnf8TygEbUyTrjjazWruedKncew9Bu8uHbCmiat7Zt4MMfPqxlY1gnkqF00xQS9mxvO6SYOJ8vcNJObtw",
+            "widthPx": 2048
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Kai Ebnother",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJOWw554ObhKDk-9EiXerNPiHJvmyfyu8bvNaabNQBrxgOEkA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110951711248460808335"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICryfHDogE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICryfHDogE!2e10!4m2!3m1!1s0x487604cdece748cf:0x8a679bbd84ef25",
+            "heightPx": 3024,
+            "name": "places/ChIJz0jn7M0EdkgRJe-EvZtnigA/photos/AZLasHo3fRQBi4Nhw0dXuoa6XqtBkUaL4DfZ5OVg-0K8HF-jLDkUOSI4tIcWLvsaUgKdANWS6dK_ba-t2Sa44GPYtCF52FsPBQhr8vW5VX3hGa-9WmVg3TLyTOQ8gv-Yq39VuALW87apmYpvjHnTl9MJnln7QPUJDA0-_srOc1zrBdx7OfpK8ZN4dT0qIjQ2cWslfmOuIlK73zwfkv_OysmZah2Rh4iD73gvLc89jNN4pZJ2-G97VrL0VryYZY-AFzxOwlzIQEOQGnIDpjRrQSJHT-8UEQD9cxFH2dWuKSWapWTRU669xKPflFUDOh0KbkcttxoRIBiCRDhJjsA9cGauitdpDPKGvij9af3ITEmSmmZtj_tBNoy64yOYWicOBbejc-irAJXlRB7WubRUAd6UFEjTQ7660QmdNT5tlCzfGlL-1ckO",
+            "widthPx": 4032
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Kai Ebnother",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJOWw554ObhKDk-9EiXerNPiHJvmyfyu8bvNaabNQBrxgOEkA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110951711248460808335"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICryfHDEg&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICryfHDEg!2e10!4m2!3m1!1s0x487604cdece748cf:0x8a679bbd84ef25",
+            "heightPx": 3024,
+            "name": "places/ChIJz0jn7M0EdkgRJe-EvZtnigA/photos/AZLasHou8-FmwiM6nOoGNPL-fVngOIdwsDOdmT2ZkkL4pe0n5x7c8UTv2SwW-4d7-a5q-Rz7yBnBulN97VWueyEpxCEZXBqKIaBurimQ0L8Dk1wQzn1ntWq7_vU1_WOLfr1IvxRB63t6gedD4sdPvu_yV-mKtaWHs8GievO1bPKkyLx6pa4OWTr6Yhx7C2n1GCSr7zBGFnntkBL3YNyi20vhxHkKD9Vz3E9xGDOChwQL5Qy7jvBTeK_JP7bpbIX3u0w0nrBAwTpac4bcH-Nitx9aiDmFvt9MW6c87lcC4o6aEcm_XJzzf3jOhdUBZYgpfs3Vgij7s020qE4eRyE6TXYubVQdvR3uhfmc_P3Ycolfx5TgVhADxTXLVLGOJRfvkQM9fPNGCPNYDac8q8G6irXvhf9hc95isKYkvapcNZbvKd64oA",
+            "widthPx": 4032
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "泓烁",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIS3DmBkOMgx9c3zKJqVt1WjE5Y6ecIK62LVMBX3GJtDAwCJw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/102784787646321985718"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDv5aW-PA&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDv5aW-PA!2e10!4m2!3m1!1s0x487604cdece748cf:0x8a679bbd84ef25",
+            "heightPx": 4032,
+            "name": "places/ChIJz0jn7M0EdkgRJe-EvZtnigA/photos/AZLasHq4FwQ4PbbCTDKCTErfiBUl9Fp-twqchxAdvN4q_SnC_G4hGw6t9nnUSXh3DdJIlaqsG6Mb7kiqq5xDn9YOGVmPbvNjuPyj-_AQlvF0_pnhpVIazEdH2Gk4-VKmGXuUYFt9iRXff4w_VntnTggvYnp-7UYJHosDh65RX_VLp4MlQqVjbH3dv878xrDQgx8Z8Ol_WH1NRcO_JcmnhXHHI8mPKjhDZxR2PRc43VZab0lmu20AD_2etlZ-uWyntpsoglFKI9jgbgHLWt8M5LbGT-glaEvboJd_VZVyEYAQYb-d-9acEy97aqU-Mb9aJhiCD8X8KqxErRPtJd5b7mSpKltLcIf_D61LYuttnDwUfZ-QLjqSOqOIaeTme_KivQBiiskMvwCoiAafEiOcMvzdJRB9pOni33ZDOMv3HH_-PIW7RQ",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Oriana Anthony",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXBS6aZ7jvDunBjb0qNGQ2rs4BPPNTgG_QulH6RjgY5jWLSG-D6=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/116343354827262980001"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDvsJfMBg&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDvsJfMBg!2e10!4m2!3m1!1s0x487604cdece748cf:0x8a679bbd84ef25",
+            "heightPx": 4032,
+            "name": "places/ChIJz0jn7M0EdkgRJe-EvZtnigA/photos/AZLasHoX_ifJiU7pBKEhNXnft5_2m331SnY6gLtLi03XDo7tOVzUtvY21qsrBcF0MkpSY7B4M1tqOeLkKPkHiNj-ilFKr0dHSY9CqLI_NTnPjJu5ZL-q90Osy2FpqEbDxD4cli-qTFhsFJYssxwsiJ8n3bTCSGEMVVXI_ZvotG-mp3NqhFCMSLNtJC9JvLDNY9oA7o0_b4myyp8wQ_fUlcOebCQIaiv_HJ0L9OGp0UNz_SNy_Cb9652TlQrHsJjsxRS7AqcyRf5KiHC2M_mbfYZtFWtABncYUdC4t2hyyjbcH4KVWH4eOzFbCmZTypL7myZOwh8GpT89X0mdi2uVR45DWnskc1te80oWZ5pM5j1x7KcwxR1xLb6VNTkbrwnQJc_RjbnQgagb2_CNLiU1jzKTDzBgnBuV_gVdHjXgFs5rXSg",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Charan Reddy",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXeXoWJri6AJtqotvFZhpk9udLYMrIz5LWeccmbBn2bLd85veo=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/116926373818946250391"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEP3ekd-Z07G7lQE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEP3ekd-Z07G7lQE!2e10!4m2!3m1!1s0x487604cdece748cf:0x8a679bbd84ef25",
+            "heightPx": 4032,
+            "name": "places/ChIJz0jn7M0EdkgRJe-EvZtnigA/photos/AZLasHoCnR9i4FMEWi9iJVkLpFEkAYwroC_421SMYWfgqbfxKSVk6yBtYmTNtgHmJXBlbqkKXrp198xE2TxDAWXe48J4YKMC-KTGNkP9UvJh4AnroBgpxuGJTifdYeIKBJoroUYCjI3SQ-Ava4b9Jp8iOmJbVQlz00A1kflfoXTasHsg9GEU2fZjmubdfSxikOiuyejk8eRWlDz0RV1zfghNDQRh6GdS8ZGeKG70EnhE-KJVxszHtFz0yiUW8H2od10lfYOTAxmJ9w-rgFQWc9QI_26TAuAhzHxCpYWRkuEz00ITMWREp0CnnRPIG7DlCzWKAanu3lt714Bi_67w0dP3qchPJl3rr1OLOSCjIcqeilYLisekeF9J7Nfd4eynwIVIK3SWggRf9MLhJckElNa6vCgsFrWPV5aU9Js381RxcJYmUo2a",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Upper Crust Charing Cross",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWgvl_4oqyn6RJQv-GfiSKAeypFdIWo9QDCI6H5wBw2DnPcsq8=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113042163822874562795"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOfOUbBP2EF3u4b-_Kf_U5P-mJX6AfGA27XB7I_&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOfOUbBP2EF3u4b-_Kf_U5P-mJX6AfGA27XB7I_!2e10!4m2!3m1!1s0x487604cdece748cf:0x8a679bbd84ef25",
+            "heightPx": 1600,
+            "name": "places/ChIJz0jn7M0EdkgRJe-EvZtnigA/photos/AZLasHpMcsCoi6uVdAjQmpOcR7yRM2F7ypr3RYfbWjmgvgwRQ4FJtPIDbJPuuXfdyPmFO_20Xx0xYbKa8WUM1RbCRgcvg11lvzXDp0JfPS66hkm9ZnufCex3l4tmjRFpFQ19uvBdWG2oauoeAspgCbUINw06Yrtzk6gKFqFSqAamUv7RPa01JkSZub6BwyrIZREqp7M_DG7IDbpvHETdYhE4udNYnigFh7KenFNadOst7rccm7D2QoHe4hm_mlGtSUDbQVOBLJv7Jteabde9awNYQpvLNsizuZUYGsZ7e3nD8ViuIA",
+            "widthPx": 1200
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Yinka Adeyeye",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWAO5CAKGKRsQ2QZ9HCs1sTemvAK9MC8JEAQAb5VicMWFrPq3nNyg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/101251835061664547180"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICErtO9Cg&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICErtO9Cg!2e10!4m2!3m1!1s0x487604cdece748cf:0x8a679bbd84ef25",
+            "heightPx": 3024,
+            "name": "places/ChIJz0jn7M0EdkgRJe-EvZtnigA/photos/AZLasHrTrXI-mnatnv5Yn3jBKxg2w4R5goEc8QRiJmcNa-IfQbdEau4px2EPAXLDcVzEH6yab6311WIXeRGJTUyTgmUcBKGri7iXoRwhSwYVR5aRPcnwUKzS7b6Zz1kwTBYC4ZreUBwLioPR-BraJa3MJPSBsqpe_OGzu2G2JzQRVhxW3jTdqy4pnvVFtjZ3hhiAal9E77bgTSwJedg6WXg1cq5p7GUnpt1MYM_LZXuW7n6N-0qk5CNLcqgMdogU89Pkao4PVKl_dncv76aSB7wfp9ddL6Ahj6_DetL_atH68YbWatSawholIeN3OFAWIEbxuNBlLqB8esAmpaJbzUyFQ-HpcYRyjzCI4901oYf6c36_dYP7N94AlPBgZTj3PW8RyL22gC3PULmb0DRzUYeW2jWzPGJvLnL514ZjuSOKvp089Q",
+            "widthPx": 4032
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Asad Gattab",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJI7JGNJlQD21khfwPdMY1otevzkU0ci7b2sgbwJx3K3Adu5A=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/101877895814088371384"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEIyfo6r5ldTvfg&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEIyfo6r5ldTvfg!2e10!4m2!3m1!1s0x487604cdece748cf:0x8a679bbd84ef25",
+            "heightPx": 4032,
+            "name": "places/ChIJz0jn7M0EdkgRJe-EvZtnigA/photos/AZLasHpNlcrd3oH3j0Qqr7Mao0wBRlOdXawna-BCieck6eMCCJwuL89pqoPTMeCbDbk9zytB_m4FS6KLObTvx5R7sJCqaJCM3nRbWjsTC3Yma6Wzb6SAudo9KaYngxvwXyJOR2mFIej2zO9VLLr9kr72RKu9puBREXl3rRsjGm9XugEWDc_Hl0cbKQZnGblayxk-CSq5cJb_uotjOD9Mys7e68nR7XVVLFLJzvcBi5p0o-FLiPrDTiM6gl5uMPdCeVSi4EI2lpvZRIIYGrhTKvSVc2LeV_G1crWgSX4z7sRWC7adQdfl9T6kSNNKNt0pw07tdgndDJmc-FuuLX0frSoReXcyWEMjhuYCiBP0p375wGZQE2AAlhbX1DaiRo2JOMc8HvrpIOiO26rv3PXrg5tytCznWSuBo1tSPIQZvsylbBVBfg",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Desi Dim",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXCsd1WdpyuiwnxGwEREVAgFqS0PlLnEZoq2kKyojsyg-YnnOpC=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/100084861249112272193"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDh8MuhLQ&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDh8MuhLQ!2e10!4m2!3m1!1s0x487604cdece748cf:0x8a679bbd84ef25",
+            "heightPx": 2400,
+            "name": "places/ChIJz0jn7M0EdkgRJe-EvZtnigA/photos/AZLasHrcNr1mnWozkM_JnhTctvTer4JC6feaYqf6hpqF7_ijRx0uBi4cFxbOu-oLu24hOXA_S6K2qBc03pWzlSyrYUsPgy0vWYGLuyRwm-RFGogTrTgwoRTPjVC1icA0GXoE0uQ7K0H4zusu4Iq3x-fDmcBV63c8q_cfqCkOjj-jFejnvbDv70aGLwSPE1JDAjKZYcTUtOtWcbHMzjiJ61Z1nyONCIeQjDhyTG0J7-8Yw1zCn_xPuaJPu2MYe6MP-Bk3bvXU_qm-HqT5XY5Z35SKV_3Y9mXt-x1zPUArUcHLgrQatwjRaZJ29PkwvEi3Zx8C_87EVtcsVwP4q9xL4GTBDFUxZKbCiiPxq83RzjXazZb_guSdY0eBGag1osPeEH1pFrBi3xF7Lr5Jx0Ocv65XIzR4fbO-17bb23eResxgUjbYmw",
+            "widthPx": 3200
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV5F+4W London, UK",
+        "globalCode": "9C3XGV5F+4W"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "Strand"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2N 5EJ",
+        "regionCode": "GB"
+    },
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "priceRange": {
+        "endPrice": {
+            "currencyCode": "GBP",
+            "units": "10"
+        },
+        "startPrice": {
+            "currencyCode": "GBP",
+            "units": "1"
+        }
+    },
+    "primaryType": "sandwich_shop",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Sandwich Shop"
+    },
+    "rating": 4.8,
+    "regularOpeningHours": {
+        "nextCloseTime": "2025-12-11T23:00:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 20,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 8,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 20,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 20,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 7,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 7:00 AM – 8:00 PM",
+            "Tuesday: 7:00 AM – 8:00 PM",
+            "Wednesday: 7:00 AM – 11:00 PM",
+            "Thursday: 7:00 AM – 11:00 PM",
+            "Friday: 7:00 AM – 11:00 PM",
+            "Saturday: 7:00 AM – 11:00 PM",
+            "Sunday: 8:00 AM – 8:00 PM"
+        ]
+    },
+    "reviewSummary": {
+        "disclosureText": {
+            "languageCode": "en-US",
+            "text": "Summarized with Gemini"
+        },
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=5%401:CAIQACodChtyc19oOlQyTC04Q0hld2NEel9aRFdQVEhfX0E%7CCAIQACorChtyc19oOlQyTC04Q0hld2NEel9aRFdQVEhfX0ESDAiStsvBBhD4rMTVAQ&d=17924085&t=8",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487604cdece748cf:0x8a679bbd84ef25!9m1!1b1",
+        "text": {
+            "languageCode": "en-US",
+            "text": "People say this sandwich shop offers tasty baguettes, fresh coffee, and delicious hot chocolate. They also highlight the quick and efficient service, and the friendly and helpful staff."
+        }
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Amy Thomas",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXwD7QVD_VvTej93EF0_wlL9-OX_EpVLmuczpjGIgyrqrAeufg=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/113343436919510092389/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kxSlZuTXRUMnR3U1ZacFQxQllWR3czTXpOcFIwRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxSlZuTXRUMnR3U1ZacFQxQllWR3czTXpOcFIwRRAB!2m1!1s0x487604cdece748cf:0x8a679bbd84ef25",
+            "name": "places/ChIJz0jn7M0EdkgRJe-EvZtnigA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxSlZuTXRUMnR3U1ZacFQxQllWR3czTXpOcFIwRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Upper crust is my place of choice for a quick and healthy takeaway lunch. I went here to pick up a too good to go surprise bag at the end to the day. Their baguettes are delicious and well filled. I can get at least four meals for what I got. Vanshika’s customer service was great"
+            },
+            "publishTime": "2025-11-07T01:06:11.109246714Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Upper crust is my place of choice for a quick and healthy takeaway lunch. I went here to pick up a too good to go surprise bag at the end to the day. Their baguettes are delicious and well filled. I can get at least four meals for what I got. Vanshika’s customer service was great"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Ionut F.",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWxhNay2AVCGqZmqpRtgMT6LNWWsIgAepf2JBIisvnuUfD2Pzmy=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/100965978946228409436/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWTVNHWkRaUzFIYkV3MGMzRk1jMHhDUVZkWVpHYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWTVNHWkRaUzFIYkV3MGMzRk1jMHhDUVZkWVpHYxAB!2m1!1s0x487604cdece748cf:0x8a679bbd84ef25",
+            "name": "places/ChIJz0jn7M0EdkgRJe-EvZtnigA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWTVNHWkRaUzFIYkV3MGMzRk1jMHhDUVZkWVpHYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Albsolutely loved the sandwiches here, fresh, flavorful, and made with care. You can really taste the quality in every bite. The service was top-notch. Vanshika was especially polite and welcoming, which made the whole experience even better. Highly recommend stopping by if you're craving a great sandwich and friendly service!"
+            },
+            "publishTime": "2025-10-20T11:39:48.180326351Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Albsolutely loved the sandwiches here, fresh, flavorful, and made with care. You can really taste the quality in every bite. The service was top-notch. Vanshika was especially polite and welcoming, which made the whole experience even better. Highly recommend stopping by if you're craving a great sandwich and friendly service!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "O Dadak",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIEK9ZfjUydhOUFmjDYhVUBuLMIJJRYBP_DoH3oyjlmFyIm3Uo=s128-c0x00000000-cc-rp-mo-ba2",
+                "uri": "https://www.google.com/maps/contrib/101698290243545961289/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w5S1NWSk9ZalU0WkRKWVNHdEdXbGMxY25wUFptYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5S1NWSk9ZalU0WkRKWVNHdEdXbGMxY25wUFptYxAB!2m1!1s0x487604cdece748cf:0x8a679bbd84ef25",
+            "name": "places/ChIJz0jn7M0EdkgRJe-EvZtnigA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5S1NWSk9ZalU0WkRKWVNHdEdXbGMxY25wUFptYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "I visited on 17th November 2025. Monday , people are rush , no one gives you extra time or effort in coffee shops. But Ondrej was helpful, and very good barista. He made me nice matcha tea with blackcurrant flavour. And I found out he is in not just barista he is very professional when he communicates and works with people . Thank you so much for hiring him. please reward him and put him for higher position. And Lidiya in another shop also very helpful. Thank you"
+            },
+            "publishTime": "2025-11-18T08:24:47.147320639Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "3 weeks ago",
+            "text": {
+                "languageCode": "en",
+                "text": "I visited on 17th November 2025. Monday , people are rush , no one gives you extra time or effort in coffee shops. But Ondrej was helpful, and very good barista. He made me nice matcha tea with blackcurrant flavour. And I found out he is in not just barista he is very professional when he communicates and works with people . Thank you so much for hiring him. please reward him and put him for higher position. And Lidiya in another shop also very helpful. Thank you"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Tay Brown",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKdf3siKr4Jw01IKlGyPy2uO-d4Acs4WvknLb2BU49dvM72ug=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/100212539104423990851/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xoVlgzaE5aRlZsZEVaM05VNWFXRTVhVkVFdFFuYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoVlgzaE5aRlZsZEVaM05VNWFXRTVhVkVFdFFuYxAB!2m1!1s0x487604cdece748cf:0x8a679bbd84ef25",
+            "name": "places/ChIJz0jn7M0EdkgRJe-EvZtnigA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoVlgzaE5aRlZsZEVaM05VNWFXRTVhVkVFdFFuYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "I’ve been traveling all morning and it’s 2 pm in London I order a dang sandwich that was 7 pounds and this is what I was given a whole hair on the top of my sandwich! I don’t know if London is just racist or stupid because this is disgraceful disrespectful and disgusting. Do better or stop selling food"
+            },
+            "publishTime": "2025-07-25T13:01:49.472283568Z",
+            "rating": 1,
+            "relativePublishTimeDescription": "4 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "I’ve been traveling all morning and it’s 2 pm in London I order a dang sandwich that was 7 pounds and this is what I was given a whole hair on the top of my sandwich! I don’t know if London is just racist or stupid because this is disgraceful disrespectful and disgusting. Do better or stop selling food"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Roman GOJAYEV",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX75XZf7GdcrfKJba-wbyWu4-dFiuzgg-De0s45JsZKLfHqXFdg=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/100073309210590813674/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205VlZIVlZaSEYxVTFwalNWVlRRbFF5TTJoNllrRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205VlZIVlZaSEYxVTFwalNWVlRRbFF5TTJoNllrRRAB!2m1!1s0x487604cdece748cf:0x8a679bbd84ef25",
+            "name": "places/ChIJz0jn7M0EdkgRJe-EvZtnigA/reviews/Ci9DQUlRQUNvZENodHljRjlvT205VlZIVlZaSEYxVTFwalNWVlRRbFF5TTJoNllrRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "I just had 3 different fresh and delicious burgerettes. The avocado & chicken mix selection was my personal favorite. The person behind the bar was super nice!!"
+            },
+            "publishTime": "2025-11-28T23:22:08.621960199Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a week ago",
+            "text": {
+                "languageCode": "en",
+                "text": "I just had 3 different fresh and delicious burgerettes. The avocado & chicken mix selection was my personal favorite. The person behind the bar was super nice!!"
+            }
+        }
+    ],
+    "servesBreakfast": true,
+    "servesBrunch": true,
+    "servesCoffee": true,
+    "servesDessert": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "servesVegetarianFood": true,
+    "servesWine": true,
+    "shortFormattedAddress": "Strand, London",
+    "takeout": true,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "sandwich_shop",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 800,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.5092365802915,
+            "longitude": -0.123800819708498
+        },
+        "low": {
+            "latitude": 51.5065386197085,
+            "longitude": -0.12649878029150205
+        }
+    },
+    "websiteUri": "https://www.uppercrust-baguettes.com/",
+    "timestamp": 1765447200
+}

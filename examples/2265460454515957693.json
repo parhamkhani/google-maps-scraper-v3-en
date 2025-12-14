@@ -1,0 +1,1048 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleParking": false,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": true
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en",
+            "longText": "40",
+            "shortText": "40",
+            "types": [
+                "subpremise"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "42",
+            "shortText": "42",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "William IV Street",
+            "shortText": "William IV St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2N 4DD",
+            "shortText": "WC2N 4DD",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The National Gallery"
+                },
+                "name": "places/ChIJGzUABc4EdkgRkmmrVTDDnUw",
+                "placeId": "ChIJGzUABc4EdkgRkmmrVTDDnUw"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJs4GOh8sEdkgRRiBFZKMP8ZE",
+                "placeId": "ChIJs4GOh8sEdkgRRiBFZKMP8ZE"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Trafalgar Square"
+                },
+                "name": "places/ChIJH-tBOc4EdkgRJ8aJ8P1CUxo",
+                "placeId": "ChIJH-tBOc4EdkgRJ8aJ8P1CUxo",
+                "straightLineDistanceMeters": 209.67224,
+                "travelDistanceMeters": 160.35828,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The National Gallery"
+                },
+                "name": "places/ChIJeclqF84EdkgRtKAjTmWFr0I",
+                "placeId": "ChIJeclqF84EdkgRtKAjTmWFr0I",
+                "straightLineDistanceMeters": 157.36433,
+                "travelDistanceMeters": 238.2543,
+                "types": [
+                    "art_gallery",
+                    "establishment",
+                    "museum",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "National Portrait Gallery"
+                },
+                "name": "places/ChIJeclqF84EdkgRYkL4mtJ7rLM",
+                "placeId": "ChIJeclqF84EdkgRYkL4mtJ7rLM",
+                "straightLineDistanceMeters": 129.91475,
+                "travelDistanceMeters": 89.05203,
+                "types": [
+                    "art_gallery",
+                    "establishment",
+                    "museum",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "London Coliseum"
+                },
+                "name": "places/ChIJGyBj0c0EdkgRqt8qRQ8vCj8",
+                "placeId": "ChIJGyBj0c0EdkgRqt8qRQ8vCj8",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 45.094105,
+                "travelDistanceMeters": 87.4926,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "St Martin-in-the-Fields Church | London"
+                },
+                "name": "places/ChIJH-tBOc4EdkgRIsJgzUZIjXU",
+                "placeId": "ChIJH-tBOc4EdkgRIsJgzUZIjXU",
+                "straightLineDistanceMeters": 91.106155,
+                "travelDistanceMeters": 145.87598,
+                "types": [
+                    "cafe",
+                    "church",
+                    "establishment",
+                    "food",
+                    "place_of_worship",
+                    "point_of_interest",
+                    "store",
+                    "tourist_attraction"
+                ]
+            }
+        ]
+    },
+    "allowsDogs": false,
+    "businessStatus": "OPERATIONAL",
+    "currentOpeningHours": {
+        "nextCloseTime": "2025-11-17T15:00:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 23,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 15,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 23,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 23,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 21,
+                    "minute": 45
+                },
+                "open": {
+                    "date": {
+                        "day": 23,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 17,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 15,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 17,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 17,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 21,
+                    "minute": 45
+                },
+                "open": {
+                    "date": {
+                        "day": 17,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 18,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 15,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 18,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 18,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 21,
+                    "minute": 45
+                },
+                "open": {
+                    "date": {
+                        "day": 18,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 19,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 15,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 19,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 19,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 21,
+                    "minute": 45
+                },
+                "open": {
+                    "date": {
+                        "day": 19,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 20,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 15,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 20,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 20,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 21,
+                    "minute": 45
+                },
+                "open": {
+                    "date": {
+                        "day": 20,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 21,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 15,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 21,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 21,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 21,
+                    "minute": 45
+                },
+                "open": {
+                    "date": {
+                        "day": 21,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 22,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 15,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 22,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 22,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 21,
+                    "minute": 45
+                },
+                "open": {
+                    "date": {
+                        "day": 22,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 17,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 – 3:00 PM, 5:00 – 9:45 PM",
+            "Tuesday: 12:00 – 3:00 PM, 5:00 – 9:45 PM",
+            "Wednesday: 12:00 – 3:00 PM, 5:00 – 9:45 PM",
+            "Thursday: 12:00 – 3:00 PM, 5:00 – 9:45 PM",
+            "Friday: 12:00 – 3:00 PM, 5:00 – 9:45 PM",
+            "Saturday: 12:00 – 3:00 PM, 5:00 – 9:45 PM",
+            "Sunday: 12:00 – 3:00 PM, 5:00 – 9:45 PM"
+        ]
+    },
+    "delivery": true,
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Colonel Saab Trafalgar Square"
+    },
+    "formattedAddress": "40, 42 William IV St, London WC2N 4DD, UK",
+    "goodForGroups": true,
+    "goodForWatchingSports": false,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x4876053be296c895:0x1f708847cc1e5fbd!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x4876053be296c895:0x1f708847cc1e5fbd!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=2265460454515957693&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x4876053be296c895:0x1f708847cc1e5fbd!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x4876053be296c895:0x1f708847cc1e5fbd!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=2265460454515957693&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJlciW4jsFdkgRvV8ezEeIcB8",
+    "internationalPhoneNumber": "+44 20 8016 6800",
+    "liveMusic": false,
+    "location": {
+        "latitude": 51.5095634,
+        "longitude": -0.126256
+    },
+    "name": "places/ChIJlciW4jsFdkgRvV8ezEeIcB8",
+    "nationalPhoneNumber": "020 8016 6800",
+    "outdoorSeating": false,
+    "parkingOptions": {
+        "freeParkingLot": false,
+        "paidStreetParking": true
+    },
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Colonel Saab Trafalgar Square",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVHTXeVYKTS2XZCi7ehVX9ulgsPpwYgRLXiaM9zNWcfo2ULelc=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/107481724208381124361"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMbfKZbK2CGqcKLQVgfFIOoEtweSfhj3uaKPlBd&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMbfKZbK2CGqcKLQVgfFIOoEtweSfhj3uaKPlBd!2e10!4m2!3m1!1s0x4876053be296c895:0x1f708847cc1e5fbd",
+            "heightPx": 2046,
+            "name": "places/ChIJlciW4jsFdkgRvV8ezEeIcB8/photos/AWn5SU7WyLfMF1bL8ZIXg_CmxDzdu08513tX1orIovOVh7JKA8SFkJQKsm_ougliU0i3g60SHEWFqlSlrF6JSl6JLZ7w24IJSkY2-AZRtbqmZIfhOc-JIkzELG7_XPV_4HV_de_8VykN-XKXrqykkFm70X6tSFKs4alAEbRrCKzt7GJ7-q_Z4Yc5DSBCNwwD78st42Qo5gX2iKSnMY7tbefDwnGCcgILl653SCiXePtIC0xdJE0tb48kQxCB9mGsgzAVomoiFPTvrteUP1OA7BnU5PObNE4o-4xlc5hJtU_HB7cY6g",
+            "widthPx": 3068
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Pierre-Yves Csinidis",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWI13a-llh-82z7PjXmpwDf9AG5WbYjbLeVTDzJ3PnwLIRcbbL-=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/101839944383927356081"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAupj4X0nKJxQISAWx7GgS1&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAupj4X0nKJxQISAWx7GgS1!2e10!4m2!3m1!1s0x4876053be296c895:0x1f708847cc1e5fbd",
+            "heightPx": 3072,
+            "name": "places/ChIJlciW4jsFdkgRvV8ezEeIcB8/photos/AWn5SU4i1wXxXhxsbfEnuHalo8VYvWnrpWnAcKI45bmL2QEz2Rfk4hiaQAatgBsMcJwvp5xFCcj3laUsBMQUDCnjbxfntFNVuC2-1TkWVJva-MSMeLFjfjK6YrEoyIOsjbuLbXR7OQuHLQFN5nYw0V7Tt6vLwl4aKSpLjekLUMF_H6b8_AZbE5YH-FXnDNwkwTdwhAielqQBif3Sp4ko9qCjQCPTnPeQ6M9F6T1uXO7GeXlu4J3vtYb7eBQckvLbYhDnmRMkNdwngDu19vIv8-ReWSz1UI7OqUq3cUlguVCvQ8IMwIeEsjNZUqNLyE0kpMx6CdACZwNHRviPPkW1Tpl2_IgP8Tl7GZ_xKO8Qmb7S-69nwI-vBsoOfL3su3hpun5VeTwNpvElxrvqrNsFuX9jkPDb4KRX492qaPljoktJ2uMhYPsgn7FbEMUZmC1kVax4",
+            "widthPx": 4080
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Colonel Saab Trafalgar Square",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVHTXeVYKTS2XZCi7ehVX9ulgsPpwYgRLXiaM9zNWcfo2ULelc=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/107481724208381124361"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPBR0H2AZttmgQ26SOLs7D7F1wEJLEYUhv84Cg6&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPBR0H2AZttmgQ26SOLs7D7F1wEJLEYUhv84Cg6!2e10!4m2!3m1!1s0x4876053be296c895:0x1f708847cc1e5fbd",
+            "heightPx": 4800,
+            "name": "places/ChIJlciW4jsFdkgRvV8ezEeIcB8/photos/AWn5SU63JkyuBYORYjT4DgMhiNz1OsXN_NdLJMMgs3SxRK9IxaaR5oWO5haa3imDYhmGC1zExL9IqjGbL-FV18zQKNZkjVIirZPLELOoLJ1EZ8-_nNhkPvERVzqC_BsMiT_4Ub0KcYY1ODr_3DheBESlOw4N0rKPK3xBCKRHFR6xUl6nHZYdwS7q1Uv_PpS0mekVkOqP_PefwMtPZip0Gd0lVYLmw-8_VmosNKrgqn_McJ_8a919tzm69jE423s1l7XRcMa6q104b5rs8_SCxgRB_jbSxk0KvozZ2Brn2xQyQ43gXw",
+            "widthPx": 3603
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Yuka姫",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUCYHCfFLG47HjLgORu7kXN7REJt9aOroFEi5-C0h1xDBvi2MRA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110658297983622304775"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhByhDXP4pN0qUbvMdVB3D9_&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhByhDXP4pN0qUbvMdVB3D9_!2e10!4m2!3m1!1s0x4876053be296c895:0x1f708847cc1e5fbd",
+            "heightPx": 3024,
+            "name": "places/ChIJlciW4jsFdkgRvV8ezEeIcB8/photos/AWn5SU5cLhV0Ce1Oa4XK4F2E60MdTHf3jjX08wrcaL_pbekp9CEfKhH77maYu-P1r31qcYQ0ooRfVTCIs5SGl_8ULVss1IKEfQgE_i9tMuKSkHKlZ1upt3wFQgVRfRTmWK_8Ov8TjZ1TGvDqVPn7wDrYXE0-cBDW4-EiBKYJON2M1KVoqSK7suw6hAVXqA0_S4UXQqOTjru0bXg9CVWTiy8sX0_LU5VPq83D3xuSNEXaUdszbQeeOoQHBH-J_OhxZc6qlRJ1gNEGkXFM1ULHJHkp5aV9nMElMHBsBulrLnmuGcAL-jFqmgTbv9FD8N7Jpemzeh8iWF1h6arUGjepBK8Rdf_1UF_q4WqJr8SggXh2Q9syasaloioZhD5WXMBVYS9MLZfmoOlEfn3OWn0JnBx8Im5CV9wNqwqobcFiOQEXckpt3D79GVSifu5RuKLKRioj",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Yuka姫",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUCYHCfFLG47HjLgORu7kXN7REJt9aOroFEi5-C0h1xDBvi2MRA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110658297983622304775"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAKmsSEuE8RWJ6gtxjryPwN&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAKmsSEuE8RWJ6gtxjryPwN!2e10!4m2!3m1!1s0x4876053be296c895:0x1f708847cc1e5fbd",
+            "heightPx": 3024,
+            "name": "places/ChIJlciW4jsFdkgRvV8ezEeIcB8/photos/AWn5SU76ufphecu-N8WXeX0HHhKDdI4IwSicZRN6ouXnvkLAWWKJ-aIzQzC4p_H-NQgfMf8QnAAoTa1uZxkuzX9UxL17Kx7wurU_mc0gnZ_K-2dR2WcPjR48B4KiSX6mhM5sfAl-DBLRtnlfn85cM9hsj4vrRbEEY9h6DSJTJ8xr46BfE2bj0V1X_2i6l81h-Vi4qc9g87rKg59vmJ5swAl1WDb5Uuu6vx8uDG1Pir40qxsWlZbIiQM1AFkeyfVVSnVTTbHDgBD7VFp370cZ1OFzvqVImCamb9RAu7H2aOYujsQSUDcW8zlHQ6bIcgw2_y9XbOmiUDg5YRyVqotn1L38CG136xnUNbTe3ajOSLA7-8t8_2RSa62RU-VEE9zdRB094D4Ltf9GRYOyQdmFdxkqK6KXUfg-NJv7SZhTwsK4CRAlFkxLwxA8pQZRoeOP1ULh",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Pandurangan Thukaram",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXbIkuHlDGmmJNC54o5SDr259bAxI4uNJSBjWKJgyLYizjZXO8b9w=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/101327922387102330479"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAeXwa13B1SmtMY2JjpBeSH&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAeXwa13B1SmtMY2JjpBeSH!2e10!4m2!3m1!1s0x4876053be296c895:0x1f708847cc1e5fbd",
+            "heightPx": 3600,
+            "name": "places/ChIJlciW4jsFdkgRvV8ezEeIcB8/photos/AWn5SU6bUHFWqLuQr6napJeZkWZ3VhUwtBIlOdJFZqzIl18ytnUO6IK_wvXnnQQFLBFwlPO1_1ttfzB52Ad0LBw6BF2_YRqvNd5mHQY-j-MAfLEog9cAN0oc1zD2krUw9x52WmeS4aIiQIroHiGn4LSpEHyAKnYryE_jKOu4FBrGJeierBIFwhClhR8FxH0tv0l0iuMk0ScMSub3Bg92wU69qB81uTypfw0otR6Mr5LxVO3uOqUGoHrR_Zv7iIkMF8E8EHmQVxLUp0By9pt0THqh0LvXtDxFVlFmlaiXdzS27WFrTTnggTRGU7MA9yrujt8D9Upw9SnzFEPW4g2FUZuT9iQeUbOgCLtbdmDsHVNzj_NnrckWEgq_UNI-0T4_DWGENxOPpMGfuTo4y2G7WU4ivt3NbCau8cIRxN9CJh-oEuBo5OZTuhpJSgml69WvuVcZ",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Prachur Gupta",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXb8kRtW-yV08NO7tuVnZkTe4XKmtb4Yt4iSzTQmhshUAZ134g=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/103342592448423353423"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID_-qSl-AE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID_-qSl-AE!2e10!4m2!3m1!1s0x4876053be296c895:0x1f708847cc1e5fbd",
+            "heightPx": 3614,
+            "name": "places/ChIJlciW4jsFdkgRvV8ezEeIcB8/photos/AWn5SU6tx3RanwXGXxtaU9E6AplIBhAP0KtNbg3_IAOM63ldyp4E0LSzyiAWYjgFM0FZdyAgQJoy5w-y8N0zZmmhvqXEhxOaK51E3fpXNivsXZXgkxZLvtWMlSKoAtW5BI9qCibMhcOmza_WXDym2WMb1qcBuS9CZRjI1hC0J732ALqqnPjq_ZzUhCSQ3x8e13fFFW40-gKBRiAM7kGK_039eEswuy5D2OCX3pbzNPwvtI2rIqFFXTpbEWguEWmlNH1LNnj8I4Qevp2UC1FeKtqwXi6is7wZeb4ZxLqk6-yhLbYSkVEp-5ooAlMvWCwU11W104Pc50FSBJhbR4JTIqr5DZ7DivD9emd-bvimH3OuhWXgyu0y0bmZUSjZxihepMORQbMCo8S0M3KUuSfV-vgw7ajTXolbTs3IjGSkJF5ko6SldqUN",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Taylor Walcik",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUx1d3iLKs2XGHIP9CfJSD2NEt7581OOZ3kiyrNWmzVkAnHXr6nlQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/105211592338292285286"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCsLv1gnc-DPc4yV8uHgivc&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCsLv1gnc-DPc4yV8uHgivc!2e10!4m2!3m1!1s0x4876053be296c895:0x1f708847cc1e5fbd",
+            "heightPx": 4800,
+            "name": "places/ChIJlciW4jsFdkgRvV8ezEeIcB8/photos/AWn5SU79d9ICEy9TPp7x3hngnedshDbx4Q_5_JGysuQa3dqoFcajfgR6ynP_y9mfIeIEvsvxj-I5LtRYJRnXL2dhxTHEM_QrJr2YZw0prQDbcvIz27bqgrSzTBdNA8bqlGhHf3ago_sQozfyKG0Ypgi35FR9JxE-pbr3ljLpYV8yzMkxLjWH1Ubr0EayMccYmWqWYKwTDKTpKqa5e2k2I9BzzfVoDiZNJUaK4qclqdlvS029H7wSurJU7LjRen-H3c-i9QkbnNE_ffls55L95WIlmGyiaFPMhJOz_c2dOuX74UH06fTMrdiS_RkTHoHEhnZW4MdbZWijJhkATG43hNBAGUp9gnLnFEoHK10j9CO_-kqeyBVtyu1pkEJbaN46WmuVCcCrTcvcSt1A24CCPaJ5qxencPHus6U8_nhub2ZyI_rgi5nG3yyzy8fsJYU3oIvZ",
+            "widthPx": 3600
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Gary Hewitt",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUg7O-iOGqkpfEF6dGrzR1UjoTWQwrlD335k_mKmUkovVJt0AEiQw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/111097910798345613943"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBIDqgbSUhxpOcQjQQSOcJ-&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBIDqgbSUhxpOcQjQQSOcJ-!2e10!4m2!3m1!1s0x4876053be296c895:0x1f708847cc1e5fbd",
+            "heightPx": 4000,
+            "name": "places/ChIJlciW4jsFdkgRvV8ezEeIcB8/photos/AWn5SU49X-TToewbJkbELfw_k6-oLoxKeds8R57BNVlG_qgAz6k4Ac8f1iDgt_jrnOqXDpQaswyCwSktflhxvSTobO7gPLKtBc7vzKF_-y4f--ZLazp3ccBKWR3ouv81rFj2vJfg-iVFE5uS7hcCei6bYo4HaJzv_kOPnsfhnzVLoWCuNB9gKXNkertmtaZMphim9cFrHBzOVJ68yYM_q2z69qDRACihIZ803jQAN0A2fXMyaKP0r0htwZdyznSZZHlkfHQdwvdve1Lm8es4p4Q2O_p4LXG0NM4wyEqGf8xk3P0PoiB4qOZVh2n0uzFzPnJaOtISKUPxCtK-RUYhJ7gA40bKU9g8OTBrb2A3mdz4Wh9VljY3UQmlXCE5TWX0t0vd9-8RkerDqaR-qqeqt3Yiw2fKzZdeSL8CY9VC3pKmTOJIAcABZbOnuSc-bdmAPg",
+            "widthPx": 3000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Aditi Mundhada",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUyTf-DBwbUQzMQiTCFHbVIRrSlPV7n73EuQkesPru5xhuymd3gcg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/100452776173794717151"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBdtafVNzwUmXHPEBFEgpJL&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBdtafVNzwUmXHPEBFEgpJL!2e10!4m2!3m1!1s0x4876053be296c895:0x1f708847cc1e5fbd",
+            "heightPx": 4000,
+            "name": "places/ChIJlciW4jsFdkgRvV8ezEeIcB8/photos/AWn5SU7xx_gYncwNvbzdiZMW2JJ_FY3XshEnwu5Xblcpdv-OSr0rZBtlq0q0WZ07bJZpvMnI6oRBBOTUqRPrbeEDfJU6zBonjQHVY4KSvVgx5cAeRiIlOugAlAj0VCB7Uo4Wbo1VVPJsB4pbP1qs6WUzxlJg-i_HYX9u4NJwFlKu9wO8fV9_xEkTwRGldxga3Ix2Ibb4crVP3I4R05R-b6dPo2lXa9ZisDseyzt34iGe181RgooJW2wXnSqxMrv-MmeJVc8dnTXvXBBAUeF50RxBAkinSIVfgojQYc_-0Bs-qlX3nBb_OqqNT3kqUJWcl0dG2V9TVSMIHuBjwbN1f1GyQuL8HCENkbK1vIVfZHEv0rARPwFut3uI5Y3qq8DgyqfT6cbrMJbczOnSi1KpK1pwmwbhaKhzY0CVT9r1D44O_AFyVXemSu_Hv4FirxGErhvK",
+            "widthPx": 3000
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV5F+RF London, UK",
+        "globalCode": "9C3XGV5F+RF"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "40",
+            "42 William IV Street"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2N 4DD",
+        "regionCode": "GB"
+    },
+    "primaryType": "indian_restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Indian Restaurant"
+    },
+    "rating": 4.8,
+    "regularOpeningHours": {
+        "nextCloseTime": "2025-11-17T15:00:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 15,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 21,
+                    "minute": 45
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 15,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 21,
+                    "minute": 45
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 15,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 21,
+                    "minute": 45
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 15,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 21,
+                    "minute": 45
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 15,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 21,
+                    "minute": 45
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 15,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 21,
+                    "minute": 45
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 15,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 21,
+                    "minute": 45
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 17,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 – 3:00 PM, 5:00 – 9:45 PM",
+            "Tuesday: 12:00 – 3:00 PM, 5:00 – 9:45 PM",
+            "Wednesday: 12:00 – 3:00 PM, 5:00 – 9:45 PM",
+            "Thursday: 12:00 – 3:00 PM, 5:00 – 9:45 PM",
+            "Friday: 12:00 – 3:00 PM, 5:00 – 9:45 PM",
+            "Saturday: 12:00 – 3:00 PM, 5:00 – 9:45 PM",
+            "Sunday: 12:00 – 3:00 PM, 5:00 – 9:45 PM"
+        ]
+    },
+    "reservable": true,
+    "restroom": true,
+    "reviewSummary": {
+        "disclosureText": {
+            "languageCode": "en-US",
+            "text": "Summarized with Gemini"
+        },
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=5%401:CAIQACodChtyc19oOlFWdVdMdEJxbFV2NjNCTlVlWUhCS3c%7CCAIQACorChtyc19oOlFWdVdMdEJxbFV2NjNCTlVlWUhCS3cSDAjPqN_BBhDh1dOGAw&d=17924085&t=8",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x4876053be296c895:0x1f708847cc1e5fbd!9m1!1b1",
+        "text": {
+            "languageCode": "en-US",
+            "text": "Diners say this Indian restaurant serves up delicious butter chicken, lamb biryani, and rasmalai milk cake, and they praise the exceptional service and elegant ambiance. They also highlight the tasting menu as a great way to experience a variety of dishes."
+        }
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "C R",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLF8Aw8HVBMgiGoOhpPNL1WJfoFwPTwPMc4uMYoafPss7XDvw=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/100515285565978310478/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2sxWmNFOXZaMHBpYm5Cb1dXZHdlVnBzWVZOR05XYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxWmNFOXZaMHBpYm5Cb1dXZHdlVnBzWVZOR05XYxAB!2m1!1s0x4876053be296c895:0x1f708847cc1e5fbd",
+            "name": "places/ChIJlciW4jsFdkgRvV8ezEeIcB8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxWmNFOXZaMHBpYm5Cb1dXZHdlVnBzWVZOR05XYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "What an incredible dinner experience! The restaurant is stunning inside, the decorations are opulent and grand. The staff are super attentive and the food simply to die for. Having been to all of the India Michelin starred restaurants even beginning with B (which was a disappointment for the eye watering price) , I can truly say that I couldn’t fault anything with my experience at this restaurant. Will be trying the Holborn branch too!"
+            },
+            "publishTime": "2025-10-26T22:35:19.085730487Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "3 weeks ago",
+            "text": {
+                "languageCode": "en",
+                "text": "What an incredible dinner experience! The restaurant is stunning inside, the decorations are opulent and grand. The staff are super attentive and the food simply to die for. Having been to all of the India Michelin starred restaurants even beginning with B (which was a disappointment for the eye watering price) , I can truly say that I couldn’t fault anything with my experience at this restaurant. Will be trying the Holborn branch too!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Yuka姫",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUCYHCfFLG47HjLgORu7kXN7REJt9aOroFEi5-C0h1xDBvi2MRA=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/110658297983622304775/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWU1EweHlkak5NUzJOQmQzbExORTl3VVZGSGMyYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWU1EweHlkak5NUzJOQmQzbExORTl3VVZGSGMyYxAB!2m1!1s0x4876053be296c895:0x1f708847cc1e5fbd",
+            "name": "places/ChIJlciW4jsFdkgRvV8ezEeIcB8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWU1EweHlkak5NUzJOQmQzbExORTl3VVZGSGMyYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "The staff were very kind and every dish was carefully prepared and delicious. The curry had a rich depth of flavor and I tried about three kinds, all of which were amazing.\n\nThe dessert looked like a work of art and instantly brightened up the whole table. I could really feel the attention to detail in every element, like the drinks served in smoky boxes and other creative touches throughout."
+            },
+            "publishTime": "2025-10-26T10:39:48.173349573Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "3 weeks ago",
+            "text": {
+                "languageCode": "en",
+                "text": "The staff were very kind and every dish was carefully prepared and delicious. The curry had a rich depth of flavor and I tried about three kinds, all of which were amazing.\n\nThe dessert looked like a work of art and instantly brightened up the whole table. I could really feel the attention to detail in every element, like the drinks served in smoky boxes and other creative touches throughout."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "F P",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJLCWti6000CsGAkNtB6z4Y2NAqG0FjAlKWJjYes6XvPw50xw=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/116391650671350245919/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWNldraFBOMUJpVVRWWk5WOVJhM1pTWmxCalduYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWNldraFBOMUJpVVRWWk5WOVJhM1pTWmxCalduYxAB!2m1!1s0x4876053be296c895:0x1f708847cc1e5fbd",
+            "name": "places/ChIJlciW4jsFdkgRvV8ezEeIcB8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWNldraFBOMUJpVVRWWk5WOVJhM1pTWmxCalduYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Firstly the decor and service were both very good. Waiters very friendly and helpful and the restaurant is wonderfully decorated. We had the pre theatre menu which was quite limited so I can't comment on the whole menu which has far more options. The starters were good, plenty of flavour. The mains we're sadly pretty average and when you factor in the price they're disappointing. Very little heat, not much meat and I've had better tasting butter chickens from much less salubrious establishments. Deserts were also nothing spectacular, absolutely fine but you want more from this level of restaurant. There was a spotlight above us that was flickering constantly and was particularly distracting, it was mentioned to waiters but nothing was done. Also the soap in the toilets seemed to be hand sanitizer, which was odd. Nice place to eat, but they need to improve their curries."
+            },
+            "publishTime": "2025-10-11T16:55:43.643715898Z",
+            "rating": 3,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Firstly the decor and service were both very good. Waiters very friendly and helpful and the restaurant is wonderfully decorated. We had the pre theatre menu which was quite limited so I can't comment on the whole menu which has far more options. The starters were good, plenty of flavour. The mains we're sadly pretty average and when you factor in the price they're disappointing. Very little heat, not much meat and I've had better tasting butter chickens from much less salubrious establishments. Deserts were also nothing spectacular, absolutely fine but you want more from this level of restaurant. There was a spotlight above us that was flickering constantly and was particularly distracting, it was mentioned to waiters but nothing was done. Also the soap in the toilets seemed to be hand sanitizer, which was odd. Nice place to eat, but they need to improve their curries."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Sunshine",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXwG-uKgPLWtDpbHi4F-NtQl8quyoMNTe3O0VADenos9RToqA=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/106213141233316777736/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xseGVYQllURVJ3VEdwS0xXbFJialV4ZEd4eWRXYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xseGVYQllURVJ3VEdwS0xXbFJialV4ZEd4eWRXYxAB!2m1!1s0x4876053be296c895:0x1f708847cc1e5fbd",
+            "name": "places/ChIJlciW4jsFdkgRvV8ezEeIcB8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xseGVYQllURVJ3VEdwS0xXbFJialV4ZEd4eWRXYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Colonel Saab is an outstanding place for authentic Indian food in Trafalgar Square. Every dish is full of rich, traditional flavors and beautifully presented. The restaurant itself is stunning—the royal Indian décor and the gorgeous chandelier make the ambience feel truly special. A perfect spot for anyone who loves great food and a touch of elegance!"
+            },
+            "publishTime": "2025-11-04T21:14:55.784925680Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a week ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Colonel Saab is an outstanding place for authentic Indian food in Trafalgar Square. Every dish is full of rich, traditional flavors and beautifully presented. The restaurant itself is stunning—the royal Indian décor and the gorgeous chandelier make the ambience feel truly special. A perfect spot for anyone who loves great food and a touch of elegance!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Michael Vetrovec",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUQ9VExMl8KToTnhX5nKMaZ6zPSMQuW9yJFyJqNcgDbFX3s3Ogo=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/101705811946202432463/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21OQ2VITk1VMkpqU25CNGMweFdiRmxDTjNSaGNtYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21OQ2VITk1VMkpqU25CNGMweFdiRmxDTjNSaGNtYxAB!2m1!1s0x4876053be296c895:0x1f708847cc1e5fbd",
+            "name": "places/ChIJlciW4jsFdkgRvV8ezEeIcB8/reviews/Ci9DQUlRQUNvZENodHljRjlvT21OQ2VITk1VMkpqU25CNGMweFdiRmxDTjNSaGNtYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "This place is simply amazing.  From the moment we walked in the door it was a next level experience.\n\nThe staff were extremely welcoming and focused on us feeling comfortable.\n\nAs we walked through the restaurant to the table upstairs the decor was beautifully laid out with gorgeous chandeliers and art from India.\n\nRajat was our waiter and he was the perfect balance of personable; helpful; and gracious.  We were going to a show so we were a little tight on time, but he made sure we were taken care without us feeling rushed.\n\nSeriously this was one of if not the BEST Indian meals I have EVER had.  The flavors were elevated by the careful crafting of the ingredients and spices by the chef.  Each dish we tried made us pause; close our eyes; and say, “wow”.\n\nIt was so good that even though we were going to the show, we had to try the desserts.  They were so good none of us would share!  I got the milk cake and each bite took on an added note that rotated between floral; salty; and crunchy with a well balanced level of sweetness as its base.\n\nPlease do yourself a favor and give this place a try….you will not be disappointed."
+            },
+            "publishTime": "2025-07-13T02:48:08.331609725Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "4 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "This place is simply amazing.  From the moment we walked in the door it was a next level experience.\n\nThe staff were extremely welcoming and focused on us feeling comfortable.\n\nAs we walked through the restaurant to the table upstairs the decor was beautifully laid out with gorgeous chandeliers and art from India.\n\nRajat was our waiter and he was the perfect balance of personable; helpful; and gracious.  We were going to a show so we were a little tight on time, but he made sure we were taken care without us feeling rushed.\n\nSeriously this was one of if not the BEST Indian meals I have EVER had.  The flavors were elevated by the careful crafting of the ingredients and spices by the chef.  Each dish we tried made us pause; close our eyes; and say, “wow”.\n\nIt was so good that even though we were going to the show, we had to try the desserts.  They were so good none of us would share!  I got the milk cake and each bite took on an added note that rotated between floral; salty; and crunchy with a well balanced level of sweetness as its base.\n\nPlease do yourself a favor and give this place a try….you will not be disappointed."
+            }
+        }
+    ],
+    "servesBeer": true,
+    "servesCocktails": true,
+    "servesCoffee": true,
+    "servesDessert": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "servesVegetarianFood": true,
+    "servesWine": true,
+    "shortFormattedAddress": "40, 42 William IV St, London",
+    "takeout": true,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "indian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 1648,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.5108738802915,
+            "longitude": -0.124874769708498
+        },
+        "low": {
+            "latitude": 51.5081759197085,
+            "longitude": -0.12757273029150204
+        }
+    },
+    "websiteUri": "https://colonelsaab.co.uk/",
+    "timestamp": 1763481600
+}

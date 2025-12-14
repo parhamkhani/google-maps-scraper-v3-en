@@ -1,0 +1,958 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleParking": false,
+        "wheelchairAccessibleSeating": true
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "34-35",
+            "shortText": "34-35",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Southampton Street",
+            "shortText": "Southampton St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2E 7HG",
+            "shortText": "WC2E 7HG",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJs4GOh8sEdkgRRiBFZKMP8ZE",
+                "placeId": "ChIJs4GOh8sEdkgRRiBFZKMP8ZE"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "und",
+                    "text": "Jubilee Market Hall"
+                },
+                "name": "places/ChIJ-ScSl8sEdkgRjISxG4sLNPY",
+                "placeId": "ChIJ-ScSl8sEdkgRjISxG4sLNPY"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "London Transport Museum"
+                },
+                "name": "places/ChIJLZLvpcsEdkgRnDYX5KYtpA4",
+                "placeId": "ChIJLZLvpcsEdkgRnDYX5KYtpA4"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Vaudeville Theatre"
+                },
+                "name": "places/ChIJczPJ8csEdkgRedKpYe0M6Wc",
+                "placeId": "ChIJczPJ8csEdkgRedKpYe0M6Wc",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 69.86805,
+                "travelDistanceMeters": 115.07671,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The North Face - Covent Garden"
+                },
+                "name": "places/ChIJPRBB68sEdkgR5kTYX9rtnIU",
+                "placeId": "ChIJPRBB68sEdkgR5kTYX9rtnIU",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 20.499828,
+                "travelDistanceMeters": 32.94072,
+                "types": [
+                    "clothing_store",
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Strand Palace"
+                },
+                "name": "places/ChIJa7MYyssEdkgRW0GxGFyDvWw",
+                "placeId": "ChIJa7MYyssEdkgRW0GxGFyDvWw",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 78.66293,
+                "travelDistanceMeters": 111.249916,
+                "types": [
+                    "establishment",
+                    "lodging",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Jubilee Market"
+                },
+                "name": "places/ChIJZ5rPfcwEdkgRCld_oTBUf_k",
+                "placeId": "ChIJZ5rPfcwEdkgRCld_oTBUf_k",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 87.81454,
+                "travelDistanceMeters": 105.98982,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "London Transport Museum"
+                },
+                "name": "places/ChIJ4bF21K8FdkgRDXc6FiSVAzE",
+                "placeId": "ChIJ4bF21K8FdkgRDXc6FiSVAzE",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 120.36792,
+                "travelDistanceMeters": 116.91959,
+                "types": [
+                    "cafe",
+                    "establishment",
+                    "food",
+                    "museum",
+                    "point_of_interest",
+                    "store",
+                    "tourist_attraction"
+                ]
+            }
+        ]
+    },
+    "allowsDogs": false,
+    "businessStatus": "OPERATIONAL",
+    "currentOpeningHours": {
+        "nextOpenTime": "2025-12-11T12:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 15,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 21,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 15,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 16,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 13,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 16,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 16,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 21,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 16,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 17,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 13,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 17,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 17,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 21,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 17,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 13,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 13,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 13,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 17,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 5:00 – 9:30 PM",
+            "Tuesday: 12:00 – 1:00 PM, 5:00 – 9:30 PM",
+            "Wednesday: 12:00 – 1:00 PM, 5:00 – 9:30 PM",
+            "Thursday: 12:00 – 1:00 PM, 5:00 – 10:00 PM",
+            "Friday: 12:00 – 1:00 PM, 5:00 – 10:00 PM",
+            "Saturday: 12:00 – 1:00 PM, 5:00 – 10:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "delivery": false,
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Frog by Adam Handling Restaurant Covent Garden"
+    },
+    "editorialSummary": {
+        "languageCode": "en",
+        "text": "Flagship restaurant of chef Adam Handling, using local ingredients on a contemporary seasonal menu."
+    },
+    "formattedAddress": "34-35 Southampton St, London WC2E 7HG, UK",
+    "goodForChildren": false,
+    "goodForGroups": true,
+    "goodForWatchingSports": false,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x487604cbebae0fc3:0x16bc27cb91a15ade!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487604cbebae0fc3:0x16bc27cb91a15ade!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=1638228119731133150&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487604cbebae0fc3:0x16bc27cb91a15ade!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487604cbebae0fc3:0x16bc27cb91a15ade!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=1638228119731133150&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJww-u68sEdkgR3lqhkcsnvBY",
+    "internationalPhoneNumber": "+44 20 7199 8370",
+    "liveMusic": false,
+    "location": {
+        "latitude": 51.510808399999995,
+        "longitude": -0.12203549999999999
+    },
+    "menuForChildren": false,
+    "name": "places/ChIJww-u68sEdkgR3lqhkcsnvBY",
+    "nationalPhoneNumber": "020 7199 8370",
+    "outdoorSeating": false,
+    "parkingOptions": {
+        "freeParkingLot": false,
+        "paidStreetParking": true
+    },
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Frog by Adam Handling Restaurant Covent Garden",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJZMyyUXPNubox-HWAylFYC_8mH_fbTSBy5cg32V3VDqJqLDQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/102004667803909015241"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPXuq7KLfGgC5g5ndfEN95K6kuf_je_rDXtgtPp&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPXuq7KLfGgC5g5ndfEN95K6kuf_je_rDXtgtPp!2e10!4m2!3m1!1s0x487604cbebae0fc3:0x16bc27cb91a15ade",
+            "heightPx": 1687,
+            "name": "places/ChIJww-u68sEdkgR3lqhkcsnvBY/photos/AZLasHqbnzdOJUiaqmYWK1t3CbETco6p1FXAj0tWU-OCRHKSTsbjVvqRyKqxWuQLdg432rYcJ6XVusTvO5drYJpDUUqDAvDvfJwHKz4LR4yIlUdq7LYCk0xJptvfs5hZhG-QXIhgI6sclHnOboa6s7tux5GdhCp4gilESTHSh1BxmcCB1sxxg0TPr4-gJc_SVakP6Swdn2Vs7cDSLmLMcuo6YK9ggntHFH589v1N_3-wUmr2HdhW8fB_AKxECs_1x2T9mOSSLojvdiwImdOwql8W5iHZ94zDoBRfMgdB1TO8UqEeSA",
+            "widthPx": 1366
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Frog by Adam Handling Restaurant Covent Garden",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJZMyyUXPNubox-HWAylFYC_8mH_fbTSBy5cg32V3VDqJqLDQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/102004667803909015241"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOrDU0evL-XKTROUhl6qWj4ttrlnVT7V_42YekH&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOrDU0evL-XKTROUhl6qWj4ttrlnVT7V_42YekH!2e10!4m2!3m1!1s0x487604cbebae0fc3:0x16bc27cb91a15ade",
+            "heightPx": 1437,
+            "name": "places/ChIJww-u68sEdkgR3lqhkcsnvBY/photos/AZLasHrmYRpk9IqeQDPc1D0fgkahEutPN-YHP1C3ggt7i_3sY2dGZBX04HPk3DWJWV7pjsSryQQHRifvLgswrbva_w6Aig1cvZX_bWueuipJhd5RxhiMGJk47QtAs4u4iIvgErIwbiWG3x4sJe7SRIzjZYOV-rUHsmninGF0bbHMb-SU29GymMltbmfSmPgi6sfuugqqGqHrE3il-_ZityaJnPIQRA1XHtyuRb3nmJJUNxyxSos-VEn8uN006s_GOq96ZSCpaE5wzZecwjMKyH3ZrKuA9rEi3LUKnVdg8H-AVu0dCQ",
+            "widthPx": 1080
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Frog by Adam Handling Restaurant Covent Garden",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJZMyyUXPNubox-HWAylFYC_8mH_fbTSBy5cg32V3VDqJqLDQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/102004667803909015241"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNtpJDLCE03AvjM1xa5MIeUg7aHHelNGI9TmYDB&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNtpJDLCE03AvjM1xa5MIeUg7aHHelNGI9TmYDB!2e10!4m2!3m1!1s0x487604cbebae0fc3:0x16bc27cb91a15ade",
+            "heightPx": 1350,
+            "name": "places/ChIJww-u68sEdkgR3lqhkcsnvBY/photos/AZLasHrtFA6fqk1qBDG0dvlARRB-JbFKkaDNhJEpUcEUDfxMptOhtS-3BezYoabDV5Hb4BUSVkbu0-2fqbjebQNaIqEC4M7nWl2nRDHsmjntDC8TMtQGINfgQ3vgWqUrevNCHgWoyZISpRLkOe4iAxWcIiyi2IatSJjv2Eeg6RFZ5YVz8cz4LZNbfHCc6hLy1NsZGPEp8WKKXZcrhD_H_y4K7luBduka9dnamAk8ULofSOeHfzlxEtBcvFfn59SBH0Fe9UierTJKAH-D6htxeaunWumS9pWU_lM-h8UnLMkDSARv1Q",
+            "widthPx": 1080
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Frog by Adam Handling Restaurant Covent Garden",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJZMyyUXPNubox-HWAylFYC_8mH_fbTSBy5cg32V3VDqJqLDQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/102004667803909015241"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMyacgzFLDArDONf86btBVAnHB00QMGbRBZeOu0&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMyacgzFLDArDONf86btBVAnHB00QMGbRBZeOu0!2e10!4m2!3m1!1s0x487604cbebae0fc3:0x16bc27cb91a15ade",
+            "heightPx": 1349,
+            "name": "places/ChIJww-u68sEdkgR3lqhkcsnvBY/photos/AZLasHpgy-GaFu7BtyIxpFI3gqSs93phJ67KGWAhV_40Zz1vVXrtMn-Vxlln7ae3ONWsX-NNBrOiZuBq7wOenXVWkjtGliKTyefyGniBDlmepQinE3RhjI8o9ycUgCiSPV2fWf0lOiovAxtTTHrBwLDiUGLH6Bm_NZv3f_izo6y555kzEHhp7i-N_lb-IoE_XoDbLNO4Ff0CaQpoFmtAXVATaB_vNQKBZJtVONLgCRCBPN51vkV8NHmH1ZD2LYTJKrx35SrMt7AanzVisYYnoDer2553mEc7_deUFb_41bIV8TO-Rg",
+            "widthPx": 1080
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Mark Avery",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXfFj5o0bVBtcyXF7SZNP4ZzR3g4B4yRVr9SlsIWP-iZ6OK1G0=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/108594239589915215252"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBZErB5FEf4KvApkZ72Sh8W&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBZErB5FEf4KvApkZ72Sh8W!2e10!4m2!3m1!1s0x487604cbebae0fc3:0x16bc27cb91a15ade",
+            "heightPx": 3600,
+            "name": "places/ChIJww-u68sEdkgR3lqhkcsnvBY/photos/AZLasHo45BeFVRs590sW9KJFQScI7Q8paAjGxBWK7311bxpcxjpYRAaTmYsVgZ5vx7WlAEDR0PQUckgLnziS0dcH7qobk2sRBRSURy2dlLgUPj0CVvNMahG5rV92QHFL-DvI9s-P3S9bC4nOJCy3EIRUjs8bu7WArBK-kUvKDBiIXMQ8_YgMkV_82tUDUJblmreFOlg-VVxYvDBX5Fk6MMxB5Veo609MC3r8128YQ6KsWmF7jz47-dA9FGrIhxvFQ1bdojT6L_enExhr995yxrWlNuJSpm5BuIPDOhhInpnVy4q4h4UBe-nnyeIq9rH_oVVZZFpdsjIQ0vXZXP63X2lCDyDjx1jEVXADW70yq9YjNR41lTWph0K53amLFladcm_u3uzLbyTcYwBV9R6UiwHxELo7e6e_ZkznLAQIpWMdbtiD9E976UbYOmgjwTL0iA",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Grace Yeung",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKuexuuGciA3NVQ-T4ZET8sSUFoP2fXORPlpCbRZAqGqqsmyg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/116899214024286657106"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCMaV8C4e3El1Y5Z_4wioWr&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCMaV8C4e3El1Y5Z_4wioWr!2e10!4m2!3m1!1s0x487604cbebae0fc3:0x16bc27cb91a15ade",
+            "heightPx": 2253,
+            "name": "places/ChIJww-u68sEdkgR3lqhkcsnvBY/photos/AZLasHqle4a_cvrbPdwtPqwcTgYeGXVq4gQ0e1K7kQgCwsZcZsN1hUHCjn-5I9d-YS8N3jQBpxQ91v103RbG2PHIZhGkzdkOpLaTlQXm5uuCw8DJ_rACfiGgraEf11FF6dLol2JxvXMFNKXOmiePoVA6LQvQXu2cGnggQ1Vrqe07XYEDffNvXRtJ2bANvp109TuUBxw76HTOkRjyUrAt7F21Z_EoAid-nC1EObywMM7YiHE2f5eBPc_zsz5mI5t6Xf7JX6-HsWf9dY4EQyRS3q4PbLJ1AOptHSkZjcE6j0FI8jQn71bPHyKFPazgGPveEBxXdZWEZXBAH3zNrxS_Xc5Ez2grpxUB6OCip3ZydVRUr1z3F2qljZTSLKDAv4zT_EFefqozG3lboqu-8jALXHDCUb9GXL3KJ-Y5GnpekR9eDR7ek8DsuCCFgWE3hDqMMw",
+            "widthPx": 2252
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Frog by Adam Handling Restaurant Covent Garden",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJZMyyUXPNubox-HWAylFYC_8mH_fbTSBy5cg32V3VDqJqLDQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/102004667803909015241"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNhKvdC49I8uHLYIMtfQMXV5LR4p7O3rCPR6jxc&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNhKvdC49I8uHLYIMtfQMXV5LR4p7O3rCPR6jxc!2e10!4m2!3m1!1s0x487604cbebae0fc3:0x16bc27cb91a15ade",
+            "heightPx": 1334,
+            "name": "places/ChIJww-u68sEdkgR3lqhkcsnvBY/photos/AZLasHoNYhx2L_XH37mIZVDpKo4bxpToH0lOfcLJceY6fCZ7g8ROfJWBHknPgAOf7zspzO36q_YslObdjTBunUehqGhAOi27kJum2hJDRbxJ-sv2la5zaGIRQkB9LScpSHNaWrtg3pFBJcROE10UFoXcd53t6xAH2KP1_237NgeLlB6hFbPDvEsTkpM2PYINeWQaP1_sv_QZtLKcrdJRrM0OsmWwXsfltu-Vb1_7rK4PK9SsSSTWL6c_g6DXCtSgyTYNbLzwpl3ZrQIchl48w3Q6x-NodM7E0MD3ZMDqfT2AoEfcKw",
+            "widthPx": 1080
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Frog by Adam Handling Restaurant Covent Garden",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJZMyyUXPNubox-HWAylFYC_8mH_fbTSBy5cg32V3VDqJqLDQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/102004667803909015241"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOkejANSGXlV0y2qBCVibXDJN4BPelV31FvFUfk&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOkejANSGXlV0y2qBCVibXDJN4BPelV31FvFUfk!2e10!4m2!3m1!1s0x487604cbebae0fc3:0x16bc27cb91a15ade",
+            "heightPx": 1350,
+            "name": "places/ChIJww-u68sEdkgR3lqhkcsnvBY/photos/AZLasHrh1Va76fXs08jmTGO_Ccj1GWVHiGzfat1wAu2cu9l2MwceVKxyC424d5WhV-3BQX3gw-AHvQL1bfY5JjfiamLY6PJgBucd5Sk_q3A1Z432HtIoTqDEC3x-v6SY63GwcvPRN6I_TyeCkaNSCR1D7DZYgNwD8XJ3Z_8BpJP1l6TjloiYKG3aCvn7W-sgkW4bB7g81DWiwrIayiDN-4GrQSofl9eJGjsD1Cs3EJSuPoo_ov71W4W5s6Pwof5Wja0kfS34qYqHn_fM7vq92BKIBZqpKIab5IJkmY0gAh4rqczVMQ",
+            "widthPx": 1080
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "HK 7eating",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjViRa35oSD21j4RbdhPCgnU0lf9JJFvpY6vN6EJWDjz5nEUxBc=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113551104390001133088"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICPqs6xmQE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICPqs6xmQE!2e10!4m2!3m1!1s0x487604cbebae0fc3:0x16bc27cb91a15ade",
+            "heightPx": 4032,
+            "name": "places/ChIJww-u68sEdkgR3lqhkcsnvBY/photos/AZLasHqKe5sredk7l0VXl-vKey6T1jogknqAWXda8inaJeJHGbMvNgLtGUvUsHATwoY7_yE2_ocAGmDHzHMopL2vBF88mGfFsOEB3z8nCDQ9GWXyGj_w7Kcx_YxGg6QrWsznqnFZB-xo4LfTa_3QsEGCUb9aVnz3O4XKlzTalf74ulBpdgJH6f4XIqLapy5l7_BlA7ZJY0o8eLyItPlmo11FcgjFlX4A12VKtb8wlN-IVnNZ6NrXRWsCdaOj8U6LMs5yxFWz01fjub-fQeOn1Qp8eRMkCLAtJupOmczkIhin02jSQW-DcdXNFt8tXAOudDkoZZId1ZwIa_6xjqarE61guaD3ApwZPi8N1lRvtLCBljwN3mZYLNuB3nDnivKgmZY5wfX4Smn2qoNfLd8-kofpbSfn8369rOuj5AnLkopiXU0jss4G",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Frog by Adam Handling Restaurant Covent Garden",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJZMyyUXPNubox-HWAylFYC_8mH_fbTSBy5cg32V3VDqJqLDQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/102004667803909015241"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMwiFhWLIm_iJKPIds6u4N200hfiytka2ZZrlFG&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMwiFhWLIm_iJKPIds6u4N200hfiytka2ZZrlFG!2e10!4m2!3m1!1s0x487604cbebae0fc3:0x16bc27cb91a15ade",
+            "heightPx": 1080,
+            "name": "places/ChIJww-u68sEdkgR3lqhkcsnvBY/photos/AZLasHo_TEht01BcR5Lbqlq2yQv4x0XxOc0lmZYGr7NE0ptkJ3Z1REjPMU6dgURJf7ZxeSXK5eLsAMw27_MzG2ZexWrKLeB8AAzU98qN8JRu0a5cp_9lfRXngorMVhrk6Ngeal2cThjY50hHZpeFHypAwx4GB08rLdxuwvQJeFbqGp8_tOff634rZEWlMAkzfof_IKUxvp1CSSIxlRSEktvo7olXRQ4cbclrBIA--NNk6oxJ_s_sQ-k8BaKUuWB4AJvVEx7sdlmhpnyzQhbMjYoNrkoUiJ-JpxpdJ46xnjidMzYScQ",
+            "widthPx": 1080
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV6H+85 London, UK",
+        "globalCode": "9C3XGV6H+85"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "34-35 Southampton Street"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2E 7HG",
+        "regionCode": "GB"
+    },
+    "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
+    "priceRange": {
+        "startPrice": {
+            "currencyCode": "GBP",
+            "units": "100"
+        }
+    },
+    "primaryType": "restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Restaurant"
+    },
+    "rating": 4.6,
+    "regularOpeningHours": {
+        "nextOpenTime": "2025-12-11T12:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 21,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 13,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 21,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 13,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 21,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 13,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 13,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 13,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 17,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 5:00 – 9:30 PM",
+            "Tuesday: 12:00 – 1:00 PM, 5:00 – 9:30 PM",
+            "Wednesday: 12:00 – 1:00 PM, 5:00 – 9:30 PM",
+            "Thursday: 12:00 – 1:00 PM, 5:00 – 10:00 PM",
+            "Friday: 12:00 – 1:00 PM, 5:00 – 10:00 PM",
+            "Saturday: 12:00 – 1:00 PM, 5:00 – 10:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "reservable": true,
+    "restroom": true,
+    "reviewSummary": {
+        "disclosureText": {
+            "languageCode": "en-US",
+            "text": "Summarized with Gemini"
+        },
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=5%401:CAIQACodChtyc19oOl9WLW0yZEZtZ0RsM2pRcG1SM1lnN2c%7CCAIQACorChtyc19oOl9WLW0yZEZtZ0RsM2pRcG1SM1lnN2cSDAjko8_JBhCA7IuUAg&d=17924085&t=8",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487604cbebae0fc3:0x16bc27cb91a15ade!9m1!1b1",
+        "text": {
+            "languageCode": "en-US",
+            "text": "People say this restaurant offers a delicious tasting menu with creative and beautifully presented dishes. They highlight the attentive and knowledgeable service, and the warm and welcoming atmosphere. They also like the option of wine pairings and the opportunity to watch the chefs at work."
+        }
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Isabel W.",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUhWumUVtEZKQ-VHb-U7jcaiO93sXyolwkGZMJLJBVpGw70aeU=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/117043762194123936849/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25OSlNYaEpibFYwVFU1MGRGQmpZbkpVVmpScFNXYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OSlNYaEpibFYwVFU1MGRGQmpZbkpVVmpScFNXYxAB!2m1!1s0x487604cbebae0fc3:0x16bc27cb91a15ade",
+            "name": "places/ChIJww-u68sEdkgR3lqhkcsnvBY/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OSlNYaEpibFYwVFU1MGRGQmpZbkpVVmpScFNXYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Perfection.\n\n28th birthday dinner for our son.\nVery happy he chose this restaurant.\nAmbience and service were beautiful.\nThe tasting menu and wine recommendations sensational.\n\nThe pictures say it all.\n\nIf you fancy fine dining at its very best, try Frog.\n\n♡♡♡"
+            },
+            "publishTime": "2025-12-04T08:11:05.331826121Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a week ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Perfection.\n\n28th birthday dinner for our son.\nVery happy he chose this restaurant.\nAmbience and service were beautiful.\nThe tasting menu and wine recommendations sensational.\n\nThe pictures say it all.\n\nIf you fancy fine dining at its very best, try Frog.\n\n♡♡♡"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Tracey Burton",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXV-tb2PqJL37dPRF3xjDr0LHCSy-5g_IeHebe1HmeImjw5VCvibw=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/105659443032808646182/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tOdGQxZFNRVEZWZW5wSWJsRmFObGxzWnpsNE5VRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOdGQxZFNRVEZWZW5wSWJsRmFObGxzWnpsNE5VRRAB!2m1!1s0x487604cbebae0fc3:0x16bc27cb91a15ade",
+            "name": "places/ChIJww-u68sEdkgR3lqhkcsnvBY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOdGQxZFNRVEZWZW5wSWJsRmFObGxzWnpsNE5VRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "A fabulous experience.  The service is impeccable with the staff accurately assessing the level of engagement required by the party.  There was a good connection across the staff with most having been long timers. It was wonderful to be able to see into the kitchen and seeing the plates being finalized.  The wine selection is extensive and the sommelier was a star!"
+            },
+            "publishTime": "2025-11-26T20:40:57.306410548Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 weeks ago",
+            "text": {
+                "languageCode": "en",
+                "text": "A fabulous experience.  The service is impeccable with the staff accurately assessing the level of engagement required by the party.  There was a good connection across the staff with most having been long timers. It was wonderful to be able to see into the kitchen and seeing the plates being finalized.  The wine selection is extensive and the sommelier was a star!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Kim Riley",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL2-5tJQAcuA6i-nhcbdpHHnSwizb8hNJimGWLAOUsGWWm_IQ=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/107984301231931700541/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pCNmNscDRRbGhPTTFZNWRXOUZaR1YwVkdRM2FsRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCNmNscDRRbGhPTTFZNWRXOUZaR1YwVkdRM2FsRRAB!2m1!1s0x487604cbebae0fc3:0x16bc27cb91a15ade",
+            "name": "places/ChIJww-u68sEdkgR3lqhkcsnvBY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCNmNscDRRbGhPTTFZNWRXOUZaR1YwVkdRM2FsRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "What a fabulous evening we had. The warm and friendly welcome immediately made us feel comfortable.\nWe opted for the tasting menu, plus the Classic wine pairings. Food presentation just oozed excellence and the flavours were exceptional.\nThe whole team was attentive without being intrusive. Their knowledge and informative dialogue throughout our meal just added to the evening. We left Frog extremely happy and with our hunger truly satisfied."
+            },
+            "publishTime": "2025-11-15T17:39:43.215040037Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "3 weeks ago",
+            "text": {
+                "languageCode": "en",
+                "text": "What a fabulous evening we had. The warm and friendly welcome immediately made us feel comfortable.\nWe opted for the tasting menu, plus the Classic wine pairings. Food presentation just oozed excellence and the flavours were exceptional.\nThe whole team was attentive without being intrusive. Their knowledge and informative dialogue throughout our meal just added to the evening. We left Frog extremely happy and with our hunger truly satisfied."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Katharina",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKRyiineUD88rV0hB5Bm5sj98IakUhb5zNShVBSwVhvPaU8wcU=s128-c0x00000000-cc-rp-mo-ba2",
+                "uri": "https://www.google.com/maps/contrib/113056934888967002394/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKWk4yVjNUMGxwWTJ3NWVrdFllVXBaYlU5M1lsRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKWk4yVjNUMGxwWTJ3NWVrdFllVXBaYlU5M1lsRRAB!2m1!1s0x487604cbebae0fc3:0x16bc27cb91a15ade",
+            "name": "places/ChIJww-u68sEdkgR3lqhkcsnvBY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKWk4yVjNUMGxwWTJ3NWVrdFllVXBaYlU5M1lsRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "From the moment I made the reservation to finalizing the details and enjoying a pre-dinner drink at the bar, everything was seamless.\n\nThe food was simply outstanding - every bite worth it. Each course showcased a new level of creativity and technique, and it was nice to watch the chefs working their magic course by course. My absolutely favorites - the Pigeon with beetroot and black truffles and the Madeleines.\n\nThat said, the atmosphere at the front of the house felt a bit off. There seemed to be some tension between the service team and the kitchen, and the vibe of some members of the service team was lacking warmth and genuineness.\n\nI would definitely go back for the food."
+            },
+            "publishTime": "2025-11-11T14:09:42.958121165Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "4 weeks ago",
+            "text": {
+                "languageCode": "en",
+                "text": "From the moment I made the reservation to finalizing the details and enjoying a pre-dinner drink at the bar, everything was seamless.\n\nThe food was simply outstanding - every bite worth it. Each course showcased a new level of creativity and technique, and it was nice to watch the chefs working their magic course by course. My absolutely favorites - the Pigeon with beetroot and black truffles and the Madeleines.\n\nThat said, the atmosphere at the front of the house felt a bit off. There seemed to be some tension between the service team and the kitchen, and the vibe of some members of the service team was lacking warmth and genuineness.\n\nI would definitely go back for the food."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Alexandre Lyons",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWvYA_MyYRv2o1oUSB4xFFnssH9aJNenyEzXD5u3BlKnSfayYM=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/115381692690249286062/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21KMWNuTm5jRVV6Y0VWRk5HbEpXVE4yV1ZkZlJrRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KMWNuTm5jRVV6Y0VWRk5HbEpXVE4yV1ZkZlJrRRAB!2m1!1s0x487604cbebae0fc3:0x16bc27cb91a15ade",
+            "name": "places/ChIJww-u68sEdkgR3lqhkcsnvBY/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KMWNuTm5jRVV6Y0VWRk5HbEpXVE4yV1ZkZlJrRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "First experience at The Frog and I was not disappointed.\n\nFrom the moment you walk through the door, the warm welcome instantly builds anticipation for what’s to come. The restaurant has a London vibe, modern, stylish, and full of personality. The open kitchen feels like a theatre, the chefs the actors, and the food the performance.\n\nOne of my favourite details is the menu: presented as a map of the UK showing where each ingredient originates. It adds a layer of mystery to the meal before it even begins.\n\nAnd the food… absolutely spot-on. A true talent of a great restaurant is to make you enjoy ingredients you normally might avoid and even make you say wow. That was exactly my reaction to the eel on toast.\n\nThe Parker House bread was fantastic, and the liver-butter flower was almost too beautiful to slice into. The lobster and the red mullet also deserve special mention; both excellent.\n\nOf course, a restaurant is nothing without great service, and Lorenzo’s team operates like clockwork. Every detail is noticed. Even my napkin lightly stained after wiping my mouth with joy, was discreetly replaced while I stepped away for a moment.\n\nThis was my first visit, but certainly not my last. Highly recommended."
+            },
+            "publishTime": "2025-11-15T11:13:38.433991893Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "3 weeks ago",
+            "text": {
+                "languageCode": "en",
+                "text": "First experience at The Frog and I was not disappointed.\n\nFrom the moment you walk through the door, the warm welcome instantly builds anticipation for what’s to come. The restaurant has a London vibe, modern, stylish, and full of personality. The open kitchen feels like a theatre, the chefs the actors, and the food the performance.\n\nOne of my favourite details is the menu: presented as a map of the UK showing where each ingredient originates. It adds a layer of mystery to the meal before it even begins.\n\nAnd the food… absolutely spot-on. A true talent of a great restaurant is to make you enjoy ingredients you normally might avoid and even make you say wow. That was exactly my reaction to the eel on toast.\n\nThe Parker House bread was fantastic, and the liver-butter flower was almost too beautiful to slice into. The lobster and the red mullet also deserve special mention; both excellent.\n\nOf course, a restaurant is nothing without great service, and Lorenzo’s team operates like clockwork. Every detail is noticed. Even my napkin lightly stained after wiping my mouth with joy, was discreetly replaced while I stepped away for a moment.\n\nThis was my first visit, but certainly not my last. Highly recommended."
+            }
+        }
+    ],
+    "servesBeer": true,
+    "servesBreakfast": false,
+    "servesCocktails": true,
+    "servesCoffee": true,
+    "servesDessert": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "servesWine": true,
+    "shortFormattedAddress": "34-35 Southampton St, London",
+    "takeout": false,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "fine_dining_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 1024,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.51218763029149,
+            "longitude": -0.12063406970849797
+        },
+        "low": {
+            "latitude": 51.50948966970849,
+            "longitude": -0.123332030291502
+        }
+    },
+    "websiteUri": "https://www.frogbyadamhandling.com/?utm_campaign=SDM&utm_id=GMB&utm_medium=website+click&utm_source=GMB",
+    "timestamp": 1765447200
+}

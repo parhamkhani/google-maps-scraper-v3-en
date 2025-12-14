@@ -1,0 +1,796 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleEntrance": true
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "27",
+            "shortText": "27",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "The Market",
+            "shortText": "The Market",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2E 8RD",
+            "shortText": "WC2E 8RD",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJgXlkg8sEdkgRBQIcjaxWHPs",
+                "placeId": "ChIJgXlkg8sEdkgRBQIcjaxWHPs"
+            },
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJs4GOh8sEdkgRRiBFZKMP8ZE",
+                "placeId": "ChIJs4GOh8sEdkgRRiBFZKMP8ZE"
+            },
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "und",
+                    "text": "Jubilee Market Hall"
+                },
+                "name": "places/ChIJ-ScSl8sEdkgRjISxG4sLNPY",
+                "placeId": "ChIJ-ScSl8sEdkgRjISxG4sLNPY"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Jubilee Market"
+                },
+                "name": "places/ChIJZ5rPfcwEdkgRCld_oTBUf_k",
+                "placeId": "ChIJZ5rPfcwEdkgRCld_oTBUf_k",
+                "straightLineDistanceMeters": 38.679703,
+                "travelDistanceMeters": 73.844444,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "London Transport Museum"
+                },
+                "name": "places/ChIJ4bF21K8FdkgRDXc6FiSVAzE",
+                "placeId": "ChIJ4bF21K8FdkgRDXc6FiSVAzE",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 35.17189,
+                "travelDistanceMeters": 25.230152,
+                "types": [
+                    "cafe",
+                    "establishment",
+                    "food",
+                    "museum",
+                    "point_of_interest",
+                    "store",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Royal Ballet and Opera"
+                },
+                "name": "places/ChIJySOgh8sEdkgRCBzTYt83Klg",
+                "placeId": "ChIJySOgh8sEdkgRCBzTYt83Klg",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 109.30343,
+                "travelDistanceMeters": 96.71977,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJQR9pg8sEdkgRKeWNNYlDdPU",
+                "placeId": "ChIJQR9pg8sEdkgRKeWNNYlDdPU",
+                "spatialRelationship": "WITHIN",
+                "straightLineDistanceMeters": 52.210354,
+                "travelDistanceMeters": 283.22858,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "shopping_mall"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Starbucks Coffee"
+                },
+                "name": "places/ChIJJ9HYxLkEdkgR27ltqHIoSlY",
+                "placeId": "ChIJJ9HYxLkEdkgR27ltqHIoSlY",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 55.169937,
+                "travelDistanceMeters": 80.08424,
+                "types": [
+                    "cafe",
+                    "establishment",
+                    "food",
+                    "meal_takeaway",
+                    "point_of_interest",
+                    "restaurant",
+                    "store"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "containingPlaces": [
+        {
+            "id": "ChIJZ5rPfcwEdkgRCld_oTBUf_k",
+            "name": "places/ChIJZ5rPfcwEdkgRCld_oTBUf_k"
+        }
+    ],
+    "currentOpeningHours": {
+        "nextCloseTime": "2025-11-25T19:00:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 19,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 19,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 19,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 19,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 19,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 19,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 19,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 11,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 11:00 AM – 7:00 PM",
+            "Tuesday: 11:00 AM – 7:00 PM",
+            "Wednesday: 11:00 AM – 7:00 PM",
+            "Thursday: 11:00 AM – 7:00 PM",
+            "Friday: 11:00 AM – 7:00 PM",
+            "Saturday: 11:00 AM – 7:00 PM",
+            "Sunday: 11:00 AM – 7:00 PM"
+        ]
+    },
+    "displayName": {
+        "languageCode": "en",
+        "text": "Hooray's Hotdogs - Covent Garden"
+    },
+    "formattedAddress": "27 The Market, London WC2E 8RD, UK",
+    "goodForChildren": true,
+    "goodForWatchingSports": false,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x487604cb98fb0f9f:0x2a5af1f6c2e6561d!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487604cb98fb0f9f:0x2a5af1f6c2e6561d!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=3052017739631056413&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487604cb98fb0f9f:0x2a5af1f6c2e6561d!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487604cb98fb0f9f:0x2a5af1f6c2e6561d!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=3052017739631056413&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJnw_7mMsEdkgRHVbmwvbxWio",
+    "liveMusic": false,
+    "location": {
+        "latitude": 51.5119404,
+        "longitude": -0.12208989999999999
+    },
+    "name": "places/ChIJnw_7mMsEdkgRHVbmwvbxWio",
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsNfc": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Farouq S. Aldilaijan",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWhlnfPCsROsFy0T-LoYZ3BtRtU42qxU1Qey_j_Mtq2jGsGFlMDbA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/100803555188926642364"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDWsf2b6wE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDWsf2b6wE!2e10!4m2!3m1!1s0x487604cb98fb0f9f:0x2a5af1f6c2e6561d",
+            "heightPx": 4032,
+            "name": "places/ChIJnw_7mMsEdkgRHVbmwvbxWio/photos/AWn5SU4nvWDBopJAo891RQHfbiXj18dW4jlc0CSYuCgVZNZlkj9tjfWdD0lLZRiOeE4JiNoHiHm7E6Sy8zLW9_rRF-dtt6iVkTDngqr1muljIoSBQrYVu_2y8ypqqa8WKccdxr7lNNhuCdwqpbMQ42EhGMNZ0qSqicUeBPpnjQ6msxuvlUNBHVIqh6dybXpzNEXtzn5qTw3EKhL-PwOYq3nORUGnKbLxt8h9SkZX5KN_1vFlMg8GWDEwXfM2QJ_IS10IRPzPaQOUBYLyyVc891GD1FYTqzQCFZZGwt0xWjVlNjhCGoWSmmrMVCNgcDJiTvHD5guqPORsgzjZsn40kV1svPSK31QgbUWHyafmKB_vfUTpKm59vzxUDMx5PbaFfyPM3roJ92HxMeYwivIF0pdUNKPtJeq6-Yhg3ZV3TmvFG4HtRviR",
+            "widthPx": 2268
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "London City Events",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXh1faeIx4I-nnX5WOn4Omnyyl24j8K72vtFkk8viEC9f3KCKYtIQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/109323359156362462996"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICL5J-jogE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICL5J-jogE!2e10!4m2!3m1!1s0x487604cb98fb0f9f:0x2a5af1f6c2e6561d",
+            "heightPx": 3024,
+            "name": "places/ChIJnw_7mMsEdkgRHVbmwvbxWio/photos/AWn5SU6JwHoxi_0RPnDPLvbSU4asoOEm3DLsLs0OqFUMoy92XbT9LashB1rWpYzRwyZjiXXYztgUzxMSalwuTBGYOV0Q9bjV9o5xMseYz5FfMUeYZmK-c3zL2yjt5vtTFYnA8tGkvfHxBfJRvoOVgUwUBwSSWCuBEDxS9uhpgh3fKUpk1_okcf2wo3LKxQRyNTW5oWWx6sbAnYFm5BPUF7VUGVJRKf1vdwixu-ZeySDt576Bx9MA12Ot6L-JjB_gyIYoAkzZk79mCRN0kztWacLVVF763fMh3qchsOln0qhiKuTz2bUHfWkLAlp9PzunqCESjOIOHDyXtsRMPO6dsrVewEFsk0J483cOTDrWp-MW12V8m1X0ved9umC0ufoFtC4GFNbuO9DI-enFzJma5zyO02GnuaA_nxxl_UeJ83o8Bwh98bR5",
+            "widthPx": 4032
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Farouq S. Aldilaijan",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWhlnfPCsROsFy0T-LoYZ3BtRtU42qxU1Qey_j_Mtq2jGsGFlMDbA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/100803555188926642364"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICT1cnCuwE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICT1cnCuwE!2e10!4m2!3m1!1s0x487604cb98fb0f9f:0x2a5af1f6c2e6561d",
+            "heightPx": 4032,
+            "name": "places/ChIJnw_7mMsEdkgRHVbmwvbxWio/photos/AWn5SU5oGYaQKy1Av_KyaC0olXo7iRhW1n0SoT1rMUGq9lJHKax4gQOnWdYW9rfQjYcQEo9-DzXyeNhtG0pxdBAA_3yKw8OYdRIrcuAGXE7tdBMkftMfOPk7kH-tx2MAj_-PiajhSoMSg0I5DlSzbL0DWKRiFIaCNnsQlgNLrYYVvy97aZr7uRw_ilmWhxhLfr-qeHqcV6RHuajaiOLU4Kw6RPi3cn_vUiIB92LQwyaKgKxsmDKHO7nTvby-8FUw5lRhlerqB_S7dToIKR4C5OBSiqVV1jrcrkxOMvoWt0wMTpYYthB9OYyfNcZYBfPnfWbNBDnVla52BZhA2UwKyjGl6GpgsYGhoQZKIW0QuRZLFPdNEtglWJFwJJ8kILT9CBf0a4chywftwZ8PJpWe67n68zjw-ObDVFfj5i4L7kOciMFbiWK5",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Wesley Lee",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUZILkcMBCxrDGYVO8p5up0XXBM6hirKZIy7KpsQjwvxlLVsMCq=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/101896353253941736477"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC-lrGnjAE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC-lrGnjAE!2e10!4m2!3m1!1s0x487604cb98fb0f9f:0x2a5af1f6c2e6561d",
+            "heightPx": 4032,
+            "name": "places/ChIJnw_7mMsEdkgRHVbmwvbxWio/photos/AWn5SU6LhUxcSk3sXbntgYt0b7jSfkcVtTRYunpJNufGWbA4RPiZliNEMWo28Vas6-vdtIRHiVcW3qef0KywMUZGP1TtqdPjsg5flmjHjpn_UJ_fuCGy72Ahwr_dqIqN81yrYiEhj3uxdFO8-UFPKSTgeOP60Qe3tEqpVJvb79bSOtSK9FZ3ErIjBuSVd_DQRxSD7BgCEwfPP76vkfwBLBa3oL6AgZUiuMEJfZ09rPhwQEth2t6hmIYuibzHY06hmapl1pkPkrGmuj9GoAT4lsb27jy2L17V_SMdUsoc9WlN48aoQr8wnw_I6_DGlBE8UCudvEiOiwlLS1JSsAqJesYGkd6R7xdNj7GohUrKjjB68dFxIftyMea3863_Zg0SxQ-hUCAE18woJq1xY8xeRrcd6E4VDG-Bx7_Dps_AwyPiVknjbRrt",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "R. N.",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXfNiG0m-kuZDMQ-SaJHmJb4KbEuvoiBZbFuhZ9WKCcw1LXtnSPuA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/116074603729630774842"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICmwZSN9QE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICmwZSN9QE!2e10!4m2!3m1!1s0x487604cb98fb0f9f:0x2a5af1f6c2e6561d",
+            "heightPx": 4032,
+            "name": "places/ChIJnw_7mMsEdkgRHVbmwvbxWio/photos/AWn5SU4jFfYNIkPB5mb4vdLjufaJb06AyKVR4tiEMaOlcK2e1gnct5ip32YqcA_uSYCLve9zT1gEoBMCANcNYmrupqELF8PxBJFe69KMy8Bv4tPZLKYmSq_Ad8jD9W6N0xIXjV6YPjYDJOeV5f9eAtqF6_S5Z8WXb4abhgazBUko-oQNnLMwvDtyHGfUNh4IDA19Lr5dvZdEo3Qx4JxbgP-N3welnr8lfV_5HSQUlQNAOnVdiikYsv3X-Ltn8sRBBUEhk_ECW3oY72-Fe82NmBwDa4_uDUBcCT15cK96pB9s5zWJDMUBNWW6MCV1NzePpGvwKr14tUNmileLGxgLhZ_OBV4DBlZDwc_XOhgp_haqKh6A9yvN_cL_T73DGBrRN3YBp6L__IR3nfFLV_KXfQhuPKuXlICyQP-0jIgvXq1Sc3m4yQcU",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Debsy",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXdby50fTCLbKxUuu3ayJ8fxjiiphVlvcWKY7s45fgIh5aEmK3d_w=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/103650950766037691991"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICO-KKh-gE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICO-KKh-gE!2e10!4m2!3m1!1s0x487604cb98fb0f9f:0x2a5af1f6c2e6561d",
+            "heightPx": 3705,
+            "name": "places/ChIJnw_7mMsEdkgRHVbmwvbxWio/photos/AWn5SU4Ihqc2jecACivv5LSHbsMt_-FjQkin2sQ5CM-pgEVZvntl_5AThAH3F6abgKubBzvMUYilnCyB48yY4-XoaK__Zxizrpp7VjYwat0zJBQSmEcG1SFwHjbmQZCbpNHXguh_g_cinSuiy7jY7Ku2peqRUNLF38JYgpwH0uuOcmKrB2SMmfyqTdPDGlMVxTqcWDB-RFkMOBfLWx13rN7xQW6Ayfz4x-HgbH7tufIBR-BmZ7zMvIUTAn52JiHCzQjYOvUk_agJe4ZZPecUPdEADU_fltxwb3Q1xSHu-46YOMcvM0-mOj1wV_O6aHHOEGz8VPZ1aeTOhohiyfAVf4GXzWYZj77qed0bb0jowSD99YGHUW0b91UQYsXHiwh-ye3jkt6H7UXkHKZ8POpD3X9MdfvUAaNa41L_bSIbGR489pS6MFjR",
+            "widthPx": 2778
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Laura Selva",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVCzHzH7pYzrYTBMUKbWiVooR26iJ-BkM23uMDiFMjP2HksTbrw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/116260844573482303667"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDZ0ojUmgE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDZ0ojUmgE!2e10!4m2!3m1!1s0x487604cb98fb0f9f:0x2a5af1f6c2e6561d",
+            "heightPx": 3072,
+            "name": "places/ChIJnw_7mMsEdkgRHVbmwvbxWio/photos/AWn5SU6T8C1X5k0AMcpoAJED71BGetxkbYCpLENAxU0AXwYfagk_tLXNQYEyX1DBwNQ1j6UuaTirqB2cvZwe86RnE4AskFJ_mz9g4glU_1Bjs0zFPly9D_1zGTAMRkJH3gq2PR7pWHPsrKFZ58Q51NASlR01EfiieLpCk9HYpStQJp-9tEx5INWlkWYqVUUUNQuMu1HhWnxRORBu5WJgY7A3xlIoBAwztzMunghWdrMnZ-cymrGVE2-tu4RZKTOLFGv4ACJbtRahb3dzM0A79tRxZqa0cIAn8TyNHTWnrgrEVobyyzeHf7LKlEQp2jwSMpoKwdkjnzPa3qC6KBHyD6anT7UXljNwO9n3CAkycG3AJoxA0yybkGe43WLTA7_4LL6ta2_-djpakgRLiUHoL9VENvmbl0ivO3cl12nvQtBaKilLGJ-5",
+            "widthPx": 4080
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Suleiman ALAQEL",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXOJuTO0qrZ7wB2wtp-lb7XSYetvlNYb-gGJNWwCqdXr4F1-s3c3w=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113575877522266479937"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC2u7rZtAE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC2u7rZtAE!2e10!4m2!3m1!1s0x487604cb98fb0f9f:0x2a5af1f6c2e6561d",
+            "heightPx": 4000,
+            "name": "places/ChIJnw_7mMsEdkgRHVbmwvbxWio/photos/AWn5SU7lkWDVIHnPPtAlPWgYQvl9SgbEOmLDBQaQajvBNXrV-XTAaVXxx3XazbDriNwzIKvZawYHc1z_q42KsQJqdgxXSaDk-IDr966kdBWAJIox9-QyMimVUfMC9eOLDzqLP0BEKVgX7aHvHd-uDLQxmn07ZMQYUQwknbJV8IwVly7QBTGOr2x_5V4QwU9p_bD3T2DC8JG9Geu86iam1pTxScReeC6Bv7Umq7cjIOUx2rWPaz9lK9Badpa2QncPlSvbh7AAVWdN3rlS4crnEC4XGJJS1gjae0yVFvYTc_8nUSrLNwVHvCQPbHMVm7QFQSg1GNYMjXSV4xA8sSeDS2qstjNqCHvom7ha8Fx55mcqf0G4soXpE-ES16E8akYAgiCaoaPo1umKfkjHYd3b2pnw8Jz5cswOMYXW4wA6QvY3q11M-9E",
+            "widthPx": 3000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Wesley Lee",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUZILkcMBCxrDGYVO8p5up0XXBM6hirKZIy7KpsQjwvxlLVsMCq=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/101896353253941736477"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC-lrGnHA&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC-lrGnHA!2e10!4m2!3m1!1s0x487604cb98fb0f9f:0x2a5af1f6c2e6561d",
+            "heightPx": 4032,
+            "name": "places/ChIJnw_7mMsEdkgRHVbmwvbxWio/photos/AWn5SU4DB4-cFBXgdaO7LLr-JyzMsAvlmfhsulzKjMVlBgNo1jj2XP0grlTSQZA5K97VgTXHa0q7r75HI9hMsF0-f8MzvLuiMV6XZYhAV_l-L92bBFgYdIE7xUdgEZPXp4H9jqtap-4vqXlJbBcwcKWw_Y9P3YuPTGNpHFzJBsyDvPXOiqOXnazsgHfepst360CgTIKVRvXE0enGmxLJdsVRIgIqtORMxUNtNhYRvQi9NhS1qKkLSCSU9UE_gatac4dRxQBhfy5rqHRdeZt7ASm1IT64WQhHDQ_5lkyID7moe3gqkF_4IxQOpq6ZBdOuhtgxJVZIdBmXiN3CTNZKNAhrPBEyBfjd2adCOgFk8PFFmbpe63LfpkpSbM-Dxba-kmeThkx7BB1nMjagdzu5vDIEoySizI8kcMulFqqlYA5d6TAnEg",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Agata Nosek",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocITu2OP-DZ8i8QuSOW87-eokW5WovW7pwQoAi_8Lg9tglLYhio=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113516125681883256295"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDxp8qG3gE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDxp8qG3gE!2e10!4m2!3m1!1s0x487604cb98fb0f9f:0x2a5af1f6c2e6561d",
+            "heightPx": 3000,
+            "name": "places/ChIJnw_7mMsEdkgRHVbmwvbxWio/photos/AWn5SU7NxKtVVk5f4Xn9Jh2a1MzTserYT0zoCRx8dERfjyyYonZLzxc86N0raolPGvbYK8yv52gkg7fqIct4ZgpY6sbZmXz_96MciCjjgVKuyi1RNZ6EEQyKbBC20ZJ9WBSTWjJzSXrZ0yDTvIq4bh7BnnBEaJwErg1mqZypowEljTXEN7bXJdqoob9CFFGIbY8pWCJmcoTyyUKl4GNHu4KW9FrVSoz1Nbmhkaaix10Tx3V6TKn8lU4U1Tu2hTjcmSkpWATuZskfiFtkdpCLe4ywTYZBSQW1jtmGOC4KZ0smojWiaZYs6okpJHuCtLQG2azH2EhPwZDmFJscPU6vchgdbwt4c9ra_jI45ZRfEHEZNVpxN3qb-Bfr82bBzaykSWwPhLyKTC-4wg6D6qS74JP18N6bh5XI5to8Zun-xpjfhsmYvsg",
+            "widthPx": 4000
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV6H+Q5 London, UK",
+        "globalCode": "9C3XGV6H+Q5"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "27 The Market"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2E 8RD",
+        "regionCode": "GB"
+    },
+    "priceRange": {
+        "endPrice": {
+            "currencyCode": "GBP",
+            "units": "10"
+        },
+        "startPrice": {
+            "currencyCode": "GBP",
+            "units": "1"
+        }
+    },
+    "primaryType": "american_restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "American Restaurant"
+    },
+    "rating": 3.8,
+    "regularOpeningHours": {
+        "nextCloseTime": "2025-11-25T19:00:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 19,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 19,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 19,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 19,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 19,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 19,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 19,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 11,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 11:00 AM – 7:00 PM",
+            "Tuesday: 11:00 AM – 7:00 PM",
+            "Wednesday: 11:00 AM – 7:00 PM",
+            "Thursday: 11:00 AM – 7:00 PM",
+            "Friday: 11:00 AM – 7:00 PM",
+            "Saturday: 11:00 AM – 7:00 PM",
+            "Sunday: 11:00 AM – 7:00 PM"
+        ]
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Liz M",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKXtdopNm8pau_jRgE1tDfQzmw9u8doLdlQSyy5JDMa2wId7ZU=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/112898812846875972764/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tzNU9HSkRiSEIwWVdzNVpuZGhlREJCVGxwaFMzYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tzNU9HSkRiSEIwWVdzNVpuZGhlREJCVGxwaFMzYxAB!2m1!1s0x487604cb98fb0f9f:0x2a5af1f6c2e6561d",
+            "name": "places/ChIJnw_7mMsEdkgRHVbmwvbxWio/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tzNU9HSkRiSEIwWVdzNVpuZGhlREJCVGxwaFMzYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Yummy hotdogs! Had the bratwurst and there are several toppings you can add."
+            },
+            "publishTime": "2025-07-08T02:02:14.327860303Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "4 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Yummy hotdogs! Had the bratwurst and there are several toppings you can add."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Anaïs T",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJdsg7JRuvmm0po6Zo3Hyq9Rx_dGgG2Cr5EZlylH2Vkv9paKPw=s128-c0x00000000-cc-rp-mo-ba2",
+                "uri": "https://www.google.com/maps/contrib/101506685681888767865/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xKUVRqaEtZV1V5Um5welVESmhhaTFrUTFkT1NXYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKUVRqaEtZV1V5Um5welVESmhhaTFrUTFkT1NXYxAB!2m1!1s0x487604cb98fb0f9f:0x2a5af1f6c2e6561d",
+            "name": "places/ChIJnw_7mMsEdkgRHVbmwvbxWio/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKUVRqaEtZV1V5Um5welVESmhhaTFrUTFkT1NXYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "It was a very good hot-dog. Too bad that cheese isn't melted but very nice sausage and bread."
+            },
+            "publishTime": "2025-07-31T12:36:00.447336328Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "3 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "It was a very good hot-dog. Too bad that cheese isn't melted but very nice sausage and bread."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Joanna Crowley",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJjyvvbrO2MSa65xMFBIcLidnbTDMKWowwDuB_UlYZrrHXJfA=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/106401913226379163634/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN2ajY3enhRRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN2ajY3enhRRRAB!2m1!1s0x487604cb98fb0f9f:0x2a5af1f6c2e6561d",
+            "name": "places/ChIJnw_7mMsEdkgRHVbmwvbxWio/reviews/ChdDSUhNMG9nS0VJQ0FnSUN2ajY3enhRRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Poor!! Make sure you get a receipt or check how much they are charging you. Ordered 4 hot dogs and later discovered I had been charged for 5. No contact details either!!"
+            },
+            "publishTime": "2024-12-15T21:22:17.509925Z",
+            "rating": 1,
+            "relativePublishTimeDescription": "11 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Poor!! Make sure you get a receipt or check how much they are charging you. Ordered 4 hot dogs and later discovered I had been charged for 5. No contact details either!!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Jordan Bayles",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXKWWu9ZIz5BFYKfnzh6imURP2JDFWAviutIxBM8B0AYf3gLCO8oA=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/110008280262481744259/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURWeWJtdkxREAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURWeWJtdkxREAE!2m1!1s0x487604cb98fb0f9f:0x2a5af1f6c2e6561d",
+            "name": "places/ChIJnw_7mMsEdkgRHVbmwvbxWio/reviews/ChZDSUhNMG9nS0VJQ0FnSURWeWJtdkxREAE",
+            "originalText": {
+                "languageCode": "en",
+                "text": "How fun to find a German Hot Dog stand in Covent Garden!\n\nPRO:\n- Real deal German Dog\n- German mustard!!!\n\nCON:\n- Pretty $$ for a hotdog\n- Not filling\n- Hard bun (but aren't all German buns?)\n\nSUMMARY:\nIt's fun to see something authentically German here in Covent Garden, as long as you don't mind the price."
+            },
+            "publishTime": "2023-12-13T20:17:01.254990Z",
+            "rating": 3,
+            "relativePublishTimeDescription": "a year ago",
+            "text": {
+                "languageCode": "en",
+                "text": "How fun to find a German Hot Dog stand in Covent Garden!\n\nPRO:\n- Real deal German Dog\n- German mustard!!!\n\nCON:\n- Pretty $$ for a hotdog\n- Not filling\n- Hard bun (but aren't all German buns?)\n\nSUMMARY:\nIt's fun to see something authentically German here in Covent Garden, as long as you don't mind the price."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Alfie Henry",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJhMZnH5Ybb_VNnfGxD_jnm7PX-Shej6GOUbjfiwvkzunHE2Q=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/101360191345106252732/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURUdjRPTjlnRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURUdjRPTjlnRRAB!2m1!1s0x487604cb98fb0f9f:0x2a5af1f6c2e6561d",
+            "name": "places/ChIJnw_7mMsEdkgRHVbmwvbxWio/reviews/ChdDSUhNMG9nS0VJQ0FnSURUdjRPTjlnRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Fabulous authentic, German hot dogs. Lovely service from the staff as well as great prices. A must visit if you are in the Covent Garden area!"
+            },
+            "publishTime": "2025-01-01T09:07:34.187206Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "10 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Fabulous authentic, German hot dogs. Lovely service from the staff as well as great prices. A must visit if you are in the Covent Garden area!"
+            }
+        }
+    ],
+    "servesCocktails": false,
+    "servesLunch": true,
+    "servesWine": false,
+    "shortFormattedAddress": "27 The Market, London",
+    "takeout": true,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "american_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 38,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.5130818802915,
+            "longitude": -0.12101906970849796
+        },
+        "low": {
+            "latitude": 51.5103839197085,
+            "longitude": -0.12371703029150201
+        }
+    },
+    "websiteUri": "https://twitter.com/hoorayshotdogs",
+    "timestamp": 1764064800
+}

@@ -1,0 +1,771 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "en",
+            "longText": "Short's Gardens",
+            "shortText": "Short's Gardens",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2H 9AU",
+            "shortText": "WC2H 9AU",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJs4GOh8sEdkgRRiBFZKMP8ZE",
+                "placeId": "ChIJs4GOh8sEdkgRRiBFZKMP8ZE"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "NBCUniversal"
+                },
+                "name": "places/ChIJv4f2tzIbdkgR9ockIRcTijo",
+                "placeId": "ChIJv4f2tzIbdkgR9ockIRcTijo",
+                "straightLineDistanceMeters": 232.57443,
+                "travelDistanceMeters": 222.75113,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Seven Dials"
+                },
+                "name": "places/ChIJLVbVPM0EdkgRGUvoNqAiQ30",
+                "placeId": "ChIJLVbVPM0EdkgRGUvoNqAiQ30",
+                "straightLineDistanceMeters": 35.818142,
+                "travelDistanceMeters": 117.809044,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Donmar Warehouse"
+                },
+                "name": "places/ChIJlUVX28wEdkgR7ACthEwk_28",
+                "placeId": "ChIJlUVX28wEdkgR7ACthEwk_28",
+                "straightLineDistanceMeters": 29.985497,
+                "travelDistanceMeters": 137.90448,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Flesh & Buns Covent Garden"
+                },
+                "name": "places/ChIJlVmoIM0EdkgRvbnx9zpG5D0",
+                "placeId": "ChIJlVmoIM0EdkgRvbnx9zpG5D0",
+                "straightLineDistanceMeters": 31.942926,
+                "travelDistanceMeters": 123.110245,
+                "types": [
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Forbidden Planet London Megastore"
+                },
+                "name": "places/ChIJs3AXzDIbdkgRWE0xp5kzxDg",
+                "placeId": "ChIJs3AXzDIbdkgRWE0xp5kzxDg",
+                "straightLineDistanceMeters": 136.85698,
+                "travelDistanceMeters": 145.40991,
+                "types": [
+                    "book_store",
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "containingPlaces": [
+        {
+            "id": "ChIJD4dBYbgFdkgRv99UblXvkYw",
+            "name": "places/ChIJD4dBYbgFdkgRv99UblXvkYw"
+        }
+    ],
+    "curbsidePickup": false,
+    "currentOpeningHours": {
+        "nextOpenTime": "2025-12-11T11:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 14,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 14,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 15,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 15,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 16,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 16,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 17,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 17,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 11,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 – 10:00 PM",
+            "Tuesday: 12:00 – 10:00 PM",
+            "Wednesday: 11:00 AM – 10:30 PM",
+            "Thursday: 11:00 AM – 10:30 PM",
+            "Friday: 11:00 AM – 10:30 PM",
+            "Saturday: 11:00 AM – 10:30 PM",
+            "Sunday: 11:00 AM – 9:00 PM"
+        ]
+    },
+    "delivery": true,
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Bleecker Burger Seven Dials Market"
+    },
+    "formattedAddress": "Short's Gardens, London WC2H 9AU, UK",
+    "goodForWatchingSports": false,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x4876058ac5a36f09:0x199642580f55cdc9!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x4876058ac5a36f09:0x199642580f55cdc9!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=1843734043436633545&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x4876058ac5a36f09:0x199642580f55cdc9!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x4876058ac5a36f09:0x199642580f55cdc9!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=1843734043436633545&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJCW-jxYoFdkgRyc1VD1hClhk",
+    "liveMusic": false,
+    "location": {
+        "latitude": 51.514226300000004,
+        "longitude": -0.1260237
+    },
+    "name": "places/ChIJCW-jxYoFdkgRyc1VD1hClhk",
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Bleecker Burger Seven Dials Market",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJNeo--FduSOcypuWm8AY_IVo9irb6Bfx57lReaC597mlbQoA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/116814189683024997229"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPJZblh1FoAeS2DGEVb5Og96JIjTbQAjcJ6QVzp&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPJZblh1FoAeS2DGEVb5Og96JIjTbQAjcJ6QVzp!2e10!4m2!3m1!1s0x4876058ac5a36f09:0x199642580f55cdc9",
+            "heightPx": 4800,
+            "name": "places/ChIJCW-jxYoFdkgRyc1VD1hClhk/photos/AZLasHrp3CwN_Dw7MbMk7BrUxWZo5HKvWDW7AeipyGRe683NF-_7EYgeenl6Dr7odceVO4PoMZpET1vnkq9UL9ZKSbVvYwxUy6vcXz0gFhPgQzSKyO8HXdDhSvh9Q44sIwbYLS0qGzEro0Vs2AXunsT0rjx8Dl3aBYPHtWjOkCTjhtVsdAWJcdtwRwsBTpQTTGaSGdpIaf7t1kUNsFv7P3N99GbSePb8U6zt83swWaVYZmiApCCJOBOFL1wX2o-3uRejPgHKxZwxBzVL3CZHbCzQh4PTBfcPg9wx5l5E-GrofS42zQ",
+            "widthPx": 3200
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Bleecker Burger Seven Dials Market",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJNeo--FduSOcypuWm8AY_IVo9irb6Bfx57lReaC597mlbQoA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/116814189683024997229"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMcaVPJ-tHKF4U8EWUAe-c5hd9AAF1w1TBuFqF8&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMcaVPJ-tHKF4U8EWUAe-c5hd9AAF1w1TBuFqF8!2e10!4m2!3m1!1s0x4876058ac5a36f09:0x199642580f55cdc9",
+            "heightPx": 2742,
+            "name": "places/ChIJCW-jxYoFdkgRyc1VD1hClhk/photos/AZLasHoN6X4NVcJfpuUXZWmxeF33o917eqhqdbr0q6Co-U417udLecZ3uyUeqNoTuK4zbVI3TYZMRU6exM-VXWZXGlTiAXyKQFdwaHaHi8lvaDwuzxdVKjBp3CvKq0E0ifM77nd4c-8QtJ_z1c65DeeVYn9SwiO6L96huSbV9wMUrmaarOOXSpY0HmQg2EoGTRE_bzK5xQvbT6pEBIXBbB4egLK8gRLTw95QQX_RSs5HBQO8kgXiuRzXl2JfzHjEm91TRlmtmv-LiVl1oyofaDqAkFiPGiryWbn0yS0JssYaAyKh_g",
+            "widthPx": 4113
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Boon Leong Chong",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVe-0ASwiEBm7_BWRhN5aezOD-zGPdPSp5LrR7iUOPOpf9zumCt_w=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/116780637748071592813"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBAfAmp-aCxiKZBsb1E58g7&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBAfAmp-aCxiKZBsb1E58g7!2e10!4m2!3m1!1s0x4876058ac5a36f09:0x199642580f55cdc9",
+            "heightPx": 4800,
+            "name": "places/ChIJCW-jxYoFdkgRyc1VD1hClhk/photos/AZLasHqlNo2LRFPSVmeD2AZQweaAh4lWsb7Ebe2wFMZ6oQTCrlEw1PEiB2bPZpXnf1vZ-1p71f9sy638XtG4GTYc966LanpspWwmII6rYG_VJLucFwMO8eC9Ux6IYRHzl74762vVHkLTHMSHK40hnFL6pNbEyqu89hA1q4OClEhwI7_buKymOHP9ZcynAQLacoa2iVdVhGX_DPlmIr1RQp9ESoIHITGdT5I-EzzShDZMlzjQrdCTeF4hSzRkXinjrqyW0F5Wp82CPDT_6uaAWy4pMXtcJRJhjRjh-1jT69Lv6nHlNiQX7IaNcd_cOATijEF9b3gARTkoQNEGtCJWdrIWQwuff-1Z_ZUHZrNc5Da0_o9B_lrvkNQtErU8We52W-DwCu2or2bBe-S1uJGqY4_DOIiwxUf0NZxVKe0hBLI-7_RV7StGESai-CEIYe-yNQ",
+            "widthPx": 3600
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Bleecker Burger Seven Dials Market",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJNeo--FduSOcypuWm8AY_IVo9irb6Bfx57lReaC597mlbQoA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/116814189683024997229"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNKxUsWU7bR0Ybj5vMWBeX1wiZwtRx4qWAhyIbQ&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNKxUsWU7bR0Ybj5vMWBeX1wiZwtRx4qWAhyIbQ!2e10!4m2!3m1!1s0x4876058ac5a36f09:0x199642580f55cdc9",
+            "heightPx": 4800,
+            "name": "places/ChIJCW-jxYoFdkgRyc1VD1hClhk/photos/AZLasHpmEJ30i2Pa_emLpPrR7cHsmsZ7hTtUnGAco3Aomxl8mWEolXy2__eY7LrJVWtRMjXrLhQD9MNvD77kTrzjr-JRPVtjOWT33rTq39jkSZRQvzasEFDB38EM2_QlsYhuY7Thq1CfMrogrQX8Xij4Onc8-TiVVzyHL3649RhYGfaUZGE-99vDbdHJhurJbfkuS2jAiL3w71vuMu1WHRX9_rVfE-5W-OGoGb1_16n8md1ZfCur41KWqIPlhKJSfJ5HvrqdfYJwU17HFnlwBJcLEyogE_NWY2N39gINJeiLwNfC9g",
+            "widthPx": 2329
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Sam Aberman",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWW8LD98tdvZGX2GSpZHvoTTtCKd8qb17YM2nQsTU6mmb_xz9uN7Q=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/111941996399252793572"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhC3EQbZJS-B78FWSrvF0O__&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhC3EQbZJS-B78FWSrvF0O__!2e10!4m2!3m1!1s0x4876058ac5a36f09:0x199642580f55cdc9",
+            "heightPx": 2252,
+            "name": "places/ChIJCW-jxYoFdkgRyc1VD1hClhk/photos/AZLasHrwkmp_m6ap4MjL9xdtGjzrDSOSO99ZzXMIt8GrGcg0XydljeAqvQn1upjhWXK3XP0xVXUGtAgEMrlRnpyLn53OQ87K0j1-fhEykQR2Hky4XZ5RNzBOd_Ev_HTTfehD0ZwfSRYazOLqxk51Y7kqssBF8o7ivkZtzzqRZMKJ7t9k2eWBeAco3s40zoPt0z_rWX0SdOPYjgOGMeOAr6kIxggmQdlA1zsJjXWWEzZ5wUQvU6TEJWnQyrWxw2NgaLMMzsAIP2bpE9uytsINNIQKDGdabnyqZeCyfhRUODP2rBJp0xOSq-ztJqKCJEHtyVTGo211yNsdloitqhVBvjqICgKCD76L2z1ZPMBEiYoA5lGwzjkGIH7dZuWiGmx746ZXVnSKTHSfkkYb-5vnd2Y4qCORAnKT6E9ZfWkmpWeih4LXsbibn9iOPQ2fN88pNzPd",
+            "widthPx": 4000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Bleecker Burger Seven Dials Market",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJNeo--FduSOcypuWm8AY_IVo9irb6Bfx57lReaC597mlbQoA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/116814189683024997229"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNmL_aVBDiogGIVC7W7YU6rAFtPUqQezDBF2ayK&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNmL_aVBDiogGIVC7W7YU6rAFtPUqQezDBF2ayK!2e10!4m2!3m1!1s0x4876058ac5a36f09:0x199642580f55cdc9",
+            "heightPx": 3535,
+            "name": "places/ChIJCW-jxYoFdkgRyc1VD1hClhk/photos/AZLasHqpRu6Jdd2SVeazdbbLKO_8KX5FDHcXZcX9IETkn_W5Aqu0NDfA-aSWVaOw3Jr1tw2WZ0k2WIt0EeJHyrfsr8LcpMahK9itaLIXGCkQBXccKUtg8Eqr23eIEU6hbhxc2z2O-S51yaA_5coZ2ZyryFqlKcz2mRC9ZHv9YsQzR6FN1pPUdS1E9HGFvXjfjNJOOeNJx-3zurMhhPCWHPc2dxGXf5yIGotAqL6YF5zmE36oJDvGW4G7D_y2t4L7O1_5-ZrVmqPoYGaV1FyS9i3rZOQJoTCktKP0-9iV41OaecU77A",
+            "widthPx": 2828
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Bleecker Burger Seven Dials Market",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJNeo--FduSOcypuWm8AY_IVo9irb6Bfx57lReaC597mlbQoA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/116814189683024997229"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMad_GWWkXHOXhukW_kqmV1VsAqx8JXgNlkrU4x&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMad_GWWkXHOXhukW_kqmV1VsAqx8JXgNlkrU4x!2e10!4m2!3m1!1s0x4876058ac5a36f09:0x199642580f55cdc9",
+            "heightPx": 960,
+            "name": "places/ChIJCW-jxYoFdkgRyc1VD1hClhk/photos/AZLasHqzgOqCpeBvxXaLk1f4JOwV49G5oJWMDWLrmBRFeMbAt0D1oUodz-ynJQ084tO809vEN8X9S8G-eSZlDnabZ9My32CxSlfEBAo1yrlqp2myD1eXPrkRNqsOYyvPQyGeHNaq7hZl1Svk8FMP2sydJUuk-tORDl78cz4ddXwW9icLL4F6K1KNGqXsAHX6VnaL6VDpOYckqUV6rsg9IyKGHbtZASepmyDrokAI9mA95GCOGqGCKQ9BccEPQSRYTicCT3Jt0LQ2400fHoBJ4T9quMf74Co6dYoNILN3avXuHz75ZA",
+            "widthPx": 960
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Bleecker Burger Seven Dials Market",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJNeo--FduSOcypuWm8AY_IVo9irb6Bfx57lReaC597mlbQoA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/116814189683024997229"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPDzoqFdEJFNAZzE_SAsigAmB5oRtrQTUhygiAn&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPDzoqFdEJFNAZzE_SAsigAmB5oRtrQTUhygiAn!2e10!4m2!3m1!1s0x4876058ac5a36f09:0x199642580f55cdc9",
+            "heightPx": 1350,
+            "name": "places/ChIJCW-jxYoFdkgRyc1VD1hClhk/photos/AZLasHpejSuviublc-uUBV0yn3hlGevdfnC-pPsZm7tTxnqn8IteHhvxzkmMtzf6L5mC43g8U5yG73BMx1NXRMiKorQjAUasDQ75Ax9qusTPEXNfvHDz-9ozpVS5Gw9rFaiG660KnLpqR0DLyp2XYnt915fV9VluVFHKLz_GBMa6uuHq9nk0xM3coJX5ilaRB59Z4yjgPmNZdM9IQ0wRFHd-15VEGVhqG8KUVoJ5WzJwg870VOkGq2mcUKRQDImubMsSGoi62Fn1_tvhnRJ3DlLUrAbGxpcPqvK7zvl3IoG3RcsbjA",
+            "widthPx": 1080
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Bleecker Burger Seven Dials Market",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJNeo--FduSOcypuWm8AY_IVo9irb6Bfx57lReaC597mlbQoA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/116814189683024997229"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPOvrRJ_yZvQdGwb48BoFC1IDmcAprHqJXAlXIe&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPOvrRJ_yZvQdGwb48BoFC1IDmcAprHqJXAlXIe!2e10!4m2!3m1!1s0x4876058ac5a36f09:0x199642580f55cdc9",
+            "heightPx": 540,
+            "name": "places/ChIJCW-jxYoFdkgRyc1VD1hClhk/photos/AZLasHqa8TPnFAcNikxzFwaf-SBfbpPUo1r_a7aaBSHHxMfY7Y5RA0f8ndPsUYG5IK7D_V7akoYqVbTZ-yWtFQxcOx-qhJoTVmYaLYHAKlEMfpGBMdvsLj5gOJTW0U5r9ZP8yTd2CkQ9ei8paY-zhFXZ8jK-YlukwC1TzffoqLJBrGnnmdtiR_2Su3kNJQ9GA8sXV63qQkF4ei8BAnC12ckpkwnQyjwd4iY-VlKVtFlR4mngwpfgifaDrhZkWfuxlspamS00oOkWMuBCAzNDr3JBJGgYinhtJc4pGy2lP2RHElREqQ",
+            "widthPx": 960
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "sultan alfalasi",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWo71lui2NgIYaTatPyrc0ANWQNEUPaWuDuFJhpzMlJeAV_lXvi=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/108068505547775638514"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhB-oP6xEOQwKxUzwPL_VM18&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhB-oP6xEOQwKxUzwPL_VM18!2e10!4m2!3m1!1s0x4876058ac5a36f09:0x199642580f55cdc9",
+            "heightPx": 4800,
+            "name": "places/ChIJCW-jxYoFdkgRyc1VD1hClhk/photos/AZLasHp9VP0pNFSTNXcVCH5ns1dIc9QWPsFUXyToLkFq-unIw23Cj0-AhS59ilyi5ml9Gy2INc69XgdeDBH-k0fESFWvJzK5bB62y1HrV2gvCAN-Wg4N6GmIwcOIUG6ShR1C5TfQ64HGRCRPHz2Wq3JAJ2v5Ky5E2jvG5RTCKu6Bpa7Z_ZEqLeqWP0efh6dyAZsiomyIeEnNskAlfgcNVkKGUF4cOCHyXWctBT7SvyGT9FnAGnQXusuHLFufmeqmNAYzMq7mvqbDLimCc7w0NoCM76Z-i61qIA6L0j8tNx3GlZLV_R58OFOa-6NS5tybDJ5AfES6wgFwkvfi-V60gAyMuzRSX413PgPvW2pHtfOve2SICcbqfqrglzJ6JhkHvc5CX__klOCazXTGpJHZmP7ISg2MvK1Xejbyj74hNttXoEqxgD2a7A4q7WgBe0dfkMUV",
+            "widthPx": 3600
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV7F+MH London, UK",
+        "globalCode": "9C3XGV7F+MH"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "Short's Gardens"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2H 9AU",
+        "regionCode": "GB"
+    },
+    "priceRange": {
+        "endPrice": {
+            "currencyCode": "GBP",
+            "units": "20"
+        },
+        "startPrice": {
+            "currencyCode": "GBP",
+            "units": "10"
+        }
+    },
+    "primaryType": "hamburger_restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Hamburger Restaurant"
+    },
+    "rating": 4.2,
+    "regularOpeningHours": {
+        "nextOpenTime": "2025-12-11T11:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 11,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 – 10:00 PM",
+            "Tuesday: 12:00 – 10:00 PM",
+            "Wednesday: 11:00 AM – 10:30 PM",
+            "Thursday: 11:00 AM – 10:30 PM",
+            "Friday: 11:00 AM – 10:30 PM",
+            "Saturday: 11:00 AM – 10:30 PM",
+            "Sunday: 11:00 AM – 9:00 PM"
+        ]
+    },
+    "reviewSummary": {
+        "disclosureText": {
+            "languageCode": "en-US",
+            "text": "Summarized with Gemini"
+        },
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=5%401:CAIQACodChtyc19oOjd3UkdENi01aTlUc3h3d0xEZ0NTbmc%7CCAIQACorChtyc19oOjd3UkdENi01aTlUc3h3d0xEZ0NTbmcSDAjko8_JBhCA7IuUAg&d=17924085&t=8",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x4876058ac5a36f09:0x199642580f55cdc9!9m1!1b1",
+        "text": {
+            "languageCode": "en-US",
+            "text": "People say this hamburger restaurant serves delicious burgers, including the double burger, and house fries. They also highlight the friendly and welcoming service, and the quick preparation time.\n\nSome reviews mention the portions can be small."
+        }
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Mat Bennett",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUYqtZn8yPfVojNQFXE1H-2x4QU_iyKedFy4bzgMrP41QNyR0juTA=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/116891942047221663577/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pBMFZHWnFTMGhSYzBkVWRsTmFWR04zWlVsMk9XYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pBMFZHWnFTMGhSYzBkVWRsTmFWR04zWlVsMk9XYxAB!2m1!1s0x4876058ac5a36f09:0x199642580f55cdc9",
+            "name": "places/ChIJCW-jxYoFdkgRyc1VD1hClhk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pBMFZHWnFTMGhSYzBkVWRsTmFWR04zWlVsMk9XYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "The sign outside proudly claiming \"London's best burger\" must be a quote from the owners mum as only a mother's love would support that delusion.\n\n£14.30 for a can if coke  and an undersized greasy burger in a basic bun with one iceberg leaf and a dribble of blue cheese - served amongst the puked detritus if uncleared tables.\n\nOrdered well done as uncooked minced beef is a risk to me and it came medium and cold in the middle.\n\nNever had a burger been so over solved"
+            },
+            "publishTime": "2025-12-01T01:06:11.779242116Z",
+            "rating": 2,
+            "relativePublishTimeDescription": "a week ago",
+            "text": {
+                "languageCode": "en",
+                "text": "The sign outside proudly claiming \"London's best burger\" must be a quote from the owners mum as only a mother's love would support that delusion.\n\n£14.30 for a can if coke  and an undersized greasy burger in a basic bun with one iceberg leaf and a dribble of blue cheese - served amongst the puked detritus if uncleared tables.\n\nOrdered well done as uncooked minced beef is a risk to me and it came medium and cold in the middle.\n\nNever had a burger been so over solved"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Dave Seng",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIb_G8pVOCMUOU7oZept0hRzBVO-6TANsXDI3gTEHEd8pRXSA=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/106983435241087503911/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2paNGNrZ3llR1pWVHpkMFVURjVSR2xYWWxSNk1IYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paNGNrZ3llR1pWVHpkMFVURjVSR2xYWWxSNk1IYxAB!2m1!1s0x4876058ac5a36f09:0x199642580f55cdc9",
+            "name": "places/ChIJCW-jxYoFdkgRyc1VD1hClhk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paNGNrZ3llR1pWVHpkMFVURjVSR2xYWWxSNk1IYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "During our trip to London, we stopped by Seven Dials Market for lunch and decided to try Bleecker. We ordered burgers and fries, and I liked that you can choose how you want your burger cooked — medium or well done. I went with a well-done burger. The staff member who took our order, Haje, told us that Bleecker is ranked as the World’s No. 2 Burger Shop, which definitely raised our expectations!"
+            },
+            "publishTime": "2025-11-21T13:15:31.020222783Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 weeks ago",
+            "text": {
+                "languageCode": "en",
+                "text": "During our trip to London, we stopped by Seven Dials Market for lunch and decided to try Bleecker. We ordered burgers and fries, and I liked that you can choose how you want your burger cooked — medium or well done. I went with a well-done burger. The staff member who took our order, Haje, told us that Bleecker is ranked as the World’s No. 2 Burger Shop, which definitely raised our expectations!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Andrew Cartwright",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX_ABQbuP70MwM-f6tosHEBYWU4by7ZB8SMew1yIb9gi5EMuWrm=s128-c0x00000000-cc-rp-mo-ba7",
+                "uri": "https://www.google.com/maps/contrib/107946195285827618471/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21FeVJHcHdlbUpqTW1OUlpITkZRMWcwVTJVdFVHYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21FeVJHcHdlbUpqTW1OUlpITkZRMWcwVTJVdFVHYxAB!2m1!1s0x4876058ac5a36f09:0x199642580f55cdc9",
+            "name": "places/ChIJCW-jxYoFdkgRyc1VD1hClhk/reviews/Ci9DQUlRQUNvZENodHljRjlvT21FeVJHcHdlbUpqTW1OUlpITkZRMWcwVTJVdFVHYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Whilst visiting the market, my son really wanted a burger, whilst my daughter wanted pizza - no problem both options here at Seven Dials market! We ordered and it was quite pricey, but I think thats because they dont seem to do a kids burger option and I was effectively paying full price for a plain burger for him. We had a fair bit of a wait at Bleecker (my daughter and wife had ordered and finished their pizza before we had even got our burger), they give you one of those buzzer things that goes off when food is ready. After standing for a while we found a table, which we cleaned ourselves...\n\nEventually food was ready - as mentioned, my son got a plain burger and I ordered a blue burger (blue cheese). Thankfully the burger itself was awesome, and my son (who can be quite fussy!) also enjoyed his.  We also had some chips, which were OK, and a chocolate shake which was quite nice.\n\nWould have given 5 stars if there was a kids plain burger option (or anything kids options), and if the tables were clean. The wait wasn't great, but at least you know they are cooking it fresh for you. If your just after a really good burger then Bleecker Burger is a pretty good option!"
+            },
+            "publishTime": "2025-09-07T20:52:15.905612980Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "3 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Whilst visiting the market, my son really wanted a burger, whilst my daughter wanted pizza - no problem both options here at Seven Dials market! We ordered and it was quite pricey, but I think thats because they dont seem to do a kids burger option and I was effectively paying full price for a plain burger for him. We had a fair bit of a wait at Bleecker (my daughter and wife had ordered and finished their pizza before we had even got our burger), they give you one of those buzzer things that goes off when food is ready. After standing for a while we found a table, which we cleaned ourselves...\n\nEventually food was ready - as mentioned, my son got a plain burger and I ordered a blue burger (blue cheese). Thankfully the burger itself was awesome, and my son (who can be quite fussy!) also enjoyed his.  We also had some chips, which were OK, and a chocolate shake which was quite nice.\n\nWould have given 5 stars if there was a kids plain burger option (or anything kids options), and if the tables were clean. The wait wasn't great, but at least you know they are cooking it fresh for you. If your just after a really good burger then Bleecker Burger is a pretty good option!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "AtomicJewel",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUybk28jQuTltCgX_3IvhayD_nvmCGvseRiFzSFuAALQjLhV_SC=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/110973537430000223843/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWalNYUnRPVlZ0UVhBelJUVXpPSEk1YzJRNWRuYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWalNYUnRPVlZ0UVhBelJUVXpPSEk1YzJRNWRuYxAB!2m1!1s0x4876058ac5a36f09:0x199642580f55cdc9",
+            "name": "places/ChIJCW-jxYoFdkgRyc1VD1hClhk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWalNYUnRPVlZ0UVhBelJUVXpPSEk1YzJRNWRuYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "YUMMY BURGER ALERT\ni went with a friend after work, saw it was award winning and i said yeah get me one of them. i got a double bacon with cheese (medium) and a black and white shake (chocolate and vanilla flavour). the burger was delicious the milkshake was again DELICIOUS it all felt really well made and the ingredients felt super fresh and cooked to perfection. the people serving us were super lovely very nice atmosphere in terms if staff, it made a really nice restaurant feel despite being in the crowded seven dials food market. i will be going again and u should go too. look at my burger."
+            },
+            "publishTime": "2025-07-06T20:47:28.724400430Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "5 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "YUMMY BURGER ALERT\ni went with a friend after work, saw it was award winning and i said yeah get me one of them. i got a double bacon with cheese (medium) and a black and white shake (chocolate and vanilla flavour). the burger was delicious the milkshake was again DELICIOUS it all felt really well made and the ingredients felt super fresh and cooked to perfection. the people serving us were super lovely very nice atmosphere in terms if staff, it made a really nice restaurant feel despite being in the crowded seven dials food market. i will be going again and u should go too. look at my burger."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Oldrey Leite",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJKIw6Yiw4RdMo2lteKLSj15PRchPuiPnDR7MBCRyZhq8udnA=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/117243263671249531164/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tVM05UZDBhMWhaTWpSWVFVbEpNbmhsY1VGdGFsRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tVM05UZDBhMWhaTWpSWVFVbEpNbmhsY1VGdGFsRRAB!2m1!1s0x4876058ac5a36f09:0x199642580f55cdc9",
+            "name": "places/ChIJCW-jxYoFdkgRyc1VD1hClhk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tVM05UZDBhMWhaTWpSWVFVbEpNbmhsY1VGdGFsRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Friends recommended this place for its burgers, but it wasn’t really for me. The burgers were small and didn’t live up to the hype. Fries were decent, but the burgers could use more substance. Maybe that’s just their style, but it left me wanting more. Still, it works for a quick bite, just not for anyone truly hungry."
+            },
+            "publishTime": "2025-09-02T09:42:52.465396796Z",
+            "rating": 3,
+            "relativePublishTimeDescription": "3 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Friends recommended this place for its burgers, but it wasn’t really for me. The burgers were small and didn’t live up to the hype. Fries were decent, but the burgers could use more substance. Maybe that’s just their style, but it left me wanting more. Still, it works for a quick bite, just not for anyone truly hungry."
+            }
+        }
+    ],
+    "servesBeer": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "shortFormattedAddress": "Short's Gardens, London",
+    "takeout": true,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "hamburger_restaurant",
+        "american_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 298,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.51558763029149,
+            "longitude": -0.12468021970849798
+        },
+        "low": {
+            "latitude": 51.5128896697085,
+            "longitude": -0.12737818029150202
+        }
+    },
+    "websiteUri": "https://www.bleecker.co.uk/locations/seven-dials-market/",
+    "timestamp": 1765447200
+}

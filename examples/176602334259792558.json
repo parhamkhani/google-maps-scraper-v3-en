@@ -1,0 +1,300 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "136",
+            "shortText": "136",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Long Acre",
+            "shortText": "Long Acre",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2E 9AD",
+            "shortText": "WC2E 9AD",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "St Martin's Courtyard"
+                },
+                "name": "places/ChIJ0YfiAc0EdkgRoKYIH7344ZA",
+                "placeId": "ChIJ0YfiAc0EdkgRoKYIH7344ZA"
+            },
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJs4GOh8sEdkgRRiBFZKMP8ZE",
+                "placeId": "ChIJs4GOh8sEdkgRRiBFZKMP8ZE"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "TK Maxx"
+                },
+                "name": "places/ChIJkxhCVcwEdkgRPpPtDDaXqbM",
+                "placeId": "ChIJkxhCVcwEdkgRPpPtDDaXqbM",
+                "straightLineDistanceMeters": 37.3584,
+                "travelDistanceMeters": 85.37239,
+                "types": [
+                    "department_store",
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Dishoom Covent Garden"
+                },
+                "name": "places/ChIJxZXYx7cEdkgRdgAOZ6OHOJw",
+                "placeId": "ChIJxZXYx7cEdkgRdgAOZ6OHOJw",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 53.422657,
+                "travelDistanceMeters": 135.72105,
+                "types": [
+                    "bar",
+                    "cafe",
+                    "establishment",
+                    "food",
+                    "meal_takeaway",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The White Company"
+                },
+                "name": "places/ChIJIztg4swEdkgRiYHNvpgonGk",
+                "placeId": "ChIJIztg4swEdkgRiYHNvpgonGk",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 40.033573,
+                "travelDistanceMeters": 27.211363,
+                "types": [
+                    "department_store",
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Bill's Covent Garden Restaurant"
+                },
+                "name": "places/ChIJxe02As0EdkgRZeOhNiEbtt8",
+                "placeId": "ChIJxe02As0EdkgRZeOhNiEbtt8",
+                "straightLineDistanceMeters": 46.89801,
+                "travelDistanceMeters": 109.102745,
+                "types": [
+                    "cafe",
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJQR9pg8sEdkgRKeWNNYlDdPU",
+                "placeId": "ChIJQR9pg8sEdkgRKeWNNYlDdPU",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 235.91313,
+                "travelDistanceMeters": 173.03613,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "shopping_mall"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "curbsidePickup": false,
+    "delivery": false,
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Dim Sum Library"
+    },
+    "formattedAddress": "136 Long Acre, London WC2E 9AD, UK",
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x4876051c2e94cbfd:0x2736ae3280f4aae!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x4876051c2e94cbfd:0x2736ae3280f4aae!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=176602334259792558&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x4876051c2e94cbfd:0x2736ae3280f4aae!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x4876051c2e94cbfd:0x2736ae3280f4aae!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=176602334259792558&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJ_cuULhwFdkgRrkoPKONqcwI",
+    "internationalPhoneNumber": "+44 20 3953 6820",
+    "location": {
+        "latitude": 51.512274700000006,
+        "longitude": -0.1262762
+    },
+    "name": "places/ChIJ_cuULhwFdkgRrkoPKONqcwI",
+    "nationalPhoneNumber": "020 3953 6820",
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Dim Sum Library",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJP9A_ZMcfXKwy4Y_Y4IJs7wGx_P9J7x2j_9qBXSuCUvoFygw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113117629200531239581"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOQI8T9HtDKGFhHCs9o6WYQkl_Q-_ki6YytChR4&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOQI8T9HtDKGFhHCs9o6WYQkl_Q-_ki6YytChR4!2e10!4m2!3m1!1s0x4876051c2e94cbfd:0x2736ae3280f4aae",
+            "heightPx": 3199,
+            "name": "places/ChIJ_cuULhwFdkgRrkoPKONqcwI/photos/AWn5SU6Zv1SMdJMuNrV3lWPOh0TTZOvEcDoUaWmmroTkTpNkajI7uY4nWGFH4Jrl-owMRPisVb1nvc9wnwzRqmb31w00Lk0QR4dd-Hqb2W6x-xhpij6YvynE-dZRTA3h7PVVJKWgD3xQgAo_sXcKmuwslIY30RvYb-9A4WsOqnZPXsHfmYsgeV8-km_ar6z2dBbnjsJ0lE4zX_CBwrjeVGrAo4eTkquvwCZwFG80UH6xDzjJqkJivXY-AzYNrCrsGFQteKtyEewYucCtHDxnf6dvThId4sKWn-ChG9zJGA56aHw3zQ",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Dim Sum Library",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJP9A_ZMcfXKwy4Y_Y4IJs7wGx_P9J7x2j_9qBXSuCUvoFygw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113117629200531239581"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOA1wfPzPiYfepj3lPNzHt3KcycLUkp9RLBRCLk&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOA1wfPzPiYfepj3lPNzHt3KcycLUkp9RLBRCLk!2e10!4m2!3m1!1s0x4876051c2e94cbfd:0x2736ae3280f4aae",
+            "heightPx": 3200,
+            "name": "places/ChIJ_cuULhwFdkgRrkoPKONqcwI/photos/AWn5SU7UwGTNaztUw6Iuj2fcIqYJc_51BbnAPvkmLjv0j9nR-lZTY5_1vg9guPE9Nj5KcBFl2CT5oT2TmvXG9EdmYvsERFGQ9fk082Wgw7t202rMSKkBUtfEacR6vPAN279R0iRWJJimYDXBvX9jQ8LKAbvSE4SMVJYtTRA6x6PoPq0TIIqbcreqidEe679ZlISzIPd1nVxe5R7EnlB5Js6tRa0FYunXdbPcPwVnBWX88-76TRt3WTK6P9cMJbFH8pUYRKc4aC4N8hIaTVlSdnmJk-WVgAIZ9FPhZzfqinRpXNut4A",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Dim Sum Library",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJP9A_ZMcfXKwy4Y_Y4IJs7wGx_P9J7x2j_9qBXSuCUvoFygw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113117629200531239581"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOvDkJGxU2h3ai9DDzeWNZb-hiq7DEnq_-ekYqv&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOvDkJGxU2h3ai9DDzeWNZb-hiq7DEnq_-ekYqv!2e10!4m2!3m1!1s0x4876051c2e94cbfd:0x2736ae3280f4aae",
+            "heightPx": 3199,
+            "name": "places/ChIJ_cuULhwFdkgRrkoPKONqcwI/photos/AWn5SU5_mOXEng52jc0Kj-7HP8Yn9l_kioEsLvbFyra8pgLKvj4RoIy2XyH_zcNBZi2L2IGZIvpPb0ggy0feJEN8wynY8JBx0AE28uTd7HDCKRL_u7EqGICl_qEOkckbPs34nbFc-yxhZHYcybOySGQysY8PUt6HFxEsqFhBEckuQfcmi-T2GmAoJOflS2FcDFzcM5ONTmUODQhMHQ67PUB4p18UxhMlbfLgI_rdW74GOD-o8Lfh9zikoSSqWhFW3f7b4HJs3OUG-el6-gpvpPxA6K22591JmvYoHU0G2t6BTW-RAg",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Dim Sum Library",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJP9A_ZMcfXKwy4Y_Y4IJs7wGx_P9J7x2j_9qBXSuCUvoFygw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113117629200531239581"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM9uF-lkCkNqmcC5EBGikLr5TugW3jvhRGFZxTv&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM9uF-lkCkNqmcC5EBGikLr5TugW3jvhRGFZxTv!2e10!4m2!3m1!1s0x4876051c2e94cbfd:0x2736ae3280f4aae",
+            "heightPx": 4800,
+            "name": "places/ChIJ_cuULhwFdkgRrkoPKONqcwI/photos/AWn5SU7_22iT6_R6XTGodEY7giIpquGnJajU261UEH6n_fXZL4WV3sG5aoXK02pi9xo9fepmu00NwQvftBirmJW-12YthH0b_s8KmJJdisdKlt7iV30UMJzmT_ETL1C6zcZ75hNTNrf7rtPoCAGzunoW6TZLFxV8aWgLGIL2WaoXo7_SyfypTXSct-_ftnd2VqeWEdxnd3jW17Couik2cIKX86EV0e6bXAxlQz4Xs5VcdEdS4EH6rdMYJE0GTo5kxBaAfdyVkZ6InnXQRf8aQKunatNAmbgrq4oi4VsAsIfUYmK7Dg",
+            "widthPx": 3199
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV6F+WF London, UK",
+        "globalCode": "9C3XGV6F+WF"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "136 Long Acre"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2E 9AD",
+        "regionCode": "GB"
+    },
+    "primaryType": "restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Restaurant"
+    },
+    "shortFormattedAddress": "136 Long Acre, London",
+    "takeout": false,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.513604230291506,
+            "longitude": -0.12477381970849798
+        },
+        "low": {
+            "latitude": 51.51090626970851,
+            "longitude": -0.12747178029150202
+        }
+    },
+    "websiteUri": "https://dimsumlibrary.co.uk/",
+    "timestamp": 1764064800
+}

@@ -1,0 +1,902 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleSeating": true
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "49",
+            "shortText": "49",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Lincoln's Inn Fields",
+            "shortText": "Lincoln's Inn Fields",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2A 3PF",
+            "shortText": "WC2A 3PF",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "London School of Economics and Political Science"
+                },
+                "name": "places/ChIJWwWza3sadkgRxTUj6ptmfRA",
+                "placeId": "ChIJWwWza3sadkgRxTUj6ptmfRA"
+            },
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Holborn"
+                },
+                "name": "places/ChIJA7_adjUbdkgR_XPGaE3twAI",
+                "placeId": "ChIJA7_adjUbdkgR_XPGaE3twAI"
+            },
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Parking lot"
+                },
+                "name": "places/ChIJ55AFrEobdkgRkR9rVNJMnkc",
+                "placeId": "ChIJ55AFrEobdkgRkR9rVNJMnkc"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "London School of Economics and Political Science"
+                },
+                "name": "places/ChIJWwWza3sadkgR77gsD5ccs70",
+                "placeId": "ChIJWwWza3sadkgR77gsD5ccs70",
+                "spatialRelationship": "WITHIN",
+                "straightLineDistanceMeters": 110.655266,
+                "travelDistanceMeters": 10.988607,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "university"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The Honourable Society of Lincoln's Inn"
+                },
+                "name": "places/ChIJ2WpivUobdkgR31P_J_jBYkg",
+                "placeId": "ChIJ2WpivUobdkgR31P_J_jBYkg",
+                "spatialRelationship": "BESIDE",
+                "straightLineDistanceMeters": 311.1226,
+                "travelDistanceMeters": 16.26517,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Cheng Kin Ku Building"
+                },
+                "name": "places/ChIJj0LyUTUbdkgR_CUAuFw9p5Y",
+                "placeId": "ChIJj0LyUTUbdkgR_CUAuFw9p5Y",
+                "straightLineDistanceMeters": 39.71312,
+                "travelDistanceMeters": 95.13032,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "university"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "LSE 20 Kingsway"
+                },
+                "name": "places/ChIJgSbSDu4FdkgRB6SBZg-MDZo",
+                "placeId": "ChIJgSbSDu4FdkgRB6SBZg-MDZo",
+                "straightLineDistanceMeters": 107.36061,
+                "travelDistanceMeters": 125.88192,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "university"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Royal College of Surgeons of England"
+                },
+                "name": "places/ChIJoZX1yUobdkgRMfx7uNG6Nuo",
+                "placeId": "ChIJoZX1yUobdkgRMfx7uNG6Nuo",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 112.41565,
+                "travelDistanceMeters": 150.09204,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "university"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "containingPlaces": [
+        {
+            "id": "ChIJWwWza3sadkgR77gsD5ccs70",
+            "name": "places/ChIJWwWza3sadkgR77gsD5ccs70"
+        }
+    ],
+    "curbsidePickup": false,
+    "currentOpeningHours": {
+        "nextCloseTime": "2025-12-11T22:00:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 15,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 15,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 10,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 16,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 16,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 10,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 17,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 17,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 10,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 10,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 10,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 10:00 AM – 10:00 PM",
+            "Tuesday: 10:00 AM – 10:00 PM",
+            "Wednesday: 10:00 AM – 10:00 PM",
+            "Thursday: 10:00 AM – 10:00 PM",
+            "Friday: 10:00 AM – 10:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "currentSecondaryOpeningHours": [
+        {
+            "nextCloseTime": "2025-12-11T12:00:00Z",
+            "openNow": true,
+            "periods": [
+                {
+                    "close": {
+                        "date": {
+                            "day": 16,
+                            "month": 12,
+                            "year": 2025
+                        },
+                        "day": 2,
+                        "hour": 12,
+                        "minute": 0
+                    },
+                    "open": {
+                        "date": {
+                            "day": 16,
+                            "month": 12,
+                            "year": 2025
+                        },
+                        "day": 2,
+                        "hour": 9,
+                        "minute": 30
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 17,
+                            "month": 12,
+                            "year": 2025
+                        },
+                        "day": 3,
+                        "hour": 12,
+                        "minute": 0
+                    },
+                    "open": {
+                        "date": {
+                            "day": 17,
+                            "month": 12,
+                            "year": 2025
+                        },
+                        "day": 3,
+                        "hour": 9,
+                        "minute": 30
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 11,
+                            "month": 12,
+                            "year": 2025
+                        },
+                        "day": 4,
+                        "hour": 12,
+                        "minute": 0
+                    },
+                    "open": {
+                        "date": {
+                            "day": 11,
+                            "month": 12,
+                            "year": 2025
+                        },
+                        "day": 4,
+                        "hour": 9,
+                        "minute": 30
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 12,
+                            "month": 12,
+                            "year": 2025
+                        },
+                        "day": 5,
+                        "hour": 12,
+                        "minute": 0
+                    },
+                    "open": {
+                        "date": {
+                            "day": 12,
+                            "month": 12,
+                            "year": 2025
+                        },
+                        "day": 5,
+                        "hour": 9,
+                        "minute": 30
+                    }
+                }
+            ],
+            "secondaryHoursType": "BRUNCH",
+            "weekdayDescriptions": [
+                "Monday: Closed",
+                "Tuesday: 9:30 AM – 12:00 PM",
+                "Wednesday: 9:30 AM – 12:00 PM",
+                "Thursday: 9:30 AM – 12:00 PM",
+                "Friday: 9:30 AM – 12:00 PM",
+                "Saturday: Closed",
+                "Sunday: Closed"
+            ]
+        }
+    ],
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Coopers"
+    },
+    "editorialSummary": {
+        "languageCode": "en",
+        "text": "Daily changing menu in relaxed atmosphere with unobtrusive decor and large printed artwork on walls."
+    },
+    "formattedAddress": "49 Lincoln's Inn Fields, London WC2A 3PF, UK",
+    "goodForChildren": false,
+    "goodForGroups": true,
+    "goodForWatchingSports": false,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x48761b4aaa979109:0x5b6174595954483!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x48761b4aaa979109:0x5b6174595954483!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=411542003580748931&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x48761b4aaa979109:0x5b6174595954483!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x48761b4aaa979109:0x5b6174595954483!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=411542003580748931&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJCZGXqkobdkgRg0SVlUUXtgU",
+    "internationalPhoneNumber": "+44 20 7242 8624",
+    "liveMusic": false,
+    "location": {
+        "latitude": 51.515167899999994,
+        "longitude": -0.11745000000000001
+    },
+    "menuForChildren": false,
+    "name": "places/ChIJCZGXqkobdkgRg0SVlUUXtgU",
+    "nationalPhoneNumber": "020 7242 8624",
+    "outdoorSeating": false,
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Coopers",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXG5UEXYmZRBGGqbSISGYAffVSl_LpAXZurGpSDvVfBazTT8Q0=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/116584789468100940423"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNnZil-1WP5HnLqD8SbwxpOahWd9_haPnPtVLJ-&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNnZil-1WP5HnLqD8SbwxpOahWd9_haPnPtVLJ-!2e10!4m2!3m1!1s0x48761b4aaa979109:0x5b6174595954483",
+            "heightPx": 3024,
+            "name": "places/ChIJCZGXqkobdkgRg0SVlUUXtgU/photos/AZLasHo71YzzYns5hKzDDM_sBB7Dt-gn0nV3IvlJxW0FQ1WzNkThpHD6Gpbi-6_REGWFNSVGKniZrsWRv4sLR_MUrTOS7ZTpbdqaSMwRTmcnY0jTHbNY8JG9ZB4LiiUDu8Ozpqwsu0ssPsO_eyubQ7qwgZDdYEhP1zMSqxXPNQHNcdFUTYptVHhdXFRxij-DyQDn0i_2KIJ1NLai4FOuIm843WulkDakVTxujabg-YgZcz5qgdSCuecQtUTpneJOmlSf0VenFh6TSqnbb2mSRQVDazQPGH1i40mMSuUpydn3TJt4gw",
+            "widthPx": 4032
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Coopers",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXG5UEXYmZRBGGqbSISGYAffVSl_LpAXZurGpSDvVfBazTT8Q0=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/116584789468100940423"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOm-pbi8Q2sGDNxX6gwMhqiTSGPsKpr6Z_jtpiz&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOm-pbi8Q2sGDNxX6gwMhqiTSGPsKpr6Z_jtpiz!2e10!4m2!3m1!1s0x48761b4aaa979109:0x5b6174595954483",
+            "heightPx": 1080,
+            "name": "places/ChIJCZGXqkobdkgRg0SVlUUXtgU/photos/AZLasHpOZuhL_msbIhV5RvbRGBDEDURxiGlewN1yb1qKuCQ20A81aLd8NeAa32Lwk_DTR-PvzNhKjsQim-QUrLPMcZYLraFFHi9HjmIATmvbAgknistrGpd8wZAnYQTn0_CAfZEsVkLwKJzEZn3aIoOroRODGxPOitMPLBSr1hcyPxQQ9B-vSyx68vhCH4PoAKyG72Gz1_xVyQlCj95A9sUG1OtZMBqlY3DD4EPxcxELSE1HFPIZHPJ0mxBmCYYcn8FDTIUod6nCndjwl2eL0xJGt1O71QQo7uwAT7oc7YBWjPmdWg",
+            "widthPx": 1080
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Coopers",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXG5UEXYmZRBGGqbSISGYAffVSl_LpAXZurGpSDvVfBazTT8Q0=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/116584789468100940423"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMkh7id560SjMgU-y_QRKr6NQLTUYS-1MEGI8gA&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMkh7id560SjMgU-y_QRKr6NQLTUYS-1MEGI8gA!2e10!4m2!3m1!1s0x48761b4aaa979109:0x5b6174595954483",
+            "heightPx": 3201,
+            "name": "places/ChIJCZGXqkobdkgRg0SVlUUXtgU/photos/AZLasHq3IKDuE8eUEryXRwVEaHNFgcF-BPPqAWxFmNepwdkyE-K3vYpF2jkfKqx2LePKW3N0WkuLTJrja5MgaLGaR_-UuTNbm4glXjRXeOl2RP6JU_jMX_Cg-OSpMCIIQKNtjbBpRU706ISh9YKBico71gu9Ym7H5lgj5K_BRAHTMtSusC3sPRqv6jurqRbFCiw-bb1sIbcqAnW-tZ86oEWBjCDmVchk7G5Kzt4iND7ODFAwUamP6Hci47WF_vn_n-T_Y9klPjVMcSUcCHm3kw2f-vievB4M_WJBLvR15yt9B_yXVg",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Coopers",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXG5UEXYmZRBGGqbSISGYAffVSl_LpAXZurGpSDvVfBazTT8Q0=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/116584789468100940423"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM2oLsnO6hjksZvr54XC2pqhUEJI0vzocBUTnBo&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM2oLsnO6hjksZvr54XC2pqhUEJI0vzocBUTnBo!2e10!4m2!3m1!1s0x48761b4aaa979109:0x5b6174595954483",
+            "heightPx": 2366,
+            "name": "places/ChIJCZGXqkobdkgRg0SVlUUXtgU/photos/AZLasHqcMdCYywVQVmsKvdCNvRsFI--fiEu_w3mfZnMUkVv6IkkS8s8rsXFauE-LwITXvlGqPJQOmsyPtPpWFQ0ozuZcP-AqciEvVBSSwIfZWD8aeIidM2zO9pWuaTFYlkBnrIDDyzjJmeyGQXxnH9WNaVPI5wVNcO6pQjoMkCnAGRFqzGmCOooIS0Uows8pnrmEEg6itI6ZMh7kR8-DgNmLiYus2du33UcVlOtNgcEh-8NAqAxzVmQ0cN_PEFb1YXY8XmSD5ovUle-uHCEqOmA7c7u28YX8WESBnLugxqVG3sGP9Q",
+            "widthPx": 2366
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Tangren Feng",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWnr5ENxwMAk0KefYUyeCqIrdnp53mT9FFB4j8pxHTAahZyOzlx=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/100589811011227367825"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDDz5vsjAE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDDz5vsjAE!2e10!4m2!3m1!1s0x48761b4aaa979109:0x5b6174595954483",
+            "heightPx": 3024,
+            "name": "places/ChIJCZGXqkobdkgRg0SVlUUXtgU/photos/AZLasHpgdiBK8YBa4a6pIbDWDfxnQ4YQv1v14PF1zlHMRlwxpW3clYrhQIvI5MUKsSPmlIfMYsVbXKVz5_zKJDFRtZ0fOm6NptJjz1pH1oRIzT1YO3trnT0SNtGqJkV9rYuJCk-2ayK_dUj_oDruOkHio6KQ7e4gUsSwtVVCmlvcSY9Q8RVMPdl8mn8zHOJt5vXv0d-dUTEMYs36_e96qv5wu6lSUzKIuYM1GDw_9YAZYM9iPWzqdQSVZo-vT2sNDn9YGm9DvbLHK5NFdBHHDb000PFjwpH9ymVxWfm9Ce7d_YRxNOUvU41Vp6gTZqV6zE9CLlpmHbqMapHC1yL0XPCSH94ZPa1cMamcOUUr-BYI-hRQPjxf_VrHIQm2fY8FwTu6kejbeXCgGj35CMkReomNd96IrDfLYjXbOJ5Ina17pKzITe7r",
+            "widthPx": 4032
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Coopers",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXG5UEXYmZRBGGqbSISGYAffVSl_LpAXZurGpSDvVfBazTT8Q0=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/116584789468100940423"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMdnVBnhlujuvQv3hisTF6Ys0Su8eOAAV_WTaGo&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMdnVBnhlujuvQv3hisTF6Ys0Su8eOAAV_WTaGo!2e10!4m2!3m1!1s0x48761b4aaa979109:0x5b6174595954483",
+            "heightPx": 1080,
+            "name": "places/ChIJCZGXqkobdkgRg0SVlUUXtgU/photos/AZLasHpP9Ac8KK-Sbz4femcksH28cor7oGksieeROST6i42AgaEKeGcD-XAXoe6tRSOcx2ueXhfZkjj6SGtD6YmtIOaVJ9XALJNQtpC_lY71KsfDzYwNstn7vs0kqAQv9PVPAgP2agEiyrYX78g51LfOBCYGBUFA_sWK45yYlFNKPUZoKB6KgTVwH7fRRvCgQIGBq26Vf1PqlKy0b2YU_IPNAieCuEBL1WGUhUpTE9_2iuU7UXsu7qNqbkJ0sitoBcFtDNRFhD-rZQR74j6cw3yjMqqQMzSP8f4OJHZEGZrCzO00UA",
+            "widthPx": 1080
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Coopers",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXG5UEXYmZRBGGqbSISGYAffVSl_LpAXZurGpSDvVfBazTT8Q0=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/116584789468100940423"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPnHT7gKPfKb8PSUN54Z0kUgjwgsKxNReoN3bn7&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPnHT7gKPfKb8PSUN54Z0kUgjwgsKxNReoN3bn7!2e10!4m2!3m1!1s0x48761b4aaa979109:0x5b6174595954483",
+            "heightPx": 1595,
+            "name": "places/ChIJCZGXqkobdkgRg0SVlUUXtgU/photos/AZLasHoTvxenIes9EMokI3vqNAJ2tEWbK21Q1olyb6Mb8hQ_gExHih0hBnReVC9tR9cDLhQXiG8VQ2zihlnhABeAs3Ng35vgi1Cwvv3XdtsXTnGsxSKe2IPb9a0f6QFsYHA_x3FDK8-_0QMOP7dS8D1EpqAhzou0l-UrHRbkpToO9IjOe8XRbW_TUm2ylIhD-K2W-hGWNqFuZPcoUXlrjO0Px6YaH1zjgN_uovex7r4pGfq8uLT0NwHhL5fm3IRXwwvmXAxMcXwwn_A2AdDYjTAlvRdb9nXzmATxOI1P73ycK9h2Ig",
+            "widthPx": 4030
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Coopers",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXG5UEXYmZRBGGqbSISGYAffVSl_LpAXZurGpSDvVfBazTT8Q0=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/116584789468100940423"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOjekHBgKGEs0_IXzmyhUE0Ln_GAZP9Df1oNSKI&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOjekHBgKGEs0_IXzmyhUE0Ln_GAZP9Df1oNSKI!2e10!4m2!3m1!1s0x48761b4aaa979109:0x5b6174595954483",
+            "heightPx": 1080,
+            "name": "places/ChIJCZGXqkobdkgRg0SVlUUXtgU/photos/AZLasHq7GuM0ku-xnQ51dS9EAghXPoto_zw_6ap0-z1qTfSks907BqC4JgRPxa-CGj5Gmo0UYEiHPKVKikLLIu6lER5nEi3q8UfIe_dGzzby6OsEBJNBaH-QebnUG0UNfnKvx7O7QYQhd_dEoiu7FPud6nC_JtgDfNrk6Q4v3LkOBxPEUpXyrgkrcelckewpA0hV4qKTqKsHqQa8Pqxt1NEC2-ILZRGIrjujrZPgCgwIGlOkwX0I72NZ2Ts7YOnRvRNf8PybFHwM1HCSKgdfNErrAbgaOv0nzgCktRhvbSTvc3-ymw",
+            "widthPx": 1080
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Coopers",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXG5UEXYmZRBGGqbSISGYAffVSl_LpAXZurGpSDvVfBazTT8Q0=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/116584789468100940423"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOsy9ENK7qC6kyEn1cfrsVTuZC7P8Q6TCadSh-J&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOsy9ENK7qC6kyEn1cfrsVTuZC7P8Q6TCadSh-J!2e10!4m2!3m1!1s0x48761b4aaa979109:0x5b6174595954483",
+            "heightPx": 3201,
+            "name": "places/ChIJCZGXqkobdkgRg0SVlUUXtgU/photos/AZLasHpK8ee_RGVoGSCvEEiJEiFa7wTJhxhOkE5UoPxH-t8IAuiE-q4rUmK0oF7eszw1zwQF0eYUvyed3py6msjmrH2xb7zojvH-uSkheja4adYRmNRr9BB8pxrsYK5PyDxheGMd9nlAnGh_qKBBpUL-tZPefc0lA-bPNO796lXysNvDE5yv9ZTw8-eqcRNSIAbkP_MC8WG6thJISv5HizUVvg4CVA4w6MDeOvRmTHBebLrDv2iqRlj2_VEUXW7-FmK1UE6cjt3ZMwRf9wv2vsYdtmAdrZnFmnHykvmXOhk-E8foJQ",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "lilita laure",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXSpz_syoUdbaptzAO887IR763wk9CAuTIgWHtFtf-qtxBxnFk=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113704027456954856287"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICx1LnLjQE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICx1LnLjQE!2e10!4m2!3m1!1s0x48761b4aaa979109:0x5b6174595954483",
+            "heightPx": 3648,
+            "name": "places/ChIJCZGXqkobdkgRg0SVlUUXtgU/photos/AZLasHqKqjVn1mj2rYp97mW8-zRyRss-w0iBMLFZ9OJlSshFEHDP4csvmwrytRk8KFATGwuydVYD4URhYwcMUld92PxlanhlXq9A7LRSsspKJr3SSDZxHsajEIB4Tf4Dg_CSVqWRh5g8c68nrHLr37QgGBcpp1UlwAeVY6idN_7quAJmNb2Lr94QYmIbzNwtCb7gNNF5HR3HbC2LPgIpeZOtBChu8CwSEx0jCC0bfNKtYe5p_H3Tf15ejMvwvNtYDTH0BzXcBObXqGWfT0PInhH9jL-kvE0xHA_hIOKk0zkZP-8_4TR_pMmBYawz4_GUoLTk97Sdrd3RyGoN_KwJ2aYl8UkiCQz7p1_j1z_S2ZjbQ4-Dqc8vnLpjm2WREaB6DQlIplL9n-88faYFT8x2im1QhfjoXi-G3h9b-P9RbTbbBVPWDrAf",
+            "widthPx": 2736
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV8M+32 London, UK",
+        "globalCode": "9C3XGV8M+32"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "49 Lincoln's Inn Fields"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2A 3PF",
+        "regionCode": "GB"
+    },
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "primaryType": "restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Restaurant"
+    },
+    "rating": 4.5,
+    "regularOpeningHours": {
+        "nextCloseTime": "2025-12-11T22:00:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 10,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 10,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 10,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 10,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 10,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 10:00 AM – 10:00 PM",
+            "Tuesday: 10:00 AM – 10:00 PM",
+            "Wednesday: 10:00 AM – 10:00 PM",
+            "Thursday: 10:00 AM – 10:00 PM",
+            "Friday: 10:00 AM – 10:00 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "regularSecondaryOpeningHours": [
+        {
+            "nextCloseTime": "2025-12-11T12:00:00Z",
+            "openNow": true,
+            "periods": [
+                {
+                    "close": {
+                        "day": 2,
+                        "hour": 12,
+                        "minute": 0
+                    },
+                    "open": {
+                        "day": 2,
+                        "hour": 9,
+                        "minute": 30
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "hour": 12,
+                        "minute": 0
+                    },
+                    "open": {
+                        "day": 3,
+                        "hour": 9,
+                        "minute": 30
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "hour": 12,
+                        "minute": 0
+                    },
+                    "open": {
+                        "day": 4,
+                        "hour": 9,
+                        "minute": 30
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "hour": 12,
+                        "minute": 0
+                    },
+                    "open": {
+                        "day": 5,
+                        "hour": 9,
+                        "minute": 30
+                    }
+                }
+            ],
+            "secondaryHoursType": "BRUNCH",
+            "weekdayDescriptions": [
+                "Monday: Closed",
+                "Tuesday: 9:30 AM – 12:00 PM",
+                "Wednesday: 9:30 AM – 12:00 PM",
+                "Thursday: 9:30 AM – 12:00 PM",
+                "Friday: 9:30 AM – 12:00 PM",
+                "Saturday: Closed",
+                "Sunday: Closed"
+            ]
+        }
+    ],
+    "reservable": true,
+    "restroom": true,
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Hesham Emam",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKChOzhO8KEIgXCV8eIUwIgPmbMjOe-gu490waAv4-ZVdm90A=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/109227688192802935050/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pSSldtZFVWbkp3Y21sd2FuSXpZV1V4WTFOSFRXYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSSldtZFVWbkp3Y21sd2FuSXpZV1V4WTFOSFRXYxAB!2m1!1s0x48761b4aaa979109:0x5b6174595954483",
+            "name": "places/ChIJCZGXqkobdkgRg0SVlUUXtgU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSSldtZFVWbkp3Y21sd2FuSXpZV1V4WTFOSFRXYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Had lunch there with a group of colleagues from Faculty of Dental Surgery of the Royal College of Surgeons and throughly enjoyed a three course meal. The service was excellent and the food was tasty. Highly recommended."
+            },
+            "publishTime": "2025-11-06T15:31:46.684337786Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Had lunch there with a group of colleagues from Faculty of Dental Surgery of the Royal College of Surgeons and throughly enjoyed a three course meal. The service was excellent and the food was tasty. Highly recommended."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Carmen C",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK6gVcsAa3zpAI9u3PQUgELiTTf_AHnM3LifUIU4C5hK0ethg=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/107654071884968683087/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNBMjRtVm93RRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNBMjRtVm93RRAB!2m1!1s0x48761b4aaa979109:0x5b6174595954483",
+            "name": "places/ChIJCZGXqkobdkgRg0SVlUUXtgU/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBMjRtVm93RRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Such a wonderful surprise to find this charming little restaurant near LSE! It has a warm and welcoming vibe, making it perfect for both lunch and dinner. The food was absolutely divine, my compliments to the chef! The wine selection was excellent, of course.\nA special thanks to Denise, the star of the evening, whose kindness and attentiveness made us feel truly special. Can’t wait to come back!"
+            },
+            "publishTime": "2025-02-04T15:54:02.238473Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "10 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Such a wonderful surprise to find this charming little restaurant near LSE! It has a warm and welcoming vibe, making it perfect for both lunch and dinner. The food was absolutely divine, my compliments to the chef! The wine selection was excellent, of course.\nA special thanks to Denise, the star of the evening, whose kindness and attentiveness made us feel truly special. Can’t wait to come back!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Vali Alex",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXpUzFHs2Uctc5wSAQrP2Orm4-3chKGDbn0C1BsMHtI6nkPPcEL=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/108371431552200332320/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUM1OTRLSTl3RRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM1OTRLSTl3RRAB!2m1!1s0x48761b4aaa979109:0x5b6174595954483",
+            "name": "places/ChIJCZGXqkobdkgRg0SVlUUXtgU/reviews/ChdDSUhNMG9nS0VJQ0FnSUM1OTRLSTl3RRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "My friends and I had the most delightful dining experience at Coopers restaurant last Friday. From the moment we stepped in, the ambiance was warm and inviting. We were particularly impressed with the expertise of the chef, evident in every bite.\n\nWhat truly elevated our evening was the exceptional service provided by Denise. Her attentiveness and friendly demeanor made the entire dining experience unforgettable.\n\nI highly recommend Coopers restaurant to anyone seeking a culinary adventure paired with impeccable service!"
+            },
+            "publishTime": "2023-10-17T21:35:03.274555Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 years ago",
+            "text": {
+                "languageCode": "en",
+                "text": "My friends and I had the most delightful dining experience at Coopers restaurant last Friday. From the moment we stepped in, the ambiance was warm and inviting. We were particularly impressed with the expertise of the chef, evident in every bite.\n\nWhat truly elevated our evening was the exceptional service provided by Denise. Her attentiveness and friendly demeanor made the entire dining experience unforgettable.\n\nI highly recommend Coopers restaurant to anyone seeking a culinary adventure paired with impeccable service!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Mo Belal",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLxPGUWfJP1MyFDbBhnf_5srl55QF4uJxcEcw03vu4gf7IXCA=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/114215392113415343879/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURfejVmOF9RRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURfejVmOF9RRRAB!2m1!1s0x48761b4aaa979109:0x5b6174595954483",
+            "name": "places/ChIJCZGXqkobdkgRg0SVlUUXtgU/reviews/ChdDSUhNMG9nS0VJQ0FnSURfejVmOF9RRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Great location next to LSE and Royal College of Surgeons.Food was excellent, easily accessible for wheelchair users. Service was good. Worth a visit"
+            },
+            "publishTime": "2025-01-28T07:12:47.177097Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "10 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Great location next to LSE and Royal College of Surgeons.Food was excellent, easily accessible for wheelchair users. Service was good. Worth a visit"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Vanessa Freimuth",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJAiJ1zLmgxHH6tIBpsyR2EOJdbt-LGAoHq7pGhdDYvtAc-rms=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/105145729435729537830/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQzZ29HR01BEAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQzZ29HR01BEAE!2m1!1s0x48761b4aaa979109:0x5b6174595954483",
+            "name": "places/ChIJCZGXqkobdkgRg0SVlUUXtgU/reviews/ChZDSUhNMG9nS0VJQ0FnSUQzZ29HR01BEAE",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Had the pleasure of dinning in coopers on Tuesday the 12th of November. WOW what can I say the food was excellent as was the service. Dee and her team made our party feel so welcome. With the lovely Christmas decorations and Dees fabulous sparkly jacket what a way to start off the Christmas celebrations. Thank you to all the amazing team at Coopers. Vanessa Freimuth."
+            },
+            "publishTime": "2024-11-13T10:45:40.068340Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a year ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Had the pleasure of dinning in coopers on Tuesday the 12th of November. WOW what can I say the food was excellent as was the service. Dee and her team made our party feel so welcome. With the lovely Christmas decorations and Dees fabulous sparkly jacket what a way to start off the Christmas celebrations. Thank you to all the amazing team at Coopers. Vanessa Freimuth."
+            }
+        }
+    ],
+    "servesBeer": true,
+    "servesBrunch": true,
+    "servesCocktails": true,
+    "servesCoffee": true,
+    "servesDessert": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "servesWine": true,
+    "shortFormattedAddress": "50 Lincoln’s Inn Fields, 49 Lincoln's Inn Fields, London",
+    "takeout": true,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "restaurant",
+        "bar",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 128,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.5165376302915,
+            "longitude": -0.11615461970849798
+        },
+        "low": {
+            "latitude": 51.5138396697085,
+            "longitude": -0.11885258029150203
+        }
+    },
+    "websiteUri": "https://www.coopersrestaurant.co.uk/",
+    "timestamp": 1765447200
+}

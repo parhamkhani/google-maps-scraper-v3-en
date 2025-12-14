@@ -1,0 +1,828 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleParking": false,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": true
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "10",
+            "shortText": "10",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Irving Street",
+            "shortText": "Irving St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2H 7AT",
+            "shortText": "WC2H 7AT",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Leicester Square"
+                },
+                "name": "places/ChIJoQ6SENIEdkgR2KECVj0PBdY",
+                "placeId": "ChIJoQ6SENIEdkgR2KECVj0PBdY"
+            },
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The National Gallery"
+                },
+                "name": "places/ChIJGzUABc4EdkgRkmmrVTDDnUw",
+                "placeId": "ChIJGzUABc4EdkgRkmmrVTDDnUw"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJs4GOh8sEdkgRRiBFZKMP8ZE",
+                "placeId": "ChIJs4GOh8sEdkgRRiBFZKMP8ZE"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Trafalgar Square"
+                },
+                "name": "places/ChIJH-tBOc4EdkgRJ8aJ8P1CUxo",
+                "placeId": "ChIJH-tBOc4EdkgRJ8aJ8P1CUxo",
+                "straightLineDistanceMeters": 214.2809,
+                "travelDistanceMeters": 192.38586,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The National Gallery"
+                },
+                "name": "places/ChIJeclqF84EdkgRtKAjTmWFr0I",
+                "placeId": "ChIJeclqF84EdkgRtKAjTmWFr0I",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 114.061775,
+                "travelDistanceMeters": 113.86983,
+                "types": [
+                    "art_gallery",
+                    "establishment",
+                    "museum",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "National Portrait Gallery"
+                },
+                "name": "places/ChIJeclqF84EdkgRYkL4mtJ7rLM",
+                "placeId": "ChIJeclqF84EdkgRYkL4mtJ7rLM",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 64.25539,
+                "travelDistanceMeters": 70.77659,
+                "types": [
+                    "art_gallery",
+                    "establishment",
+                    "museum",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Garrick Theatre"
+                },
+                "name": "places/ChIJN77A4M0EdkgRD3ewQ-zgDyA",
+                "placeId": "ChIJN77A4M0EdkgRD3ewQ-zgDyA",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 44.489788,
+                "travelDistanceMeters": 56.465725,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Maharaja of India"
+                },
+                "name": "places/ChIJS_aY-s0EdkgRbxbEVrlil9k",
+                "placeId": "ChIJS_aY-s0EdkgRbxbEVrlil9k",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 43.398632,
+                "travelDistanceMeters": 48.029255,
+                "types": [
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "currentOpeningHours": {
+        "nextOpenTime": "2025-12-11T11:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 14,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 14,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 15,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 15,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 16,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 16,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 17,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 17,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 11,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 11:00 AM – 10:00 PM",
+            "Tuesday: 11:00 AM – 10:00 PM",
+            "Wednesday: 11:00 AM – 10:00 PM",
+            "Thursday: 11:00 AM – 10:00 PM",
+            "Friday: 11:00 AM – 11:00 PM",
+            "Saturday: 11:00 AM – 11:00 PM",
+            "Sunday: 11:00 AM – 10:00 PM"
+        ]
+    },
+    "delivery": true,
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Bella Italia - Irving Street"
+    },
+    "editorialSummary": {
+        "languageCode": "en",
+        "text": "Casual restaurant serving Italian pasta, pizza & grill dishes, with a special children's menu."
+    },
+    "formattedAddress": "10 Irving St, London WC2H 7AT, UK",
+    "goodForChildren": true,
+    "goodForGroups": true,
+    "goodForWatchingSports": false,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x487604cdfcea1c99:0x20075fd3df5aca68!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487604cdfcea1c99:0x20075fd3df5aca68!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=2307918697640675944&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487604cdfcea1c99:0x20075fd3df5aca68!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487604cdfcea1c99:0x20075fd3df5aca68!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=2307918697640675944&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJmRzq_M0EdkgRaMpa39NfByA",
+    "internationalPhoneNumber": "+44 20 3004 4193",
+    "liveMusic": false,
+    "location": {
+        "latitude": 51.509992499999996,
+        "longitude": -0.1285535
+    },
+    "menuForChildren": true,
+    "name": "places/ChIJmRzq_M0EdkgRaMpa39NfByA",
+    "nationalPhoneNumber": "020 3004 4193",
+    "outdoorSeating": true,
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Bella Italia - Irving Street",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXm8FqLCCF_7wHoYhvPJBI86GQxt2uAM91wBf5NdoApTCzrWggp=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/102062904475612988329"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMHZ_yWMeZ2ouWqJ2m-zsQIZHeXwNiACFb6kcqk&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMHZ_yWMeZ2ouWqJ2m-zsQIZHeXwNiACFb6kcqk!2e10!4m2!3m1!1s0x487604cdfcea1c99:0x20075fd3df5aca68",
+            "heightPx": 720,
+            "name": "places/ChIJmRzq_M0EdkgRaMpa39NfByA/photos/AZLasHpEOheKG1qgn145D2X2ASAJcIfNwxYdciWGRisxfM7Cv6oMBvDOSujxJ_tJuGgX9VU-qg5NSrJEFn2z21eykL4CW-O8V4voQqzQTUwqfbv5hGLDRncUBoIrdHDDZtMXZ6-whQqa1C4Mr2_p4Rcs9OPn8y5ARJiZDQNLpb7ve4eHNaSt9X3Fk2ZZpCJo20pcIAMO2Hc2fs6nsfL9R8Th-TW4Uc0dg3SvxpoISD4WOBaBwathSStCdFGsJPf709GNbFm-2HbWAGbRw5aNQAX14EMaAV6v0Tk5KM02x2IORvGzJw",
+            "widthPx": 720
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Bella Italia - Irving Street",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXm8FqLCCF_7wHoYhvPJBI86GQxt2uAM91wBf5NdoApTCzrWggp=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/102062904475612988329"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPTyEIIn7yOnne7JptId3gbqcR8WMqD5nEBovHd&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPTyEIIn7yOnne7JptId3gbqcR8WMqD5nEBovHd!2e10!4m2!3m1!1s0x487604cdfcea1c99:0x20075fd3df5aca68",
+            "heightPx": 2001,
+            "name": "places/ChIJmRzq_M0EdkgRaMpa39NfByA/photos/AZLasHpkO5pOjXN6EpNZxiXsascaA08IUWSkFZUjwfEHL9dEeN7MyeY94jgE6QQUivKF762oskEwUL_0ewbHVW0cCHjEjAKXa9pOmA7tVHfYhiuWMKfI13qeOTthBXbEdnXiGsBUHvQvVL3l8SgnFEp6WEkXuked_QhYdSknZj0Kp79PvM-wz1PzHRtns937NubOKU9gRSsQya3jsIVA3_waI-DJzwTwJ4twPCzpV6FOF-ExjjVNJs8OKzG20fxjyWcUNm_XZEPG7rf0QztvKK0Y0lNjNP0t8Ep9sGL76l9SDTnfyA",
+            "widthPx": 3000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Bella Italia - Irving Street",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXm8FqLCCF_7wHoYhvPJBI86GQxt2uAM91wBf5NdoApTCzrWggp=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/102062904475612988329"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMkCp-xL-iIe3WcXNcqOIct22ROLdD8D2Hu8YcH&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMkCp-xL-iIe3WcXNcqOIct22ROLdD8D2Hu8YcH!2e10!4m2!3m1!1s0x487604cdfcea1c99:0x20075fd3df5aca68",
+            "heightPx": 608,
+            "name": "places/ChIJmRzq_M0EdkgRaMpa39NfByA/photos/AZLasHqViHxJnEon_85towvvJVcjvhrLb-_6WgmXXiTHTF7cgCA1d-m4UPtrQ575WISN2qDY0tGo9Htb1iCGY7uMspkSioCti4RyWrXLMk_aBRezkDhrau4So2cqVGX41Pc_gVmBJTNJoqCOsv19upxJTKVB0EO0csHUWEcuF3RJ4VpIYaHyCOmjyz6BpyY0y5SrXHF8C_zCWpcdcvvt2cSEtP34yNGK0zqh3nJZtppNxm96rPywpseSyZykWasDHboz78WTRnaDrfwCDVwOfs4ftrUcV1T7rhzBDK_P1Lj3d1YJUg",
+            "widthPx": 1080
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Aimee Ospiru",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWKP_XjMhzixTM8eEs-NNaUBSZfUmCmtiQ_pT_DQj5xfU5iRv4D=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/107915452599929991664"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAq1xgCq8VaeiMNVKj1On8g&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAq1xgCq8VaeiMNVKj1On8g!2e10!4m2!3m1!1s0x487604cdfcea1c99:0x20075fd3df5aca68",
+            "heightPx": 3024,
+            "name": "places/ChIJmRzq_M0EdkgRaMpa39NfByA/photos/AZLasHp6osEu2zRfJ238dikzZ6vNpWWpa155tSvac78H4EfEfJT5UPWcuX5jffDn9VYreWqt9qAvPvfpqxb4qF4n0LP9wBI2M-TUEwQfJiiWe8E7GItbhTud2sWPMiORnc1DWV7RWBUO8-tv95r_YEJ_uEN0ePjsA0tiUGj6GiH0YCelpNVJVDEf12sTs9hbeiEbwh16LfYQuTyuOaDjhk6FTEeyeE38YuIPcJ_OrQXoJWtHoFEyq1IhZwSawbmsX_TtONgOIVhMwTgeb1_i-cRgTDOexGF00ISi4JZmZTcPbA9lh6WkJyl9TcQzq2ni6hkuSYC98Ou8lpOKOyVcIFSm9PoSDkgpgHn4_-tJy18n0TvmAcChR---qOfwohXcE27ChdXH8fVeng0YD5R2qJL8cNpw_RkcVganlz_PuinrsEhd7Y81tmWY-DkAUNQC2o4X",
+            "widthPx": 4032
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Luci Rodriguez Gonzalez",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIjPx_oMzm0OHEHc-piyyAo-1xIqO1xJ4LFmm560ZOwW29WCQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/112229677611221997062"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhA-GQGCbB8wzvUC9e_YIk8w&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhA-GQGCbB8wzvUC9e_YIk8w!2e10!4m2!3m1!1s0x487604cdfcea1c99:0x20075fd3df5aca68",
+            "heightPx": 4032,
+            "name": "places/ChIJmRzq_M0EdkgRaMpa39NfByA/photos/AZLasHq72DNbNCop6E_22l7glbIelnuK-KbSCYHxQcM7uvOoAkOAjBfei6yAI8nZ8-sL_O_m9ILKNSAViOq6RuDa595RuzlLG6mZzUWCgTyQW3s_2NFaqV2kGcaxqhrSnI6zoDHt6yOnwY5X-4bKWcDMieNlwv8ma7h_6hwHlKi5jSYOPuRFb9TQ1RfkPKdbUWhnrs9V8VK3wZWlMW-a92YWaSBZ5rIS2iXbngiO6YhgiQzURAhDrCxzHZVANhrt3LZqmJa_BlyOcaoChmGelFvrT21Ai-aACv47lelqy_UKkqnpld53BbUcnzhlrfZidHcT2W5w-mLPrKh9iojjSfnJb4lbTkw3_ImAgnx-rZAHi7FtuDnn5WcLnnpJ-SWQ6Yyr-LzY79dc2KRzXlqchV7HlaHMtwOqH8HsML2hiu-KmXCjPp5NTjlmaD9uNEl8AqZl",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Sam Aberman",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWW8LD98tdvZGX2GSpZHvoTTtCKd8qb17YM2nQsTU6mmb_xz9uN7Q=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/111941996399252793572"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAOgT-auYcRyJTn7jl4PKue&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAOgT-auYcRyJTn7jl4PKue!2e10!4m2!3m1!1s0x487604cdfcea1c99:0x20075fd3df5aca68",
+            "heightPx": 2154,
+            "name": "places/ChIJmRzq_M0EdkgRaMpa39NfByA/photos/AZLasHqxhWjZQ3f3uZucIzTaIvWhaTV7J_6lQbvhXMuRRHw4TGg1fcGLaJ_kDSEdRiSJtwtWMI8FdRiBBt6FKQTVKbQJAXHuYLtrbqQTpzcBz1vL4OlY5GqshlEoGias8BEcJ7bH90umYlhkZ4Nq5zB2gDqJXPYRNzxuFMCvnZ1iFiggkLYEWJLHBNOJ9bvjhHQH14Il1mu6KewKIK4LNRpZiFSS6AjKEjj7ea-8A1PivOoY7TrZW_j3SwuWEZzDB2hms2nl6Hm_UXZBTJ6wIO9uQix6k86Bvdyk0yp96wSj4BsIxemGAdR6vjMXu4LAeLJZi8swcGoU_X8cLsrNkRgcBVq6Uvh0uNgNOtMP8bt5SaTXA_mnt7NJ7HHUNaBRzjsy6MKMXvnFLQOUes649oDatLOQU2Oxj0Ply7k1Gs3sd_T3rSw4c5SlYJq0AGdBxjLU",
+            "widthPx": 1979
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Rhys Taylor",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIT_ZSoUrqZKM3f72CsWWnZVqgiqCJVLyoG5jIzzLJBojlDfg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/101775830315329500773"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhB-Hl58MaGPOOL0JtXpKhij&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhB-Hl58MaGPOOL0JtXpKhij!2e10!4m2!3m1!1s0x487604cdfcea1c99:0x20075fd3df5aca68",
+            "heightPx": 4800,
+            "name": "places/ChIJmRzq_M0EdkgRaMpa39NfByA/photos/AZLasHo5OrxrMCCez8htH3I61eF04vVtpqV6fqIR0yAYmbSsCUv0FqTa9pZe92BhPVHRdWgPTBQCuTw8oFAUKDnIoZ0gFiR4orj0FMk1mWWkJAv5y8VAYJs_G_yxjcmINt8ZBdygKQAiT4VjgSSNOWCzw7OpLf5bI31AhSXyD7s9yKRbTz2o3ACrEVJf-i9ZYQGObMKJ0k2nyyxw2DMykkKEy4Evg-dwYt6W97-5cN2a-tq9dNQLr0otEvfStEslYo3ggaSiSjHQP_btMLfdufhF3N0h8yWMuSM3MJMzGXLGo0C8NYp6WphYwopwwSPK5sNp2VO4LN9iJlXpPLAprAMOFk-q6-Rai_urnG5AJw1oLF-5DX5WhK3xEzTDKAATFpYMc_mztUhKpHj4TOT8UhMZnXVNblHKkLbHDvS7efdft2hhp6CZ2fPMdlaz-nQB7IK3",
+            "widthPx": 3600
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "René Müller",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ6PZbEmK8DUoXFc3OiMsBxK_VA-_zqxtSDIX35OLmK6H4kKw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/105034447627087405891"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhC-HuDP1NyQ41ivCWOEv6Ia&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhC-HuDP1NyQ41ivCWOEv6Ia!2e10!4m2!3m1!1s0x487604cdfcea1c99:0x20075fd3df5aca68",
+            "heightPx": 3614,
+            "name": "places/ChIJmRzq_M0EdkgRaMpa39NfByA/photos/AZLasHpTmzqR_cfWy1apnwiTNQgQ3CwZklZmZy2Sya5-K_v9xjUAieWQCrX8WtQtSWvTzl_zsUU0s0DJ0ZwBmYIGJosm_aVkDUpT6606dbVABZsq6z_N8YoBXaHfUF97snSe_WPEYSfyLNY2_9b0Oo1TFY8YtjZSPYOrrii_lIbnkWWo7QtJNP4TwfW-hDxrZB2T8Lj1i9xfgbN6J1oOx1fELQpDOEihsbjWtAqm27TMnCJjXvtwXEOUeF3zvFe9RldMQ05gIdbwzqBqnb6D2LkIvmeqOGc8ZUNoi23UIRQs1cdTlWMD00x3HBj7eWnbYmML0_2VB78QOO2ADZe_lOE-SoV-R2yY6-Oq4oV24AyT-upJDtQR45TSpBKZdG30IikKCyYrc9ZCX9AsZhKqLBSltLTTrsU4YV8unTGeVBFKJScWpW9LcA1BG-TK51JD90CQ",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "笈田浩次",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJoEM1HSP_ETdmHroq1Psk9iQhx56HSVRPUnVcVxOXassCiSA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113298944122552916689"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBEAXTl9C6Fo8IAmFLMWfkQ&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBEAXTl9C6Fo8IAmFLMWfkQ!2e10!4m2!3m1!1s0x487604cdfcea1c99:0x20075fd3df5aca68",
+            "heightPx": 4032,
+            "name": "places/ChIJmRzq_M0EdkgRaMpa39NfByA/photos/AZLasHqdmglkQ5fGYitkUHQTTwdtgNIkD8AZu78e9MG1dtAmFTauY2lgzejVbc3JtCTVjXHkmPjWdNd1drwalHitpNCDiUKkYOCf9c7TijJzrjfSO4T8fQabTqDu6l8vhXrJsN1tES4Djy90_pfCegbv13O8R9aWTRnEvcPlxK7qLTDWj3FR-9qD08j7ZgWgCqXKLNaoq2Yi_AAIoguC-8kRdWCMe8pUHFl-8rI5pEkCZxSCZVP_mSaqmR34CxvkYLMcva8v4zU8PrFEH_pIdkfxuN1yxayojPmQok8xlI1XWAZeKvr8WYH8uKXTwqYQo2aLGg2djSU7MoSxwd07z6M5bV1fVxgQS8hwb83fcDTOJFwg5a5Sq6XcFaSBnuPEe92q8OhAOyzHt3bik3eEGJBFLeISxO4bXLtMsu6hgb2-mIVASudvSfTIyBVgvmviI8Wj",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Cee Ess",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWOuip30bWNdFDThI6KK-pStVA1HRnEPXbe_HllsjKLbbL7sy8=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/115682666547758486814"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAqr91PRK2i2a4nHEubrhWG&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAqr91PRK2i2a4nHEubrhWG!2e10!4m2!3m1!1s0x487604cdfcea1c99:0x20075fd3df5aca68",
+            "heightPx": 4000,
+            "name": "places/ChIJmRzq_M0EdkgRaMpa39NfByA/photos/AZLasHpDOp253hUTH2hcKQeuEoECsZwHcK4nKt3WvTgUA0CRV-FdqoNtMGz5XyqpmNbdFISDDHumqiRcwwM9ZZoNyCxKB-wHOez-6DsOClkTVDm7z4QIhLqaRXH6wFwnbcHVESFLOOH4aVqCPM2zPBuASG3nihSXUi_k04YzJ5Sswm9T31dQLV5EcoXTqsIWYClCkxeZXiVt_mdwbDFX-iPK-C0Y5CmUnfFBG2cRvyeY4P8tPWjbAgdltTwYTe8WndgOMeHO-aH-zzWy04K9nOOS0fdvW79hLRlBilz_2RRrM8BdpIs1cYCjPUxd4nh0nZTyzgQaUiTVyYOpS1uGMjXR0Z6Y3uidrJhlmzg--Y750ijuAGa-hw_YOHW5m1wAjTH1EjIb15UEdrt593Ie9j2wmr75UWpMFY_llTfPHngALpLTPnH4ks0lZOnwM1Vn2gln",
+            "widthPx": 3000
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV5C+XH London, UK",
+        "globalCode": "9C3XGV5C+XH"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "10 Irving Street"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2H 7AT",
+        "regionCode": "GB"
+    },
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "priceRange": {
+        "endPrice": {
+            "currencyCode": "GBP",
+            "units": "30"
+        },
+        "startPrice": {
+            "currencyCode": "GBP",
+            "units": "20"
+        }
+    },
+    "primaryType": "restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Restaurant"
+    },
+    "rating": 4.4,
+    "regularOpeningHours": {
+        "nextOpenTime": "2025-12-11T11:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 11,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 11:00 AM – 10:00 PM",
+            "Tuesday: 11:00 AM – 10:00 PM",
+            "Wednesday: 11:00 AM – 10:00 PM",
+            "Thursday: 11:00 AM – 10:00 PM",
+            "Friday: 11:00 AM – 11:00 PM",
+            "Saturday: 11:00 AM – 11:00 PM",
+            "Sunday: 11:00 AM – 10:00 PM"
+        ]
+    },
+    "reservable": true,
+    "restroom": true,
+    "reviewSummary": {
+        "disclosureText": {
+            "languageCode": "en-US",
+            "text": "Summarized with Gemini"
+        },
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=5%401:CAIQACodChtyc19oOjVsdHBPNHhySTVJUjVud2RBclhDNHc%7CCAIQACorChtyc19oOjVsdHBPNHhySTVJUjVud2RBclhDNHcSDAimqt_BBhDu45GaAQ&d=17924085&t=8",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487604cdfcea1c99:0x20075fd3df5aca68!9m1!1b1",
+        "text": {
+            "languageCode": "en-US",
+            "text": "Diners say this Italian restaurant serves up delicious pasta, pizza, and meatballs, with many praising the gluten-free options. They also highlight the friendly and attentive service, particularly from Baba, who consistently receives praise for his exceptional service.\n\nSome reviews mention the carbonara can be bland."
+        }
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Dave Dome",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXDwTLUJwoB0JTRXEgc17Bfojw2hd9hX-qFxVUebu77XIjzA-28=s128-c0x00000000-cc-rp-mo-ba7",
+                "uri": "https://www.google.com/maps/contrib/116908705121880628146/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GVmVucHdiVWwyTm1NMk5tNXNka3RqUTFwYVFrRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GVmVucHdiVWwyTm1NMk5tNXNka3RqUTFwYVFrRRAB!2m1!1s0x487604cdfcea1c99:0x20075fd3df5aca68",
+            "name": "places/ChIJmRzq_M0EdkgRaMpa39NfByA/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GVmVucHdiVWwyTm1NMk5tNXNka3RqUTFwYVFrRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Good Bella Italia with some decent offers of you get the app. Excellent location just off Leicester Square in central London. Has some outside space when the weather is nice, although they cover and heat it in the colder months if you want to see the world go by. Only bottled beer which is fine."
+            },
+            "publishTime": "2025-11-08T10:47:34.980560337Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Good Bella Italia with some decent offers of you get the app. Excellent location just off Leicester Square in central London. Has some outside space when the weather is nice, although they cover and heat it in the colder months if you want to see the world go by. Only bottled beer which is fine."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Aimee Ospiru",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWKP_XjMhzixTM8eEs-NNaUBSZfUmCmtiQ_pT_DQj5xfU5iRv4D=s128-c0x00000000-cc-rp-mo-ba2",
+                "uri": "https://www.google.com/maps/contrib/107915452599929991664/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xsZldVNTZkbEZUWkhwUk9HdE5TRkJUZW1SZlJuYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsZldVNTZkbEZUWkhwUk9HdE5TRkJUZW1SZlJuYxAB!2m1!1s0x487604cdfcea1c99:0x20075fd3df5aca68",
+            "name": "places/ChIJmRzq_M0EdkgRaMpa39NfByA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsZldVNTZkbEZUWkhwUk9HdE5TRkJUZW1SZlJuYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "One of the Best nights out in London. Food Amazing! Service Outstanding! Atmosphere Superb! And lastly Shivani The most wonderful and knowledgeable staff member. Smile and professional from the beginning throughout the entire meal. And she remembered my name and last time I’ve dined with the restaurant. I’ll always come back.\nAimee"
+            },
+            "publishTime": "2025-06-28T20:21:15.056126538Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "5 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "One of the Best nights out in London. Food Amazing! Service Outstanding! Atmosphere Superb! And lastly Shivani The most wonderful and knowledgeable staff member. Smile and professional from the beginning throughout the entire meal. And she remembered my name and last time I’ve dined with the restaurant. I’ll always come back.\nAimee"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "장유민",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK2OEKUdVKBTeJi1QpoB6L1uj10yD0AdV5KV2M52BOJuXCYQw=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/112323607059131648207/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2sxaVZtWkhPVXhRTlhodWMwVkRVemRyZWxwc2EwRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxaVZtWkhPVXhRTlhodWMwVkRVemRyZWxwc2EwRRAB!2m1!1s0x487604cdfcea1c99:0x20075fd3df5aca68",
+            "name": "places/ChIJmRzq_M0EdkgRaMpa39NfByA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxaVZtWkhPVXhRTlhodWMwVkRVemRyZWxwc2EwRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "I just happened to drop by, and the food was excellent. The atmosphere in the outdoor seating area was lovely too! Most importantly, my server, BABA, gave us such wonderfully kind service, which made for a perfect dinner. ☺️"
+            },
+            "publishTime": "2025-10-30T19:44:54.371308248Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "I just happened to drop by, and the food was excellent. The atmosphere in the outdoor seating area was lovely too! Most importantly, my server, BABA, gave us such wonderfully kind service, which made for a perfect dinner. ☺️"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Suppsita",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW_2tTBJ6Uj4eTY1W2rOej6owZCbtRf0XV-w__xvJGaZASG4gR_=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/115994776915170584043/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25SS2FFUnhlbXhXT1ROMVoxUkJWbkV4TXpGNlpHYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SS2FFUnhlbXhXT1ROMVoxUkJWbkV4TXpGNlpHYxAB!2m1!1s0x487604cdfcea1c99:0x20075fd3df5aca68",
+            "name": "places/ChIJmRzq_M0EdkgRaMpa39NfByA/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SS2FFUnhlbXhXT1ROMVoxUkJWbkV4TXpGNlpHYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "10/10, the food was delicious and our waiter Amoodi was a sweetheart. He noticed every detail and provided excellent service. Great atmosphere, great place, and I would definitely repeat the experience. Next time I'm in London, I'll definitely visit again. :)"
+            },
+            "publishTime": "2025-11-28T14:35:02.416675080Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a week ago",
+            "text": {
+                "languageCode": "en",
+                "text": "10/10, the food was delicious and our waiter Amoodi was a sweetheart. He noticed every detail and provided excellent service. Great atmosphere, great place, and I would definitely repeat the experience. Next time I'm in London, I'll definitely visit again. :)"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Rahif Flyhan",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjULgEC1M1CgSCkTMX1cl9t9RU511Vym8q7_aq1LJy7juzwfvS6iKw=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/113309147966458192369/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25WVWMyUktXbDl3Y0VodVlYWjZNbTE1VTNWM2FrRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WVWMyUktXbDl3Y0VodVlYWjZNbTE1VTNWM2FrRRAB!2m1!1s0x487604cdfcea1c99:0x20075fd3df5aca68",
+            "name": "places/ChIJmRzq_M0EdkgRaMpa39NfByA/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WVWMyUktXbDl3Y0VodVlYWjZNbTE1VTNWM2FrRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Loved the food Can’t judge Italian goon too much   , but the service was amazing specially with with full house they where professional and our waiter(Ilaria) was super fast running around sweet and helpful . Specially on a Saturday night .\nAtmosphere noisy but nice ."
+            },
+            "publishTime": "2025-10-11T19:28:24.518584512Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Loved the food Can’t judge Italian goon too much   , but the service was amazing specially with with full house they where professional and our waiter(Ilaria) was super fast running around sweet and helpful . Specially on a Saturday night .\nAtmosphere noisy but nice ."
+            }
+        }
+    ],
+    "servesBeer": true,
+    "servesBreakfast": true,
+    "servesBrunch": true,
+    "servesCocktails": true,
+    "servesCoffee": true,
+    "servesDessert": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "servesVegetarianFood": true,
+    "servesWine": true,
+    "shortFormattedAddress": "10 Irving St, London",
+    "takeout": true,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "restaurant",
+        "night_club",
+        "vegan_restaurant",
+        "vegetarian_restaurant",
+        "italian_restaurant",
+        "bar",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 3035,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.5113179302915,
+            "longitude": -0.12713726970849798
+        },
+        "low": {
+            "latitude": 51.5086199697085,
+            "longitude": -0.129835230291502
+        }
+    },
+    "websiteUri": "https://www.bellaitalia.co.uk/restaurants/london/irving-street/?utm_source=google&utm_medium=organic&utm_campaign=google_lpm_bellaitalia_irvingstreet",
+    "timestamp": 1765447200
+}

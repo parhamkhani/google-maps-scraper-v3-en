@@ -1,0 +1,826 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleParking": false,
+        "wheelchairAccessibleSeating": true
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "4-5",
+            "shortText": "4-5",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Northumberland Avenue",
+            "shortText": "Northumberland Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2N 5BW",
+            "shortText": "WC2N 5BW",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Westminster"
+                },
+                "name": "places/ChIJVbSVrt0EdkgRQH_FO4ZkHc0",
+                "placeId": "ChIJVbSVrt0EdkgRQH_FO4ZkHc0"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "St. James's"
+                },
+                "name": "places/ChIJ3Rj969YEdkgRS6ZZQ5j1Rqo",
+                "placeId": "ChIJ3Rj969YEdkgRS6ZZQ5j1Rqo"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Trafalgar Square"
+                },
+                "name": "places/ChIJH-tBOc4EdkgRJ8aJ8P1CUxo",
+                "placeId": "ChIJH-tBOc4EdkgRJ8aJ8P1CUxo",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 133.27917,
+                "travelDistanceMeters": 95.50479,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Prezzo Italian Restaurant London Northumberland Avenue"
+                },
+                "name": "places/ChIJZf2Jlc4EdkgRv83xDpKQfHA",
+                "placeId": "ChIJZf2Jlc4EdkgRv83xDpKQfHA",
+                "spatialRelationship": "ACROSS_THE_ROAD",
+                "straightLineDistanceMeters": 33.406296,
+                "travelDistanceMeters": 11.533813,
+                "types": [
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "8 Northumberland Avenue"
+                },
+                "name": "places/ChIJYW_iAc8EdkgRzDqMzg1RZKE",
+                "placeId": "ChIJYW_iAc8EdkgRzDqMzg1RZKE",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 55.506493,
+                "travelDistanceMeters": 54.20182,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The Grand"
+                },
+                "name": "places/ChIJ78fbAc8EdkgRWG1dhffz9AY",
+                "placeId": "ChIJ78fbAc8EdkgRWG1dhffz9AY",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 53.709484,
+                "travelDistanceMeters": 57.64406,
+                "types": [
+                    "bar",
+                    "establishment",
+                    "lodging",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "PGIM"
+                },
+                "name": "places/ChIJAzeP-M4EdkgR_ClzzRcU_xw",
+                "placeId": "ChIJAzeP-M4EdkgR_ClzzRcU_xw",
+                "straightLineDistanceMeters": 48.696682,
+                "travelDistanceMeters": 175.77574,
+                "types": [
+                    "establishment",
+                    "finance",
+                    "point_of_interest"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "currentOpeningHours": {
+        "nextCloseTime": "2025-11-17T22:00:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 23,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 23,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 8,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 17,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 17,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 18,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 18,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 19,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 19,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 20,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 20,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 21,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 21,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 22,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 22,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 7,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 7:00 AM – 10:00 PM",
+            "Tuesday: 7:00 AM – 10:00 PM",
+            "Wednesday: 7:00 AM – 10:00 PM",
+            "Thursday: 7:00 AM – 10:00 PM",
+            "Friday: 7:00 AM – 11:00 PM",
+            "Saturday: 7:00 AM – 11:00 PM",
+            "Sunday: 8:00 AM – 10:30 PM"
+        ]
+    },
+    "delivery": true,
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Caffè Concerto Northumberland Avenue"
+    },
+    "editorialSummary": {
+        "languageCode": "en",
+        "text": "Elegant Italian chain with a menu of mains, traditional dishes, salads & baked items."
+    },
+    "formattedAddress": "4-5 Northumberland Ave, London WC2N 5BW, UK",
+    "goodForChildren": true,
+    "goodForGroups": true,
+    "goodForWatchingSports": false,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x487604cf1e380373:0x14213428bf5fe549!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487604cf1e380373:0x14213428bf5fe549!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=1450497904604079433&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487604cf1e380373:0x14213428bf5fe549!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487604cf1e380373:0x14213428bf5fe549!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=1450497904604079433&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJcwM4Hs8EdkgRSeVfvyg0IRQ",
+    "internationalPhoneNumber": "+44 20 7494 6851",
+    "liveMusic": false,
+    "location": {
+        "latitude": 51.5071845,
+        "longitude": -0.12679569999999998
+    },
+    "menuForChildren": true,
+    "name": "places/ChIJcwM4Hs8EdkgRSeVfvyg0IRQ",
+    "nationalPhoneNumber": "020 7494 6851",
+    "outdoorSeating": true,
+    "parkingOptions": {
+        "freeParkingLot": false
+    },
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Caffè Concerto Northumberland Avenue",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXtfXuCXsAHXFM-U6vPdVR3fdTY1imp9Xi6RyIiE46Q5aNsLf-B=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/100076954200205378601"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOM2uKfQN_aqmkTk1essrNclIkIk3vN1v9ok66I&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOM2uKfQN_aqmkTk1essrNclIkIk3vN1v9ok66I!2e10!4m2!3m1!1s0x487604cf1e380373:0x14213428bf5fe549",
+            "heightPx": 3199,
+            "name": "places/ChIJcwM4Hs8EdkgRSeVfvyg0IRQ/photos/AWn5SU7Tmr6VZvCRyc_SYpdvDBMpNf2_2mWPHsFG5bwguZzaREVogjTDtB9eAvi6cl16uF4VMfz8XUwZw-PbhqEkh5cQHIzdzlNOSlTulPJ8I8MxbeuPPcyam1tWnem_Iu4elMXCbBU26lNusOeez_blOZzOwMOZPsX7oJa-ew-aKDqERzGrCf1M3akHMDFm7y7PZFmlSIH41BLdGcTghJO4sXINNwWX0UHmO2qU0hoUVvezTue4_VtQANQlA-FhEA3Kk-118nyQY1rLU60S9u7SwESV2fBhHai01YM3YjRqzT9BIQ",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Caffè Concerto Northumberland Avenue",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXtfXuCXsAHXFM-U6vPdVR3fdTY1imp9Xi6RyIiE46Q5aNsLf-B=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/100076954200205378601"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipP087gDFlMzEXiEI5tatI5gfaFxr7IrpCKlY9P-&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP087gDFlMzEXiEI5tatI5gfaFxr7IrpCKlY9P-!2e10!4m2!3m1!1s0x487604cf1e380373:0x14213428bf5fe549",
+            "heightPx": 953,
+            "name": "places/ChIJcwM4Hs8EdkgRSeVfvyg0IRQ/photos/AWn5SU5qH7X7UcRsiZ50gQEfOhcOQWr5NdhFOP_3GeawmBNcKtx449JtEXFpfBoNH3jEkvQeht_TzUxOAsMcq6UGL6lXiX6OWZlAHP9qEvAxOvFGU3Yat7-4DfmlqeHyEEMARS4F5JXxDl923cc1lhKP_VVLsGaXBOtPJsLJOarc4rOGXiHWVwKjJ3kct0fBdA6iHvG8k8Of4nIoWwFHSJj-V95lMzw5BosLlfWfI4b5fQ1s7nYLoDjVBx57mXbTB3OtEe5uimq8PdBpZXgEVXeSkBXSieDQrhCvs14ZM_6_zE5IoQ",
+            "widthPx": 992
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Natalie Xu",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIM9CUHl5X-9w4emp3TSoGrb5r9fxt3H5sLjB-5pvx5MJjp7za9=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/115131164223387237805"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAGbyw7gyi5Y2ee928ADMKF&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAGbyw7gyi5Y2ee928ADMKF!2e10!4m2!3m1!1s0x487604cf1e380373:0x14213428bf5fe549",
+            "heightPx": 1080,
+            "name": "places/ChIJcwM4Hs8EdkgRSeVfvyg0IRQ/photos/AWn5SU5m8lWlloPBERO3mxr3e1oY-cU6SvXcyvSQUoGme1Sq5tCS4WfZNQKE_ziZM5pmiV6gQCkbdrdTSBWeVTzHbfuQetso1hlZbM6D5_zt31lAvrZxaAU98vTpcrZpn8xvj-Xa5zD3pQptEFcN2_E3Mb37MSH7uAb4vb3kR1c_ikWG4teeFJ93iylNZh95ZDcoaIZ9CRFflcD0MFsJ6ulp070kK57exrYDClpGEntLeEHknBepuEhIeBy9xqzPYvUrJ9gSTefIqok4DwOLa3Jl1y4gJJzKsCAxjSLw5rKJpqtaIepQl7PB8NPXHLVloBJfb7zhUOMeLiXhVnvsMbil9iPNcgYi78ZBREUOq4qnlv5URM06kAgHOS8IUYvW-a2azlW4ZqKcFdgXP-7X5kFTWyIYJu8zCuu2R29hlCwe9tuq1fuGC1yHWh6HXzZKiA",
+            "widthPx": 1434
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Khaled Bazeed",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIPqOVavZNFjTg2nzcZKdYsWfOWmVoUkhsonxKpQmA5PSxT9A=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/108260731522391040082"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICP4rGOMg&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICP4rGOMg!2e10!4m2!3m1!1s0x487604cf1e380373:0x14213428bf5fe549",
+            "heightPx": 3024,
+            "name": "places/ChIJcwM4Hs8EdkgRSeVfvyg0IRQ/photos/AWn5SU6c2euQ8_3PM6a88LEZehiY4qnd51jYpBb5OJhT1W5uS80K6ibtYo9KwcQbGrwhRQ51gDN2ekQxBod39YdPwxHpimkUEw6Vve5VEMXqUyS3-jfdmTSqKyuhJPbbQ-CsGG9IyznjVaqcz0g35AUurTZEHWdHy5GtaEVDAQ678Vb9B8nji1cnJsiGyMkHrgqOHPPsShMztfZNpG89aXnC9bFhFgHvGN7RHvsDJG6UrK_Vl-fNcUBW55o2xMLRALrE9SLB2iMtEbdsCK17FhQp9JjcYoS8QlRMR1b1DL0tPcVh1_XD3VdLmes-c6l01ySVtEoyPIFVFv_D0kTS1q1ymE0uypIICvjLhSxULCPkGt0Oc7k2np-NAH3Tyn7AjvnYa3Cw2Wga64m7ldJPE5_1oXkaqyVMmU-QbGFQC7zKwZNYHw",
+            "widthPx": 4032
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Burak Özkarakaşlı • Gastronaut",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUz3ED1Lt01VjhHujtSqyp9A5dx1fkc3j_VXVz9PQ3KUJVS1sM=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/103986629957793151100"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDIt72ucg&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDIt72ucg!2e10!4m2!3m1!1s0x487604cf1e380373:0x14213428bf5fe549",
+            "heightPx": 4800,
+            "name": "places/ChIJcwM4Hs8EdkgRSeVfvyg0IRQ/photos/AWn5SU7fkqDZvsNUgnuxgfIUZnKsGz_ZEYr5dSKVoqqcvmx4flQkqaWDHkKraAWeV9ujZFEkUFbbQQlVyaCqPOSgdzy0qH0Cqn0B_dlizZIu8-oVd70vxFxWT86FpdA1zkV3yf2ML3_hsFpmBlu5CkQYCG1Rc19THXugLDIAFG6UKqpqBM47DUSIXqS8dmMrpvDhi9Br9qqR9tdboHfnN60L4HDBaqaJID5YYPKSmjgf7B8WKhGLkNFmUh3toAlfQ09s7m5DI7X656gQ1mBNtn7YSZLmJYtsTWEXasC6ndp2Sp-morks2H6J3kLrPFQvGQLygx9Qpodj7IjFtDgjiTqlq_JAWg2SWYFTWDfqvB_4xInoh0by3FVFY_wRwRF9AGy2Zi-6ZddgoV7t9Vt3_lk60n26-76cyeFNCSIpdDKT2Y5Y-A",
+            "widthPx": 3600
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "مامي عبدالله",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXZpYsJmvNLcoSCw3Y5lDBBGeKsCkdQHa2auyz38g_MBpJImihJ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/107662058960889606519"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDHx6ObsgE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDHx6ObsgE!2e10!4m2!3m1!1s0x487604cf1e380373:0x14213428bf5fe549",
+            "heightPx": 4032,
+            "name": "places/ChIJcwM4Hs8EdkgRSeVfvyg0IRQ/photos/AWn5SU7Vw1wM2izGiJ0ohA9vxIc1VTqrKvp8UJdx-27IYK3KC4svsdYCMTnsYOSiBkGxzkiTY68S3M5iSiDdXCDPXZWtrP3Mnqe9w5q_aLBDnAPHNrmd2SQm50o0Nk5o-k0nI_9X61Wvo3ONsz1CcBvXxUwz3hjIFNC3NIp_rADezbwNU8hWuhyM7HkwVEHqWdw1sucAAxzVw5VIHKdK2w3aHLspd52LCQJHWnJlAKZspEEGxFkXvUevsxHD1t6Roc7V54O0BAovE5kUd7BskI8XjdJRW8CpFUtZ0PPKo22aJHAFFYWFJ4lh8b3ce7TffV9y21HkKFaOW-Ce72RsThWt5BYb34L5FhyR49JN4aiyFgrnrZLXD0YTPRuWxcWv9t5USxo6hESVkbKuNxruGt3kNqlUnHAXIt_vOM-u7l6MIK-WuLY",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Mousey Nump",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV3E2OTHudF1kzBHszUNqHVSLxLFT-3hmtas-pXBChL8zoMchU=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/116185945433999574683"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAk5B5YjM9hXF7OwKbny8eN&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAk5B5YjM9hXF7OwKbny8eN!2e10!4m2!3m1!1s0x487604cf1e380373:0x14213428bf5fe549",
+            "heightPx": 1108,
+            "name": "places/ChIJcwM4Hs8EdkgRSeVfvyg0IRQ/photos/AWn5SU5EbBUmSGmTz5CL5Mz59GT8-ciSrXKeZj9Piu453bWbrruwzxhmT6Bm10UPON1Kep3RtNsTHgowK8IOd9pp5zLdMTKLV58UgooD-CzRhD6DHC7Gn5kBxd9DCwTs2Xl3BNF3Uoc76FRrwODVMWtYha3RE4IzgoPLlqT8w1ze1TKOcKW8POCDRqfkgKySfWb3tLE9xm2NKizyyM4qFBmZF4yUuN1QHycO8Pg1sUCKbJxm__b_ZkZk8ZcCILM2hfUeW7UFeYVvO3PQ_R99vm5By9LjgXcqfknxHJHcXvT_reiv-7hAE50ht7_08OELj73U6DR-CIPX00BWKoRDp47PZwVAWH8VeQtrvdhAh6bc8ZDnfZ5FAT9ZPV7f2vCF1zNP_0dx84eTfruD_IEWjrb1d7fzCRoGdrdqVwVnvgPr0iz2H_XfYk-0UL8Ml8TZR1we",
+            "widthPx": 1477
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Juan Oscar Rodiles Delgado",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXyBYqpBp9iJ-OkpLZSzBr0Ch8UjI1s8A1Psx2pn_ikOyLL-m__aQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110518074029815949070"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCowtq_tQE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCowtq_tQE!2e10!4m2!3m1!1s0x487604cf1e380373:0x14213428bf5fe549",
+            "heightPx": 4032,
+            "name": "places/ChIJcwM4Hs8EdkgRSeVfvyg0IRQ/photos/AWn5SU6CTXycNP7Qdulm09P59gCy6xawASwo_vYtLiXh_I0rLjUD-xW2MOtE7kjk8xFeruAJbV6ip-owzjU0MwmohBtFZSnYGmGsL8bfDHlaeV85eDrvgN04lY4ITtG4x6P8_oFyluoRBjzIXpZRjDJfCy8Nf63GUAXOUQCCBJQvGygkCMb-a4t35gXIxGcb65l4tgrzeLuL8hhZXTmlzrqcpLFNJ4Cbm9nuMmw2nOZNieXNssZJ-VdBO0NcYNlXtyLBoQQu0ndOLc8C2XtYtAarF3oWIOS6Uv8soY0GB1-Oqvl2TBYeAOjYHa_Ld-XhCCM0FShLTJJAKkfFpwiOVMTSwakB4R5j24t2D-jEOP5iDwFkf_lvMI30PuvpOfpaeAvLx2UsxaEsr7ND_rpmSpxWVHu2viCWjbU3o9o82hNoGy1L-OQz",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Caffè Concerto Northumberland Avenue",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXtfXuCXsAHXFM-U6vPdVR3fdTY1imp9Xi6RyIiE46Q5aNsLf-B=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/100076954200205378601"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOfcRkzJhb9hVJEuK1iuEPj9-okVDdnuy2Mmz4D&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOfcRkzJhb9hVJEuK1iuEPj9-okVDdnuy2Mmz4D!2e10!4m2!3m1!1s0x487604cf1e380373:0x14213428bf5fe549",
+            "heightPx": 676,
+            "name": "places/ChIJcwM4Hs8EdkgRSeVfvyg0IRQ/photos/AWn5SU4XFRB1ShgFphL7N6HhdJv1Ld_aHusVCYFwf1nn9Ymxl3zv0gsoy8sG9aWrHU4sL-Ze-CwkScvUV9MMMiacZaeNhmASMDC1h59l7CsoMylS_41Yo-nPPk6ty0fpRp4foYj41B0SRTGCtJlE0B0q9t3UNOzV0adju87oqv8ytGA_n9qQL5xDGTKEdkFeMEjd73ZHgDBrzm7H4HtefVQEI-AMjE-QdE24rk_iC4igKnQZWQQqqBxDpDPgfLxM8fA50fbGozdRUdemxW-TJvr_JTydWjqwT4lKl4TwoV4-JYGNJA",
+            "widthPx": 635
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Henric Jacobsson",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLEkiZU89mJxbfTygFAjWgd6Etb1AstJ9KJF5WePXcA36GP7g=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/102842577339168176977"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICd94CQwgE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICd94CQwgE!2e10!4m2!3m1!1s0x487604cf1e380373:0x14213428bf5fe549",
+            "heightPx": 4080,
+            "name": "places/ChIJcwM4Hs8EdkgRSeVfvyg0IRQ/photos/AWn5SU5SLvl96S3cC18WBCqt4dMP9y_IQbwz6X6rKtXv261m6joDPgxiYjOpiDMlNQqrEu5Tf6qDO7OtiT84OyO6KmGxHWbyMLddfk7BRL1UvGgdlCKo-k8XvCVzfIVBSJWLIMolz2Qe1kaALifCQFZ-St01FAhXb2b6qe2PZOf65zJajXl3Y67CLk739gvDcTCRoYIoKUENfqK3UEFllN0IBrS6c_oPJrN8jZjaGIoXDV-dBeJke0x7JcueW6zKOr-Q6kM3h7XczLCX7um8fz-Sv0BWd3HPrzZMi5jeYWnMIkqAMRWCmo4ZwbtcTOFK2JuLnc9dtGiw3yjrDAT5nHzuAqKkC9WjYp5eGQKe444oqeBzr_pr529Iffaq1w0QL92DCKAGbhfU1AQXv00kwO-L73dvl6KTZ9bN8J6VjWVKgh4EsR8",
+            "widthPx": 3072
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV4F+V7 London, UK",
+        "globalCode": "9C3XGV4F+V7"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "4-5 Northumberland Avenue"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2N 5BW",
+        "regionCode": "GB"
+    },
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "priceRange": {
+        "endPrice": {
+            "currencyCode": "GBP",
+            "units": "30"
+        },
+        "startPrice": {
+            "currencyCode": "GBP",
+            "units": "10"
+        }
+    },
+    "primaryType": "italian_restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Italian Restaurant"
+    },
+    "rating": 4.2,
+    "regularOpeningHours": {
+        "nextCloseTime": "2025-11-17T22:00:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 8,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 7,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 7:00 AM – 10:00 PM",
+            "Tuesday: 7:00 AM – 10:00 PM",
+            "Wednesday: 7:00 AM – 10:00 PM",
+            "Thursday: 7:00 AM – 10:00 PM",
+            "Friday: 7:00 AM – 11:00 PM",
+            "Saturday: 7:00 AM – 11:00 PM",
+            "Sunday: 8:00 AM – 10:30 PM"
+        ]
+    },
+    "reservable": true,
+    "restroom": true,
+    "reviewSummary": {
+        "disclosureText": {
+            "languageCode": "en-US",
+            "text": "Summarized with Gemini"
+        },
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=5%401:CAIQACodChtyc19oOmNIWWZGVDB0ZFNSTzVDS3lmbzJXS2c%7CCAIQACorChtyc19oOmNIWWZGVDB0ZFNSTzVDS3lmbzJXS2cSDAi_2OfEBhD44ZHwAg&d=17924085&t=8",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487604cf1e380373:0x14213428bf5fe549!9m1!1b1",
+        "text": {
+            "languageCode": "en-US",
+            "text": "People say this Italian restaurant offers delicious cakes, pastries, and desserts, as well as a variety of breakfast, lunch, and dinner options, including eggs Florentine and pancakes. They also highlight the attentive and friendly service, and the beautiful decor.\n\nOther reviews mention the food can be overpriced."
+        }
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Bubviv",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV8v0_97NoSHXV4Kk8kYGEGYasgN4_T71ZdijAtd0roTIRDMsE=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/112569794878244969381/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s5bVdDMXVZVlJKTjNadlZDMUhVell0WHpkVlgxRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5bVdDMXVZVlJKTjNadlZDMUhVell0WHpkVlgxRRAB!2m1!1s0x487604cf1e380373:0x14213428bf5fe549",
+            "name": "places/ChIJcwM4Hs8EdkgRSeVfvyg0IRQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5bVdDMXVZVlJKTjNadlZDMUhVell0WHpkVlgxRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "A lovely afternoon lunch at this beautiful cafe. It was not busy so we had no issues getting a table with no prior reservation. Service was good. The maitre'd was very attentive and he gave such elegant service; I only regret not getting his name. Food was very good and all the cakes in the display shelf looked so tempting. Menu was extensive and presented well. Will most likely eat here again when we're next in London."
+            },
+            "publishTime": "2025-09-05T12:18:42.800441818Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "A lovely afternoon lunch at this beautiful cafe. It was not busy so we had no issues getting a table with no prior reservation. Service was good. The maitre'd was very attentive and he gave such elegant service; I only regret not getting his name. Food was very good and all the cakes in the display shelf looked so tempting. Menu was extensive and presented well. Will most likely eat here again when we're next in London."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Susu",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJzyR_ZyeMObVUs9or_bvo2ucs3QlIITiiFT_HgzxQtFMor9NVa=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/106125011308031538968/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4cWRFbFFaall4ZW1GSlZWcDNVVmt0YlcwMU1tYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4cWRFbFFaall4ZW1GSlZWcDNVVmt0YlcwMU1tYxAB!2m1!1s0x487604cf1e380373:0x14213428bf5fe549",
+            "name": "places/ChIJcwM4Hs8EdkgRSeVfvyg0IRQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4cWRFbFFaall4ZW1GSlZWcDNVVmt0YlcwMU1tYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Beautiful restaurant and the afternoon tea is different from others ! They have salty ones and sweet ones,can be shared ! And have a service charge ! But to sum up that the price is not overpriced!"
+            },
+            "publishTime": "2025-11-02T17:37:29.714197546Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "2 weeks ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Beautiful restaurant and the afternoon tea is different from others ! They have salty ones and sweet ones,can be shared ! And have a service charge ! But to sum up that the price is not overpriced!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Ruth Hill (Polendulgence)",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX6NypL_eTTyw63W7mRT8R8u13Ah36ZYlos3RCKCNVxsNQfv1w=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/110996882987512278599/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT201dGVqa3haRWR1WlVKTFZGaHlMVzFzTTNvd1RGRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201dGVqa3haRWR1WlVKTFZGaHlMVzFzTTNvd1RGRRAB!2m1!1s0x487604cf1e380373:0x14213428bf5fe549",
+            "name": "places/ChIJcwM4Hs8EdkgRSeVfvyg0IRQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT201dGVqa3haRWR1WlVKTFZGaHlMVzFzTTNvd1RGRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "What an absolutely fabulous coffee shop. The food is delicious. The cakes are divine. And the service is timely and always with a smile. Marryam, our waitress, was also so lovely the whole time. Nothing was too much trouble."
+            },
+            "publishTime": "2025-07-06T22:05:34.146678827Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "4 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "What an absolutely fabulous coffee shop. The food is delicious. The cakes are divine. And the service is timely and always with a smile. Marryam, our waitress, was also so lovely the whole time. Nothing was too much trouble."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Muhammad Arslan",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUiUXadhooug84vhbUsA2h9qdE6Y_eLqvZEJqCzehAPj3XnwCc=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/111464069645497188210/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21vemRrWk5TRzl5YzJwTWVuZHdhMGhNT1ZKMGVFRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21vemRrWk5TRzl5YzJwTWVuZHdhMGhNT1ZKMGVFRRAB!2m1!1s0x487604cf1e380373:0x14213428bf5fe549",
+            "name": "places/ChIJcwM4Hs8EdkgRSeVfvyg0IRQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT21vemRrWk5TRzl5YzJwTWVuZHdhMGhNT1ZKMGVFRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "I recently visited Cafe Concerto and had a wonderful experience. One of the staff members Naheed M was incredibly kind, polite, and professional. Her warm smile and positive attitude truly made my visit special. Staff like her make a real difference and leave a lasting impression.\nCafe Concerto is lucky to have such an amazing team member.\nI’ll definitely be coming back!"
+            },
+            "publishTime": "2025-06-22T18:31:09.347056397Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "4 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "I recently visited Cafe Concerto and had a wonderful experience. One of the staff members Naheed M was incredibly kind, polite, and professional. Her warm smile and positive attitude truly made my visit special. Staff like her make a real difference and leave a lasting impression.\nCafe Concerto is lucky to have such an amazing team member.\nI’ll definitely be coming back!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Stephanne Payne",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX_-2rg1zL09_OqGFX-Hsbp4YaSN0EiqoJYBhf549B-661OxwwZ-w=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/101026625551317139083/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w5dExYQTFaMVpITFc5Mk5rZG9ORXhhZGxCaVVYYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5dExYQTFaMVpITFc5Mk5rZG9ORXhhZGxCaVVYYxAB!2m1!1s0x487604cf1e380373:0x14213428bf5fe549",
+            "name": "places/ChIJcwM4Hs8EdkgRSeVfvyg0IRQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5dExYQTFaMVpITFc5Mk5rZG9ORXhhZGxCaVVYYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Great location by the mall. Stopped for breakfast and the chai latte was flavorful and bold. The energizer breakfast was not only tasty, but gorgeous. Same can be said for my daughter's porridge! Desserts look amazing but its too early for that much sugar!!!"
+            },
+            "publishTime": "2025-08-30T08:49:33.768016648Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Great location by the mall. Stopped for breakfast and the chai latte was flavorful and bold. The energizer breakfast was not only tasty, but gorgeous. Same can be said for my daughter's porridge! Desserts look amazing but its too early for that much sugar!!!"
+            }
+        }
+    ],
+    "servesBeer": true,
+    "servesBreakfast": true,
+    "servesBrunch": true,
+    "servesCocktails": true,
+    "servesCoffee": true,
+    "servesDessert": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "servesVegetarianFood": true,
+    "servesWine": true,
+    "shortFormattedAddress": "4-5 Northumberland Ave, London",
+    "takeout": true,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "italian_restaurant",
+        "vegan_restaurant",
+        "breakfast_restaurant",
+        "cafe",
+        "vegetarian_restaurant",
+        "bakery",
+        "event_venue",
+        "wholesaler",
+        "tea_house",
+        "dessert_shop",
+        "confectionery",
+        "food_store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+    ],
+    "userRatingCount": 3896,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.508574280291505,
+            "longitude": -0.125392819708498
+        },
+        "low": {
+            "latitude": 51.505876319708506,
+            "longitude": -0.12809078029150203
+        }
+    },
+    "websiteUri": "http://www.caffeconcerto.co.uk/",
+    "timestamp": 1763481600
+}

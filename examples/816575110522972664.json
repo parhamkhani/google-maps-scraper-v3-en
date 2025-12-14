@@ -1,0 +1,814 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleParking": false,
+        "wheelchairAccessibleSeating": true
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "3",
+            "shortText": "3",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Caxton Walk",
+            "shortText": "Caxton Walk",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2H 8PW",
+            "shortText": "WC2H 8PW",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The Phoenix Garden"
+                },
+                "name": "places/ChIJwfWkVM0EdkgRBUFiXbuFstA",
+                "placeId": "ChIJwfWkVM0EdkgRBUFiXbuFstA"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Soho"
+                },
+                "name": "places/ChIJm39Ln9QEdkgR0l1-U8xXTuQ",
+                "placeId": "ChIJm39Ln9QEdkgR0l1-U8xXTuQ"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Nisbets Catering Equipment Shaftesbury Avenue Store"
+                },
+                "name": "places/ChIJz0cAXM0EdkgRuyvNH7CspO8",
+                "placeId": "ChIJz0cAXM0EdkgRuyvNH7CspO8",
+                "straightLineDistanceMeters": 32.30719,
+                "travelDistanceMeters": 140.40175,
+                "types": [
+                    "establishment",
+                    "furniture_store",
+                    "home_goods_store",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Palace Theatre"
+                },
+                "name": "places/ChIJYxVJmtIEdkgRSFNK6hLhPvQ",
+                "placeId": "ChIJYxVJmtIEdkgRSFNK6hLhPvQ",
+                "straightLineDistanceMeters": 79.66646,
+                "travelDistanceMeters": 108.82709,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "McDonald's"
+                },
+                "name": "places/ChIJ9emzfs0EdkgRC7CzZ4A4qxk",
+                "placeId": "ChIJ9emzfs0EdkgRC7CzZ4A4qxk",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 23.220657,
+                "travelDistanceMeters": 59.19558,
+                "types": [
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Phoenix Theatre"
+                },
+                "name": "places/ChIJ4VJMr9IEdkgRpNfI8XrkKQk",
+                "placeId": "ChIJ4VJMr9IEdkgRpNfI8XrkKQk",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 70.97308,
+                "travelDistanceMeters": 84.21325,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "TK Maxx"
+                },
+                "name": "places/ChIJC-dXrNIEdkgRRDkHwRzwoeY",
+                "placeId": "ChIJC-dXrNIEdkgRRDkHwRzwoeY",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 101.893936,
+                "travelDistanceMeters": 124.514084,
+                "types": [
+                    "department_store",
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "currentOpeningHours": {
+        "nextOpenTime": "2025-11-25T12:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 – 10:30 PM",
+            "Tuesday: 12:00 – 10:30 PM",
+            "Wednesday: 12:00 – 10:30 PM",
+            "Thursday: 12:00 – 10:30 PM",
+            "Friday: 12:00 – 10:30 PM",
+            "Saturday: 12:00 – 10:30 PM",
+            "Sunday: 12:00 – 10:30 PM"
+        ]
+    },
+    "delivery": true,
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Jamon Jamon Soho"
+    },
+    "editorialSummary": {
+        "languageCode": "en",
+        "text": "Classic tapas, paella & sangria served in a contemporary dining room with wooden tables."
+    },
+    "formattedAddress": "3 Caxton Walk, London WC2H 8PW, UK",
+    "goodForChildren": true,
+    "goodForGroups": true,
+    "goodForWatchingSports": false,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x487604cd3691f6bf:0xb550ebc9325a9f8!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487604cd3691f6bf:0xb550ebc9325a9f8!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=816575110522972664&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487604cd3691f6bf:0xb550ebc9325a9f8!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487604cd3691f6bf:0xb550ebc9325a9f8!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=816575110522972664&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJv_aRNs0EdkgR-Kklk7wOVQs",
+    "internationalPhoneNumber": "+44 20 7836 6969",
+    "liveMusic": false,
+    "location": {
+        "latitude": 51.513878,
+        "longitude": -0.129152
+    },
+    "menuForChildren": false,
+    "name": "places/ChIJv_aRNs0EdkgR-Kklk7wOVQs",
+    "nationalPhoneNumber": "020 7836 6969",
+    "outdoorSeating": true,
+    "parkingOptions": {
+        "freeParkingLot": false,
+        "paidStreetParking": true
+    },
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Jamon Jamon Soho",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV2YsOzFSZvHIw4B4BNAANW1hBs_D4wiZFMBy9e0gofhWrALKOm=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/105825909816444984133"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMjGIBgJHl7um_7JQjsevbxqb8JfQD5vBO4BMhV&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMjGIBgJHl7um_7JQjsevbxqb8JfQD5vBO4BMhV!2e10!4m2!3m1!1s0x487604cd3691f6bf:0xb550ebc9325a9f8",
+            "heightPx": 1080,
+            "name": "places/ChIJv_aRNs0EdkgR-Kklk7wOVQs/photos/AWn5SU54tGXwZh7XTC01zL5nEjQMnn_BpkSuuc4dmunpppFgWCwgbhrZ62MAxDwnxyEmkxi1nSVvBU9i1mF4X8g-93CLWFAqhpctK86lARBAltScJdINQrLtvjk6nLz9II0BvyAeIpQS-FiIQNx2e_kqoTAAdF1xZAmZKPqDPzy_q9RgEtBqy3ihsqK-TGUSOTyMc_6u5hE9Or7s5VaBo0WnEo5JBAo0-WhZ0yRSPKXy3hMT6Cq0I0zxj08UWV8JasIaR7VcP8g4WTImAJ0Svtw2O7YBeYrH5pbZutzTTt9J7FHllw",
+            "widthPx": 1080
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "L Nguyen",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWHomXE5FxL08NF7F4z_wPMyCsGNNyRFPhYOEZzDM5ck-_k-SqT=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/105248555657900265905"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhA8AW6kbhKQdhtubVmggIJd&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhA8AW6kbhKQdhtubVmggIJd!2e10!4m2!3m1!1s0x487604cd3691f6bf:0xb550ebc9325a9f8",
+            "heightPx": 4800,
+            "name": "places/ChIJv_aRNs0EdkgR-Kklk7wOVQs/photos/AWn5SU4DOYE2osodmnwxkVj0IN4KM-K65eOtEmtoQsI0VuFIDgE8jR2tR_sXo3Sakq72Utn7zvf8HEf7X9-88gWme0uXg7wLMEzAg1W017bopRTuZwPuoIjPgmRHw9Y1hWslCcegWjtfSOHrFmZqCnNdrWY8BGaP1297okmJJNq-KstGzJmaL6NcIO3_I_ylGwJqT7Owc7rwXJ1N_5fq6FeNhClQL5ohb1P84lT4XFiCqSAWma6xaPjqeE4vDJMecuCO7lLRAfrXg54GlrI4gNcPoIaYzKFHPozXcvHOqLTIMaTzSeuEwx9z_Fp4WoMHgxKWwqYhd6nO-h7wlEsgt63qp4_rzql7YawKVYMxTQ-uwdK8DG4aoLTA_9csCrNXdlQN7hydNcDFRkYzYTXfjd24BkcTQeMcXLs1_nXQt_dmFO3Wa5h6z7UOwYYx132Dqg",
+            "widthPx": 3600
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Jamon Jamon Soho",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV2YsOzFSZvHIw4B4BNAANW1hBs_D4wiZFMBy9e0gofhWrALKOm=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/105825909816444984133"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMMLMW10KHTBNS5zOEcV0xeLPFqAdrkKxABEBef&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMMLMW10KHTBNS5zOEcV0xeLPFqAdrkKxABEBef!2e10!4m2!3m1!1s0x487604cd3691f6bf:0xb550ebc9325a9f8",
+            "heightPx": 1367,
+            "name": "places/ChIJv_aRNs0EdkgR-Kklk7wOVQs/photos/AWn5SU7I_OoQl10tlRW60_NycrB8lz8Pw2d8dBMb-qEswPEHMjQTNdnYlf725friAFWvcmZxyz841zIX-6e2ss_KmS5ualRQatsKjEaYNHVEaQqjaEt3GXPQsie0Cb3wWNKgfu765ACLETZDVhkHsplIHm62rVuO7wtojgclR00EdhB9jB1zDaGomt_Xw-bhjYOfOId0T054SYm1Iu6FPwn5E-dJNu3RTZXV3GrE4tKBHvu3Qy-icQ9KybqqKlSGnu53FQn70wOxBQFI4jDSx3SXZ8t1QFiO6kI4GF5H97Cxl_fvxg",
+            "widthPx": 2048
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "L Nguyen",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWHomXE5FxL08NF7F4z_wPMyCsGNNyRFPhYOEZzDM5ck-_k-SqT=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/105248555657900265905"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBxQLKVsoxMkmuqAXZIlVa5&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBxQLKVsoxMkmuqAXZIlVa5!2e10!4m2!3m1!1s0x487604cd3691f6bf:0xb550ebc9325a9f8",
+            "heightPx": 4800,
+            "name": "places/ChIJv_aRNs0EdkgR-Kklk7wOVQs/photos/AWn5SU6_JlEUjKlFWr7t7JBHgaEtkm43dN3UOcCV7-zDirT5TaNIa6Xnz12bMh0e1l-T4YcTdS3WLHjyvNMHYJckf-fvfzN59xo02mFPFmLpcPB4GoRLE2wy5uhvq7gY_xMVk5RzQtM1JWVdK_Y_kl86O544ADhxB6sEZzPWb8fMyVcPgUgjjZztQEGQ3naQ3ZQ8x0lshZTBLgs4zb8mgDH6Fb3NLPILbfco6eB6uPqQQHJPxIeHnapCw_XIIQNoFOGiUMcnu3NfC29SKmr9fBY0QvOnuh8BlpfvgGs6Oj7l2V6v1P5LCL4qfcnvpMlgSXlhTFVy-qZrNOVwqpPHZiMM3puFI1zE7PviJiBAgHSNspABCEOkQwZYAT48aquvTMl0Uv7kZQqpTUZtTZ5SEFtIrk1OIRshufFwe_uOoltCF6OMCmZPXpZpYDi5c_iwyQ",
+            "widthPx": 3600
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "L Nguyen",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWHomXE5FxL08NF7F4z_wPMyCsGNNyRFPhYOEZzDM5ck-_k-SqT=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/105248555657900265905"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAJltIimBFgUORO-bof3I7j&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAJltIimBFgUORO-bof3I7j!2e10!4m2!3m1!1s0x487604cd3691f6bf:0xb550ebc9325a9f8",
+            "heightPx": 4800,
+            "name": "places/ChIJv_aRNs0EdkgR-Kklk7wOVQs/photos/AWn5SU6Zd0CHsEaKfrxP0Jb_aikb7kFSY17QsvWtO9uoBZ9F6k4R9LFbwxE7uB4mouh1-FlPdo9B4k3CjOG3fNBu5xSEJvedXXo1RKZrjeKVGHqVQHk8sZvzT3oruL1SDdEZtKlW0YDP1FRcINlfwqOmsIe5Qf-7Ei3J4kocQImDUT57GowFqtYPJ4YSBVr0zGZvctGSVeADq4yf_IoJMvfsB7Q7-6t_ENSw4Uxm5LApQN0sSmDtgOnq_wKGnOIvyxMYds0cCcBMOusox47F2TkWaMDtK45ZCZi-gCt19gqoBEIly5S5Uu39MuZ-IXka2mBfFAdzJNr6YP-aA362eY6F8zCMXfBD9RYthWPqFlsEDB1IEyDNn8bAY94EVlZxDIvyCrMtsflRzeP7VrzcQlJqFDAKKhDrMcY1WLjHxdv6nzMsbeTX_PE8-9R-tDMqIw",
+            "widthPx": 3600
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Jamon Jamon Soho",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV2YsOzFSZvHIw4B4BNAANW1hBs_D4wiZFMBy9e0gofhWrALKOm=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/105825909816444984133"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNOIofhqUZP3lHh3HmeLiR4PfZ2cyz17Yb6jTXb&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNOIofhqUZP3lHh3HmeLiR4PfZ2cyz17Yb6jTXb!2e10!4m2!3m1!1s0x487604cd3691f6bf:0xb550ebc9325a9f8",
+            "heightPx": 869,
+            "name": "places/ChIJv_aRNs0EdkgR-Kklk7wOVQs/photos/AWn5SU5wp8u2PjP6OYejH-hZHoPmJkPNmNUhOyaHVqLya3E5WFEEFeXE1dbLn5vywXy_aTeiCD4ftXSEqj1MS_zdllVlVDO2CwNUMp1KVZSCGXCqtgIZviTHBSP7pbBi-SmOMFDhFqOFlx2wXTM5aDQRcnL3cFLHrthNX4VhNW7p4q1TJz1Zjepq2ZZToieUtGBs3S-GUSRbjN3TmpoOBCyVqEZ9PhY0bgYvyhXcJQTCftdFB8DeYOvpCfcbYe-yCVLIkbdB0hATeGPCOMibVVfZHzcXhkjxzK0BMQU6pjLFbhZr9w",
+            "widthPx": 1159
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "justin smith",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVlXQEHpLILoYZt1JDkbZXLbJmRPPWZ0lEYrlclfE-5094diKM=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/106266840613501179644"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCo0Y6L3AE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCo0Y6L3AE!2e10!4m2!3m1!1s0x487604cd3691f6bf:0xb550ebc9325a9f8",
+            "heightPx": 4032,
+            "name": "places/ChIJv_aRNs0EdkgR-Kklk7wOVQs/photos/AWn5SU4XmfiaQ7zwN222icN6tlBdFZoBAWSDXmi4Ge3RS2tKvXYjME9aT1SGZ2MaTm4Mtsg-gAKHLpgZuwHKswS74bjUr11syixU9oUDBYkYURW2whUm6LgfOSR74DSIv7WlihlFa6C-R0xDcDI-B6-bzG8EQuRM9_dWiAiSBtH4Xwcdqbb_qSSy1nPQnJcmpC23M97WyXfmbfltbc6b1Slp3DD64maCVjXrl-Rr5YN_DpgYkcFcDdPPt-fMOLoVv0U5n0Ku3HOH9gwP45NHeD67jYOtMA1s3s4LKzPQTWjDduFRfEcFz3INAEIwNYiOmD0xytKEBaiqwGvZOI-srWzQ-FPKERruwXc6ELhUZcVvPQysOMoKHSttmv3kI1gCDDSvv0PHC4mPRv1KdWnsDn8tGtvgr3xv67kgQrYhOBIxtQMklR4",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "ángela ruiz barea",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU8T_Mf7NEXnxpiVNPuxzCE1Dmk8XPPOsybWsDZ8T-XkVp4RfS-QA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/114710427757790007934"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAU2kEQ2ZZWu-cMAYlPgDbH&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAU2kEQ2ZZWu-cMAYlPgDbH!2e10!4m2!3m1!1s0x487604cd3691f6bf:0xb550ebc9325a9f8",
+            "heightPx": 4800,
+            "name": "places/ChIJv_aRNs0EdkgR-Kklk7wOVQs/photos/AWn5SU4DVmvjI_iWVKaLwbQVwoEwxnbtvu7wc-cOL9MKsk-I3XGarbAqtOoLsplhLoFcPogU_TLtWoO6f8U4VCIa_kFqSSlfSQ8wPHeIhwHX_9t52zyzCVozx0VHWelcIAOWScDqNk5QmEcBGUoFhhI1UwGoREB-b0yQ9ISTosku-3i2JL7NoZ5EAaibBe8Z02HS-e4L8dekgz11OEh1_zH956Wuvl6FR_0HdFBE-FxjWll07XbWA-I8HS6ONgyXkyyuNbAsb3o0NffbeWPRyMpQIvSUXM3q92Otf7sB10B8PbgF83o7HdCWxXZ2mV1UoXEZEyqe7L6FmE1XNP2b6UEFSHBSEXnzoGeBmqBDXGYBfSy4VCxhJrpSQt42HsptqiouI7GSXzGcJ7--xbJZK5m7YkQPeNJ1J6wltAWqr57yCLw4uxSsHeJIVk377PKsKscT",
+            "widthPx": 3600
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Mara Buñuel",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI2W0Ydq8FC3E0-jHZsKbMmVE0SjTNlPdpL-l19LzgMKOEFtg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/115075905913916962251"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhC5R9XDc4HQRQH4RqzGmLpf&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhC5R9XDc4HQRQH4RqzGmLpf!2e10!4m2!3m1!1s0x487604cd3691f6bf:0xb550ebc9325a9f8",
+            "heightPx": 3024,
+            "name": "places/ChIJv_aRNs0EdkgR-Kklk7wOVQs/photos/AWn5SU6oECJTZv1WIkHroWW0a_rVebix1Kh7ub__TMMPd1f5nkHd1VvRNmxIAe04febpOHfi7-Zv4fz8Zaf5uMJHBrNazZlQPYpAVJi2Q8CNsvIyMiRRBUR2J46Awe36AHIR0j15J8FMGe-Em_kOUVQWCpRCfWJe9xIdIJc0knEgnOJB1a4sbxm8NT7zUbLCZvVRqazXneqxkqqf_NVddSpWMmCUrh1VTGYDLL-rw2Os_6GCcZuDZFeC1s3rqXJtO0p8U22TanSt-UUMBY1aeZsarDuPbHK3A6-1AiwOay1UhGNk4mb-VN0e038L2AQ6_7x-c-CrMZ80T6TdNBDO7K4ZhYSUw9zjfk3z_lWVNsa9QxZVogncCh1P_nAnDZw152xh_CjxwjnR5z6yBnVQnbs-e8YoNEK-98-xAMg1WIraExyMZ49T8OXc5733039oBbxm",
+            "widthPx": 4032
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Teresa Robinson",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU8IzmhJdDsRX7MgMeD8cSrShBKHiwwwx6CojMyXe5EpBcYN87t=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/106666464741343958027"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDOj9CNgwE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDOj9CNgwE!2e10!4m2!3m1!1s0x487604cd3691f6bf:0xb550ebc9325a9f8",
+            "heightPx": 3024,
+            "name": "places/ChIJv_aRNs0EdkgR-Kklk7wOVQs/photos/AWn5SU7cvJ-z2o_bvJnahxUtp1Jd9D20GzPkRuzSonS-zmdpuu5_SaEDGtiFj2lb083DznW_USCYZiapZaDEoNmBAv8CZEiL_-DVzYFTd8ob9HdcoTLzL-IcMW8jLb-4hMH3FNN6NSaslJ2mMmuQ4IpKR-qkjtvCOtjHwHBbJ7o_4QKwN7qIpyinF_hMxiZX2jHk3rKUXufSkYaLQ_aoZxIZRasbDvh7_2Vx1qyyvPz5I4-_40KnT2ZK8frot6Gg7LUJ4-HQMyjHaJfYPeU69YqAuP3zPHYbyRJlwVQJ72xElpQNh4YiWyNxtr-ruy4OeftaqcRe8oi2T7H_AjfyLFsyCnDh-iNnnh_kI1g3jWTM_DoLtA_PSlp8Au-fTl64KEZttWYAvd8gKI3VtdQBMXM5H6r4AWfzWWF8QavlUG9F1IFRGF1T",
+            "widthPx": 4032
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV7C+H8 London, UK",
+        "globalCode": "9C3XGV7C+H8"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "3 Caxton Walk"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2H 8PW",
+        "regionCode": "GB"
+    },
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "priceRange": {
+        "endPrice": {
+            "currencyCode": "GBP",
+            "units": "30"
+        },
+        "startPrice": {
+            "currencyCode": "GBP",
+            "units": "20"
+        }
+    },
+    "primaryType": "spanish_restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Spanish Restaurant"
+    },
+    "rating": 4.1,
+    "regularOpeningHours": {
+        "nextOpenTime": "2025-11-25T12:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 – 10:30 PM",
+            "Tuesday: 12:00 – 10:30 PM",
+            "Wednesday: 12:00 – 10:30 PM",
+            "Thursday: 12:00 – 10:30 PM",
+            "Friday: 12:00 – 10:30 PM",
+            "Saturday: 12:00 – 10:30 PM",
+            "Sunday: 12:00 – 10:30 PM"
+        ]
+    },
+    "reservable": true,
+    "restroom": true,
+    "reviewSummary": {
+        "disclosureText": {
+            "languageCode": "en-US",
+            "text": "Summarized with Gemini"
+        },
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=5%401:CAIQACodChtyc19oOjBsU2tOZkU1emg3V0FWX3VkYklOeUE%7CCAIQACorChtyc19oOjBsU2tOZkU1emg3V0FWX3VkYklOeUESDAi_2OfEBhD44ZHwAg&d=17924085&t=8",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487604cd3691f6bf:0xb550ebc9325a9f8!9m1!1b1",
+        "text": {
+            "languageCode": "en-US",
+            "text": "People say this Spanish restaurant serves delicious seafood paella, patatas bravas, and octopus. They also highlight the generous portions, quick service, and friendly staff.\n\nOther reviews mention the food can be chewy."
+        }
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Bubble Jung",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXgMOQoN-KlLrbSyEex5eYyBQbNTQQEiZGo_MlnsH7jdGwqugBvpA=s128-c0x00000000-cc-rp-mo-ba6",
+                "uri": "https://www.google.com/maps/contrib/104394763864560024419/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25Gb2FIaE1VVk0yZVZGWVgwbExNMUF0Vmw5WGNYYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25Gb2FIaE1VVk0yZVZGWVgwbExNMUF0Vmw5WGNYYxAB!2m1!1s0x487604cd3691f6bf:0xb550ebc9325a9f8",
+            "name": "places/ChIJv_aRNs0EdkgR-Kklk7wOVQs/reviews/Ci9DQUlRQUNvZENodHljRjlvT25Gb2FIaE1VVk0yZVZGWVgwbExNMUF0Vmw5WGNYYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "The food was tasty and just right for my taste buds. Chill atmosphere, not crowded at all, and the prices won’t break the bank. Definitely coming back!"
+            },
+            "publishTime": "2025-08-06T13:44:38.841093177Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "3 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "The food was tasty and just right for my taste buds. Chill atmosphere, not crowded at all, and the prices won’t break the bank. Definitely coming back!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "ángela ruiz barea",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU8T_Mf7NEXnxpiVNPuxzCE1Dmk8XPPOsybWsDZ8T-XkVp4RfS-QA=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/114710427757790007934/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25WSGMyUkhRemhRYVd0WFRFazRVV0Z6YkZveloxRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WSGMyUkhRemhRYVd0WFRFazRVV0Z6YkZveloxRRAB!2m1!1s0x487604cd3691f6bf:0xb550ebc9325a9f8",
+            "name": "places/ChIJv_aRNs0EdkgR-Kklk7wOVQs/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WSGMyUkhRemhRYVd0WFRFazRVV0Z6YkZveloxRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "My family and me were desiring to finally eat spanish traditional dishes, since we’re spanish and this place was absolutely perfect!! The food and the stuff were amazing , and the fresh air in the terrace was marvellous. This has to be one of your places to eat in london for sure!!"
+            },
+            "publishTime": "2025-08-09T15:10:16.867773074Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "3 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "My family and me were desiring to finally eat spanish traditional dishes, since we’re spanish and this place was absolutely perfect!! The food and the stuff were amazing , and the fresh air in the terrace was marvellous. This has to be one of your places to eat in london for sure!!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Michael",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKlSTLQMI2rA07bhLWEzSRDA65ClZF5QXtWh-Ycy7Y2eq-b5-4=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/106008473108900071666/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VLdllxc3U2c2Vhdm13RRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VLdllxc3U2c2Vhdm13RRAB!2m1!1s0x487604cd3691f6bf:0xb550ebc9325a9f8",
+            "name": "places/ChIJv_aRNs0EdkgR-Kklk7wOVQs/reviews/ChdDSUhNMG9nS0VLdllxc3U2c2Vhdm13RRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "This was my friends idea for really good Spainish tapes and it didnt disappoint. We went on a sunday afternoon so it wasnt busy so we were shown to a table straight away by the nice chap at the front. Service was really good and the young ladies were so friendly and helpful.\nWe ordered a selection of different dishes and they were epic and surprisingly filling. They aren't cheap as a dinner but they were so tasty, hot and full of flavour. Definitely recommend. :)\nEven the pudding was amazing. Overall I would definitely recommend to anyone that loves Spanish tapes."
+            },
+            "publishTime": "2025-06-10T16:15:33.662556Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "5 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "This was my friends idea for really good Spainish tapes and it didnt disappoint. We went on a sunday afternoon so it wasnt busy so we were shown to a table straight away by the nice chap at the front. Service was really good and the young ladies were so friendly and helpful.\nWe ordered a selection of different dishes and they were epic and surprisingly filling. They aren't cheap as a dinner but they were so tasty, hot and full of flavour. Definitely recommend. :)\nEven the pudding was amazing. Overall I would definitely recommend to anyone that loves Spanish tapes."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Kyle Johnson",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVVBQ-P_-3V6MdIm1W0s0Ba37tX7NunZDKVdZJadsoFXjMg4Hqs=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/115803059677199937664/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xOUlJ6UkhkbFJxWVVObFRXeHhXVkIxWDFkU05GRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOUlJ6UkhkbFJxWVVObFRXeHhXVkIxWDFkU05GRRAB!2m1!1s0x487604cd3691f6bf:0xb550ebc9325a9f8",
+            "name": "places/ChIJv_aRNs0EdkgR-Kklk7wOVQs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOUlJ6UkhkbFJxWVVObFRXeHhXVkIxWDFkU05GRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Came here on a whim; place was a bit on the quiet side when we went, but in fairness, it was a Monday evening. Either way I hope this place can get some well-deserved love and attention.\n\nOur server, Otto, was extremely friendly, attentive, and professional. The food was phenomenal from the Gazpacho to the Octopus Tapas to the Seafood Paella that I split with a friend. I'm no Paella expert, but we though this meal was fantastic."
+            },
+            "publishTime": "2025-06-16T20:52:44.610980871Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "5 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Came here on a whim; place was a bit on the quiet side when we went, but in fairness, it was a Monday evening. Either way I hope this place can get some well-deserved love and attention.\n\nOur server, Otto, was extremely friendly, attentive, and professional. The food was phenomenal from the Gazpacho to the Octopus Tapas to the Seafood Paella that I split with a friend. I'm no Paella expert, but we though this meal was fantastic."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Nusynasy S",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVVPlEFHZcHZw0Vsv7Tw04Z5plF-RlpZPBOWqiWa7u8mHWJnz8UnA=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/102518171811128092831/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VQLTgxT2pJd01iZjBnRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VQLTgxT2pJd01iZjBnRRAB!2m1!1s0x487604cd3691f6bf:0xb550ebc9325a9f8",
+            "name": "places/ChIJv_aRNs0EdkgR-Kklk7wOVQs/reviews/ChdDSUhNMG9nS0VQLTgxT2pJd01iZjBnRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "This tapas bar was a bit mellow when I have visited. The greeting was very friendly and nice, then nobody asked a thing despite sitting by the bar on a relatively quiet evening. The food was all right just came in strange intervals. I couldn’t have a proper conversation with my partner because of the noisy washing up the plates by the bar. I honestly wanted to give a lower rating, but the waiter was really cute. Must have been new or something."
+            },
+            "publishTime": "2025-05-22T20:29:14.593713Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "6 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "This tapas bar was a bit mellow when I have visited. The greeting was very friendly and nice, then nobody asked a thing despite sitting by the bar on a relatively quiet evening. The food was all right just came in strange intervals. I couldn’t have a proper conversation with my partner because of the noisy washing up the plates by the bar. I honestly wanted to give a lower rating, but the waiter was really cute. Must have been new or something."
+            }
+        }
+    ],
+    "servesBeer": true,
+    "servesCocktails": true,
+    "servesCoffee": true,
+    "servesDessert": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "servesVegetarianFood": true,
+    "servesWine": true,
+    "shortFormattedAddress": "Trentishoe Mansions, 3 Caxton Walk, London",
+    "takeout": true,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "spanish_restaurant",
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+    ],
+    "userRatingCount": 1948,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.5152575802915,
+            "longitude": -0.12796806970849797
+        },
+        "low": {
+            "latitude": 51.5125596197085,
+            "longitude": -0.130666030291502
+        }
+    },
+    "websiteUri": "http://jamonjamonrestaurants.com/",
+    "timestamp": 1764064800
+}

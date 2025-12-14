@@ -1,0 +1,810 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": true
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en",
+            "longText": "Royal Opera House",
+            "shortText": "Royal Opera House",
+            "types": [
+                "premise"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Bow Street",
+            "shortText": "Bow St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2E 9DD",
+            "shortText": "WC2E 9DD",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJs4GOh8sEdkgRRiBFZKMP8ZE",
+                "placeId": "ChIJs4GOh8sEdkgRRiBFZKMP8ZE"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJgXlkg8sEdkgRBQIcjaxWHPs",
+                "placeId": "ChIJgXlkg8sEdkgRBQIcjaxWHPs"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Holborn"
+                },
+                "name": "places/ChIJA7_adjUbdkgR_XPGaE3twAI",
+                "placeId": "ChIJA7_adjUbdkgR_XPGaE3twAI"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Royal Ballet and Opera"
+                },
+                "name": "places/ChIJySOgh8sEdkgRCBzTYt83Klg",
+                "placeId": "ChIJySOgh8sEdkgRCBzTYt83Klg",
+                "spatialRelationship": "BESIDE",
+                "straightLineDistanceMeters": 33.119427,
+                "travelDistanceMeters": 8.938435,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Linbury Theatre"
+                },
+                "name": "places/ChIJw27ybssEdkgRnx9Jz130OOs",
+                "placeId": "ChIJw27ybssEdkgRnx9Jz130OOs",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 34.090492,
+                "travelDistanceMeters": 28.397741,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Marquess of Anglesey"
+                },
+                "name": "places/ChIJtVNpD8sEdkgRW_kxR_77yN4",
+                "placeId": "ChIJtVNpD8sEdkgRW_kxR_77yN4",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 71.81755,
+                "travelDistanceMeters": 77.842926,
+                "types": [
+                    "bar",
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Masala Zone Covent Garden"
+                },
+                "name": "places/ChIJ40_ZncwEdkgRKYHPtm7wi28",
+                "placeId": "ChIJ40_ZncwEdkgRKYHPtm7wi28",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 51.566547,
+                "travelDistanceMeters": 68.727585,
+                "types": [
+                    "bar",
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJQR9pg8sEdkgRKeWNNYlDdPU",
+                "placeId": "ChIJQR9pg8sEdkgRKeWNNYlDdPU",
+                "straightLineDistanceMeters": 138.56775,
+                "travelDistanceMeters": 203.17824,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "shopping_mall"
+                ]
+            }
+        ]
+    },
+    "allowsDogs": false,
+    "businessStatus": "OPERATIONAL",
+    "containingPlaces": [
+        {
+            "id": "ChIJySOgh8sEdkgRCBzTYt83Klg",
+            "name": "places/ChIJySOgh8sEdkgRCBzTYt83Klg"
+        }
+    ],
+    "curbsidePickup": false,
+    "currentOpeningHours": {
+        "nextOpenTime": "2025-12-11T17:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 14,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 18,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 14,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 15,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 15,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 16,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 16,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 17,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 17,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 5:00 – 10:00 PM",
+            "Tuesday: 5:00 – 10:00 PM",
+            "Wednesday: 5:00 – 10:00 PM",
+            "Thursday: 5:00 – 10:00 PM",
+            "Friday: 5:00 – 10:00 PM",
+            "Saturday: 12:00 – 10:00 PM",
+            "Sunday: 12:00 – 6:00 PM"
+        ]
+    },
+    "delivery": false,
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Balconies Restaurant"
+    },
+    "formattedAddress": "Royal Opera House, Bow St, London WC2E 9DD, UK",
+    "goodForChildren": true,
+    "goodForGroups": true,
+    "goodForWatchingSports": false,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x487604cc9dde1e23:0x5a530220ad6f272!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487604cc9dde1e23:0x5a530220ad6f272!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=406784264115778162&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487604cc9dde1e23:0x5a530220ad6f272!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487604cc9dde1e23:0x5a530220ad6f272!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=406784264115778162&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJIx7encwEdkgRcvLWCiIwpQU",
+    "internationalPhoneNumber": "+44 20 7212 9254",
+    "location": {
+        "latitude": 51.5132172,
+        "longitude": -0.12214580000000001
+    },
+    "menuForChildren": false,
+    "name": "places/ChIJIx7encwEdkgRcvLWCiIwpQU",
+    "nationalPhoneNumber": "020 7212 9254",
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": false
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "A C",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWrqI-dK7lxxxPRwiYlK02Fk4_EATEvZVAcUNr06l2_NwuKZjjx3Q=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/104826251782316225820"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEPvez8rimvjDaw&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEPvez8rimvjDaw!2e10!4m2!3m1!1s0x487604cc9dde1e23:0x5a530220ad6f272",
+            "heightPx": 3600,
+            "name": "places/ChIJIx7encwEdkgRcvLWCiIwpQU/photos/AZLasHp93kTUnrEUSz5Uurbdx-guRqCOh3m31TTSaH9KnEIcheRYmp8NE1U_CBgos63SMqwn0q5HdBJ65_iq4DYq6fXPF1QG5bgZb7YPwGxJgKX1FeaP2QTo40S58t-KEHXxiTkb6QL_azcW519sfUDZsJEwGtldhcEnQZJISmxzwfg4h3tIa2Hr6nfe2zfpOmWp-rC1JRPoFBGuDbqRFPwRqoW5bcMNvq_8wap3TpP9MbYx-VTkWPr1dfSZ6UYn-tqGIdUt81rVHU5G4nld_5MZFCuHApQATcMZjNWsvsJobQnw_Wp5wOsicratNW9CSgQz4HmbpGOR8SAi70njqn3ZMj6gT-_wrSw6mGxDS8XoPAeruIuYRzhJz5cPY5Zh4Bt37A-DyVNoiYut0CYjEdrinNjHCU_tIWR3AvByvWJkqvxrqA",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Balconies Restaurant",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUEAHtseEkUp5s0dqMju1IINFcnJsGgjE3wdFJ7dR6zoPf1GUU=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/111060887939615563117"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPOAcbauLQnT4rVkPCrkdeeOCmc-_TAnht_JeF4&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPOAcbauLQnT4rVkPCrkdeeOCmc-_TAnht_JeF4!2e10!4m2!3m1!1s0x487604cc9dde1e23:0x5a530220ad6f272",
+            "heightPx": 1358,
+            "name": "places/ChIJIx7encwEdkgRcvLWCiIwpQU/photos/AZLasHp4cd6MpzV5Ep9LODQzTlDhRQoDtIrNIKXFHvxHMPSuk010E8R1TjediRdFAH-0SAnWn4C0PTYnMYta7F0Ty4vvx-Jc9nwEyweIZW_NeTF0NYuXRMsLjh-cNdtduYtBjgtswgzfZ0Q74ayxn6H5ViJnkO4TW7IabSQtFJuVj7edp0eNpkEo05yTvIVwc7hdGI10_VEYKWQ7T66yuy0nqscnaKmnMNayJvxmnIrjhxEVr9jeeNDuDMY3-Ok0KFfHKXsGDt8NUpwW6Ae9DzzoY9MjwZj_zOmOHEu05-Ugi8tUPw",
+            "widthPx": 2036
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "A C",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWrqI-dK7lxxxPRwiYlK02Fk4_EATEvZVAcUNr06l2_NwuKZjjx3Q=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/104826251782316225820"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKELyo3Y2g2cLECw&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKELyo3Y2g2cLECw!2e10!4m2!3m1!1s0x487604cc9dde1e23:0x5a530220ad6f272",
+            "heightPx": 3024,
+            "name": "places/ChIJIx7encwEdkgRcvLWCiIwpQU/photos/AZLasHoNWT5hv3QC6NcQfXix0SVIAHfAtb22kXRAJlJlY8nRxRN4NjJ3wN2LC999VpfF8Ffs8CkxmoPPDCQWMVNE_lyJuPRRMWDTF9Y9Qjmzowe43fEeelVzSU0PSKZoypoxk-KwiH0OxuthFqb0a3zVsxaNvCtnvj9utTG69D-z-xs0f9oGogC0tqZnndJz6Y5ZzOPuDqyk3ZQIscfLHJY0ICYMI5ntAodcL9OQ0eoG2czvqoP6pBRKR7Rl-w-LaTQNQQS-1eh4LKGfoIDc0uXHGf5VSKQ8KItqurAPN91f_92WtOWgnD__BLLKzA4NPq3Y4Pvr3l76XB5lMGHeDAHDQI7yvYrZm2nR9WWYeaxuoFoa1pbqlzrU-a_SvZ2pZ0pXLx4H_LcMXGPeck9O2GHtvrh4mB868FrV4UIVxXEq2eWIeA",
+            "widthPx": 4032
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Kathryn Hagerty",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVOEZ6bghwExxOg72UJW3bmRA9axhqhpdxDPxXpWmUtK45NuWjSyA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/107427502450220978880"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICmzsfIQQ&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICmzsfIQQ!2e10!4m2!3m1!1s0x487604cc9dde1e23:0x5a530220ad6f272",
+            "heightPx": 3024,
+            "name": "places/ChIJIx7encwEdkgRcvLWCiIwpQU/photos/AZLasHrcfzPfTk5RZAu1zEY5D2fGq-fR1_oR1wP7_J55QGg_7K_lLhaKfDO7XCR6ZLfxArdZR6jEX-7ZjPy9AE1kvZbSaeYCIuxy8vlk7jIOtZ7LX_1K2Oh_VkFEScWExMTN9T_vzbwqw0vmmo7tVS8N2DgR_SP8L57wtfiLZosz7nBDMjpQwK1-s4ZB1pUUCngif1fNW8LuEWbKAJQVg0cLRGQKHc1L14VDwJndu8IndkU8SllVD8Fjz2bmNKaytZEutMS5YTkg_VsCipws_zAnwlitJnTsN3lVJl4bRA-7oZXFGIbL4O7lYY_2xJNBa2dcysl0gI5NO0HMWtCZAt_wbBnmUpWp85_8sXm08vu7oL3BuTEHQinqDHk9K84nyjdb2zulOaKpBaGKpVdU51LI_qXGIgr9uM33vpYRmxP9L-EkZQ",
+            "widthPx": 4032
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "A C",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWrqI-dK7lxxxPRwiYlK02Fk4_EATEvZVAcUNr06l2_NwuKZjjx3Q=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/104826251782316225820"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEIii0oKl87mrXw&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEIii0oKl87mrXw!2e10!4m2!3m1!1s0x487604cc9dde1e23:0x5a530220ad6f272",
+            "heightPx": 4800,
+            "name": "places/ChIJIx7encwEdkgRcvLWCiIwpQU/photos/AZLasHqrxxXRITPd-iNLFIgU9JppWRQIGRlWgBvIixfaojWVi2NQzy_NFW43yeaSCh7Qrc6Bi9oNJZFTbrShIjS8WaIPvAu9Jy4LGdE8jYcY1-pesrYvzapVw-gyvlJrwm5IM557angufbrYHZT8--WS7-EMNSQdZ3OJMdczEJfegcEwZrJbEy-3EpHXhH7VRV4OjuyjdwmUvw2k_vTjtVyDvHYtqLFtzn1Op6JTZdRhqYXNvylA0TP4NYebE7tKdZ2aQyvE9iMrdP09du3lbQbQB2OZ1izSvX7WEeDRF0iLGOaZCbui8x7d2uaGf_WIyVYyIvpQ0xnMm3IOMp_CLYX1oECsezQ5JO-uYmLIQle2s9hzyA4Fe8nbKEDglf2eBj-n9wZMaBsvTVzGq98sTtk67au0T1sUo0TbyQidRQqTeyyqDQ",
+            "widthPx": 3600
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Nikki M",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL1LZmfy0oAKpdw_8R7lCt_qdSOzfaPr3xSzuY7QDLbNcEdKQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/114057728565651021925"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEKOz08Wis7vzHA&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEKOz08Wis7vzHA!2e10!4m2!3m1!1s0x487604cc9dde1e23:0x5a530220ad6f272",
+            "heightPx": 3024,
+            "name": "places/ChIJIx7encwEdkgRcvLWCiIwpQU/photos/AZLasHoDYhBDJXxjZgjIpjZlO7_5RgYjZ0KbXTqBrsx-MIyvNtP9ajYTUv4Oj-hLczTi6HLv_ZnYfapKzPGeyaEHG1DfDhrD43xLF-Eh8s2ezv4Bd8LHDbc7MWK2di6wUdZQlis3Eqs_UFEhUVJp2LIPjEz-wjDSDkjcAMPqVzliL9XlWkERUOsL9gMpb3FgGuuyr851LEwcp6KEYfmYXxZ2bBk43_MNUf1WUh44QW0edEb-BbFMgVET9Dfm9l4zCu3GPlAMowva9um0MS085E8WdaBQ5XTTpGYNmgvwnVrYxzBjbV1E4GnU0aya6vlyllH1kvo5qRYXMGu0TNmVVQ9pwnJanvLWSc2qqC9WJ-ASbYpqzDAkuLLW68ePjhm-3dgEmf2XXULT0VyDmVf2F_2c2THjncfVOcFjW1u3v5Mq9bc",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "ron pawsey",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLH7DyFCxWIyQ8SN77ggXVdTpUm1W9PN00zR8mWg1ReP1MTUg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/112880938433303645903"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICs-7LY4gE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICs-7LY4gE!2e10!4m2!3m1!1s0x487604cc9dde1e23:0x5a530220ad6f272",
+            "heightPx": 3264,
+            "name": "places/ChIJIx7encwEdkgRcvLWCiIwpQU/photos/AZLasHpUA9vKEEZlwT1SKMkqStxYT_FOrg9WoKEolKff16-qcYo0iLQ7l0jvq3-YxDcw3rS7J1LFQX5JcXvOGRObWd9CdvKi-bL7zWi7E6_QO2qlWG2SYp0xg6BYy32NL7CQN3Ye8g36arav-mqnbEJDIOAnzFw3yD5Y7-FpyJwQblXLJOjg6Sa_ECriZJZymuPkWs3c0qAyTic5BXzCyVor_cLSR4gT78BAotJk79zdtj88Mu3zIir6Oaxa0YEm4tWulKkWtSwvZXe1IOYE7JtRgT2kQRMrc0pYosr1_N1X0xn3kQdWwxvMJWDR0-CAbLq-1WJo4kFLVeI97u-UHhDrWHHlR9sPVmy0RUo9cwt5vIzlTSE9QDbB80cYkEAuyMbcullZdsRA4YqyYIgJQjSo4P6nu2wYI4nutXYXRuBQntIGjLk9",
+            "widthPx": 1836
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Mike",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXkKwGr2qGSMz7LvceCNiPd32OYkbYf-s99EFZeo5qDaklKWlyn=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/112475146582950436738"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDR8YmMeA&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDR8YmMeA!2e10!4m2!3m1!1s0x487604cc9dde1e23:0x5a530220ad6f272",
+            "heightPx": 4032,
+            "name": "places/ChIJIx7encwEdkgRcvLWCiIwpQU/photos/AZLasHr9X61Wq5Tw8SPTf7ygiTYWW1UoR7MpgZHiozXYBOh2gmVVEi_tog5UwzpNS_PUjqM_VzF3EViad6IfuyswS2Wt7HUMLUs-2ilZ6cHNUoUdPgvo6toEOoZQYZYzjdWwxeFapSWSVupID100l5NZb0337Rh3eYNUMbFA_Gj1226FsSlhlQKChuCqiPvnbVBA7LQQr2eFWbCPSxGo6UlTfw9dXZwiUY0a27Fl62Oxn4rtj5uFmgyTGvGzG5U-ZoT43pQBJP8Cx9zrTiQffvkqgcr61_whdOUl65lyD1FeypDt1ftitQrleto-SshOA4EvxMu2i963gWlgBPKKkOIkTm_6fVKcI5oj-tv2i00i6e-QFxBSc69_GXv-fVXQC-xkkQ3f2Sk8smr_Y3WZV7FesoFPKwWg2EzzEOQnf_vVDcx9uA",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "M K",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXueN7siKG-NuozQRZQDT-gfTrD0J-jLuOzwE9GX6Dt0Hh39CLI=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/106772145526103338815"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDrx9iJugE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDrx9iJugE!2e10!4m2!3m1!1s0x487604cc9dde1e23:0x5a530220ad6f272",
+            "heightPx": 2182,
+            "name": "places/ChIJIx7encwEdkgRcvLWCiIwpQU/photos/AZLasHr_70Y8thsw7EMYHFVp_zSxkEAEByrXDZusK1HUSWR68q3WSDreH5c3z16H2Y7axeOE47XyupIMJt5mmPHmLJjDk4owYWGqD3ihiE8m_q5WRG1SA2xprWcXfqIoM02p4Scd7I_HSeACWQSfmHLEg3Vazut4PFI3VVRj2E2DQjjJ0SEAabphg3mOqqlePZXxwjBv7MzKeUctINqQkoeQXSa0vCNiIXclFsPMv6lhXlFpZSyckYGTuFYXY9qLpeibjmPR_pQU4d2cghzyM4hwFE8aGS55H9ppxdPNJ9BrakRv_raE9ZxXZUKAYdiLWweOFk4TFoMw76fdfesKj45lWJHy_g_KqNmvyIgRi82rTBJqqorFj5yBVCH92qewz5YuE7b2nPKLkB_PcX01jMRKuZ8wTZcIpCzc0yUzL2ZIY9phbCvy",
+            "widthPx": 3021
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Balconies Restaurant",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUEAHtseEkUp5s0dqMju1IINFcnJsGgjE3wdFJ7dR6zoPf1GUU=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/111060887939615563117"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipP6u2G0ZE25EUWrl85qvNPdU8FtBN_iClHESIk0&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP6u2G0ZE25EUWrl85qvNPdU8FtBN_iClHESIk0!2e10!4m2!3m1!1s0x487604cc9dde1e23:0x5a530220ad6f272",
+            "heightPx": 1358,
+            "name": "places/ChIJIx7encwEdkgRcvLWCiIwpQU/photos/AZLasHru2gAEFKr-d31hEpHV-7aDzjo5wesuq6PTC7r3C__rsj9GQAhWgPCzgO5qGQh7DiUfbWyhAJCVKoddzZsZQSW9X0QcAdR2CjxnxjvkMG4sWwf9zZAgSnRtapIngql_hW6tlxaUik8Ng0sh6SjvD0-EkxEo7jC5xL3UY1Qej0U7-mHJfslzIlJGZ8Ys87I5hYy51vCprZciWcQahFEjm-3Vv34dt4_l7MChL1NXQrIeF-yFn8zrGq0N3qPOrdQeq8uxYJmNzedKY0w_ChYXX19QAHalwF5_QVKOly4Qt7_AsA",
+            "widthPx": 2044
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV7H+74 London, UK",
+        "globalCode": "9C3XGV7H+74"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "Royal Opera House",
+            "Bow Street"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2E 9DD",
+        "regionCode": "GB"
+    },
+    "primaryType": "restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Restaurant"
+    },
+    "rating": 4.5,
+    "regularOpeningHours": {
+        "nextOpenTime": "2025-12-11T17:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 18,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 5:00 – 10:00 PM",
+            "Tuesday: 5:00 – 10:00 PM",
+            "Wednesday: 5:00 – 10:00 PM",
+            "Thursday: 5:00 – 10:00 PM",
+            "Friday: 5:00 – 10:00 PM",
+            "Saturday: 12:00 – 10:00 PM",
+            "Sunday: 12:00 – 6:00 PM"
+        ]
+    },
+    "reservable": true,
+    "restroom": true,
+    "reviewSummary": {
+        "disclosureText": {
+            "languageCode": "en-US",
+            "text": "Summarized with Gemini"
+        },
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=5%401:CAIQACodChtyc19oOlZabjZYTHE1dVpzVkZsa1dpcmkzN0E%7CCAIQACorChtyc19oOlZabjZYTHE1dVpzVkZsa1dpcmkzN0ESDAjzrsvBBhDrxsy4AQ&d=17924085&t=8",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487604cc9dde1e23:0x5a530220ad6f272!9m1!1b1",
+        "text": {
+            "languageCode": "en-US",
+            "text": "Diners say this restaurant offers delicious food with beautiful plating and a stunning view of the Opera House. They also highlight the impeccable and efficient service."
+        }
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Gabby Guvensen",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX5CMhOid5bJ72Ugz5cAF18XuT27ut1y9BLao9_9KLjjXS0nI6S=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/107895457155062836251/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2taWE0ycHdUMDVUTUV0UFUyVkZOMkZEYjFKTmJHYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taWE0ycHdUMDVUTUV0UFUyVkZOMkZEYjFKTmJHYxAB!2m1!1s0x487604cc9dde1e23:0x5a530220ad6f272",
+            "name": "places/ChIJIx7encwEdkgRcvLWCiIwpQU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taWE0ycHdUMDVUTUV0UFUyVkZOMkZEYjFKTmJHYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Follow on instagram at best_restaurantsldn for more.\n\nWe loved the set menu at the Royal opera house in Covent Garden dining at the Balconies Restaurant. We opted for the two course option. This is an especially great spot in the summer with lovely London views.\n\nRatings\n* Taste: 6/10\n* Service: 6/10\n* Price: ££\n* Presentation: 7/10"
+            },
+            "publishTime": "2025-10-28T11:23:12.429723556Z",
+            "rating": 3,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Follow on instagram at best_restaurantsldn for more.\n\nWe loved the set menu at the Royal opera house in Covent Garden dining at the Balconies Restaurant. We opted for the two course option. This is an especially great spot in the summer with lovely London views.\n\nRatings\n* Taste: 6/10\n* Service: 6/10\n* Price: ££\n* Presentation: 7/10"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Spark",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV2BU6ulIFeeo_GcAMT0hFP9edYBVj_y2XiqevCW5ba0T4zvupo2w=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/105940553953715959050/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNyOVlMSkNBEAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNyOVlMSkNBEAE!2m1!1s0x487604cc9dde1e23:0x5a530220ad6f272",
+            "name": "places/ChIJIx7encwEdkgRcvLWCiIwpQU/reviews/ChZDSUhNMG9nS0VJQ0FnSUNyOVlMSkNBEAE",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Gorgeous venue. Convenient for the show but food is ok. Would recommend going early for a drink in the cafe vs a full meal. But nice to do once with a show for a special occasion. But paying most for the convenience.\n\nThe Cornish hen was dry and could have been delicious with a bunch more gravy. Beef was nice and succulent but also would have been nice with more sauce.\n\nMost enjoyable was the lovely ceiling and view of the Royal."
+            },
+            "publishTime": "2024-07-09T21:15:21.801884Z",
+            "rating": 3,
+            "relativePublishTimeDescription": "a year ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Gorgeous venue. Convenient for the show but food is ok. Would recommend going early for a drink in the cafe vs a full meal. But nice to do once with a show for a special occasion. But paying most for the convenience.\n\nThe Cornish hen was dry and could have been delicious with a bunch more gravy. Beef was nice and succulent but also would have been nice with more sauce.\n\nMost enjoyable was the lovely ceiling and view of the Royal."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "I W",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVXj30gmBXgabk93BDx3lylRLBYeO_IaURPtGGFDtdXhpASMB4GdA=s128-c0x00000000-cc-rp-mo-ba6",
+                "uri": "https://www.google.com/maps/contrib/114612152495368361428/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNSbTkzN0lBEAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNSbTkzN0lBEAE!2m1!1s0x487604cc9dde1e23:0x5a530220ad6f272",
+            "name": "places/ChIJIx7encwEdkgRcvLWCiIwpQU/reviews/ChZDSUhNMG9nS0VJQ0FnSUNSbTkzN0lBEAE",
+            "originalText": {
+                "languageCode": "en",
+                "text": "A fine dining experience to pair with a ballet performance at the Royal Opera House. Atmosphere is classically grand and one of a kind.  Staff were outstanding and professional.\n\nThe food was well prepared and seasoned. Beef was better than the fowl if you had to pick. The fish looked good too. Beef carpaccio starter was very good and so was the dessert cheese plate. Tasty house-made butter.\n\nPrice reserved for special occasions but well worth it."
+            },
+            "publishTime": "2023-04-11T10:34:20.329234Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 years ago",
+            "text": {
+                "languageCode": "en",
+                "text": "A fine dining experience to pair with a ballet performance at the Royal Opera House. Atmosphere is classically grand and one of a kind.  Staff were outstanding and professional.\n\nThe food was well prepared and seasoned. Beef was better than the fowl if you had to pick. The fish looked good too. Beef carpaccio starter was very good and so was the dessert cheese plate. Tasty house-made butter.\n\nPrice reserved for special occasions but well worth it."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Jody Wiles",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLj95dbmyFVDdBHAdf2n7TCCewAein3PaRFsLuNLLTStsqggQ=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/105235432399493991987/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR4b0otbVJ3EAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR4b0otbVJ3EAE!2m1!1s0x487604cc9dde1e23:0x5a530220ad6f272",
+            "name": "places/ChIJIx7encwEdkgRcvLWCiIwpQU/reviews/ChZDSUhNMG9nS0VJQ0FnSUR4b0otbVJ3EAE",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Astounding food, great service and atmosphere. Lovely building too. We booked ahead so food arrived very very promptly before our show, can't recommend this more. The meats were cooked to perfection and the sauces devine! They also had a fantastic selection of wines and the champagne they serve as standard is very very nice indeed. With drinks, worked out to about £100 a head, but I would say worth it!"
+            },
+            "publishTime": "2023-05-30T16:04:29.589404Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 years ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Astounding food, great service and atmosphere. Lovely building too. We booked ahead so food arrived very very promptly before our show, can't recommend this more. The meats were cooked to perfection and the sauces devine! They also had a fantastic selection of wines and the champagne they serve as standard is very very nice indeed. With drinks, worked out to about £100 a head, but I would say worth it!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Susanne Kneiske",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKJIXA13x17QHFqdPm4j_pQNNP3l5i4A3mYrGqyUYN48UlDAw=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/111475654142365297627/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURYdFoteEdBEAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURYdFoteEdBEAE!2m1!1s0x487604cc9dde1e23:0x5a530220ad6f272",
+            "name": "places/ChIJIx7encwEdkgRcvLWCiIwpQU/reviews/ChZDSUhNMG9nS0VJQ0FnSURYdFoteEdBEAE",
+            "originalText": {
+                "languageCode": "en",
+                "text": "At the beginning of October we had dinner in the outdoor area of ​​the Balcony restaurant overlooking Covent Garden. We had Seared halibut, Honey roast carrots and Chargrilled vegetables with cheese tard. Everything was wonderful, and I would particularly like to highlight the service, friendly, attentive, professional."
+            },
+            "publishTime": "2024-10-29T23:14:50.446372Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a year ago",
+            "text": {
+                "languageCode": "en",
+                "text": "At the beginning of October we had dinner in the outdoor area of ​​the Balcony restaurant overlooking Covent Garden. We had Seared halibut, Honey roast carrots and Chargrilled vegetables with cheese tard. Everything was wonderful, and I would particularly like to highlight the service, friendly, attentive, professional."
+            }
+        }
+    ],
+    "servesBeer": true,
+    "servesCocktails": true,
+    "servesCoffee": true,
+    "servesDessert": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "servesWine": true,
+    "shortFormattedAddress": "Royal Opera House, Bow St, London",
+    "takeout": false,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 227,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.5141287302915,
+            "longitude": -0.12080996970849799
+        },
+        "low": {
+            "latitude": 51.51143076970851,
+            "longitude": -0.12350793029150203
+        }
+    },
+    "websiteUri": "https://www.rbo.org.uk/eat-and-drink/",
+    "timestamp": 1765447200
+}

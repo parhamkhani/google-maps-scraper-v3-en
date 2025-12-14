@@ -1,0 +1,773 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleParking": false
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "39",
+            "shortText": "39",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Endell Street",
+            "shortText": "Endell St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2H 9BA",
+            "shortText": "WC2H 9BA",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "King's College London"
+                },
+                "name": "places/ChIJ3VW0o7UEdkgR8eAcbhKByyg",
+                "placeId": "ChIJ3VW0o7UEdkgR8eAcbhKByyg"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJs4GOh8sEdkgRRiBFZKMP8ZE",
+                "placeId": "ChIJs4GOh8sEdkgRRiBFZKMP8ZE"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Holborn"
+                },
+                "name": "places/ChIJA7_adjUbdkgR_XPGaE3twAI",
+                "placeId": "ChIJA7_adjUbdkgR_XPGaE3twAI"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "NBCUniversal"
+                },
+                "name": "places/ChIJv4f2tzIbdkgR9ockIRcTijo",
+                "placeId": "ChIJv4f2tzIbdkgR9ockIRcTijo",
+                "straightLineDistanceMeters": 233.13441,
+                "travelDistanceMeters": 205.68657,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Royal Ballet and Opera"
+                },
+                "name": "places/ChIJySOgh8sEdkgRCBzTYt83Klg",
+                "placeId": "ChIJySOgh8sEdkgRCBzTYt83Klg",
+                "straightLineDistanceMeters": 265.77853,
+                "travelDistanceMeters": 262.63776,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The Poetry Society"
+                },
+                "name": "places/ChIJUSCgUjMbdkgROfOnVX8Y2HQ",
+                "placeId": "ChIJUSCgUjMbdkgROfOnVX8Y2HQ",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 66.89005,
+                "travelDistanceMeters": 79.20877,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The 10 Cases"
+                },
+                "name": "places/ChIJG9oUscwEdkgRf9fFE7nPicg",
+                "placeId": "ChIJG9oUscwEdkgRf9fFE7nPicg",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 45.79678,
+                "travelDistanceMeters": 38.702583,
+                "types": [
+                    "bar",
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The Shaftesbury Theatre"
+                },
+                "name": "places/ChIJP9s7JzMbdkgRUqiioDkVnzI",
+                "placeId": "ChIJP9s7JzMbdkgRUqiioDkVnzI",
+                "straightLineDistanceMeters": 174.25337,
+                "travelDistanceMeters": 247.58127,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            }
+        ]
+    },
+    "allowsDogs": false,
+    "businessStatus": "OPERATIONAL",
+    "containingPlaces": [
+        {
+            "id": "ChIJLVbVPM0EdkgRGUvoNqAiQ30",
+            "name": "places/ChIJLVbVPM0EdkgRGUvoNqAiQ30"
+        }
+    ],
+    "currentOpeningHours": {
+        "nextOpenTime": "2025-11-25T12:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 – 10:00 PM",
+            "Tuesday: 12:00 – 10:00 PM",
+            "Wednesday: 12:00 – 10:00 PM",
+            "Thursday: 12:00 – 10:30 PM",
+            "Friday: 12:00 – 10:30 PM",
+            "Saturday: 12:00 – 10:30 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "delivery": false,
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Parsons"
+    },
+    "editorialSummary": {
+        "languageCode": "en",
+        "text": "Popular eatery featuring upscale seafood dishes & wines by the glass in a bright, intimate setting."
+    },
+    "formattedAddress": "39 Endell St, London WC2H 9BA, UK",
+    "goodForChildren": false,
+    "goodForWatchingSports": false,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x487604cccbd3e0fd:0xec8f04459fd0433!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487604cccbd3e0fd:0xec8f04459fd0433!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=1065365488231318579&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487604cccbd3e0fd:0xec8f04459fd0433!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487604cccbd3e0fd:0xec8f04459fd0433!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=1065365488231318579&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJ_eDTy8wEdkgRMwT9WUTwyA4",
+    "internationalPhoneNumber": "+44 20 3422 0221",
+    "liveMusic": false,
+    "location": {
+        "latitude": 51.5146665,
+        "longitude": -0.1249446
+    },
+    "menuForChildren": false,
+    "name": "places/ChIJ_eDTy8wEdkgRMwT9WUTwyA4",
+    "nationalPhoneNumber": "020 3422 0221",
+    "outdoorSeating": true,
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Parsons",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLEQyzO0O8qregVDBRdJVLcYw6uUFKcTQ517HdOa6AsyzVwLQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/102184587587534600780"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNtTTC3EmNuhEin0YDO043nENXUL_t3DMfWHs_z&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNtTTC3EmNuhEin0YDO043nENXUL_t3DMfWHs_z!2e10!4m2!3m1!1s0x487604cccbd3e0fd:0xec8f04459fd0433",
+            "heightPx": 1366,
+            "name": "places/ChIJ_eDTy8wEdkgRMwT9WUTwyA4/photos/AWn5SU7UL88LKoXnkJylbV8hOgmGLJpOolQb44yjMs5SVFCP6ODnDE1huXX3eIq12XV63SOy1WQwc4w6dVVJtdqdYYe6ENQ5JnljMLXdOqBhcEI47F2cclOLeyHX0CGTOov-48T6HDcJDEh_rl0xEqtPmihV6EQvNpO6Zd2fsaegN4kEDIoZHlq4cDkQoaPOltkbJEgbJuvnJKJjWjftNhI0CCKN7FEZ8-8P_wQeMzK9HLod6SNguHF5d5SvL2M7mqnM-zfIBBvxz7-M80qkaKFQNiqVf7CmbKHZdaoBjJDEwHaNpQ",
+            "widthPx": 2048
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Charles & Janette Whitfield",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXsBsMfm-1MC7mwArRupTuy4HHBr9c_7mWULhKqAYYyrXMsTADz=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117960348903296342851"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBbxcEQo0yCyoED7qbXHj7O&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBbxcEQo0yCyoED7qbXHj7O!2e10!4m2!3m1!1s0x487604cccbd3e0fd:0xec8f04459fd0433",
+            "heightPx": 2296,
+            "name": "places/ChIJ_eDTy8wEdkgRMwT9WUTwyA4/photos/AWn5SU7T8-sAqVo3dC_46wncMV0jcZGUeZg5bWk3XuIOdq0Phgqb7OVxOl_T2kSX_f_gm-oO4efKzluiooSIHh8ZZ1p80vZGvjcVX5cz1hgQczYggDmobOyn4Wn46MK7Bht_uB2rZY8AtlP4UhgamGSAOYomtMT04rdEZZC_gfng3BtqFRvwtYCFdFCSV5AvUWCLTt9i3JDqideWBhYEKIqdIEhlqq1PQDR46m1M1-_w5ZnbLmZAas6_eQH_dvmbE-gdk7YGndwDb-2RQT4dBQSCgTzdj21rV0ifW7HQgBiduiE0RoDA8B3ctCPdUxu5Y2Hkx3tLywacVKdL6flNJqBDEFTAOAsHAuhgs44UgielIU8o64CBOSP1hBl2PYHcA6ltVX6Vp1uEaGAVsqjD8wijofGL8efn-8qN1rY3cwU2-WcgehZZiR6plM7L9PaFtA",
+            "widthPx": 4080
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Vikings Retreat",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWYnadYUjEk94utxXRBhZY_xOcPAf097JJRgQYset4EbVq-l80=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/108663843054526308403"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBRXTZx0Ib2R4AOzgHuEDG1&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBRXTZx0Ib2R4AOzgHuEDG1!2e10!4m2!3m1!1s0x487604cccbd3e0fd:0xec8f04459fd0433",
+            "heightPx": 2755,
+            "name": "places/ChIJ_eDTy8wEdkgRMwT9WUTwyA4/photos/AWn5SU5hYMVOqJKFhEGp2iN9vinPYCyN5VCDKWpr6aAOsOdgQ0pwd8h9SQD7Nauyp6esYqO4OlRKi1f3FypF1ksNOKFeV0ipLndMwGxMnh2eV9wPYLgdJp96AvtcOhDA0HEuwpt_pG4rwzowVYt1MJVriCFuyjq-IMbHSmIW5rcfqa3tSV6-2Y6EQeK5u3XTkjF3BAtd8lFUZ0F9PTs4nhZSx_4qb_1Vx_DVWRj44K2aqh2CYzrEB7ZjlTIYIV9L3gHgLrAm6D4u_m7jo4fv0nmX346Xcq2C2j-HLIFmXfYyvobv-nRi25GZi52F085ZuRmJCKRpJIz890a1eFLQMkkRzyIxbrwwuB71eUZFOJXk0u4un0qmKMf0dBw3AMagNUUx6_v0-HGO1r0lDnwiiankY2qlG-fK1pOGl_JO3GN-6YRC82p_fjW9ltnXEE8jbXGd",
+            "widthPx": 2755
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Vikings Retreat",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWYnadYUjEk94utxXRBhZY_xOcPAf097JJRgQYset4EbVq-l80=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/108663843054526308403"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBzxtzPydDuRhLRoGKIVHpe&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBzxtzPydDuRhLRoGKIVHpe!2e10!4m2!3m1!1s0x487604cccbd3e0fd:0xec8f04459fd0433",
+            "heightPx": 2546,
+            "name": "places/ChIJ_eDTy8wEdkgRMwT9WUTwyA4/photos/AWn5SU6FuWfrSrZK8I-YiT9Xr2h4jqx5AfwNGv8cpcn0o6C-Zpyb8K6zaJAKdcdsLCoyMDxkZypj6NrElyidW7hPL-6v6EP7wKpgCaxuggOt38_1t6dtdixkDvakzzWhuX9UiN8MNgh4BgkI-w-t_e7c0zZoG_mHpZEDzg5SNN_oUcHREaEsvEq3sV5Av59k0pAimvnkdCPWUWqppOfV2IbtR5aXHwEh7zlexodyDXsta6Q7wOFdey7KxORwU6hEJSLhTY5s1nScXkvaKh94cPhAlz_iXHEjnv1VG9ci-PTmKrPKa7aXjWhwVEbz-JjePMZtk-5t96_gc_q57utdFxdzJYokyx8XPQpoc_C13VZWuwuxehHrrOs6ms0-sQrSvff5QmQz6pYgHt8MnzurJG6Rh09H4BbgTz2sGJm2iCBoCkievrLVRhUazDWfY_JnAw",
+            "widthPx": 2546
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "T. A. (Ttravelog)",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLkcFCztLS-ub7QtOe3RclKboqQjGgS0qBJPDgGe7DzbauLTw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/102871105935664518078"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDhXkgdhSqOO338RBvWZ95N&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDhXkgdhSqOO338RBvWZ95N!2e10!4m2!3m1!1s0x487604cccbd3e0fd:0xec8f04459fd0433",
+            "heightPx": 4032,
+            "name": "places/ChIJ_eDTy8wEdkgRMwT9WUTwyA4/photos/AWn5SU7a2FoqNeMkS4dxlwkKNgMQ9PadktlmApIFbK6vUH_P09VjBBZrpNwRGefRoWj0gC_-atDwWlk-TTW6NN9n9LR0SW5PnWlIq6_FSiCUtzzMmMdQMSfMrBIh-A-IzAwS2SnH_JB6Rxzj5YLa5RBZq4qYEAXm3wQSssFDMLdHLXZgQGAtF7E7izilzRI1tyRYVc1pTjFbvo8XoGs8h5LkjuMCMft9tQ41khsTBdefaG7yEb9y4L5MfBtrP4xK2k42qY4rJpKcATOCVqv7hdDeSt6eRY4fcoX4wgdLc3OQuLLmoYZ_3btdDEc7FxGztWcNmJxicrsn7of6FApvEkNJ0SqUrpeG_sV3U1D_Qi7ucEyNzK0RHvXsZril0IIdF6pGPoUHEXQgssJJMWU0whLXcM-rLDvbr46F1ZqUbQnyCeHUsBGMxk2NOdYEvQb-kw",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "G G",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXP_KnAI3OdBfGyv5GbYvt1rvNn-RwCBi0mD4e1OmwKGs-UsC5U=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/108483606471013868892"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEOfQ_-j_7rTEHw&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEOfQ_-j_7rTEHw!2e10!4m2!3m1!1s0x487604cccbd3e0fd:0xec8f04459fd0433",
+            "heightPx": 4032,
+            "name": "places/ChIJ_eDTy8wEdkgRMwT9WUTwyA4/photos/AWn5SU6zKcZomwTslS1-tQ1dhi9j5w9TvshH54Gx_H8uh5CgInHOKuyepEmTs0oBDVGzislR6I3azpeqtto8NJMQ3kDq-TdwYYLNiIMrMh45FqfNs6HEPC5-oBzfmjJTJ2OM1k8uQOTvLTMJG2XGdt6UBQjSFuNWTg3ygeIC0DP_3cyCgESZF9qLbULoXZ_rVd6-h1QuFWHcfQVJ4YYAsB2_cnKXnGDTmFZn3C2XHEN0mqGKWVdEc-U9DZxefoCyGoN_gzv8UPIIwEb1LSMxNs7YNCO9I1B0NyNOFsFlAbR0RnChEwLiyvS_KqLC8_VXX8XJoOn20SvL9NnCeuoGDDGEAVIfHQndP6GVqwgj94syEWo_TwYo55ynyFA3M0qVij55GJ7vgXog9X4ag3K4aghZJI3zqjKRGeYnI52oGLN6RoAfaA",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "A C",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWrqI-dK7lxxxPRwiYlK02Fk4_EATEvZVAcUNr06l2_NwuKZjjx3Q=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/104826251782316225820"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAYPFubMkV5SYhOZDn2zVM3&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAYPFubMkV5SYhOZDn2zVM3!2e10!4m2!3m1!1s0x487604cccbd3e0fd:0xec8f04459fd0433",
+            "heightPx": 4800,
+            "name": "places/ChIJ_eDTy8wEdkgRMwT9WUTwyA4/photos/AWn5SU5MN0oe_LfsjpuXJIc2YRDRIXjiVE-IGccbKI1efi6bDkM5OUIJL7Li7RsuuReOV9XVyoObLIWXC0uqDJzqD_-tJeU3BN0xPVa4-k7jEY0omSvsnLD_BI9iOeiBzZTcJMaXzP7P9pLYTdaO5244EVn_7JqpDYvcXFLN7bawNp21m2OqL5vPPE0AXKQmSyGdqYJj_GGwRnGGFeSXdnEinRKYVC_AgIVoyoypX5McwQcXrBkqpNZKoQR4xOdOX1b59MmJD-VMvQAmlRSWDKsIr5hEIDh7tExD7lZMp3rwPZRoM9WAD2Oghn0Alcix-76I2PGNHnTiasYcsUTRSfHa9ZD3OO_PYkWubvYt3uGGOzyP1JEaRuOrp5LijHuMO-jcucQaDc1i3hNDmfFdPR4gkcKDX5pP2sy7YgntUjs2Knh3Q2WeUE7sl8K4sStKn_D9",
+            "widthPx": 3600
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Henri Maessen",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWjNy7JayB5T0GMPUHEYpYsvPqhLDJRvmS02S3L0UYPGb08xHk3=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/111610173945962025242"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEOjb_eOH3cHqPA&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEOjb_eOH3cHqPA!2e10!4m2!3m1!1s0x487604cccbd3e0fd:0xec8f04459fd0433",
+            "heightPx": 2048,
+            "name": "places/ChIJ_eDTy8wEdkgRMwT9WUTwyA4/photos/AWn5SU6LEKyqJsM27w1uVyH-2M9M_P5xpSu0FUQOQrK645Yzy7WV0tBxQ09ZHJKQ0sYvRQQC7ebiPDclvs60C-Dx3OVTkt9ihb9AbTnYdtsyj1q1iHu3UUaYz2Bx3unIyWDptLLs_PEj1Qo5mA7xna7HqSd_-8MNhuKhaedR86RB2UW0mmY61cYsuwz5gJC1IrpTb6M1N3Uuvhyje8defIBDvhDAWkAXPEVaUofJnC2yjmWacVraLZm_glAbANa_Ir17YVhmhdxtaAwfkF-6hhyFUtSkrRfaBec34NwJybKpFgDLYNBIO2A8uBkl-ciC3J_cvOuNkMgCOSmX9dz0XV0d-YtqoBN9Hgje06G6ci8noy7dBDvR6tq25ur4kfNu74Zvuu1BG7-mOMG-NWWc8WBnsC71tfQBP8lNdbR5i6FNkLBVJQ",
+            "widthPx": 1536
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Siena WD",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXTUudE6octvXCNrBBh8yZh2jINqve2-hgxAHy4MZ-NzT9djEqM=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/115655251563415331928"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBhvkyyWZOssgyyBuPfTdN0&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBhvkyyWZOssgyyBuPfTdN0!2e10!4m2!3m1!1s0x487604cccbd3e0fd:0xec8f04459fd0433",
+            "heightPx": 4800,
+            "name": "places/ChIJ_eDTy8wEdkgRMwT9WUTwyA4/photos/AWn5SU5t1J-fFBMcAbNaZ3fSRZ1S2CMddik3q1qkw3vt5e5k2982T2sDkLdwdXT83J8ICUfBt5OTp2YrxMkfFtoWZPlC2kzACvwq1gikDBmPiDWrqVQuSAnbk4UT_ECkug7uFCn7qbPpC6c73XeF64s8IoMofw4DIPTfyjryYqIlJ7aN3bcfLT4DSqCn2Fz_naAt2_Y79UFZGqMY3GG3-LsVY_WyCOX58W-IQ5hQCGQzPqm2RUvALNczNml94l2pm2jnn9K5Yjstxk9Ey-WHa2QB4GUKXGGbGc8d40ghl0zQ-Zv0EQcEGsMK-O8_r25ox5WO-rZiWQd72H9uaWgPrKa-NedGSd6K0OgWI4MPldCuNnrYgwScFSSUgM7pnB73nfoTtJtu4imRtTDKdcKSAWWaMT7_rcfJLOIoWMvBcHFiCS-2a1mYBVHB1Ie7Tetekved",
+            "widthPx": 3600
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Henri Maessen",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWjNy7JayB5T0GMPUHEYpYsvPqhLDJRvmS02S3L0UYPGb08xHk3=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/111610173945962025242"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEPzB7dW6_vLirAE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEPzB7dW6_vLirAE!2e10!4m2!3m1!1s0x487604cccbd3e0fd:0xec8f04459fd0433",
+            "heightPx": 2048,
+            "name": "places/ChIJ_eDTy8wEdkgRMwT9WUTwyA4/photos/AWn5SU62pZ9gnpSzZX7Srjgq3R5icDoQUi5ARsU5iIF_AFSL3qyu0qxqsPLinRAvXWNtRkX7SFKxXMvn_he5UgpYX2YV5DQTalmAkzkiOSj-1jwKOw7nzsuyDGGy2SKL1Hj01CMU_0F32hUAbKOb20IKJKLJqQUuj8REkCCjILOjWZ-2Xf5LvQd3BYoao0hPXEzXxFah_pV6qlXi_7uzL05m2Wo2tPuivL47MDbSAf7-MgbbPV4WND-ZEVaY7gMeCKZRb_ScfNmIlqEzL1NoEvpH1CC295MQHO5qjiQL62mn7zZC6Q8jpA9uaoWyvfN-BrlKAaln3khCBVl458W-4ZcQisbQ_UeOWXnUnrAmLZ9wP9O15WbSnwJd0L-zBJlAUa2DSs84-9xrcANV8607KslfxBWoGqJa9y_Jadth-NB2w4JLjAb8",
+            "widthPx": 1536
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV7G+V2 London, UK",
+        "globalCode": "9C3XGV7G+V2"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "39 Endell Street"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2H 9BA",
+        "regionCode": "GB"
+    },
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "primaryType": "seafood_restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Seafood Restaurant"
+    },
+    "rating": 4.7,
+    "regularOpeningHours": {
+        "nextOpenTime": "2025-11-25T12:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 – 10:00 PM",
+            "Tuesday: 12:00 – 10:00 PM",
+            "Wednesday: 12:00 – 10:00 PM",
+            "Thursday: 12:00 – 10:30 PM",
+            "Friday: 12:00 – 10:30 PM",
+            "Saturday: 12:00 – 10:30 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "reservable": true,
+    "restroom": true,
+    "reviewSummary": {
+        "disclosureText": {
+            "languageCode": "en-US",
+            "text": "Summarized with Gemini"
+        },
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=5%401:CAIQACodChtyc19oOmF5cXk2R3BteHBENmxWa2xLcUloSVE%7CCAIQACoqChtyc19oOmF5cXk2R3BteHBENmxWa2xLcUloSVESCwiE6LbIBhDApeBE&d=17924085&t=8",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487604cccbd3e0fd:0xec8f04459fd0433!9m1!1b1",
+        "text": {
+            "languageCode": "en-US",
+            "text": "People say this seafood restaurant offers fresh oysters, scallops, and turbot, as well as delicious prawn croquettes and Guinness bread. They highlight the reasonable prices, generous portions, and good value for the quality of food. They also like the friendly and attentive service, and the cozy, intimate atmosphere."
+        }
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Siena WD",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXTUudE6octvXCNrBBh8yZh2jINqve2-hgxAHy4MZ-NzT9djEqM=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/115655251563415331928/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25WTWNYcDFUbDlYYVU1bU9WTmxOVzVSYW5oQldsRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WTWNYcDFUbDlYYVU1bU9WTmxOVzVSYW5oQldsRRAB!2m1!1s0x487604cccbd3e0fd:0xec8f04459fd0433",
+            "name": "places/ChIJ_eDTy8wEdkgRMwT9WUTwyA4/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WTWNYcDFUbDlYYVU1bU9WTmxOVzVSYW5oQldsRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "It’s a gem, bannister. Got this out of a restaurant guide book and you never know with those so I was very pleased to find this place completely charming. Small space but done up beautifully, some nice classy lobsters painted on the tile etc, doesn’t feel cramped at all. My favorite kind of menu too, lots of good little plates like anchovies (perfect) grilled sardines (flawless- very good pickled fennel). I love prawns but none of the ones I’ve had in London have been deveined which I find very unpleasant but maybe it’s just a European thing so I didn’t enjoy that but the lemon mayo they came with??? Poetry. The smoked salmon on Guinness bread went great with it, and was oh my lord the stuff smoked salmon dreams are made of.\n\nJust that with one of their salads and you have a great meal but if you delve into entrees highly recommend the trout. It had a seaweed thing going on that we had great respect for. The crab salad sandwich could be really good but the bread was staleish and dry. There wasn’t much filling, might’ve just been a bad day for it. The salad that came with was great though. And DESSERT my god get the fig tart and maybe get ten of them. Warm, nutty, perfect bake, great fresh tasting fig, we were fighting over it and I’ve missed it since. The staff were wonderful and other diners were very classy looking people, sort of a fun mix of polish and punk. If you’ve been to NYC and enjoyed a place called Jeffrey’s Grocery this spot is up your alley- or if you’re just a human who likes a cool spot with great food."
+            },
+            "publishTime": "2025-10-05T16:10:55.509939721Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "It’s a gem, bannister. Got this out of a restaurant guide book and you never know with those so I was very pleased to find this place completely charming. Small space but done up beautifully, some nice classy lobsters painted on the tile etc, doesn’t feel cramped at all. My favorite kind of menu too, lots of good little plates like anchovies (perfect) grilled sardines (flawless- very good pickled fennel). I love prawns but none of the ones I’ve had in London have been deveined which I find very unpleasant but maybe it’s just a European thing so I didn’t enjoy that but the lemon mayo they came with??? Poetry. The smoked salmon on Guinness bread went great with it, and was oh my lord the stuff smoked salmon dreams are made of.\n\nJust that with one of their salads and you have a great meal but if you delve into entrees highly recommend the trout. It had a seaweed thing going on that we had great respect for. The crab salad sandwich could be really good but the bread was staleish and dry. There wasn’t much filling, might’ve just been a bad day for it. The salad that came with was great though. And DESSERT my god get the fig tart and maybe get ten of them. Warm, nutty, perfect bake, great fresh tasting fig, we were fighting over it and I’ve missed it since. The staff were wonderful and other diners were very classy looking people, sort of a fun mix of polish and punk. If you’ve been to NYC and enjoyed a place called Jeffrey’s Grocery this spot is up your alley- or if you’re just a human who likes a cool spot with great food."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "T. A. (Ttravelog)",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLkcFCztLS-ub7QtOe3RclKboqQjGgS0qBJPDgGe7DzbauLTw=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/102871105935664518078/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tseVV6aGpMVVJCZUc5T1pXUklRMlZLZVd4SFkwRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tseVV6aGpMVVJCZUc5T1pXUklRMlZLZVd4SFkwRRAB!2m1!1s0x487604cccbd3e0fd:0xec8f04459fd0433",
+            "name": "places/ChIJ_eDTy8wEdkgRMwT9WUTwyA4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tseVV6aGpMVVJCZUc5T1pXUklRMlZLZVd4SFkwRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Love the food. The vibe. The wine. Try monkfish, mussel and oysterrr. Nicely done with the coastal wine paring. Lovely staff."
+            },
+            "publishTime": "2025-11-13T13:03:38.664108849Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a week ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Love the food. The vibe. The wine. Try monkfish, mussel and oysterrr. Nicely done with the coastal wine paring. Lovely staff."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Jayne Bandy",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW7iuHAYEiR04a_Rn63hrCDh5fWapjwJsABfNrsaWOs1QOqTGE=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/111296072605439455504/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tsSU0xbENlR3RzU2tSb2VVZHBla2xZTkZRNFdXYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsSU0xbENlR3RzU2tSb2VVZHBla2xZTkZRNFdXYxAB!2m1!1s0x487604cccbd3e0fd:0xec8f04459fd0433",
+            "name": "places/ChIJ_eDTy8wEdkgRMwT9WUTwyA4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsSU0xbENlR3RzU2tSb2VVZHBla2xZTkZRNFdXYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "My husband and I enjoyed our evening very much. After a busy day in London we discovered your restaurant. Sharing a few dishes was just what we needed. Fresh produce and lovely flavours. Thank you."
+            },
+            "publishTime": "2025-06-27T16:16:49.407382780Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "5 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "My husband and I enjoyed our evening very much. After a busy day in London we discovered your restaurant. Sharing a few dishes was just what we needed. Fresh produce and lovely flavours. Thank you."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Adam Wright",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVwEPcP8kfcAhWjDL23Cd36_TLt1pbLX4EohkTOIaXx5Grms9I=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/118135113976235863868/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tORVpUZEVhWEo0VlMxWUxWWjNSM3BtWVZOVFQwRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tORVpUZEVhWEo0VlMxWUxWWjNSM3BtWVZOVFQwRRAB!2m1!1s0x487604cccbd3e0fd:0xec8f04459fd0433",
+            "name": "places/ChIJ_eDTy8wEdkgRMwT9WUTwyA4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tORVpUZEVhWEo0VlMxWUxWWjNSM3BtWVZOVFQwRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Everything is just done really well. Attention to detail, simple, not overly fussy. Friendly efficient service. Smart but laid-back. We just popped in after meeting friends in Covent Garden. Smoked salmon starter, toasted crab sandwich. Got a table with no reservation. All good!"
+            },
+            "publishTime": "2025-07-26T10:30:12.065295105Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "4 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Everything is just done really well. Attention to detail, simple, not overly fussy. Friendly efficient service. Smart but laid-back. We just popped in after meeting friends in Covent Garden. Smoked salmon starter, toasted crab sandwich. Got a table with no reservation. All good!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "A C",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWrqI-dK7lxxxPRwiYlK02Fk4_EATEvZVAcUNr06l2_NwuKZjjx3Q=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/104826251782316225820/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2paTFIyUlBNM3BWWVVKT0xYQnVRbEpIVkdVNGMwRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paTFIyUlBNM3BWWVVKT0xYQnVRbEpIVkdVNGMwRRAB!2m1!1s0x487604cccbd3e0fd:0xec8f04459fd0433",
+            "name": "places/ChIJ_eDTy8wEdkgRMwT9WUTwyA4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paTFIyUlBNM3BWWVVKT0xYQnVRbEpIVkdVNGMwRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "We had a wonderful seafood dinner at Parsons. The staff was incredibly friendly and attentive, making our experience truly enjoyable. The food was also excellent."
+            },
+            "publishTime": "2025-08-26T08:21:42.330015185Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "3 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "We had a wonderful seafood dinner at Parsons. The staff was incredibly friendly and attentive, making our experience truly enjoyable. The food was also excellent."
+            }
+        }
+    ],
+    "servesBeer": true,
+    "servesCoffee": true,
+    "servesDessert": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "servesWine": true,
+    "shortFormattedAddress": "39 Endell St, London",
+    "takeout": false,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "seafood_restaurant",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+    ],
+    "userRatingCount": 740,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.5160292302915,
+            "longitude": -0.12350586970849799
+        },
+        "low": {
+            "latitude": 51.5133312697085,
+            "longitude": -0.12620383029150203
+        }
+    },
+    "websiteUri": "https://www.parsonslondon.co.uk/",
+    "timestamp": 1764064800
+}

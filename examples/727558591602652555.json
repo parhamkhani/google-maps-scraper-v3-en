@@ -1,0 +1,954 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleParking": false
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "229",
+            "shortText": "229",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Strand",
+            "shortText": "Strand",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Temple",
+            "shortText": "Temple",
+            "types": [
+                "neighborhood",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2R 1BF",
+            "shortText": "WC2R 1BF",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Temple"
+                },
+                "name": "places/ChIJFxpJdLMEdkgRDlwTEZAvFIY",
+                "placeId": "ChIJFxpJdLMEdkgRDlwTEZAvFIY"
+            },
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Holborn"
+                },
+                "name": "places/ChIJA7_adjUbdkgR_XPGaE3twAI",
+                "placeId": "ChIJA7_adjUbdkgR_XPGaE3twAI"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Parking lot"
+                },
+                "name": "places/ChIJlb1Yr7QEdkgRQo37iEUa_cI",
+                "placeId": "ChIJlb1Yr7QEdkgRQo37iEUa_cI"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Instituto Cervantes of London"
+                },
+                "name": "places/ChIJO5-qKCMFdkgRn9cZgS2sw2k",
+                "placeId": "ChIJO5-qKCMFdkgRn9cZgS2sw2k",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 69.986145,
+                "travelDistanceMeters": 108.32175,
+                "types": [
+                    "establishment",
+                    "library",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Royal Courts of Justice"
+                },
+                "name": "places/ChIJheMywLQEdkgRbEEwYwdUwxc",
+                "placeId": "ChIJheMywLQEdkgRbEEwYwdUwxc",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 68.09386,
+                "travelDistanceMeters": 55.95573,
+                "types": [
+                    "courthouse",
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Central London County Court"
+                },
+                "name": "places/ChIJ0WT5H9cadkgRj4WAwTl6-rM",
+                "placeId": "ChIJ0WT5H9cadkgRj4WAwTl6-rM",
+                "spatialRelationship": "ACROSS_THE_ROAD",
+                "straightLineDistanceMeters": 104.66935,
+                "travelDistanceMeters": 23.232986,
+                "types": [
+                    "courthouse",
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Tesco Express"
+                },
+                "name": "places/ChIJVXBGmLQEdkgRb9qpe_aOFyk",
+                "placeId": "ChIJVXBGmLQEdkgRb9qpe_aOFyk",
+                "spatialRelationship": "BESIDE",
+                "straightLineDistanceMeters": 7.597084,
+                "travelDistanceMeters": 7.9624786,
+                "types": [
+                    "convenience_store",
+                    "establishment",
+                    "food",
+                    "grocery_or_supermarket",
+                    "point_of_interest",
+                    "store",
+                    "supermarket"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Old Bank of England"
+                },
+                "name": "places/ChIJU2tLX7MEdkgRfnpop4S_WI8",
+                "placeId": "ChIJU2tLX7MEdkgRfnpop4S_WI8",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 69.34936,
+                "travelDistanceMeters": 63.939064,
+                "types": [
+                    "bar",
+                    "establishment",
+                    "point_of_interest"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "curbsidePickup": true,
+    "currentOpeningHours": {
+        "nextOpenTime": "2025-12-11T11:30:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 15,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 15,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 15,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 15,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 15,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 16,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 15,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 16,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 16,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 16,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 17,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 15,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 17,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 17,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 17,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 15,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 15,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 11:30 AM – 3:30 PM, 5:00 – 10:00 PM",
+            "Tuesday: 11:30 AM – 3:30 PM, 5:00 – 10:00 PM",
+            "Wednesday: 11:30 AM – 3:30 PM, 5:00 – 10:00 PM",
+            "Thursday: 11:30 AM – 3:30 PM, 5:00 – 10:00 PM",
+            "Friday: 11:30 AM – 3:30 PM, 5:00 – 10:00 PM",
+            "Saturday: 12:00 – 10:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "青花鈺兰州牛肉面·地道西北菜—Noodle Nova"
+    },
+    "formattedAddress": "229 Strand, Temple, London WC2R 1BF, UK",
+    "goodForChildren": false,
+    "goodForWatchingSports": false,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x487605004e1c6b85:0xa18ceaf2dc2758b!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487605004e1c6b85:0xa18ceaf2dc2758b!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=727558591602652555&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487605004e1c6b85:0xa18ceaf2dc2758b!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487605004e1c6b85:0xa18ceaf2dc2758b!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=727558591602652555&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJhWscTgAFdkgRi3XCLa_OGAo",
+    "internationalPhoneNumber": "+44 7410 373737",
+    "liveMusic": false,
+    "location": {
+        "latitude": 51.513445,
+        "longitude": -0.11221289999999999
+    },
+    "menuForChildren": false,
+    "name": "places/ChIJhWscTgAFdkgRi3XCLa_OGAo",
+    "nationalPhoneNumber": "07410 373737",
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "青花鈺兰州牛肉面·地道西北菜—Noodle Nova",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUfHXIvkrkjPtoVgnoGYWJi5ofMr-QD0Y2XDuRZcC73ZWoG7M0=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117077047552109356826"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPyg3cD25_sZEG2Tz8fNF78yb20oGC9lar12Fp6&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPyg3cD25_sZEG2Tz8fNF78yb20oGC9lar12Fp6!2e10!4m2!3m1!1s0x487605004e1c6b85:0xa18ceaf2dc2758b",
+            "heightPx": 2700,
+            "name": "places/ChIJhWscTgAFdkgRi3XCLa_OGAo/photos/AZLasHpIAdD2t-9wgW9fy3CuMq8hc_CIaiUxK-H7ulAtczXFVpKDTbXADDZKF2h7RbJQf17jb1VFLMSeJcHCi_lggtuyObutG4ugeOUDky0WMpJobrUrmHZ8rC0SG2gqMPABxVhvJmRkqpWGV0rZhmW3qFo3GXuj_5CzfXbkFHG59MOpHQs4-0CvJJ6sFo1Ozw0sQitgvMCAZZfyvuwtiKFDS9zl_t4riUYtfhbcFu-Feb_7qlaNShmWvCm7RPiGshKRRB-o4tKXgoBBTfAIADemNIiuum3wTkc499w7n4HpyK0m9w",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Oussama Rg",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW8EJ_tGWbD7uaS1pz0_t6dcd_z-CSagk7EYpBkanijcxtcJZ2N=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/107166312749157616055"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBkbzM-UWg5ocjGbbv0m4Ss&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBkbzM-UWg5ocjGbbv0m4Ss!2e10!4m2!3m1!1s0x487605004e1c6b85:0xa18ceaf2dc2758b",
+            "heightPx": 4800,
+            "name": "places/ChIJhWscTgAFdkgRi3XCLa_OGAo/photos/AZLasHq45vhhxGR2EDkJh4yZO34UAMOh_Cx0koHyG8hYai_0xIJTjavLgT0v4zDMDyW3FCGm1I0dlZz-rWhOG5KBUyRAk2qXzbALLQhaRGCDW5r9GUg9XRku8i7RyqUOqkscFkax-1Mglmon-Hdn8-yDEsfWKbRfmNWLAksEtq_Dk2Wc0TnpeWXe1wKv6vEbkgy1Mk05OsOuMB6MqVWb4Bc3nPBWXTV2NY0QagWS9EoTeYMOhae-Y-D6dtyMaOAemvGYc9ERRJ6sZA7mOxpn6o4vM7XwpjJl2Ud-avr6xL092G6b6FZ5lwKlef971FWB-oUCLgD6ip8ASPFBUUVd3SI9uPtPO-Iabk5XsCe5hFCe8gRUWe0lIdnhbUVZ-VUhu0tHYHpTC0JnYlev3FIJnJWgUPbrecEmqKx2FsDOgceBHoVf7geiKM9EgPWGsHfdww",
+            "widthPx": 3600
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Bond Deng",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUrlUxbBxhJvKttOq95cT7ssRLjTAF944rUowe0OtjTsCtHx8mf=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/100393747362422675671"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBgvTMKe_8H28leSNyBMEMw&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBgvTMKe_8H28leSNyBMEMw!2e10!4m2!3m1!1s0x487605004e1c6b85:0xa18ceaf2dc2758b",
+            "heightPx": 3024,
+            "name": "places/ChIJhWscTgAFdkgRi3XCLa_OGAo/photos/AZLasHqQ8b_DDATEk7B3RRmFxEeeNMXyeqZ3XFVJ44z9jY19w8qCXaXIzG9gSgneK0EghuVh-6QxDyviFLs_gy3B9fWSN4YRpl0RNw1bz0zgWN9riZWtEM93kfjqJMQtq7KSBMEIN98oWnY0dbgA92hYXBXnk2h5lQaeH4q_uFh1l_JnxZCLveFvd4vovlkMMf_BujRzKaPHBxVT38raexpqPNT9wPwHY21i0PRfrsqwo18UaxUGYlNaZefwDStQSVWJinczG6Hys_IKjJOkm1XU8r0HAuQ2S1-z2ZpHAX_bQpwGyo8mtmOupS8pYB6EgUKbS9HO4-18QbJKkC0l0D6-75XRzu7cHSMcj6D4RHhQIh2qKWZGBRwJMgOHDV3EXW4rdqtD7ulRwItaKMidpAvymAgLA8a5TpDrrRbz5XCogIpalRizir_6lvh9Gq_Zfg",
+            "widthPx": 4032
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Lamak Haim",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL6Q-Ib_1kvaKCdm3siSug3-UPTt3vfM4X9vS7Du-aF8W2Vuv5A=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/109322381056229164917"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDjoP7FhdFF96hGn5iEK_XS&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDjoP7FhdFF96hGn5iEK_XS!2e10!4m2!3m1!1s0x487605004e1c6b85:0xa18ceaf2dc2758b",
+            "heightPx": 4032,
+            "name": "places/ChIJhWscTgAFdkgRi3XCLa_OGAo/photos/AZLasHoE96IEpP_IAkI68P76ubcoHKP9yJYPV9XocWQK1oBuqrSHjsCvrJ7iw-WbwAo6ZJpA1VSyng2f8vcBSFbibSEPfy7mFF9iSbSUZ0H62miZ3GhNJtfzww0cvCB8p1dm3JF5vrTjCxzr8zmjdeg20PWOvRVBMy5n2Bc60es0lQujTSqPXOjYJFMgzGn-EIdtx6y7FIu_vKNyQBPRGwCOe6WnlH8TGiiEQEPq3gsDxlVYFTFQfnhai0XRZ5CrJ_DZ6Smkzwt7UjZeqI_Xp5TGzdM_9xp1qoLqXyEC4LLtakeB39not997wyBA4x1hvZTNXzggXNmBbYTagrzfeiZsF4LGqfAOJW5torL12l5Yfzvwz_tbquzixbf_dRpVm110zrImHrsSRQvQSxfymvG9Zq7a0V21_I4O2g6GsmEjdlQWQ4OU9WKYSXGOE3toJQ",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Lamak Haim",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL6Q-Ib_1kvaKCdm3siSug3-UPTt3vfM4X9vS7Du-aF8W2Vuv5A=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/109322381056229164917"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCUPyAoBjepJL6ua28z24rZ&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCUPyAoBjepJL6ua28z24rZ!2e10!4m2!3m1!1s0x487605004e1c6b85:0xa18ceaf2dc2758b",
+            "heightPx": 4800,
+            "name": "places/ChIJhWscTgAFdkgRi3XCLa_OGAo/photos/AZLasHqGNPwcRY8vTzsrQd8j_-9XKEezd755Lge-3Pbu5DzslGjOkuQGVOQwqbTj-VXZp3ZIyukTVv5vv5hyMsRsNSpxMvLTomPebAEb5--VuWux99qJoqkd5dckBrt-QmnkghukcCIHXTTNo144aEBGy_u-yE3U17SzW1dFXCzznko0EOzTtOG_DZwacScXU_hl6rc1G8UY6OrCEogMUaLRL8ENRLQZab8grUMVZImmh60E_j_A750dHsH4qO5qt4bUYF_nA1eAgi8UKHVDqUPxWXrSqSOYcJKf8-EhAJSXPcIbn1fsSW31bpylgu6q-ujjpbkcwFZzZxlbz2xvg_GIHsTKE16GYTCZ46Jo6nwCq9Tt9GCh02TsONe6oxVp4JePKLHBJP6kT5cmvzz0JB-jjJ2yJ7GNATvG2YGq_z2OBxyYrQqwd2Ge2kyga_wJrqgE",
+            "widthPx": 3600
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Ying",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJXYBW8f6ONBu40sxcBwY1PjanFdv2gmqxKmOxJ_Zz64sHEig=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/103391226882425006676"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEP_Jr9iW-6T6TQ&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEP_Jr9iW-6T6TQ!2e10!4m2!3m1!1s0x487605004e1c6b85:0xa18ceaf2dc2758b",
+            "heightPx": 1280,
+            "name": "places/ChIJhWscTgAFdkgRi3XCLa_OGAo/photos/AZLasHrcX82GJjaIGa216jNXREfLt59qUw3ghkJse3oo-MnDdpTj_jDVUjU9YHTM-s0wZwwPj36qOJS9l12qNHBXzKJZ3XwcYdbfPN8qwYBgXAZ6-Qna8z6vk6zTfOkkHgaIgGtPpM80lJ3KhGALhQIqV5QMAvFVHG7xyvaXN_hBSA8IbsdltUvvosy_b3NowtvffqsgR3WuU7ZM2HDC7jiaNspwZ2rKm1U7EeG__gTHFuR073CXVFTGD3m0_f36KwYjn-Eo3GnuaXNA_wD4qfmD0GGaKf9EnpFZi6Yymd_kcDhNdADj3lW_T_ahb8A6NbEmuHvFT2IZhqxTQ4y_ZtilRRi-9tTqih3sxrN3DCMvztY8pyGLacu4kr7hlycfIr4DQ0IYrmZFdireU5RuwROodlNavHXHLMzvSNYtu5mNUOgrKQ",
+            "widthPx": 1706
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "K K",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKemNWylbIl3jmAlOAHKkNCMNa56CN5u-EI0uOTKgCqrW2g3w=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/106525369420391701960"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDYnk4N1vQgkqjlgBusPpey&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDYnk4N1vQgkqjlgBusPpey!2e10!4m2!3m1!1s0x487605004e1c6b85:0xa18ceaf2dc2758b",
+            "heightPx": 3024,
+            "name": "places/ChIJhWscTgAFdkgRi3XCLa_OGAo/photos/AZLasHqB3_kqyqvWm6RvjT8o51gHbSAg8kWxJx6S5ZaXFo49j6vxM1fhQqXRR2nuudOhoT1Kcne3TkwuQZjyL2cTvCwlO2gUAhr-MjctKEtlQmFG3Av69dAajHVqgtY_MFDPVnH3LLud9KhGeQqdVkBV3_9sfPqPNBtekeO9YQs67qZrDLwnw4FCa963_GEpQ_bO7iADKVaDH98SE3kRZj_OV6TqKZfjgELMYa3HeDZv_Pq-SdBhjN_w3OwV9kPZQaEfXl_cogaLl0CbMIwdWvMruwHIezXM6Rw7_awYAaQAKeksF9hcyKVhOVcFE0NHDOBfCcdEbU6gFsYUCzM2eNwv4kPajPAgnXNXZBoxbwj79idV0tNEF3dAkdd5s4Uuep2FVVD3GlAdTcji1LjGN9yXPMiuCbixO8y7IfMq3aH-WYJEdpNGucQBLAqBA__5v5qd",
+            "widthPx": 4032
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "yixuan",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI4aK-iwLnNbSCaktUMiVOymuXn-3FBDiMqxGBZloPOKo7XnQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/103776630659788627679"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEMqIlYi05e3yiAE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEMqIlYi05e3yiAE!2e10!4m2!3m1!1s0x487605004e1c6b85:0xa18ceaf2dc2758b",
+            "heightPx": 4800,
+            "name": "places/ChIJhWscTgAFdkgRi3XCLa_OGAo/photos/AZLasHrp-CG5VSw33X8-OZKgnkMFyk4U-k0idQ33lgtZHc2VM4_oR2VgRimI9pofTzK6ybI5_UQb0zu64Sp7Eqos4HnieSTO0nnaSh7J-DP360xEx4DS1h7sANDGjwA_hXFP1tUHnnDp1_pxr0XinY5BdemZo84anBEnyiET3q8AiTWwGwwUj0A39sC0I9htfoTCPS_0kjtM9IMpbWxRPReHXsPcK8mMROHwauO2al04H52O3DvDVTi0UfGitj4j74lS-2xypk9vOr3oFedrC2lhP_1kyJWcDTqn0BkMjYHLT8x6eGgysPWNd8RhR16M9qFpRYYh7ZgiK2pG5FY90upj9_pPG8_yniRW0wYAjvRnD2vQgENga2uIhsYelq5tylKcieqKn8xO3X8Oo62v9gybAhNJiwL4xbcTKKZUmzuPYCgBq58",
+            "widthPx": 3600
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Sherry Yang",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLbXGCljfgJ5Xl7ia65jlqIYN_0ttCSpnwk9IZ1ZdEho9bWXQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/102506659179862245073"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDW138sYZJJskDdmpQpOOoI&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDW138sYZJJskDdmpQpOOoI!2e10!4m2!3m1!1s0x487605004e1c6b85:0xa18ceaf2dc2758b",
+            "heightPx": 2083,
+            "name": "places/ChIJhWscTgAFdkgRi3XCLa_OGAo/photos/AZLasHoDB5M6iz8oABayyHREqYKIfLx3VejY8vRUXBXPqIoWzN7cihUjGK0xR3LuZmjalbrbEoWVHC2wTZekZ9tbtZOjBDmJsZ4Itor3MonvZvK5IDhEzBScG07m3S6EitmWB60Wyb5VyKKYDz1tZPsJl0lEwzvAr1-2c0byFfooOboedAYbw7SrMMjTVc6odS8CDauwnzgXxiqRypSJ0Cc3M6PgTfmKIkiIcrIle7nLJaLBYtcxVpgb9KQ1_SSPDfWAxyvd6C-zf7cm4KTkp-XWvmMos_vmTv4hgyTxBilKFlwmkqmfXQizPorO3xyNnxZY8bKRevUrjYWNYuvEVhuw1iWg0yTUMQghG_-28epI3PNzlGEHpCqIDRSdI0K5PtHUKilvW2vWe4LpvZtZ_kXuaUlU6f5ZdSBjIFdnzXJb5BeyR_efO4jpcR-wdrVJwakg",
+            "widthPx": 2774
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "青花鈺兰州牛肉面·地道西北菜—Noodle Nova",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUfHXIvkrkjPtoVgnoGYWJi5ofMr-QD0Y2XDuRZcC73ZWoG7M0=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117077047552109356826"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOT1FO1F7TD3DxbghkGQopgg4BaJX2iib72hBjZ&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOT1FO1F7TD3DxbghkGQopgg4BaJX2iib72hBjZ!2e10!4m2!3m1!1s0x487605004e1c6b85:0xa18ceaf2dc2758b",
+            "heightPx": 3200,
+            "name": "places/ChIJhWscTgAFdkgRi3XCLa_OGAo/photos/AZLasHpNtDrS_fFMFmAhYWP3t8bxtXipIBy3Ze7bqNNImdCmkkv50Y7SoDpL5pOZ0OZVBdqbFTNF78UW9PYgNMOGwfll2j9APV1T3qseeWrxmjeeqVfNuE9zN8_Jwodm8HmpkDcbbL5KfNNSHLkp7-GZEi6fIifKyc-pRW9Lz6nKS6lcVTg4s7_yMUa-jyijMcaqgbKoxI8jGOQf165OTxro6mWLXf49cr5scOdQJAYEynFp5_K_jYGrjefe-b4FqyplonqdrtUnRIttK8qhy_bvdX5fXQlsTjA7y6Azsl5xd7Db6A",
+            "widthPx": 4800
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV7Q+94 London, UK",
+        "globalCode": "9C3XGV7Q+94"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "229 Strand"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2R 1BF",
+        "regionCode": "GB"
+    },
+    "priceRange": {
+        "endPrice": {
+            "currencyCode": "GBP",
+            "units": "20"
+        },
+        "startPrice": {
+            "currencyCode": "GBP",
+            "units": "10"
+        }
+    },
+    "primaryType": "chinese_restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Chinese Restaurant"
+    },
+    "rating": 4.7,
+    "regularOpeningHours": {
+        "nextOpenTime": "2025-12-11T11:30:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 15,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 15,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 15,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 15,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 15,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 11:30 AM – 3:30 PM, 5:00 – 10:00 PM",
+            "Tuesday: 11:30 AM – 3:30 PM, 5:00 – 10:00 PM",
+            "Wednesday: 11:30 AM – 3:30 PM, 5:00 – 10:00 PM",
+            "Thursday: 11:30 AM – 3:30 PM, 5:00 – 10:00 PM",
+            "Friday: 11:30 AM – 3:30 PM, 5:00 – 10:00 PM",
+            "Saturday: 12:00 – 10:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "reservable": true,
+    "restroom": true,
+    "reviewSummary": {
+        "disclosureText": {
+            "languageCode": "en-US",
+            "text": "Summarized with Gemini"
+        },
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=5%401:CAIQACodChtyc19oOjY5Qzc2em1OZk4yQmR0OEpwUHZtVWc%7CCAIQACorChtyc19oOjY5Qzc2em1OZk4yQmR0OEpwUHZtVWcSDAiayMvBBhCoxICKAQ&d=17924085&t=8",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487605004e1c6b85:0xa18ceaf2dc2758b!9m1!1b1",
+        "text": {
+            "languageCode": "en-US",
+            "text": "Diners say this Chinese restaurant serves delicious handmade noodles, with many mentioning the Lanzhou beef noodle soup. They also highlight the authentic Chinese flavors and the fantastic atmosphere."
+        }
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Lamak Haim",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL6Q-Ib_1kvaKCdm3siSug3-UPTt3vfM4X9vS7Du-aF8W2Vuv5A=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/109322381056229164917/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tGbWJXWnRWVGc1ZERoNFRWTk5hVVkzTW10NWJsRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tGbWJXWnRWVGc1ZERoNFRWTk5hVVkzTW10NWJsRRAB!2m1!1s0x487605004e1c6b85:0xa18ceaf2dc2758b",
+            "name": "places/ChIJhWscTgAFdkgRi3XCLa_OGAo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGbWJXWnRWVGc1ZERoNFRWTk5hVVkzTW10NWJsRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Ordered Lanzhou Signature Hand-Pulled Beef Noodles with wide noodles. The food was delicious and is a must try. All meats are halal but they do serve alcohol.\n\nService was very attentive but didn’t like that you have to order via QR code.\n\nThe atmosphere was good, arrived at 5pm when they reopened, well past 5pm as the staff wasn’t paying attention to the clock. We watched the lady drinking water through the window….\nThe decorations was very nice and not over the top. A lot of customers from China so the food must be amazing if it attracts people from the people who have it at home.\n\nDefinitely would come back again"
+            },
+            "publishTime": "2025-11-15T13:09:17.526061632Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "3 weeks ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Ordered Lanzhou Signature Hand-Pulled Beef Noodles with wide noodles. The food was delicious and is a must try. All meats are halal but they do serve alcohol.\n\nService was very attentive but didn’t like that you have to order via QR code.\n\nThe atmosphere was good, arrived at 5pm when they reopened, well past 5pm as the staff wasn’t paying attention to the clock. We watched the lady drinking water through the window….\nThe decorations was very nice and not over the top. A lot of customers from China so the food must be amazing if it attracts people from the people who have it at home.\n\nDefinitely would come back again"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "K K",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKemNWylbIl3jmAlOAHKkNCMNa56CN5u-EI0uOTKgCqrW2g3w=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/106525369420391701960/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkclgyaG5ZWGhyUjBjMVlUaEhVVjlPTm1wNU5IYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkclgyaG5ZWGhyUjBjMVlUaEhVVjlPTm1wNU5IYxAB!2m1!1s0x487605004e1c6b85:0xa18ceaf2dc2758b",
+            "name": "places/ChIJhWscTgAFdkgRi3XCLa_OGAo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkclgyaG5ZWGhyUjBjMVlUaEhVVjlPTm1wNU5IYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "This restaurant offers an impressive variety of dishes, but what stood out to me were the stir-fried pulled noodles 爆炒拉条 (or stir-fried sliced noodles 爆炒面片) and the braised lamb 黄焖羊肉—both were absolutely delicious. The quality of the meat here is truly top-notch. 👍\n\nThe service was also exceptional. The staff were friendly, patient, and always wore a smile, making the dining experience even more pleasant. 😊\n\nWhat makes this place special is its deep connection to Chinese culture. From Dunhuang-style mural touches to blue-and-white porcelain tiles, the décor reflects a thoughtful cultural atmosphere that adds depth to the meal. 🥸\n\nLocated right across from the Royal Courts of Justice, it’s both convenient and well worth a visit. I highly recommend giving it a try."
+            },
+            "publishTime": "2025-09-25T16:57:29.001963361Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "This restaurant offers an impressive variety of dishes, but what stood out to me were the stir-fried pulled noodles 爆炒拉条 (or stir-fried sliced noodles 爆炒面片) and the braised lamb 黄焖羊肉—both were absolutely delicious. The quality of the meat here is truly top-notch. 👍\n\nThe service was also exceptional. The staff were friendly, patient, and always wore a smile, making the dining experience even more pleasant. 😊\n\nWhat makes this place special is its deep connection to Chinese culture. From Dunhuang-style mural touches to blue-and-white porcelain tiles, the décor reflects a thoughtful cultural atmosphere that adds depth to the meal. 🥸\n\nLocated right across from the Royal Courts of Justice, it’s both convenient and well worth a visit. I highly recommend giving it a try."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Eunice Chan",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJeu9TqK6JfLhPvcaLTu79GkojnbWjhSIarIeCKgQCywA32rg=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/100113696595135823262/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xSVWFXNVZOa1pNVjFsUVFtdE9hbWswZEcxc1kxRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSVWFXNVZOa1pNVjFsUVFtdE9hbWswZEcxc1kxRRAB!2m1!1s0x487605004e1c6b85:0xa18ceaf2dc2758b",
+            "name": "places/ChIJhWscTgAFdkgRi3XCLa_OGAo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSVWFXNVZOa1pNVjFsUVFtdE9hbWswZEcxc1kxRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Food was delicious!\n\nHighly recommend:\n- signature beef noodles: you get to choose the thickness of the noodles you prefer - suggest going with the thinner ones as this is more traditionally how soup noodles are served but regardless you have the choice to pick!\n- hand -grabbed mutton: the meat is so tender and just falls off the bone, perfectly paired with the cumin powder that you dip into\n\nService could be tightened up a bit - be a bit more proactive / self-guided and considerate / observant, we kept getting asked if we wanted more water (>5 times while we were there), I appreciate the attention but in the context of customer service it would be a lot smoother and less disruptive if a large jug could just be placed on the table or if water was just topped up without being asked repeatedly in the middle of our conversations"
+            },
+            "publishTime": "2025-09-12T09:54:16.127154490Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "3 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Food was delicious!\n\nHighly recommend:\n- signature beef noodles: you get to choose the thickness of the noodles you prefer - suggest going with the thinner ones as this is more traditionally how soup noodles are served but regardless you have the choice to pick!\n- hand -grabbed mutton: the meat is so tender and just falls off the bone, perfectly paired with the cumin powder that you dip into\n\nService could be tightened up a bit - be a bit more proactive / self-guided and considerate / observant, we kept getting asked if we wanted more water (>5 times while we were there), I appreciate the attention but in the context of customer service it would be a lot smoother and less disruptive if a large jug could just be placed on the table or if water was just topped up without being asked repeatedly in the middle of our conversations"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Nusynasy S",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVVPlEFHZcHZw0Vsv7Tw04Z5plF-RlpZPBOWqiWa7u8mHWJnz8UnA=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/102518171811128092831/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pKcU1GZEtjVVpZWm1WWGJsWnhlVkJoTVRjNGNXYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKcU1GZEtjVVpZWm1WWGJsWnhlVkJoTVRjNGNXYxAB!2m1!1s0x487605004e1c6b85:0xa18ceaf2dc2758b",
+            "name": "places/ChIJhWscTgAFdkgRi3XCLa_OGAo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKcU1GZEtjVVpZWm1WWGJsWnhlVkJoTVRjNGNXYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Absolutely gorgeous little spot and I am so glad i found it. Super authentic flavour and so so nice service. Not overly expensive at all. Watch out for the location, this building survived the great fire 🔥of London"
+            },
+            "publishTime": "2025-11-08T17:59:52.393501266Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Absolutely gorgeous little spot and I am so glad i found it. Super authentic flavour and so so nice service. Not overly expensive at all. Watch out for the location, this building survived the great fire 🔥of London"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Zhou Shuyang",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLlj5-Hs9hJVj0swCP9QzQX-hiNPbLas5qJQX7w90iuItDZsg=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/107682546038367285398/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kxV1pGQk9jemhxVDAwNFRrWm9kaTF3UW1WWFdYYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxV1pGQk9jemhxVDAwNFRrWm9kaTF3UW1WWFdYYxAB!2m1!1s0x487605004e1c6b85:0xa18ceaf2dc2758b",
+            "name": "places/ChIJhWscTgAFdkgRi3XCLa_OGAo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxV1pGQk9jemhxVDAwNFRrWm9kaTF3UW1WWFdYYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "A real hidden gem in London for Lanzhou beef noodles and Northwestern Chinese cuisine! The noodles are perfectly chewy, the broth is rich and flavorful, and the taste is truly authentic. The portions are generous and the prices are very reasonable. The restaurant has a lovely atmosphere with beautiful wall art and traditional blue-and-white bowls that add a special touch. The staff are friendly and welcoming. Highly recommend trying their Lanzhou beef noodles and liangpi (cold skin noodles) — absolutely delicious! Will definitely come back again."
+            },
+            "publishTime": "2025-09-03T18:54:03.342006180Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "3 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "A real hidden gem in London for Lanzhou beef noodles and Northwestern Chinese cuisine! The noodles are perfectly chewy, the broth is rich and flavorful, and the taste is truly authentic. The portions are generous and the prices are very reasonable. The restaurant has a lovely atmosphere with beautiful wall art and traditional blue-and-white bowls that add a special touch. The staff are friendly and welcoming. Highly recommend trying their Lanzhou beef noodles and liangpi (cold skin noodles) — absolutely delicious! Will definitely come back again."
+            }
+        }
+    ],
+    "servesBeer": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "servesWine": true,
+    "shortFormattedAddress": "229 Strand, London",
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "chinese_restaurant",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+    ],
+    "userRatingCount": 198,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.51485293029149,
+            "longitude": -0.11090966970849796
+        },
+        "low": {
+            "latitude": 51.51215496970849,
+            "longitude": -0.113607630291502
+        }
+    },
+    "websiteUri": "http://www.noodlenova.co.uk/",
+    "timestamp": 1765447200
+}

@@ -1,0 +1,618 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "430",
+            "shortText": "430",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Strand",
+            "shortText": "Strand",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2R 0QE",
+            "shortText": "WC2R 0QE",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJs4GOh8sEdkgRRiBFZKMP8ZE",
+                "placeId": "ChIJs4GOh8sEdkgRRiBFZKMP8ZE"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Coutts"
+                },
+                "name": "places/ChIJH1D0jtQadkgRmLkZ5tQG4dY",
+                "placeId": "ChIJH1D0jtQadkgRmLkZ5tQG4dY",
+                "straightLineDistanceMeters": 40.539154,
+                "travelDistanceMeters": 131.5776,
+                "types": [
+                    "bank",
+                    "establishment",
+                    "finance",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "McDonald's"
+                },
+                "name": "places/ChIJjeMSvM4EdkgRfqyISHLyD4Y",
+                "placeId": "ChIJjeMSvM4EdkgRfqyISHLyD4Y",
+                "straightLineDistanceMeters": 63.28563,
+                "travelDistanceMeters": 123.46223,
+                "types": [
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Trafalgar Square"
+                },
+                "name": "places/ChIJH-tBOc4EdkgRJ8aJ8P1CUxo",
+                "placeId": "ChIJH-tBOc4EdkgRJ8aJ8P1CUxo",
+                "straightLineDistanceMeters": 271.62418,
+                "travelDistanceMeters": 259.75168,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Lloyds Bank"
+                },
+                "name": "places/ChIJtVs5DtEEdkgR0CGjwPkECO0",
+                "placeId": "ChIJtVs5DtEEdkgR0CGjwPkECO0",
+                "straightLineDistanceMeters": 58.965664,
+                "travelDistanceMeters": 75.47685,
+                "types": [
+                    "atm",
+                    "bank",
+                    "establishment",
+                    "finance",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "National Portrait Gallery"
+                },
+                "name": "places/ChIJeclqF84EdkgRYkL4mtJ7rLM",
+                "placeId": "ChIJeclqF84EdkgRYkL4mtJ7rLM",
+                "straightLineDistanceMeters": 232.76329,
+                "travelDistanceMeters": 192.341,
+                "types": [
+                    "art_gallery",
+                    "establishment",
+                    "museum",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "currentOpeningHours": {
+        "nextOpenTime": "2025-12-11T12:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 14,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 18,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 14,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 18,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 14,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 18,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: 12:00 – 2:30 PM, 6:00 – 9:00 PM",
+            "Friday: 12:00 – 2:30 PM, 6:00 – 9:00 PM",
+            "Saturday: 12:00 – 2:30 PM, 6:00 – 9:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "delivery": true,
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Liu Xiaomian Charing Cross"
+    },
+    "formattedAddress": "430 Strand, London WC2R 0QE, UK",
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x4876052c920dfc69:0x1e377f5c1bbc4613!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x4876052c920dfc69:0x1e377f5c1bbc4613!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=2177348978435966483&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x4876052c920dfc69:0x1e377f5c1bbc4613!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x4876052c920dfc69:0x1e377f5c1bbc4613!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=2177348978435966483&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJafwNkiwFdkgRE0a8G1x_Nx4",
+    "location": {
+        "latitude": 51.5093528,
+        "longitude": -0.12476019999999999
+    },
+    "name": "places/ChIJafwNkiwFdkgRE0a8G1x_Nx4",
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Liu Xiaomian Charing Cross",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIRBFrUGPRIq233ujUvJVfF1E-E8RwqZh_-RockdFQIQdpOKg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/102316611477597200806"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOm8HMTpwz1HIxnCOdQaVlf2M2s7dNKy6ZKrSdI&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOm8HMTpwz1HIxnCOdQaVlf2M2s7dNKy6ZKrSdI!2e10!4m2!3m1!1s0x4876052c920dfc69:0x1e377f5c1bbc4613",
+            "heightPx": 4032,
+            "name": "places/ChIJafwNkiwFdkgRE0a8G1x_Nx4/photos/AZLasHriYBm2OZYdBiq26J9ZudErHGjVdrimqfUMnfeYgdkB4ITqeUeKfvqFPdKw94Q9y-ckMt4P8psP-IF9N5jx1sRV4GbifUpPI01-9ZmP3c5UkPz79krgqc50BX9k26t9HOPnqyTYNQBiKXTi4O2GAXM4ycdty_k6Oj2kWGQbSYQ_XBXh6cBnlIwisLTmQnCYan0cm2AW0iJRQ9r58Ngnxhbyjt_5-Xd6miPRllWiVJ6JuClfVZHVHd0pkpc-m0NSJLWOgfMokszMOaE_0BuykqpxqvOJOq3KDef5KMj-vPfTgw",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Liu Xiaomian Charing Cross",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIRBFrUGPRIq233ujUvJVfF1E-E8RwqZh_-RockdFQIQdpOKg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/102316611477597200806"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOy9AkfJFDvJffF1O7eETOAlco3Y6FXxhMEMDWP&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOy9AkfJFDvJffF1O7eETOAlco3Y6FXxhMEMDWP!2e10!4m2!3m1!1s0x4876052c920dfc69:0x1e377f5c1bbc4613",
+            "heightPx": 2560,
+            "name": "places/ChIJafwNkiwFdkgRE0a8G1x_Nx4/photos/AZLasHqgPQ3r43wWdTYH5e6yXqd-jkDHERU-rxH89NCV43qpKn2RQmjjGzyFYS3bMSmVQ_1EmzetsV92ePuIOta9V8yZPxdp7U9s0teFGwbhHT9ZQHxezvj1FvU6PoEbR4VVx-q2Tk29zPUPGDFbFG-bpA3aXw12OWOj1-M-tT4Jmy25yk73bOaOFORY9H5MHkBIk0EWwMBDw9wUvIOyLx4x3SP4vDcGGUYwZkA9qYLRd8_Se6GfO2lLxlMsCQ-rn_MWWl_Ugca3QrBi3evZUiTFzYEl04jLT4793e5r5TKbyjybpg",
+            "widthPx": 1920
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Charlenemagne Aloof",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJwh33oqgKQRm2XwEE2fZgOE6VpnwYAi5fwghNWc11ddmGR1w=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110010580365898903751"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhB1khKEcXKN6Aam-ddCoLBm&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhB1khKEcXKN6Aam-ddCoLBm!2e10!4m2!3m1!1s0x4876052c920dfc69:0x1e377f5c1bbc4613",
+            "heightPx": 4371,
+            "name": "places/ChIJafwNkiwFdkgRE0a8G1x_Nx4/photos/AZLasHrenvipC5CTEaVVaa-s5LOWsVhjWKM7qdB0E7qka-LX_A_-vHh6ZXh8ZOwk7UXVIjAvBd1DFTtShCA_LP8-71cpc35P14RNhLVeFeD6ZO-c-PyQzj-fXX9FwcwgfHr0CtgWvLaiba-36ap4Uzscxu1sTeboV5ui_Ds0livrfltTYnS8VIzETODsHCGtHi2-LC4Nvx9-7CN6cMWufWGz7gxhQ4De7T3HHvxjRPJv_OfUS8tYSI6t5Sg0YciX7x6tbRK3Z3zsa7YiLbkYZ95toifep4Ib2jCCe3FyJcR0m5qXZQAmqpFcvew10u5vIzE7FasQVNYE7s6TpxEBEIHFjQiEkNJTz4eWUxf7v0dbzwPmCq0mEusNNlpg29VEHs6ewy6wFOIjYJ5rLVdKjZmsT9UTFxrSRwwjz6FMSmNhFYncnYb-ln-Y1HNgZVyd1RKY",
+            "widthPx": 3009
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "linda liu",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIQW4VYhppyV6LUEis2iAoMO6RTMelM960v5AQSRTamRy8nFw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117717002097561595074"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAnud0hhSQffWhmA8b-DGQz&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAnud0hhSQffWhmA8b-DGQz!2e10!4m2!3m1!1s0x4876052c920dfc69:0x1e377f5c1bbc4613",
+            "heightPx": 4032,
+            "name": "places/ChIJafwNkiwFdkgRE0a8G1x_Nx4/photos/AZLasHojyWtdeQQqX1f8wXpd1xBPfTrydQ-S3V4L5WU2ENNRV4TxjJZifMBrLrcsJ43PBl-25QT8rK3a5JMgYlHBLLmkNwa-N5nbNoC8uUpoSZW7_o4Sprv7qBCmvJG223g_iKpk0Rykoyv58Y-_yEWfnxn9XVPphOd7_iRrN0FD2LpXEX3nNOBW_2phI_PZGVcXaHpXnOoPi2eAgKq1Y7aQAeB1MgEjVFToeDKyTluUGsiQlBN3IX8v7bI1x06pQNSympXzl12uk2sThw4Cyo5pLvJewf02xz8CezYN0tHbxQSbkPcTqJI2dsZ1czWfg6lhTUeko4g7LGmhrenvgs1Phd69HWY62kvaGHXbdJUHU0nmlunSMo_Y4ZxJMd6tafUpb8prA0AdrzHfb5pBJB8dyvNTK-PPk9WUVSxNjE8MSVZj0pyQrf4FYfLpkzJuhdX3",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "linda liu",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIQW4VYhppyV6LUEis2iAoMO6RTMelM960v5AQSRTamRy8nFw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117717002097561595074"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBbBuRWN7GVpsgvozr-Hgf4&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBbBuRWN7GVpsgvozr-Hgf4!2e10!4m2!3m1!1s0x4876052c920dfc69:0x1e377f5c1bbc4613",
+            "heightPx": 4032,
+            "name": "places/ChIJafwNkiwFdkgRE0a8G1x_Nx4/photos/AZLasHrnIDzQzo7nEJr7ym6n4CU-Ja7AUu-Lu2HscNdc4KFe53F9Dks7fpt5B3-hhMHJ8mA1FSCu-C9Z6ve6pWh4SIBOUcwQZbTnze_KDfVU7vFMPhibXibEJCiiZfn2R164wLaHutv0kPB3pCsJ6aX4rK7ZVokT4vBS0klNRDVBSoJ76u9YPka_6kwQj5ge6zG9TH-z27cHc3qp360cSMjKekOcvlcyH47CAzd6FS8fqUjqPajUxPKEutrNv92kQxIL2uNPTiovDm1VwPKeYmFr2cL-HnniBM4OoVWygcIyt9Ay8A1yFbStWRROk9Pib8KALeKvw-1MT9y_4EJZsxQ47jeR9FGaw9ZPPxTnIbD3siYUnN3hZRfSIUjR64zGTsTpGcpYHqDE2rlJSb6i75rXi3NZiU8-7rDWIAZypqkyBrRObWv5LKymIML8F2DfTzJk",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Charlenemagne Aloof",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJwh33oqgKQRm2XwEE2fZgOE6VpnwYAi5fwghNWc11ddmGR1w=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110010580365898903751"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCI2dGGb23qssoxKrkzgKyh&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCI2dGGb23qssoxKrkzgKyh!2e10!4m2!3m1!1s0x4876052c920dfc69:0x1e377f5c1bbc4613",
+            "heightPx": 4032,
+            "name": "places/ChIJafwNkiwFdkgRE0a8G1x_Nx4/photos/AZLasHqZoHIOG0KlJ9XQbpgnbXOaiypDwuxFIq9VQR9RE7OWJlBB_rbqg_MOskpMQpo5iZthv8XsCsAO-xoKh49CNDKgBgc8kOZEoEEmg95igrTRIcVvxTh_3jyx7VKdAQ_SiVhSu2dNs-K8Q9j-NfBtOI66iowNjVf6z30-ePUz6U9Jjchjkd6ToZJiKj7bnIZDJrvQl3tVfqfYgjV7SUMlxw8k8fYaXFhxsTr-lmep4knP3gDdFFI1JdNCfRaUGWablmd7pShVeKrJMTenSE9y4wKi4uZKrR2yjA00_JX7I2hVt5A_hJF-nLGoi0ksUwlbu7oWS97EuihTXK2013W3HrhN7ok_ubZclmm0qlAwgpKltCHtiSb7jVVVrTn8fKhaThmasFZlRcq-WHkyHRIobRMpNHIFRBS1UEaIBO-hjErdXaXdK_QC5oPjgTTOmikt",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "linda liu",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIQW4VYhppyV6LUEis2iAoMO6RTMelM960v5AQSRTamRy8nFw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117717002097561595074"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCkBb76s4y_whnok_Vm44nR&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCkBb76s4y_whnok_Vm44nR!2e10!4m2!3m1!1s0x4876052c920dfc69:0x1e377f5c1bbc4613",
+            "heightPx": 4032,
+            "name": "places/ChIJafwNkiwFdkgRE0a8G1x_Nx4/photos/AZLasHru9Z6PmC4zSCggaNLpWuafWp_jEL5e3wN4Qk-1zW_74dDXkZmMrDUUL7Lw27qXgiMXg49T-k4uOaQ4vGXedlOAr3uJrO3tceIN6Xl-O4Rpglt4w6p4vprVt6XsRW_PHRisWOX11Y6MW13W8QY7VBRJUMLicHkRmEJzShK20QFWp8N7RJDiqECj4O_rnKV86NgN5UBEM96aofmRVL5o_FLUDMFtFpY0Z6GXN62rvwHDh0uE2n3z1cdkUi7p9C28E59myl41pqEZzc-B-44SHOwlWjiNSM5uwCMx3YzH9F_30L1r4erbAEXHCPbD0OJnYGeTIIHSJPjPLOmZVyoEYjQdSM4Qi0c-JcaalTuBmHo3eVsgd8VqxmjhMRutRIaET2vCkc-JgVH-SyQygXt2Wrp_zzjKw4p4lUM0XEwaPz_2oj4GtAZd7cgfKWt2xI11",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Liu Xiaomian Charing Cross",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIRBFrUGPRIq233ujUvJVfF1E-E8RwqZh_-RockdFQIQdpOKg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/102316611477597200806"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipORYwKNzMES-7CHBIB0eYiDjm7Iy0Vpg9MuaLZF&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipORYwKNzMES-7CHBIB0eYiDjm7Iy0Vpg9MuaLZF!2e10!4m2!3m1!1s0x4876052c920dfc69:0x1e377f5c1bbc4613",
+            "heightPx": 4724,
+            "name": "places/ChIJafwNkiwFdkgRE0a8G1x_Nx4/photos/AZLasHpT2D-cG7ziTrvWKpqmZZKrQIy4V9RT-mgh289-1jb7_nfCHfCg9vFJyEL9FrZLcfBtCUGJpqSozCg-q2hXo6CeyGzERREgd9zUHxbBQNiqHmHdKGpXL0amjWwnUW8L92ilTJFyRK9DWDytFChbtfigEUE3bjWqhA7-TIyPSyw76kowAJP3v9Yh8sPR7ZN6Q-pPV-4tPoThmuaTA2pwLmdu0ZneVCVdofPt3s7mbxE8bHsH_yn3lWrFaIvOJ0dhE-UYiKRHe_SalzAKM6MI75PaIeDven32U3LDJ0xM1xi2FQ",
+            "widthPx": 3543
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV5G+P3 London, UK",
+        "globalCode": "9C3XGV5G+P3"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "430 Strand"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2R 0QE",
+        "regionCode": "GB"
+    },
+    "primaryType": "restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Restaurant"
+    },
+    "rating": 5,
+    "regularOpeningHours": {
+        "nextOpenTime": "2025-12-11T12:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 14,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 18,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 14,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 18,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 14,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 18,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: 12:00 – 2:30 PM, 6:00 – 9:00 PM",
+            "Friday: 12:00 – 2:30 PM, 6:00 – 9:00 PM",
+            "Saturday: 12:00 – 2:30 PM, 6:00 – 9:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "linda liu",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIQW4VYhppyV6LUEis2iAoMO6RTMelM960v5AQSRTamRy8nFw=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/117717002097561595074/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25SVVExOHdiM0E1VVU5dVpGbElPRmsyVjE5Q2NFRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SVVExOHdiM0E1VVU5dVpGbElPRmsyVjE5Q2NFRRAB!2m1!1s0x4876052c920dfc69:0x1e377f5c1bbc4613",
+            "name": "places/ChIJafwNkiwFdkgRE0a8G1x_Nx4/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SVVExOHdiM0E1VVU5dVpGbElPRmsyVjE5Q2NFRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Great spot for delicious noodles! fresh, flavorful bowls with rich broth and perfectly cooked ingredients. The service is quick, the staff are friendly, and the prices are reasonable for central London. The foam beer is a must try too! Highly recommend if you’re craving authentic, comforting spicy noodles!"
+            },
+            "publishTime": "2025-12-11T10:05:28.880182970Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "in the last week",
+            "text": {
+                "languageCode": "en",
+                "text": "Great spot for delicious noodles! fresh, flavorful bowls with rich broth and perfectly cooked ingredients. The service is quick, the staff are friendly, and the prices are reasonable for central London. The foam beer is a must try too! Highly recommend if you’re craving authentic, comforting spicy noodles!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Charlenemagne Aloof",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJwh33oqgKQRm2XwEE2fZgOE6VpnwYAi5fwghNWc11ddmGR1w=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/110010580365898903751/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWclpqWjJPVkpIVUhsWE4yWm9iRzltWkZaZmFuYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWclpqWjJPVkpIVUhsWE4yWm9iRzltWkZaZmFuYxAB!2m1!1s0x4876052c920dfc69:0x1e377f5c1bbc4613",
+            "name": "places/ChIJafwNkiwFdkgRE0a8G1x_Nx4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWclpqWjJPVkpIVUhsWE4yWm9iRzltWkZaZmFuYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "A casual diner hidden in the stranded pub. Really spacious space. Love the combo of the beer and the noodles!"
+            },
+            "publishTime": "2025-12-11T09:39:30.264398063Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "in the last week",
+            "text": {
+                "languageCode": "en",
+                "text": "A casual diner hidden in the stranded pub. Really spacious space. Love the combo of the beer and the noodles!"
+            }
+        }
+    ],
+    "shortFormattedAddress": "Charing Cross Underground Shopping Concourse, 430 Strand, London",
+    "takeout": true,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+    ],
+    "userRatingCount": 2,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.510701780291505,
+            "longitude": -0.123411219708498
+        },
+        "low": {
+            "latitude": 51.508003819708506,
+            "longitude": -0.12610918029150203
+        }
+    },
+    "timestamp": 1765447200
+}

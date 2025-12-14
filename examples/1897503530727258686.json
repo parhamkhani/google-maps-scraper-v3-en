@@ -1,0 +1,1004 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": true
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en",
+            "longText": "Hippodrome Casino",
+            "shortText": "Hippodrome Casino",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Cranbourn Street",
+            "shortText": "Cranbourn St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Leicester Square",
+            "shortText": "Leicester Square",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2H 7JH",
+            "shortText": "WC2H 7JH",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Wyndham's Theatre"
+                },
+                "name": "places/ChIJuzmblM0EdkgRHUQQweLq0Ek",
+                "placeId": "ChIJuzmblM0EdkgRHUQQweLq0Ek"
+            },
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJs4GOh8sEdkgRRiBFZKMP8ZE",
+                "placeId": "ChIJs4GOh8sEdkgRRiBFZKMP8ZE"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Leicester Square"
+                },
+                "name": "places/ChIJ98Dokc0EdkgRy3-ajwvdD94",
+                "placeId": "ChIJ98Dokc0EdkgRy3-ajwvdD94",
+                "spatialRelationship": "WITHIN",
+                "straightLineDistanceMeters": 24.598408,
+                "travelDistanceMeters": 1.248884,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "subway_station",
+                    "transit_station"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Vue Cinema London - West End (Leicester Square)"
+                },
+                "name": "places/ChIJQ5TwgGyue0gRhxMwO-iXTYU",
+                "placeId": "ChIJQ5TwgGyue0gRhxMwO-iXTYU",
+                "spatialRelationship": "BESIDE",
+                "straightLineDistanceMeters": 69.69133,
+                "travelDistanceMeters": 21.12658,
+                "types": [
+                    "establishment",
+                    "food",
+                    "movie_theater",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The Hippodrome Casino London"
+                },
+                "name": "places/ChIJdcOZc9IEdkgROPIytVFeGXU",
+                "placeId": "ChIJdcOZc9IEdkgROPIytVFeGXU",
+                "spatialRelationship": "BESIDE",
+                "straightLineDistanceMeters": 11.832542,
+                "travelDistanceMeters": 14.709938,
+                "types": [
+                    "bar",
+                    "casino",
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Wyndham's Theatre"
+                },
+                "name": "places/ChIJD2ylec0EdkgR3J0EaLlYvDk",
+                "placeId": "ChIJD2ylec0EdkgR3J0EaLlYvDk",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 45.754566,
+                "travelDistanceMeters": 32.747093,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "KFC London - Leicester Square"
+                },
+                "name": "places/ChIJMVplzTwFdkgRuSvAK9t1XSk",
+                "placeId": "ChIJMVplzTwFdkgRuSvAK9t1XSk",
+                "spatialRelationship": "BESIDE",
+                "straightLineDistanceMeters": 12.673702,
+                "travelDistanceMeters": 14.259979,
+                "types": [
+                    "establishment",
+                    "food",
+                    "meal_takeaway",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            }
+        ]
+    },
+    "allowsDogs": false,
+    "businessStatus": "OPERATIONAL",
+    "containingPlaces": [
+        {
+            "id": "ChIJ98Dokc0EdkgRy3-ajwvdD94",
+            "name": "places/ChIJ98Dokc0EdkgRy3-ajwvdD94"
+        }
+    ],
+    "currentOpeningHours": {
+        "nextOpenTime": "2025-11-25T17:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 15,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 15,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 17,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 5:00 – 10:00 PM",
+            "Tuesday: 5:00 – 10:00 PM",
+            "Wednesday: 5:00 – 10:00 PM",
+            "Thursday: 5:00 – 10:00 PM",
+            "Friday: 5:00 – 11:00 PM",
+            "Saturday: 12:00 – 3:00 PM, 5:00 – 11:00 PM",
+            "Sunday: 12:00 – 3:00 PM, 5:00 – 10:00 PM"
+        ]
+    },
+    "currentSecondaryOpeningHours": [
+        {
+            "nextOpenTime": "2025-11-29T12:00:00Z",
+            "openNow": false,
+            "periods": [
+                {
+                    "close": {
+                        "date": {
+                            "day": 30,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 0,
+                        "hour": 15,
+                        "minute": 0
+                    },
+                    "open": {
+                        "date": {
+                            "day": 30,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 0,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 29,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 6,
+                        "hour": 15,
+                        "minute": 0
+                    },
+                    "open": {
+                        "date": {
+                            "day": 29,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 6,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                }
+            ],
+            "secondaryHoursType": "LUNCH",
+            "weekdayDescriptions": [
+                "Monday: Closed",
+                "Tuesday: Closed",
+                "Wednesday: Closed",
+                "Thursday: Closed",
+                "Friday: Closed",
+                "Saturday: 12:00 – 3:00 PM",
+                "Sunday: 12:00 – 3:00 PM"
+            ]
+        }
+    ],
+    "delivery": false,
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Heliot Steak House"
+    },
+    "editorialSummary": {
+        "languageCode": "en",
+        "text": "Refined steakhouse restaurant & bar serving USDA prime steaks, plus an extensive wine list."
+    },
+    "formattedAddress": "Hippodrome Casino, Cranbourn St, Leicester Square, London WC2H 7JH, UK",
+    "goodForChildren": false,
+    "goodForGroups": true,
+    "goodForWatchingSports": false,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x487604cd911611b3:0x1a554968650c3a3e!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487604cd911611b3:0x1a554968650c3a3e!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=1897503530727258686&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487604cd911611b3:0x1a554968650c3a3e!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487604cd911611b3:0x1a554968650c3a3e!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=1897503530727258686&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJsxEWkc0EdkgRPjoMZWhJVRo",
+    "internationalPhoneNumber": "+44 20 7769 8844",
+    "liveMusic": false,
+    "location": {
+        "latitude": 51.511377599999996,
+        "longitude": -0.12876379999999998
+    },
+    "menuForChildren": false,
+    "name": "places/ChIJsxEWkc0EdkgRPjoMZWhJVRo",
+    "nationalPhoneNumber": "020 7769 8844",
+    "outdoorSeating": false,
+    "parkingOptions": {
+        "freeParkingLot": false
+    },
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Heliot Steak House",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXV2HHToMaVzVnSf7Pc1MntzN_1f9X4wqyfjoUeOMauO1ZPTwDe=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/114188819598373825810"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipN9KwKvOdpCk93ZJdSOJqgTCGc0Xmj-SJCxWehw&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN9KwKvOdpCk93ZJdSOJqgTCGc0Xmj-SJCxWehw!2e10!4m2!3m1!1s0x487604cd911611b3:0x1a554968650c3a3e",
+            "heightPx": 1312,
+            "name": "places/ChIJsxEWkc0EdkgRPjoMZWhJVRo/photos/AWn5SU425bm6RD-WQh4vf2ypsA7A16AbbnTEmgz5dtqMU3J-asTkBjnc1agKErB2jZbfYESa0_IqdzvobX9Q66salmOZvBp8vZbVQ9g7mVUPbnMcqGrUIlLWGlI8Bjy-ItwW0c_5IlzIvYunPUlxVp-Q56VPAkVO_8QIglj7bJKy_GQi50TBaox5bRBcWiQVPPRAKIPzTjfLMwC-G_AjQ-4XRWjcYg_d41SxR43u-K0MtA3fZCjsd6Gbj0Hw0Kl1HuaYM83VrHGTMTZ4DItcMqiEELkRPhBkBr_aCAP3xrSDhFCRgw",
+            "widthPx": 1968
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Heliot Steak House",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXV2HHToMaVzVnSf7Pc1MntzN_1f9X4wqyfjoUeOMauO1ZPTwDe=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/114188819598373825810"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNGcOteFFaxC-d3M9h6BY1Fz9Nu_24RtPhPVUvn&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNGcOteFFaxC-d3M9h6BY1Fz9Nu_24RtPhPVUvn!2e10!4m2!3m1!1s0x487604cd911611b3:0x1a554968650c3a3e",
+            "heightPx": 3121,
+            "name": "places/ChIJsxEWkc0EdkgRPjoMZWhJVRo/photos/AWn5SU41NF6Z1xKhcsGMF8UTtGdrWLhkbJPVqJPMP_1qofItMLPauSyLdzRGvUt7Zp6G8fOv_CK095Ri3WhBt2hbQF_5cDkySDHSWibNcSOOf1yXz6FwA7XpUpZwZnt9NAgzzxXxevsj65s09X-3bES97X-ceN9vniKJP45vP7pDEDYTcomAzI9IMQ9oyIEhA2GJQHGWvq-Wym2wPutRd4bBb1t0ZDsv80DPVPBQk4K5i2TEdfV1JixIIItRvRg28ynXiRPGdW-YBOVrQSO4HAXd8IEn34R2i8_h6fEzqlzC3RRYDA",
+            "widthPx": 4681
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Jack",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK5kc7e678s_h9H4vLYQsHH7Izcx2db47esAqciqzLHUArrQQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/105427524681490106716"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDaIP38RTPzVuEGlcmXpyz5&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDaIP38RTPzVuEGlcmXpyz5!2e10!4m2!3m1!1s0x487604cd911611b3:0x1a554968650c3a3e",
+            "heightPx": 3072,
+            "name": "places/ChIJsxEWkc0EdkgRPjoMZWhJVRo/photos/AWn5SU4RAJSnKn_ig1FZUoSjqAy460tJuXgH6RQnyf7KKvltS6Z1JK2DkMkvKr1hYCR24yhmh1eriqEQWdFhviqWag0VrhLis8UlxQZhVfQ9fuhkMlt7LI5fQEK1M60oyWjZR_AoH_kFK_dvFWZQwPsgY5n9NuW2Hdq3Oy2-f1s-tgKjaVx6IkKkRaxWyc0hvaAXQD2EA15fBoYfUQATbiHHbh31zNRrFQpcszsstKvv9uZqUSgymhcwMCTZPmK8SpywHeeE-tclzJQtnDuQS2IyHW3kVk3QBC1YaZ6hHh2a38C7cbndwsScjQ2DXyvUMu07Sq4_EiGE5mI6CTtiXqCQdXC4cp1K95SwFQTjLIL5c9R-BbbeOM1-Vy4pEYmMUVUWXNZpmuBUEx2ispKHLFpejm2Gg1PDsWfiv3jfICqVy_wx-F8JNzvCdg5QdoJBgQ",
+            "widthPx": 4096
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "HY",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXo_H59XB-q7riivpdMVsorkLmfDBEaadskLceckm8zqtGsuwbo4Q=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/112925450198743869126"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDx7Vh7iKupKZnV5V3l3aSV&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDx7Vh7iKupKZnV5V3l3aSV!2e10!4m2!3m1!1s0x487604cd911611b3:0x1a554968650c3a3e",
+            "heightPx": 3600,
+            "name": "places/ChIJsxEWkc0EdkgRPjoMZWhJVRo/photos/AWn5SU5Z8n_HO6KRcw7ym2AGd5vkrnWIj5NzHrexJK7TciUXzQ0ab1q8StwMAB_vp5wLmeRlAT_EHkmFFd7wGNvc4QlzZj7C-Y82Q_kEJVf9D9L_VyLfUUXIlkqa4b4GZvCoLEZ-Ha-8FY1e7Cm47Zmem-1VTU_3YNUBBw_cRfkVSUnb7FCH2wtjq5bFLvkazSNhoUHJr29AsHqT5a8opdI1Y4k5LPNZ3m0jhmDH1YslasI2Pdl3FvvoHlWfih9Wpk0fTliWjPGnfqt7e9NP1dWUnUb9sL4JP2qlsOSuFheAz_7BG8Lf1ZqwXdakgvNicz2DiSO3Bi2YOu1z4s0-zXY4pvswdI9mFoJH5046Gd3ObaBc5ZYLa4qm_5YWW81P397Nxnwtnxq40TdqmHWYYPgy01EWBZ5oZM3nZgIp5S_LaIByTXXplND45Q32rPcivA",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Paul Rose",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVqv8HxYalIMyL2-ydg23WnMfcbtPJfAnNj3bQkq_feqzRuje7Q=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/118205107384971055525"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAusBobRbI-AzCc2mAJCZ_J&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAusBobRbI-AzCc2mAJCZ_J!2e10!4m2!3m1!1s0x487604cd911611b3:0x1a554968650c3a3e",
+            "heightPx": 3024,
+            "name": "places/ChIJsxEWkc0EdkgRPjoMZWhJVRo/photos/AWn5SU7vAsnZgYq36mzFSGWfa4CIPx4sylbUjdwTzYopkeyW7Il3_oZCVylCAKVS45_ayIfYyIGGZNVFxVMIGw6rPXg4ennl6phcnHswNdqn5hwXVFUIog0ni0xqzWAk9QVueZK3_1trMiOmbkxwOm3wRPPqQdhZj3b2c0Q5toG8BXXuLn7_4XoT9g8SGKO8v2c71C5C5-2vvNIpxatifo91HqmyQYB-qS1fVYx8Zq9fGIIN6PWzvY6d9BugdB2wOILX4BjJSJuA-bocoz2osPLNalS6obu_ZJxW-o54Gn3CIR-jsdzbhIUgjVL4y6paSGoLzRpWLFp1zWEKngg58g_nAdFJrNYGIDCQesq7_0p0KUQCL2AzCLFjml15BDPJzP3cvsaAVBBIAgtZfblGOHnTACTGsHSZy6JqHQz8FJc1yyf4Ubpe8QesOrOLlCZuDyT9",
+            "widthPx": 4032
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Rick Vattimo",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXXQHKfCdBtDyL3nGCXyllOSLvBICadaQtpK8MwX4ysTVJCoEeY=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/114711754555550351930"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEMSK4vqszqHQxwE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEMSK4vqszqHQxwE!2e10!4m2!3m1!1s0x487604cd911611b3:0x1a554968650c3a3e",
+            "heightPx": 4032,
+            "name": "places/ChIJsxEWkc0EdkgRPjoMZWhJVRo/photos/AWn5SU70g4t14z7-oEKCIQsvb05HOp0BeqsbRfUpljkawxJXDZBTLX_6Ca3-GybqTixo2amHFe-vnJsBVuFhgRh14Fp3iHEtXrZjtcUmG8OYlOwZp5wB7QrSzc815htbFlTYIKY8aFrOenhqciE6YWHYAJN3u9kvpQi0NOTURvpp0923Ly5Hn5x5Wj-DDjvpNmIhW9pvmxvefv2hQZtxsprcegiHOPQ07ZYxvKlRFTcdd4RWZVAaNrwZY3LZVzNboo-FMNzn-DWL07BqNC4Y1kCZBQvy2PS9W-n177RoFoiL7J0v0j_sGLHEKohGJRX9SfmHkespVL-Eg0NL-3tXCnZ0QeidxBu2_pp228X7Oc8CdTxWYnNTAA-c8Wd2BNx-OQPhpxRhux7C2dUBAA-1im5CKK4eGGFZupb3FEwbNjB2ALY_e2Sq",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Heliot Steak House",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXV2HHToMaVzVnSf7Pc1MntzN_1f9X4wqyfjoUeOMauO1ZPTwDe=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/114188819598373825810"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNalGtKz_47usbMyk4E9fsuVrsBOV7lLOTeDKr8&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNalGtKz_47usbMyk4E9fsuVrsBOV7lLOTeDKr8!2e10!4m2!3m1!1s0x487604cd911611b3:0x1a554968650c3a3e",
+            "heightPx": 720,
+            "name": "places/ChIJsxEWkc0EdkgRPjoMZWhJVRo/photos/AWn5SU7ER_TCwDoXEq1XDTA4cKa9dpW90Gy07khwdp22qF-oxvozEPn963GVIF5U8ZRsv_mYITFssZ-L_k7W2AOnRAh0lparIdDp0zCvplU0qdzd-XLcQYuQB3aRBhF_AQ7wn4J4d9uB9ulHStOAtkVjkR5TizWDyWkTivYmcI3JPJfXFltXhdS0L7Hi4loNY9LqcsL5s_9X8Wd7sl_h7yn4pj1SotI8KcDvjJ7GBq6KhDiBWKVWsmBT4wRQ01weUQn2ktwVK0Rib-TKweP7ge5xWKz80DXJG4H04Uz3eRn308iojA",
+            "widthPx": 1080
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Seth (Vis)",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW70uBEPhV8X4S7ksDQjzqvxTnyP-KLhGTf8y7W_axcZEdue6x6=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117695000789428868924"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCg7MWeLA&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCg7MWeLA!2e10!4m2!3m1!1s0x487604cd911611b3:0x1a554968650c3a3e",
+            "heightPx": 4000,
+            "name": "places/ChIJsxEWkc0EdkgRPjoMZWhJVRo/photos/AWn5SU4z3QsUa_xJuES-Lz__npZzT5K9_Mo2-yJeqiKGSygVjtXG3fvqGQ9kWIIoPUMVGGstXuDRFT4a2QR1GoXx_8YURqHsOeNLcYgByVuQLdajhj4YNXHjTyKRN2jISrWxGDmlVZIvzvbbRusikTpnxd3sPstz8tDrYjFXGClt32tzaCSQBp7tdT1H3x_MDT_lfKcz-i4znSj9TFfEgMxYBAzyg6r3rNCe88fgLjSuhoUXU0labNanKdwRF5tobkqyN7AHbnSQMnowlCoH5pwODBS_EZzxjomBmOpc2D4AqNGpt6wNsvzAHgE9WiOAPg_5RFFsDTiSHzO70zH7aJqgUoK0riROSxPqeubVctZwDQRVTdYwMebw-AoO7uZSjE5_OIACGBWOm6W48rjPolEfmnBwGooXMiacH46qOHU8EOkrmA",
+            "widthPx": 3000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Rick Vattimo",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXXQHKfCdBtDyL3nGCXyllOSLvBICadaQtpK8MwX4ysTVJCoEeY=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/114711754555550351930"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKENe3sPPEtYTAag&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKENe3sPPEtYTAag!2e10!4m2!3m1!1s0x487604cd911611b3:0x1a554968650c3a3e",
+            "heightPx": 4032,
+            "name": "places/ChIJsxEWkc0EdkgRPjoMZWhJVRo/photos/AWn5SU64eeb22k2VyR-RAzpiQhPlCyeMhrE2kjeuV0LSFW36xubHd6a2hDDlMA__rFbwBMKjWirnqLao2863AIEto2Li22x3czdsbyb4ylEcuxJ6fdRndhqvHl7BdwDF_2s25ym8FHlqRMpF_dRVujtaFv3xukgwtMr6JUFB38oiqMkjrPB6-QgQneKlYtGtJXc-UGY8cqQ-TAjODdfVexMG-1ZsfktVBJMBHSQEgCE25wkPY8WEh9g25zGZN0HksqvZ7lH1OYxmdBi2aMzKtn5CFajEfSVPKNOXB8c0lckGd26LIxg3jIrvqE_v_DAxXVPvxeQmunOlFXZKOPmvr8baiZbt2G7HaO6z4hDzTYqstuCPH-YD790iZ-gAwT8m2DpReb2sP8vUtDgDBvx2mKbDOgEQ-yPJNCh0GpyC-u33XiyTDQ",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Kristina",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIvmR8Vo2tOlpAh9WUPD_C1ESfbLQVJQ8LDB8Lb9CVVi5adNP4=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/115112907476837656734"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDgnpypbA&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDgnpypbA!2e10!4m2!3m1!1s0x487604cd911611b3:0x1a554968650c3a3e",
+            "heightPx": 4800,
+            "name": "places/ChIJsxEWkc0EdkgRPjoMZWhJVRo/photos/AWn5SU5Wr8lEeMmZAX81CyO-5q5JEM3A7dqEL4rjoY5FR9e4v8dAKS1qyH2CSHnDpY066gz621d3UBne7LvaoxTBi_sShWlp8npPt2_77LnbIe8wXzHFYitRMqbZS5rEsjpYiXKUe_-HVPz6xnzDBeh83H0ZrZxF7kKI_Fdkx6OB0BjtpjE8m0TWLjhHEP7KY0XcaScIMHQr_tn0gJpTxgqnzhMIo3GOz43URzp7GfWHovpV_zwGtEbQZaXrVXXtzzVttknHOzl5FfIhcUMsxwsjHcajCQpK2L8I08qz220Jpzwm7WL4gf-9m82Uf-7fkWopTKhbbLnFBJ210VxYFx0hHcWSURS_sZjS-LSwK7pMgv14ZIGVAopcqsIYYrQT0ZolEyRykrG1jmsACElE26-mN4d2kALgtC2CZXIEIA8xI-OpEQ",
+            "widthPx": 3600
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV6C+HF London, UK",
+        "globalCode": "9C3XGV6C+HF"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "Hippodrome Casino",
+            "Cranbourn Street",
+            "Leicester Square"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2H 7JH",
+        "regionCode": "GB"
+    },
+    "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+    "primaryType": "steak_house",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Steak House"
+    },
+    "rating": 4.5,
+    "regularOpeningHours": {
+        "nextOpenTime": "2025-11-25T17:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 15,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 15,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 17,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 5:00 – 10:00 PM",
+            "Tuesday: 5:00 – 10:00 PM",
+            "Wednesday: 5:00 – 10:00 PM",
+            "Thursday: 5:00 – 10:00 PM",
+            "Friday: 5:00 – 11:00 PM",
+            "Saturday: 12:00 – 3:00 PM, 5:00 – 11:00 PM",
+            "Sunday: 12:00 – 3:00 PM, 5:00 – 10:00 PM"
+        ]
+    },
+    "regularSecondaryOpeningHours": [
+        {
+            "nextOpenTime": "2025-11-29T12:00:00Z",
+            "openNow": false,
+            "periods": [
+                {
+                    "close": {
+                        "day": 0,
+                        "hour": 15,
+                        "minute": 0
+                    },
+                    "open": {
+                        "day": 0,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "hour": 15,
+                        "minute": 0
+                    },
+                    "open": {
+                        "day": 6,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                }
+            ],
+            "secondaryHoursType": "LUNCH",
+            "weekdayDescriptions": [
+                "Monday: Closed",
+                "Tuesday: Closed",
+                "Wednesday: Closed",
+                "Thursday: Closed",
+                "Friday: Closed",
+                "Saturday: 12:00 – 3:00 PM",
+                "Sunday: 12:00 – 3:00 PM"
+            ]
+        }
+    ],
+    "reservable": true,
+    "restroom": true,
+    "reviewSummary": {
+        "disclosureText": {
+            "languageCode": "en-US",
+            "text": "Summarized with Gemini"
+        },
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=5%401:CAIQACodChtyc19oOnZWT3NBU1E4Ym1rRXhEeng1NnZGSlE%7CCAIQACorChtyc19oOnZWT3NBU1E4Ym1rRXhEeng1NnZGSlESDAi_2OfEBhD44ZHwAg&d=17924085&t=8",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487604cd911611b3:0x1a554968650c3a3e!9m1!1b1",
+        "text": {
+            "languageCode": "en-US",
+            "text": "People say this steakhouse serves delicious steaks, including ribeye, fillet, and tomahawk, as well as tuna tartare, grilled octopus, and short rib. They highlight the reasonable prices, especially with deals, and the lively atmosphere overlooking the casino. They also like the attentive, friendly, and professional service."
+        }
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Jack",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK5kc7e678s_h9H4vLYQsHH7Izcx2db47esAqciqzLHUArrQQ=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/105427524681490106716/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25RMGMwSTVMVk5FUTA0NE4zbHlNa0o2YUhKMmJXYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25RMGMwSTVMVk5FUTA0NE4zbHlNa0o2YUhKMmJXYxAB!2m1!1s0x487604cd911611b3:0x1a554968650c3a3e",
+            "name": "places/ChIJsxEWkc0EdkgRPjoMZWhJVRo/reviews/Ci9DQUlRQUNvZENodHljRjlvT25RMGMwSTVMVk5FUTA0NE4zbHlNa0o2YUhKMmJXYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Had a great anniversary meal with my wife here. Both the food and service were excellent. We got the USDA Prime board and the Heliot Burger to split; all the preparations showed off the quality of the meat beautifully. As a note to wheelchair using guests, the restaurant is located through a bit of a labyrinth through the casino, and requires locating and taking a few lifts up to the correct floor, as well as a rail stair lift up a few steps at the end. The toilets are also on a separate floor to the restaurant itself. On that note I'd like to give a special commendation to Kevin, who met us at the door and guided us through the casino to the restaurant, as well as coming back to get us at the end of our meal without being asked. Give that man a raise!"
+            },
+            "publishTime": "2025-11-01T15:11:29.740687491Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "3 weeks ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Had a great anniversary meal with my wife here. Both the food and service were excellent. We got the USDA Prime board and the Heliot Burger to split; all the preparations showed off the quality of the meat beautifully. As a note to wheelchair using guests, the restaurant is located through a bit of a labyrinth through the casino, and requires locating and taking a few lifts up to the correct floor, as well as a rail stair lift up a few steps at the end. The toilets are also on a separate floor to the restaurant itself. On that note I'd like to give a special commendation to Kevin, who met us at the door and guided us through the casino to the restaurant, as well as coming back to get us at the end of our meal without being asked. Give that man a raise!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Paul Rose",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVqv8HxYalIMyL2-ydg23WnMfcbtPJfAnNj3bQkq_feqzRuje7Q=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/118205107384971055525/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWVE4wWjZRMHMzY2tsdldURmxabFJoTFhwWWFHYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWVE4wWjZRMHMzY2tsdldURmxabFJoTFhwWWFHYxAB!2m1!1s0x487604cd911611b3:0x1a554968650c3a3e",
+            "name": "places/ChIJsxEWkc0EdkgRPjoMZWhJVRo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWVE4wWjZRMHMzY2tsdldURmxabFJoTFhwWWFHYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "I had a lovely time with friends for one of our birthdays. The food was delicious and loved the ice cream (on ice).\n\nAt points some of the service was a bit hit and miss with items taking much longer than they should have.  This was possibly an issue with the kitchen.\n\nThe music was all boom boom and so repetitive. Please please consider some jazz or big band or something more fitting to what is a wonderful venue.\n\nCarolina deserves huge praise and she was excellent. I think she looked after us a little while into our experience and things got much much better. Carolina was attentive, polite, informative and funny. She definitely deserves a pay rise and employee of the month and she lifted the evening for all of us. Thank you Carolina!"
+            },
+            "publishTime": "2025-10-08T22:16:14.872873178Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "I had a lovely time with friends for one of our birthdays. The food was delicious and loved the ice cream (on ice).\n\nAt points some of the service was a bit hit and miss with items taking much longer than they should have.  This was possibly an issue with the kitchen.\n\nThe music was all boom boom and so repetitive. Please please consider some jazz or big band or something more fitting to what is a wonderful venue.\n\nCarolina deserves huge praise and she was excellent. I think she looked after us a little while into our experience and things got much much better. Carolina was attentive, polite, informative and funny. She definitely deserves a pay rise and employee of the month and she lifted the evening for all of us. Thank you Carolina!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Jay Paculan",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJuTYbOv1-zN1dKvUpjn4h8Ggjgz-7J0RMcSmC8JITfMlN8fC8=s128-c0x00000000-cc-rp-mo-ba2",
+                "uri": "https://www.google.com/maps/contrib/101060691571626035118/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pKbVJHZGlOMkptUkhSdmVESnJUVFp1Y0RaUlIzYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKbVJHZGlOMkptUkhSdmVESnJUVFp1Y0RaUlIzYxAB!2m1!1s0x487604cd911611b3:0x1a554968650c3a3e",
+            "name": "places/ChIJsxEWkc0EdkgRPjoMZWhJVRo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKbVJHZGlOMkptUkhSdmVESnJUVFp1Y0RaUlIzYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Great steak and sides, but watch out for the chimichurri as it does pack a kick if you're not ready. Enjoyed a nice bottle of red alongside my meal. Service is pleasant and the staff are very attentive. Would deffo recommend."
+            },
+            "publishTime": "2025-11-12T13:25:07.054080621Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a week ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Great steak and sides, but watch out for the chimichurri as it does pack a kick if you're not ready. Enjoyed a nice bottle of red alongside my meal. Service is pleasant and the staff are very attentive. Would deffo recommend."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "PAUL G",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXiXTbhuLGT7Wnw6GFfkwIwqXYSHTIJy8BLisojLL8obLU_OoYX=s128-c0x00000000-cc-rp-mo-ba6",
+                "uri": "https://www.google.com/maps/contrib/101250875204760679428/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21ZMWVGVmFNMDlrVGt3M1RHRjFaMjlvVEVnMmQwRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21ZMWVGVmFNMDlrVGt3M1RHRjFaMjlvVEVnMmQwRRAB!2m1!1s0x487604cd911611b3:0x1a554968650c3a3e",
+            "name": "places/ChIJsxEWkc0EdkgRPjoMZWhJVRo/reviews/Ci9DQUlRQUNvZENodHljRjlvT21ZMWVGVmFNMDlrVGt3M1RHRjFaMjlvVEVnMmQwRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "The ten of us came to this restaurant to enjoy their half price steak offer on Monday.  We arrived at close to 9:30pm and we were told the kitchen would be closed at 10pm.  Rushed in without thinking much, ordered a few steak dishes to share and two bottles of red.  The steaks came within 15 minutes and they all tasted reasonably well.  Just remember, Monday is the day."
+            },
+            "publishTime": "2025-10-14T21:23:39.444918302Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "The ten of us came to this restaurant to enjoy their half price steak offer on Monday.  We arrived at close to 9:30pm and we were told the kitchen would be closed at 10pm.  Rushed in without thinking much, ordered a few steak dishes to share and two bottles of red.  The steaks came within 15 minutes and they all tasted reasonably well.  Just remember, Monday is the day."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Jennie Adams",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL5NixDo_1j7tszTp4bSbw08VFWSDAC6H-HkwvbQaGu-DLNRA=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/110792534028887076404/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT200eFNYUkdOMDgzYTNoYVVtbFdhM2hVTFV4eE5HYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT200eFNYUkdOMDgzYTNoYVVtbFdhM2hVTFV4eE5HYxAB!2m1!1s0x487604cd911611b3:0x1a554968650c3a3e",
+            "name": "places/ChIJsxEWkc0EdkgRPjoMZWhJVRo/reviews/Ci9DQUlRQUNvZENodHljRjlvT200eFNYUkdOMDgzYTNoYVVtbFdhM2hVTFV4eE5HYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Wonderful dining experience made all the better by our waiter, Paul. Attentive and knowledgeable, down to earth and friendly. He made our part of three feel like we were the only customers, we weren't as it was very busy. Get a table overlooking the casino,  it is great fun. Even better is we booked through an early dining app and saved 50% on the food bill."
+            },
+            "publishTime": "2025-09-07T08:22:20.122473846Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Wonderful dining experience made all the better by our waiter, Paul. Attentive and knowledgeable, down to earth and friendly. He made our part of three feel like we were the only customers, we weren't as it was very busy. Get a table overlooking the casino,  it is great fun. Even better is we booked through an early dining app and saved 50% on the food bill."
+            }
+        }
+    ],
+    "servesBeer": true,
+    "servesBrunch": true,
+    "servesCocktails": true,
+    "servesCoffee": true,
+    "servesDessert": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "servesVegetarianFood": true,
+    "servesWine": true,
+    "shortFormattedAddress": "Hippodrome Casino, Cranbourn St, Leicester Square, London",
+    "takeout": false,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "steak_house",
+        "bar_and_grill",
+        "wine_bar",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 1298,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.5127897802915,
+            "longitude": -0.12722686970849797
+        },
+        "low": {
+            "latitude": 51.5100918197085,
+            "longitude": -0.129924830291502
+        }
+    },
+    "websiteUri": "https://www.hippodromecasino.com/restaurant-bars-lounges/",
+    "timestamp": 1764064800
+}

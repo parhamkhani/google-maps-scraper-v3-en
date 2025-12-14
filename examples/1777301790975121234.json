@@ -1,0 +1,992 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": true
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "4",
+            "shortText": "4",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Mercer Walk",
+            "shortText": "Mercer Walk",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2H 9FA",
+            "shortText": "WC2H 9FA",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJs4GOh8sEdkgRRiBFZKMP8ZE",
+                "placeId": "ChIJs4GOh8sEdkgRRiBFZKMP8ZE"
+            },
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "St Martin's Courtyard"
+                },
+                "name": "places/ChIJ0YfiAc0EdkgRoKYIH7344ZA",
+                "placeId": "ChIJ0YfiAc0EdkgRoKYIH7344ZA"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Royal Ballet and Opera"
+                },
+                "name": "places/ChIJySOgh8sEdkgRCBzTYt83Klg",
+                "placeId": "ChIJySOgh8sEdkgRCBzTYt83Klg",
+                "straightLineDistanceMeters": 254.60635,
+                "travelDistanceMeters": 341.60516,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Pineapple Dance Studios"
+                },
+                "name": "places/ChIJY7ti6cwEdkgRcV5k1BiSk6s",
+                "placeId": "ChIJY7ti6cwEdkgRcV5k1BiSk6s",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 49.0363,
+                "travelDistanceMeters": 58.47796,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "TK Maxx"
+                },
+                "name": "places/ChIJkxhCVcwEdkgRPpPtDDaXqbM",
+                "placeId": "ChIJkxhCVcwEdkgRPpPtDDaXqbM",
+                "straightLineDistanceMeters": 120.802956,
+                "travelDistanceMeters": 177.99672,
+                "types": [
+                    "department_store",
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Stanfords"
+                },
+                "name": "places/ChIJWfz4VMwEdkgR7bjsNM2G8Zc",
+                "placeId": "ChIJWfz4VMwEdkgR7bjsNM2G8Zc",
+                "spatialRelationship": "ACROSS_THE_ROAD",
+                "straightLineDistanceMeters": 35.81588,
+                "travelDistanceMeters": 38.91651,
+                "types": [
+                    "book_store",
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Kohn Pedersen Fox"
+                },
+                "name": "places/ChIJfUH35cwEdkgRQ0t2OFsG_eg",
+                "placeId": "ChIJfUH35cwEdkgRQ0t2OFsG_eg",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 40.782417,
+                "travelDistanceMeters": 73.47691,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "containingPlaces": [
+        {
+            "id": "ChIJLVbVPM0EdkgRGUvoNqAiQ30",
+            "name": "places/ChIJLVbVPM0EdkgRGUvoNqAiQ30"
+        }
+    ],
+    "currentOpeningHours": {
+        "nextOpenTime": "2025-11-25T12:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 17,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 16,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 21,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 16,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 16,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 16,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 16,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            }
+        ],
+        "specialDays": [
+            {
+                "date": {
+                    "day": 30,
+                    "month": 11,
+                    "year": 2025
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 – 4:00 PM, 5:00 – 9:30 PM",
+            "Tuesday: 12:00 – 4:00 PM, 5:00 – 10:00 PM",
+            "Wednesday: 12:00 – 4:00 PM, 5:00 – 10:30 PM",
+            "Thursday: 12:00 – 4:00 PM, 5:00 – 10:30 PM",
+            "Friday: 12:00 – 4:00 PM, 5:00 – 10:30 PM",
+            "Saturday: 12:00 – 10:30 PM",
+            "Sunday: 12:00 – 5:00 PM"
+        ]
+    },
+    "delivery": true,
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Le Bab Covent Garden"
+    },
+    "editorialSummary": {
+        "languageCode": "en",
+        "text": "Contemporary option for seasonal kebabs on flatbreads & other reinterpreted Middle Eastern fare."
+    },
+    "formattedAddress": "4 Mercer Walk, London WC2H 9FA, UK",
+    "goodForChildren": true,
+    "goodForGroups": true,
+    "goodForWatchingSports": false,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x487605972cc221cf:0x18aa3e8ff5bcd752!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487605972cc221cf:0x18aa3e8ff5bcd752!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=1777301790975121234&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487605972cc221cf:0x18aa3e8ff5bcd752!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487605972cc221cf:0x18aa3e8ff5bcd752!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=1777301790975121234&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJzyHCLJcFdkgRUte89Y8-qhg",
+    "internationalPhoneNumber": "+44 20 7240 9781",
+    "liveMusic": false,
+    "location": {
+        "latitude": 51.5131513,
+        "longitude": -0.1258582
+    },
+    "menuForChildren": false,
+    "name": "places/ChIJzyHCLJcFdkgRUte89Y8-qhg",
+    "nationalPhoneNumber": "020 7240 9781",
+    "outdoorSeating": true,
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Le Bab Covent Garden",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWwlC06ex53dtSotH_zvkcbd0FQ4lCgv2_uKOThPJTHeAJyHVTO=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110128608873166326476"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMgt4cNnXW0Y2Iyl4XNa7oqeuKc9Jos_5F0uVAK&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMgt4cNnXW0Y2Iyl4XNa7oqeuKc9Jos_5F0uVAK!2e10!4m2!3m1!1s0x487605972cc221cf:0x18aa3e8ff5bcd752",
+            "heightPx": 3200,
+            "name": "places/ChIJzyHCLJcFdkgRUte89Y8-qhg/photos/AWn5SU56z293Odfle-ciosPlv7HGHZfsHJr4m3hPiQddIO1JtLqyeh9e3XiRVQHoyHMAiq_IxKyzWGKcO42hqTVYEAfcnaUke95EKJ3tF_0FeXld3qK4Rmq5_WNLNnosMczYPHyQYgB8tIwrJ7tfb6ncA7wsG8uYy24K1lIdXLgApGZiQRJC8L0LHooMv9q3hCwHYeOBtzGdWbq0ixAEXYzUwPODcTSduLpK_9nyHloe7R0EdoJuA9OApt1gw7IxESCbV4h4oeMd5-JdpNA7abX1KyCcHhTBMfM2X28jCly4BUpfBw",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Le Bab Covent Garden",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWwlC06ex53dtSotH_zvkcbd0FQ4lCgv2_uKOThPJTHeAJyHVTO=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110128608873166326476"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPCdNpdKVGgbGtv3nPly9H31TeQZy856dSJdS-w&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPCdNpdKVGgbGtv3nPly9H31TeQZy856dSJdS-w!2e10!4m2!3m1!1s0x487605972cc221cf:0x18aa3e8ff5bcd752",
+            "heightPx": 3500,
+            "name": "places/ChIJzyHCLJcFdkgRUte89Y8-qhg/photos/AWn5SU4xDTD0ZJ3obMIuooW2_aVk9onc0kBCvHb2wMqxDHABQBK0bMFKsLakrZxqiJDWo_-5dHLUu3X8RhgT3bttk_lJXULP4l4DRBSAxls_ZdozmcAtneOhzh-IFceu3Qi35f-Iqde5iiQkmp-1A1bwo-7j-7v0wpqPz0vHIpvhMOsDIEGt95lC1oCGOPO-urgQ3EQe6_pt-u9de2ENzJHAaRmc8W8RIuh9eTJXGYDbApaKwVBXwV1vtBsHl871yWkergnILqMY4qD2cx1JEm6sE_zCYK0vffQJobnTPPkaYOINNg",
+            "widthPx": 3099
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Le Bab Covent Garden",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWwlC06ex53dtSotH_zvkcbd0FQ4lCgv2_uKOThPJTHeAJyHVTO=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110128608873166326476"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM6srUJzL4ip_CspHZxfBzImz5_cfccOXTh5iTH&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM6srUJzL4ip_CspHZxfBzImz5_cfccOXTh5iTH!2e10!4m2!3m1!1s0x487605972cc221cf:0x18aa3e8ff5bcd752",
+            "heightPx": 901,
+            "name": "places/ChIJzyHCLJcFdkgRUte89Y8-qhg/photos/AWn5SU6x4i4WC1MBk195UDFS4OHN6GaLfoEYo0d8axhQQc8yTnvL8k3-9bMJGjd4yz6ImEoC0nM4vUCDzl5Rau6P1iSzgC1lh8QJR1r6We4Qe8wuBYtt64OG9xbzbKpUu2PCDPe7PqaEMiXsfdayDWFsA-d5kXD3p3Lrf3VHBRh5f6wZGZTYX5VxswAQRQuA97IHvN14W295aXfDLRv_VyuipMQyhEdW9fouiEp6EseXyPRHhaApgwzVhru69A0XKlY5QlxAeDt7H09rGGB-A-GCbu31rSzjTBTbyfQekFzrDLI3-Q",
+            "widthPx": 1600
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Agnieszka G",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUB1KXspiclIJjCn7QJ-fhh15f5Bf1IPiQl4f2zo7qN9uhS5Xgr=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/112205305915652454425"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDoy5CggQE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDoy5CggQE!2e10!4m2!3m1!1s0x487605972cc221cf:0x18aa3e8ff5bcd752",
+            "heightPx": 2268,
+            "name": "places/ChIJzyHCLJcFdkgRUte89Y8-qhg/photos/AWn5SU6cdB7VNbGrsitT-1YiwCJw-LWqsAiDjm8DnLwGHeyyoN2DwyKUe6DAJ8Y02_EKpV8mCM-by-dCb0WHz-iwFmORTWAFUgWP0K-1PDMNxMhLOlv9pIKn6fQlgS7DIbcM3i1j9yo-p9JCYGi3PsjN8D0aiZrWzRZAFqhOPXGLxvfyFlyPpHZyNguvBpgxJhSGzTVM2T0kYe86wp7lZWp4i08mlfSwqMaGs0No-1vB9uCvQMCn8BklnDaENFscf9_W8uXezDbIz2Tloq_BzQuygG3yxdJxlCIhBZdBSxXyPKK2RyesQRtq25ZT0xPm0hIu1Pv7tua9Fe3YcDM1AFR0jfWnArC2705cqbfmYyeusnNBRU-_rZQZhoQBQJsGzYYcfU91GsEuotImfr_s08C9iFOC-rTcshGcnQW0TpY3Q1WUYyY",
+            "widthPx": 4032
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Jamie Hall",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWwE5veyKtV_NtBrHmUOg147Sd0yJLHTa_64ZRu-pw0BBnMDfB2dg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113095721156008116455"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAOkFkp_TsnUz9kOwj4u0QT&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAOkFkp_TsnUz9kOwj4u0QT!2e10!4m2!3m1!1s0x487605972cc221cf:0x18aa3e8ff5bcd752",
+            "heightPx": 3000,
+            "name": "places/ChIJzyHCLJcFdkgRUte89Y8-qhg/photos/AWn5SU4_YVYwCZF-QZYZtUQJbwvAyG1arLwWgxud1qTUxaBnRMkDZWMM1oyhKaQNaZFXazKB7IN0QcHxdzzAw_5n7o1zgBbnU_LcpQHHyrS8_ea0hYHnoPfg7m41hnh8r0Q5nU6zN4xVH-kx9P4FCPWjOp5avS8MCaRM7lYRbJ__QvoM7udIKCwNvBTlZocWW1Xq3G3bVU80cecT56kVK7FiPbQLHSi9AtnGCI5YHacJGikPF3cL4lkTXtTmGj5CdROWK87wmFj_Fhy8koXqQp9abwvbJsNgxDqsS8WqYNAZda8hiizUlxLTrlWXPfrj-I-C-ma898-VPh5C3kgiOuqzVLUaid8XQHYKdtkaOdetpdL8h7jBCqSowBhdIYHS6FOeX6VI3BuXYgZj05g8CG2HF3lqTmqUfSCpljzv3GEPk6f0cen_lPNHNKYF_dUauquY",
+            "widthPx": 4000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Le Bab Covent Garden",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWwlC06ex53dtSotH_zvkcbd0FQ4lCgv2_uKOThPJTHeAJyHVTO=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110128608873166326476"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipO2BMRw5DEQBwuxjk0UemVz1Nx6S-h3ytn23Fro&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO2BMRw5DEQBwuxjk0UemVz1Nx6S-h3ytn23Fro!2e10!4m2!3m1!1s0x487605972cc221cf:0x18aa3e8ff5bcd752",
+            "heightPx": 1350,
+            "name": "places/ChIJzyHCLJcFdkgRUte89Y8-qhg/photos/AWn5SU4R41VOAJWGw8ytqSPgEJJkMX80SoUttq1ZwwutYo9kpzhek4FpQnOAP5Nbg3iXrwxdvxYyD503B3KA-BTSJSipUCJKoiuJNTo0kHWmxyYgTRC28RopRIuZS5sdQmrq46j9KXcYG28R4147J6WBdjruBPFSaky3ycUagreQcFEYhTw-omabNuA0jLd-uunl-w4jap-cRV2cwLMm1CvtmJsVD9Yqxpqc5ZyUeAWX9Y5_HDkEHD3G2Ewtr7nFsZL5YQRpj0zL6nTm4Z0iEBPHwcr0AGegWCuBhd33AtKwcTcV1w",
+            "widthPx": 1080
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "ThatGreenbean",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX0UvSJdc-46_T2yomrhsnfiIcvcmVqx1tz3PL453ayX8EomI1Z=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/115514417102652691639"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICXvc6QNQ&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICXvc6QNQ!2e10!4m2!3m1!1s0x487605972cc221cf:0x18aa3e8ff5bcd752",
+            "heightPx": 4032,
+            "name": "places/ChIJzyHCLJcFdkgRUte89Y8-qhg/photos/AWn5SU5VXgKRlwxFcwO1KxI05-7D_kLLCSZNetNkqM9ms_IzxiBVLb8Ps5N08saSK2BBTZMuUJzxvq9yulaLAfmLYkZwNifjr8tD_HUqcwtVZy74DXVauxfdclWTGIky6MyY0ssjQUfvFWUaisE1tEcCnF-Ak9GAeLXC9yGRi0Z8x2BRaGIUmqMgu1z8e16VKWWgYHGnNNwZKLUAY5uN3UnOH5RhG7K4f8eWQeP64mcCkoEEsVzhEmT9FNCr377v4evucM1T5oLnbV7y_0P-v-xGqJezBa4BkIkh_5lohV62c26rdSzhwo50kqQFPO1wwOoVhEQGB-xifDXwnkZmDHdQrW-pPwcaCSslvHmS3QmdYFZ4uhcHQN63TuD3H7cEUgGHdyfgY3M4T-KY9DQCv_s_BkGlJDWs7boqYk3yL7as3yc",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Ashlee de Klerk",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVYtR6ppSuV24sFDZHYWKvv2jxwSLVUQo4Kns5Ulm0rCoL6QnbY=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/112612798491629739683"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDbwpSHpwE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDbwpSHpwE!2e10!4m2!3m1!1s0x487605972cc221cf:0x18aa3e8ff5bcd752",
+            "heightPx": 4032,
+            "name": "places/ChIJzyHCLJcFdkgRUte89Y8-qhg/photos/AWn5SU7TTOqQVNNSiXM5vyh8v-zG_OWS7ki-7yFclJpU9Bv-cYvmmiLtOjvlKbHDP2lBcXEhulwXGBAxpvRTC_NYDEZqXH6HIj20KgYtSojG1-_eINuzXRSsv2KxypgzOxKOPurf6gimySnu21Ly78FtAsBFqPQqi6Qt0Alx0BiD7rPnR_jzSWoB6zFs_gHqD4dwxmZzBMu52m043Y-C7TQBFO4H4WQwnw4Fiis7yJ4nTyyULq1c80woMxlSBUuB_X-laH-99DFceTCzr_SxJ4ffr4YK3QN1r0vrZKC3YHOJ9eTF9xvlSfAgbMKPe6yWjQqT5IF9ZhQHLowydw6jqT93erZ1KoaiM3q2t3Yl2K4U8cW-hcfOjOabJ7-tikOBhKew44DGPptqeJU8tZQe_wAnysXpdVCFkmMQjWEMBTA4agaOl71m",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Rehab",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVz4VAybxqkRn0r234yqmukpiV3h8tXkmNzrB9xkNG0heImdmM=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113191498160534259203"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBvC4P-NAQGVmDyNTL0PVwu&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBvC4P-NAQGVmDyNTL0PVwu!2e10!4m2!3m1!1s0x487605972cc221cf:0x18aa3e8ff5bcd752",
+            "heightPx": 4800,
+            "name": "places/ChIJzyHCLJcFdkgRUte89Y8-qhg/photos/AWn5SU4gqRzszXo0nXma9K6BgDt15s0QHBJtYiDo0vJQ-Tj2MXGIQI5_XXfzqCU5690wLR8vNzfnVsOpLYpxpO5ALm-WrJgqCecxM9lKZa4uOVI8XmjQpo25GNYeqeJtJMbKvoVzGD97LFiEHG_5W4cSwuAoLfi8Fpj7sDRwUyUI4Td7j5oV5KOshwF3ak5CQh_BfyDb9LHiPu1wiiXTvQ9nhAFp0A2aCadRbS7rLP8QpH-CbVFWfuWpJr1qJiJMF73FPcBHJc3l4a3qkDU3lYDcXzwVpZUUr6ZZtpCs-qwlRTYV5Pw2HLvyplZv-eS_Kga74XEaVyI2_38FITPIwNpH0BVcGLdfM9uQjsOZPuv06A5n4WBNYVHK3ZO1CjFzCK78w4gXCysXqDms5kJBumZR5X1WyaQ3gRq0h8lVKSVY154kPDEtzG20VBsPefqnydjv",
+            "widthPx": 3600
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Le Bab Covent Garden",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWwlC06ex53dtSotH_zvkcbd0FQ4lCgv2_uKOThPJTHeAJyHVTO=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110128608873166326476"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM60SKRnjQq8coDZ1P2VTpx7rL2KokaIifCfm1g&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM60SKRnjQq8coDZ1P2VTpx7rL2KokaIifCfm1g!2e10!4m2!3m1!1s0x487605972cc221cf:0x18aa3e8ff5bcd752",
+            "heightPx": 4032,
+            "name": "places/ChIJzyHCLJcFdkgRUte89Y8-qhg/photos/AWn5SU5xsCToj7otz24ofDH7igDLN55w9GJk2LyOGYHXFDk1fzK-atDfEtAbNE5Sdrd67gRSDDhxv5hth4kcCRyRpyKQZeM3FCji0uCbfo41YwmqNNrLgPo0I3iIAxDGCA66-1eywlY_Vd5alOlzafZlN47FWjMZGAX6r6hnZXfcojAj903dwGyXcBY-93hGgZ81hLQDx-Lpsqe2XDIf1CsV81lOninQZfpBiSlwzLLptsDT47vUoyYe5VZ9pZH5XaScSRefUsuMN3iboLQ08C0pH5aIsCwe6yMZ2VLGo88qJhLB5A",
+            "widthPx": 3024
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV7F+7M London, UK",
+        "globalCode": "9C3XGV7F+7M"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "4 Mercer Walk"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2H 9FA",
+        "regionCode": "GB"
+    },
+    "priceRange": {
+        "endPrice": {
+            "currencyCode": "GBP",
+            "units": "30"
+        },
+        "startPrice": {
+            "currencyCode": "GBP",
+            "units": "20"
+        }
+    },
+    "primaryType": "middle_eastern_restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Middle Eastern Restaurant"
+    },
+    "rating": 4.5,
+    "regularOpeningHours": {
+        "nextOpenTime": "2025-11-25T12:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 21,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 16,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 21,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 16,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 16,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 16,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 16,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 – 4:00 PM, 5:00 – 9:30 PM",
+            "Tuesday: 12:00 – 4:00 PM, 5:00 – 10:00 PM",
+            "Wednesday: 12:00 – 4:00 PM, 5:00 – 10:30 PM",
+            "Thursday: 12:00 – 4:00 PM, 5:00 – 10:30 PM",
+            "Friday: 12:00 – 4:00 PM, 5:00 – 10:30 PM",
+            "Saturday: 12:00 – 10:30 PM",
+            "Sunday: 12:30 – 9:30 PM"
+        ]
+    },
+    "reservable": true,
+    "restroom": true,
+    "reviewSummary": {
+        "disclosureText": {
+            "languageCode": "en-US",
+            "text": "Summarized with Gemini"
+        },
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=5%401:CAIQACodChtyc19oOlkxME9majV4bXJXUzcxOUlfa2lUbUE%7CCAIQACoqChtyc19oOlkxME9majV4bXJXUzcxOUlfa2lUbUESCwiE6LbIBhDApeBE&d=17924085&t=8",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487605972cc221cf:0x18aa3e8ff5bcd752!9m1!1b1",
+        "text": {
+            "languageCode": "en-US",
+            "text": "People say this restaurant offers delicious kebabs, hummus, and interesting starters, with both meat and vegan options available. They highlight the reasonable prices, good portion sizes, and vibrant atmosphere. They also like the friendly and attentive staff."
+        }
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Ulfa O",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXFjFK6kXqcUt5mH_VyVsnnXeMEIhHiAL8FOQDnS1GKkuDwqhgc=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/100609464220626993803/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twb1pYbzNRbU5ZYlY4NVN6TmxiVUpSY1Zwck5GRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twb1pYbzNRbU5ZYlY4NVN6TmxiVUpSY1Zwck5GRRAB!2m1!1s0x487605972cc221cf:0x18aa3e8ff5bcd752",
+            "name": "places/ChIJzyHCLJcFdkgRUte89Y8-qhg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twb1pYbzNRbU5ZYlY4NVN6TmxiVUpSY1Zwck5GRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Food good. Looks small but actually filling. Meat taste good, not gamey. The spices and sauces are quite good.\nService good. Food come out quite fast.\n\nCould not go in without reservations. Waited for 30mins."
+            },
+            "publishTime": "2025-11-13T18:05:51.715546722Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "a week ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Food good. Looks small but actually filling. Meat taste good, not gamey. The spices and sauces are quite good.\nService good. Food come out quite fast.\n\nCould not go in without reservations. Waited for 30mins."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "En Karn",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXGTI2y8xzpe2K5jDEcsjBhVTDx0y7PkQprFlsfbjH9ehaec00=s128-c0x00000000-cc-rp-mo-ba2",
+                "uri": "https://www.google.com/maps/contrib/118441871601577933787/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VOTDI5SXpwMzlyQ1BBEAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VOTDI5SXpwMzlyQ1BBEAE!2m1!1s0x487605972cc221cf:0x18aa3e8ff5bcd752",
+            "name": "places/ChIJzyHCLJcFdkgRUte89Y8-qhg/reviews/ChZDSUhNMG9nS0VOTDI5SXpwMzlyQ1BBEAE",
+            "originalText": {
+                "languageCode": "en",
+                "text": "I have to say we received the best service from Manager & staff.  My daughter has multiple food allergies and we were given excellent choices of food from menu that catered for her.   Highly recommend booking table as this place is popular.  Halal. Delicious food made fresh and friendly staff.  10/10 Thank you for being so helpful."
+            },
+            "publishTime": "2025-05-12T10:31:27.749578Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "6 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "I have to say we received the best service from Manager & staff.  My daughter has multiple food allergies and we were given excellent choices of food from menu that catered for her.   Highly recommend booking table as this place is popular.  Halal. Delicious food made fresh and friendly staff.  10/10 Thank you for being so helpful."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Juan Pablo Bermúdez",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXAno7x9BYqitLXU_inkc9_7VfjfUDu-QWndgkCk6C1X-Uskd_ZAg=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/111844370343548510514/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21sS1NXNXZXbmRaZDFkTlIyRlJjeTFaTXkxSU5rRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sS1NXNXZXbmRaZDFkTlIyRlJjeTFaTXkxSU5rRRAB!2m1!1s0x487605972cc221cf:0x18aa3e8ff5bcd752",
+            "name": "places/ChIJzyHCLJcFdkgRUte89Y8-qhg/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sS1NXNXZXbmRaZDFkTlIyRlJjeTFaTXkxSU5rRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "The aubergine sabich was DELICIOUS. So flavorful!! The hummus super food bowl was also fantastic. The only thing they could improve is the music. The vibe was very nice, but the Anglo pop and ballad hits playlist really had nothing to do with the rest of the experience."
+            },
+            "publishTime": "2025-08-30T16:09:35.450660368Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "2 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "The aubergine sabich was DELICIOUS. So flavorful!! The hummus super food bowl was also fantastic. The only thing they could improve is the music. The vibe was very nice, but the Anglo pop and ballad hits playlist really had nothing to do with the rest of the experience."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Doruntina Krz",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWuuZvdOx97bt40QjdehdbjC1XAs_p704acH_C_qQytFO-0txa75Q=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/118117602535140144103/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3M09uVU5REAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3M09uVU5REAE!2m1!1s0x487605972cc221cf:0x18aa3e8ff5bcd752",
+            "name": "places/ChIJzyHCLJcFdkgRUte89Y8-qhg/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3M09uVU5REAE",
+            "originalText": {
+                "languageCode": "en",
+                "text": "The food was really delicious but a bit overpriced for the portions you get, that is one star down from me. The staff were really welcoming and nice and the food came really quickly, and was presented beautifully.\nMy husband's kebab order came with a kitchen letter and mine was without. He did struggle a bit when eating as the paper was getting in the food, so my suggestion would be not to put papers on the kebabs.\nThe other thing is that when we were ordering the waitress kept saying this is a bit spicy are you okay with that, to which we confirmed that we are okay several times, but this does not affect the star rating.\nI would recommend this place to others, although we are not coming back and that is only because of the prices and portions\nI would suggest the Dirty Bab and loaded fries"
+            },
+            "publishTime": "2025-03-24T12:44:01.350876Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "8 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "The food was really delicious but a bit overpriced for the portions you get, that is one star down from me. The staff were really welcoming and nice and the food came really quickly, and was presented beautifully.\nMy husband's kebab order came with a kitchen letter and mine was without. He did struggle a bit when eating as the paper was getting in the food, so my suggestion would be not to put papers on the kebabs.\nThe other thing is that when we were ordering the waitress kept saying this is a bit spicy are you okay with that, to which we confirmed that we are okay several times, but this does not affect the star rating.\nI would recommend this place to others, although we are not coming back and that is only because of the prices and portions\nI would suggest the Dirty Bab and loaded fries"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Maali Alasousi (‫معالي العسعوسي‬‎)",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVvb10YFkc9SqQcU8vynADp1iejGCOI0bDEfd0rDv_2gYVpalI=s128-c0x00000000-cc-rp-mo-ba6",
+                "uri": "https://www.google.com/maps/contrib/115343504316250646452/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGdVYwaDBPRlJqYlZoYWNWRTRlRUpoTVU1QllWRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGdVYwaDBPRlJqYlZoYWNWRTRlRUpoTVU1QllWRRAB!2m1!1s0x487605972cc221cf:0x18aa3e8ff5bcd752",
+            "name": "places/ChIJzyHCLJcFdkgRUte89Y8-qhg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGdVYwaDBPRlJqYlZoYWNWRTRlRUpoTVU1QllWRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "It is very unique food and very tasty. The location is nice  and there is an inside and outside table and the staff are friendly but the service is a little slow due to the crowd. Thanx to Alex and Hassan for their service.  I advice u to try the mix mezza"
+            },
+            "publishTime": "2025-07-25T18:45:52.010611819Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "4 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "It is very unique food and very tasty. The location is nice  and there is an inside and outside table and the staff are friendly but the service is a little slow due to the crowd. Thanx to Alex and Hassan for their service.  I advice u to try the mix mezza"
+            }
+        }
+    ],
+    "servesBeer": true,
+    "servesBrunch": true,
+    "servesCocktails": true,
+    "servesCoffee": true,
+    "servesDessert": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "servesVegetarianFood": true,
+    "servesWine": true,
+    "shortFormattedAddress": "4 Mercer Walk, London",
+    "takeout": true,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "middle_eastern_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 1425,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.5144303302915,
+            "longitude": -0.12456126970849794
+        },
+        "low": {
+            "latitude": 51.511732369708504,
+            "longitude": -0.127259230291502
+        }
+    },
+    "websiteUri": "https://www.eatlebab.com/",
+    "timestamp": 1764064800
+}

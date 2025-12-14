@@ -1,0 +1,814 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleEntrance": false,
+        "wheelchairAccessibleParking": false,
+        "wheelchairAccessibleSeating": true
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "9",
+            "shortText": "9",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Denmark Street",
+            "shortText": "Denmark St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2H 8LS",
+            "shortText": "WC2H 8LS",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The Phoenix Garden"
+                },
+                "name": "places/ChIJwfWkVM0EdkgRBUFiXbuFstA",
+                "placeId": "ChIJwfWkVM0EdkgRBUFiXbuFstA"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Soho"
+                },
+                "name": "places/ChIJm39Ln9QEdkgR0l1-U8xXTuQ",
+                "placeId": "ChIJm39Ln9QEdkgR0l1-U8xXTuQ"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "TK Maxx"
+                },
+                "name": "places/ChIJC-dXrNIEdkgRRDkHwRzwoeY",
+                "placeId": "ChIJC-dXrNIEdkgRRDkHwRzwoeY",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 47.43137,
+                "travelDistanceMeters": 59.201378,
+                "types": [
+                    "department_store",
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "NBCUniversal"
+                },
+                "name": "places/ChIJv4f2tzIbdkgR9ockIRcTijo",
+                "placeId": "ChIJv4f2tzIbdkgR9ockIRcTijo",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 200.57628,
+                "travelDistanceMeters": 231.74663,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Central Saint Giles"
+                },
+                "name": "places/ChIJ50g9uDIbdkgRlCV8K3CctEM",
+                "placeId": "ChIJ50g9uDIbdkgRlCV8K3CctEM",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 178.68172,
+                "travelDistanceMeters": 131.83984,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Phoenix Theatre"
+                },
+                "name": "places/ChIJ4VJMr9IEdkgRpNfI8XrkKQk",
+                "placeId": "ChIJ4VJMr9IEdkgRpNfI8XrkKQk",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 76.96485,
+                "travelDistanceMeters": 99.50221,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "St Giles in the Fields"
+                },
+                "name": "places/ChIJy1X5sTIbdkgREgVzXBD_gxk",
+                "placeId": "ChIJy1X5sTIbdkgREgVzXBD_gxk",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 76.589714,
+                "travelDistanceMeters": 97.124855,
+                "types": [
+                    "church",
+                    "establishment",
+                    "place_of_worship",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            }
+        ]
+    },
+    "allowsDogs": false,
+    "businessStatus": "OPERATIONAL",
+    "curbsidePickup": false,
+    "currentOpeningHours": {
+        "nextOpenTime": "2025-11-25T12:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 – 10:00 PM",
+            "Tuesday: 12:00 – 10:00 PM",
+            "Wednesday: 12:00 – 10:30 PM",
+            "Thursday: 12:00 – 10:30 PM",
+            "Friday: 12:00 – 11:30 PM",
+            "Saturday: 12:00 – 11:30 PM",
+            "Sunday: 12:00 – 10:00 PM"
+        ]
+    },
+    "delivery": false,
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Flat Iron Tottenham Court Road"
+    },
+    "editorialSummary": {
+        "languageCode": "en",
+        "text": "Concise steak menu in an industrial-chic restaurant decorated with meat cleavers and aprons."
+    },
+    "formattedAddress": "9 Denmark St, London WC2H 8LS, UK",
+    "goodForChildren": false,
+    "goodForGroups": true,
+    "goodForWatchingSports": false,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x48761b2d53888cdb:0x1ad619c86ad551f3!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x48761b2d53888cdb:0x1ad619c86ad551f3!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=1933761438578725363&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x48761b2d53888cdb:0x1ad619c86ad551f3!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x48761b2d53888cdb:0x1ad619c86ad551f3!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=1933761438578725363&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJ24yIUy0bdkgR81HVasgZ1ho",
+    "liveMusic": false,
+    "location": {
+        "latitude": 51.5151599,
+        "longitude": -0.12955329999999998
+    },
+    "menuForChildren": false,
+    "name": "places/ChIJ24yIUy0bdkgR81HVasgZ1ho",
+    "outdoorSeating": false,
+    "parkingOptions": {
+        "freeParkingLot": false,
+        "paidParkingLot": false
+    },
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Teck Boon",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUhhjSvd8WvJhcPJ0N_s5uXl9BwSoDYFYdYkSjIFzqcBjIwg3BhqA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/105978834231481267643"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDezrbrcg&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDezrbrcg!2e10!4m2!3m1!1s0x48761b2d53888cdb:0x1ad619c86ad551f3",
+            "heightPx": 3207,
+            "name": "places/ChIJ24yIUy0bdkgR81HVasgZ1ho/photos/AWn5SU48-gIdpI4fbW2S3ZjPVQqOZ74rKyqZEQKd5adnnL_ga9cKxDgMFqTYJIVyJcuj0NpPV8OkLRQtUNj5F5Zn45bhn_5um6f1YuNE72RzwCdpZnKGX8kpTbfYZ17OupiClb9dqOKksEiQQBLpCOX9K8sUid4wH2FQ5cP07zJqnCwLCXFI1WINeRwoYq--tHo5A2tbScp-c13KdvhuFWNdoQFeQA4Dm5x-WpfEwSVYoCFPKXE0VbTCX7CZra-iPxfzBOvzjwwEGVm2QGAeojbGcAwURqZs5DGDvNwtv-beS9MnF9E9tyB8IIFP0lwIGndL321yiOyXKY-8Xc0sGDRdTuZpgUJG1RwPMOEnoXLK8-B3QmVADWmP9XxMoY6awIhP9nkzaXubX6HVv3EZPtLHu0KziePiOlsQ5hkcZCUnYlE",
+            "widthPx": 2268
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Flat Iron Tottenham Court Road",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXQSH6Lcn1sVAalGUhJnQqRECFA13_4pg4Hzn09hsiO18WRgQk=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113162722745563712993"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNIX-5ZOuhhIiJy9KPJkLPYwikNWqjIvJLaad87&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNIX-5ZOuhhIiJy9KPJkLPYwikNWqjIvJLaad87!2e10!4m2!3m1!1s0x48761b2d53888cdb:0x1ad619c86ad551f3",
+            "heightPx": 1067,
+            "name": "places/ChIJ24yIUy0bdkgR81HVasgZ1ho/photos/AWn5SU6bwe_MW7fs2BdNCZaGumRJz27vZsk96vv64bHOStbIgXRBqeDZ5Dvw9V7oklLYSfs7TVSHcwBMCGw_uBcuKNHcDfKt_WYyEJzsIC9XzdUu8V2aEuYM6WKLBZ7TqZDTfXpQTMNnepiXoFMbG3d0QXdMziJ7vA-L1m29N2-Upl0MzAw1l6alrqp3UlXlpBt4IO6IY1rYKEJJOOuDnuY9wExFPaZJnnikOcLgWERDgovo1SIikfFEBSxwfYifw5qa0PHZQm1miFsSL0fYS0hc2hALAFsaMaypb2uEVOdjmQSP5g",
+            "widthPx": 1600
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Sili Qiu",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWDqYt8PEUKTvM8l_W9sa5I5rGuxYaXgiiG2O6osdpMXHhLN7F7=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/109799758212431675130"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDg3uzRTg&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDg3uzRTg!2e10!4m2!3m1!1s0x48761b2d53888cdb:0x1ad619c86ad551f3",
+            "heightPx": 3599,
+            "name": "places/ChIJ24yIUy0bdkgR81HVasgZ1ho/photos/AWn5SU7gx8C1vGrYOJG6vQ4mVJHpZyUu-C9jtKSvcCgxcD6UaFrHxtp0CbiomQnUJEASVRI_gYa4HbHsvwspUq-Dj_aZkNbsYB699KchSnM6vu2YK_wrGUPoO_Z6yC4yz7R78I_5on427CDyXUosf9BErt1Sd1WQ5EAPJ9D0abUw6-An5urJrlEjdAvsr4PXg9sYAuBorPXCIxcQMU8oReHI0H7eCdL5E-ye8Yijyb_vfb3bv9_XYvBMrvqwC4u66JBmq66kOb5Xho0bd4GCV0YD3chgVS7e7MmhOx0yLjEQquAHRkgwDXHWtwQqEQCF1ccbgaX9NxwesRFJWz9S4hwE-Gvd5f8mZB0dng87ssnvs-pHcaH4iWsjNxlsrnCpxlfybMLsIN2IvId8KAvleeLN68hSf6V4Sjl-8YC-0c-AYgQ",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Em Bibby",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVdv2ovQU1KdMYm0fIlkyk_sWIQ6s5CiDvXPER_u2IyyvwLWSgEiQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/108931293998957771129"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEKjbw_aDntDFcg&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEKjbw_aDntDFcg!2e10!4m2!3m1!1s0x48761b2d53888cdb:0x1ad619c86ad551f3",
+            "heightPx": 3024,
+            "name": "places/ChIJ24yIUy0bdkgR81HVasgZ1ho/photos/AWn5SU7v-84U5siVuhVPMCSsRGghfuK6OiAr-LFnDj5HTO3eLHwVuWqdAC1f3bLGr2lQBfxN24mhtOUtkM0Tjw575sTdpoJ5m4JQeBMxWbjRcIoN1hSIY4rM1rCTnP4TnQfSucoja5OvhsEVvUun5YwEPDEnpPPH-tF11SZkevLdBIpkgK3SVzoxPv-1FSMsP6ej5vkqYnWz4uFRX6nO43v_ONvv87N1IYIdw2ZW6y4-5f7SFX0bJgqRjmbmT0ZQZJEa6G-W87uKKfwvGD-EK3UFBQaWb1sVjDx2IcTo87NzaiVHcr-pnm0uuZcYXSaOiGJf4p74XRaUjIOcIaLjamNvR5ib7_jDoW6eLNTXWY5fhBzlRU29Dq9n7yrQlufaufi3nIOGTe1kJZye-LTlpAp09KmjM7h96K4grPYHOa_F8rWWbg",
+            "widthPx": 4032
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Kevin Holden",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJiCyubE_xxxfQIf8j34YwixlJACKXdxunPz1o2UMovfj688Q=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/109639025815465205244"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDjjJ9GVBHbR3et9F_lPrco&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDjjJ9GVBHbR3et9F_lPrco!2e10!4m2!3m1!1s0x48761b2d53888cdb:0x1ad619c86ad551f3",
+            "heightPx": 3000,
+            "name": "places/ChIJ24yIUy0bdkgR81HVasgZ1ho/photos/AWn5SU6hqoW3r2jjD33RozUz7VPuHKAcTbV6gSzxzwPdVipB-2JHZHgttaot6iKTKPC4b9qoPp4cHO61dzENuWOmK6iZ9fA5kD-kglhRXwWHmNqmlcL3Ngk2afIqtn2y9iKNI63bwfsEaAoHxb9imIF6uosoW7qua4oyX3oMjc8VmCPeypWOqC9chKkg3mnfcQl2CGYqQQ6MoGLqs_nreL3ZvTgMGqzPqD-JLsM34-jNqOsGCLJ7RxsFw2IQX6jXa0Xo3kwVTZcwJvMYt9FBma4fdn8fs4TeRG_LSzd13iOpcYBaHy7fyC7jcvaxtttf40j5QGGMKQ0qewMkqlkPPkzx2fU69cOOzWRoz0i-LYekXmoJhwrd0b__HCJWPR-MBNDQM2E8V4NnL2DzQbNVOtL_Y0FzjF36yS3o8FUdRQQ-Say54j9fq517sXgYRyiT30T6",
+            "widthPx": 4000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Seval B.",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLqPQRuWNIvoK4QkXGuiDSTFOts8h7k-rXQaan4_726vNsUAQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/106295047411993329419"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID3gL6drAE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID3gL6drAE!2e10!4m2!3m1!1s0x48761b2d53888cdb:0x1ad619c86ad551f3",
+            "heightPx": 4032,
+            "name": "places/ChIJ24yIUy0bdkgR81HVasgZ1ho/photos/AWn5SU7gUB7Zxft57cqEJqYfT5yUnYBkKiTqDdrO38UFbeJ75SXZMlSz-QxR8p_t-rHvTjzX4GIWKVq2I1vYSlzwy0JYJyCV9MHZn-jNLX9f71gnAxOzpZIpu5XuxeuOwZJsHhbywjkhuNoEuaj1f-l3Qqyz7ciAFS2tt_UsOR2degw_njKvjMAYxIn48FfrUcHFfeM2SXINezCvaNFgSSjopA436D7gvbwX1G2sAZ-cgB4eMgaZ6lsnLrRnN25Z6T-u_ocoxXKZwnuL8VNzUUDO7a2ERFudx1WPVEmLy3rw6wyW-TIOI31rjaaJJl873Dl6WsP-PUeWBOPZoZhiHilZZdyFWE5loSXXjmcybnPP-vooCLaqDrm33P08bgaUS0G-_2BPshxnuZ0k5pZmGmX1j7h4BnoohaZbJobbMQMbSs5ppe2G",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "차민주",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKjTeBx5ihJWRDnbj_a1TteyPmtgF8ymcyD3Ife0P9QKYvNqw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/111203264777633921987"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICttMuE3gE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICttMuE3gE!2e10!4m2!3m1!1s0x48761b2d53888cdb:0x1ad619c86ad551f3",
+            "heightPx": 4032,
+            "name": "places/ChIJ24yIUy0bdkgR81HVasgZ1ho/photos/AWn5SU7opU40-mQfTIT8Cgg5qPTTZ-3y2inJKTkXTM8bHQkQJd_BPwvU9M9fIiZw3AQ6RAgYXqthcMLUOj3YzTR70Sif6ZOSwXn1a_tCUL6M6FoDrPoOKLTTOv8W01jhtC0nHfPVzw6crWznMUe0a1Txytfgfidpkiwg10rbiydP2cJtAIws7KtAZ7yg8is9K0Li7vUEgzHdRIvv1uM6t14C1nrxDdSf02nDYDyQVwG3QiRW7-WywVirdhyqTGtluAneDe2Pd0_jJ52E-vFEfIm9C3va7CiYpJ8jKM0rgfGN5FkKsnLgvACIGaXnxNOeH9eNkv0evHaU0hMKrn6HX3cXIK5cDHIvfWNhZ6sNKVcm6madRL0worTa6EPF7UswooJYmo3o69u2jEbR8JMR8CnCfomf0MRy4ut5r6aOanlpKn1t8yuy",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Jin Liu",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIKOAL4HDSHRimz6KFfVOLvk5iD8DCpNCK55w7cWrlwx2Z58g=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/103460465014211102985"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCwULhMS372U1lht1dIp189&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCwULhMS372U1lht1dIp189!2e10!4m2!3m1!1s0x48761b2d53888cdb:0x1ad619c86ad551f3",
+            "heightPx": 3024,
+            "name": "places/ChIJ24yIUy0bdkgR81HVasgZ1ho/photos/AWn5SU51589UwmkemNpXDL5wNFeWO1hDSoGU_zxU6qwgzGBTruT-ARlDz3zvcY5OUOQTr58f8hoW1ax7m_mwPHXJ31gyHlH7n0Q4w2Wbs8VzXsu2mYJLCrO2IXaJB3hXJTkBwDTs-P-ncCcdHQtOOnmlvbX_N_wQXaN3fKNNXS37U9L2wRDWx1jh0FMSwhrnvkc95aDiSFqZev0lIPaGxpDjzZQT5aCVJCYTGXAKF-8k1GUG1F8dFEShY4C1lBtyTXjHowPCZASyDesuwxUMZFNXe4mPcZdyIx28lBB9uYcRzd5puBeIampHVOIYTZQB_8-TdSdTGkPe-ddNvn4TmH7HeXvVlWjSEYDNMOPNkzFfx8ihPEllboMG49h-nGag6ev8DBPl0PuxHqrh0S30-PC03L9V5YCioxu6zC6Yfdc5AQNyDMiN2CbDuCHEhBJWaOGo",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Roy Menczer",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ_AOEVcXhQWF1rXm1SbcIt_yu9FgDYZVRg-6rPqkc98m2bzA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/101521110762402092536"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKELTy-urxisTiCA&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKELTy-urxisTiCA!2e10!4m2!3m1!1s0x48761b2d53888cdb:0x1ad619c86ad551f3",
+            "heightPx": 2252,
+            "name": "places/ChIJ24yIUy0bdkgR81HVasgZ1ho/photos/AWn5SU4WefPYmeTCnp7sALfsZrmt9I_K6VGErmDc3NQiuy2opaP_9EtTNX2F2Bo-vpXhYS3_zbvP_Q28Qw7XkbXsdGAVPlSNjv_lP8wlHySZPVqB3Rc9u0S6GKaZZXU3Tq-KDbmuFz4xsmZw3ZSbO61-cyC_D6XE8cVJRjKGCdvR1IPBFSA7Timv15zVqlesF1-pC-PW57lJj-SYKmR-3__PNJsIxRaN9KBjy1HKSwstGgWYeKfJ4zaWY9ZgxukKl37UtWhLU0bVkSZw-JEnj-MWABsRNOhkMWfUuNY6hdtV7ZyTNDKYpyvKVo80g2W6pchq-ozCfFxG-eiwgezMkHhCBzkMQuFWAfBbgusS9NpYqD7vp1BDBo02huUXPfsPeHGMei1oPgoKJXFdDZups3OOw9PaszRS4ROVWL0Vcv-TPSA",
+            "widthPx": 3170
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Yujing Liu",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIGX0atqkXW0lf92aRdwtNtG_YqPr5PL__Fo2CqZNUKmKh1Kw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/106098993347785947426"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDMwprh2wE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDMwprh2wE!2e10!4m2!3m1!1s0x48761b2d53888cdb:0x1ad619c86ad551f3",
+            "heightPx": 3024,
+            "name": "places/ChIJ24yIUy0bdkgR81HVasgZ1ho/photos/AWn5SU7m-yPb3f9G5r46Pr_sGVTfCbFXWJFimaQ0M-p3WIJwTMKbn5AvRF6ULGtzh4CUrTt1nJSVIpRzOWK6BCtrxRWsq9ZBuovfPJTpdJdP5JspcIBg2yzeS6SECcFGBv4jIznYX0bfMotmXl9GxW7AnM-OX_alNz2qPlQO23B16AnxuRLxm3KbGSntg-um_GoZ128ER51Lzqn4zi1VBiaImk16r_JzoLUVMoL4jZJlsLoWp1IY6j6xfaxpU5gZjjzoeWs3ZjUPtQoGEo66QSrXv5YeTSJ4B8xbgPRTQjzhdF7Idj-VIkGGeHRK1Sg0-yJqp20jebdw-AL7zfMPzqoea5rl4C32o9hET_g7f1Resoucvn4pCUxj0x1-Tc4b4peb1wu_6hcOCSjB1oFjCCkLJxWnEdkiWvXvVFo0uGHAt5dp9YM",
+            "widthPx": 4032
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV8C+35 London, UK",
+        "globalCode": "9C3XGV8C+35"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "9 Denmark Street"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2H 8LS",
+        "regionCode": "GB"
+    },
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "priceRange": {
+        "endPrice": {
+            "currencyCode": "GBP",
+            "units": "30"
+        },
+        "startPrice": {
+            "currencyCode": "GBP",
+            "units": "20"
+        }
+    },
+    "primaryType": "steak_house",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Steak House"
+    },
+    "rating": 4.6,
+    "regularOpeningHours": {
+        "nextOpenTime": "2025-11-25T12:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 – 10:00 PM",
+            "Tuesday: 12:00 – 10:00 PM",
+            "Wednesday: 12:00 – 10:30 PM",
+            "Thursday: 12:00 – 10:30 PM",
+            "Friday: 12:00 – 11:30 PM",
+            "Saturday: 12:00 – 11:30 PM",
+            "Sunday: 12:00 – 10:00 PM"
+        ]
+    },
+    "reservable": true,
+    "restroom": true,
+    "reviewSummary": {
+        "disclosureText": {
+            "languageCode": "en-US",
+            "text": "Summarized with Gemini"
+        },
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=5%401:CAIQACodChtyc19oOnhWZmZfMkNoUENJTE1MbDhKOUZPNEE%7CCAIQACorChtyc19oOnhWZmZfMkNoUENJTE1MbDhKOUZPNEESDAi_2OfEBhD44ZHwAg&d=17924085&t=8",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x48761b2d53888cdb:0x1ad619c86ad551f3!9m1!1b1",
+        "text": {
+            "languageCode": "en-US",
+            "text": "People say this steakhouse serves delicious flat iron steak, burgers, and sides like truffle mac and cheese and creamed spinach. They highlight the excellent value for money, the fun vibe, and the complimentary popcorn and ice cream. They also like the friendly and attentive staff."
+        }
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Ken W",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLXX2Y1kNRYis2r_TTVVtBs80K_YKXioZEQrawQUU0MzmAwONU=s128-c0x00000000-cc-rp-mo-ba6",
+                "uri": "https://www.google.com/maps/contrib/111469334813473591346/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGcU5IRkpTSGxMUldKQkxUSlRaME5XTFVKUmEzYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGcU5IRkpTSGxMUldKQkxUSlRaME5XTFVKUmEzYxAB!2m1!1s0x48761b2d53888cdb:0x1ad619c86ad551f3",
+            "name": "places/ChIJ24yIUy0bdkgR81HVasgZ1ho/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGcU5IRkpTSGxMUldKQkxUSlRaME5XTFVKUmEzYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "The popcorn was warm and fresh.\n\nThe steak itself was alright. Good value for the price. But it was a bit bland while the creamed spinach was overly salty. They went together well though. The truffle Mac & cheese was delicious.\n\nThey also gave complimentary ice cream at the end. But it was very sweet 😅"
+            },
+            "publishTime": "2025-09-22T20:01:43.537307886Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "2 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "The popcorn was warm and fresh.\n\nThe steak itself was alright. Good value for the price. But it was a bit bland while the creamed spinach was overly salty. They went together well though. The truffle Mac & cheese was delicious.\n\nThey also gave complimentary ice cream at the end. But it was very sweet 😅"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Leah Smith",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVnHysmnogDosRpwmhCKfVmDbCGRXWWu3O8oiyDx6b4dxiu2mL-Bw=s128-c0x00000000-cc-rp-mo-ba2",
+                "uri": "https://www.google.com/maps/contrib/106639942314318116926/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkSWVWbHNSMmhLVW05TGNDMUVOV2h0YW5SV2FGRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkSWVWbHNSMmhLVW05TGNDMUVOV2h0YW5SV2FGRRAB!2m1!1s0x48761b2d53888cdb:0x1ad619c86ad551f3",
+            "name": "places/ChIJ24yIUy0bdkgR81HVasgZ1ho/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkSWVWbHNSMmhLVW05TGNDMUVOV2h0YW5SV2FGRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Flat Iron is a lovely, cozy little spot — perfect if you like somewhere with a warm, relaxed vibe. The food overall was fantastic; the truffle mac and cheese was absolutely to die for! My steak was a slight letdown compared to the rest of the meal, but everything else more than made up for it. The little touches really make the experience special — popcorn on entry and ice cream on the way out add a fun, memorable twist. The team of staff were amazingly friendly and made us feel right at home.\nPerfect stop of for a reasonably priced meal in central London."
+            },
+            "publishTime": "2025-10-21T14:51:22.732853991Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Flat Iron is a lovely, cozy little spot — perfect if you like somewhere with a warm, relaxed vibe. The food overall was fantastic; the truffle mac and cheese was absolutely to die for! My steak was a slight letdown compared to the rest of the meal, but everything else more than made up for it. The little touches really make the experience special — popcorn on entry and ice cream on the way out add a fun, memorable twist. The team of staff were amazingly friendly and made us feel right at home.\nPerfect stop of for a reasonably priced meal in central London."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Kala Chan",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ64vLGFYOqmTAmG-cFohL96ZTqJ4VBz30dK6WBf020Ea9MRQ=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/110373067156923065839/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2treE0zSXdaa1F5Y0Vka1RrOUxaRlJqUzNkQmJIYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2treE0zSXdaa1F5Y0Vka1RrOUxaRlJqUzNkQmJIYxAB!2m1!1s0x48761b2d53888cdb:0x1ad619c86ad551f3",
+            "name": "places/ChIJ24yIUy0bdkgR81HVasgZ1ho/reviews/Ci9DQUlRQUNvZENodHljRjlvT2treE0zSXdaa1F5Y0Vka1RrOUxaRlJqUzNkQmJIYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "We both had the Flat Iron Steaks and shared a mac and cheese. The food was pretty good for the price — nothing fancy but worth it. We paid around £40 in total. Nice vibe and friendly staff 👍🏻 Would definitely come back!"
+            },
+            "publishTime": "2025-10-06T13:18:13.895904179Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "We both had the Flat Iron Steaks and shared a mac and cheese. The food was pretty good for the price — nothing fancy but worth it. We paid around £40 in total. Nice vibe and friendly staff 👍🏻 Would definitely come back!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "吳佳諺",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKGYRcK1gl5xAxq8K5FRMtrWLR4n_3gT8GEIg1F0FvBMzPK5Q=s128-c0x00000000-cc-rp-mo-ba2",
+                "uri": "https://www.google.com/maps/contrib/105391930579167529750/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25oNFdVRmZiVXRYZFd4VGFUQllVMWhhTVRKMWVHYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oNFdVRmZiVXRYZFd4VGFUQllVMWhhTVRKMWVHYxAB!2m1!1s0x48761b2d53888cdb:0x1ad619c86ad551f3",
+            "name": "places/ChIJ24yIUy0bdkgR81HVasgZ1ho/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oNFdVRmZiVXRYZFd4VGFUQllVMWhhTVRKMWVHYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Thank Florin for the kind hospitality, we had a great time with the delicious steak!\nThe wagyu skirt was really good with rich aroma😋\nRose lemonade is amazing! Can’t wait to have it next time.\nIce cream is also indeed nice and I really like the design of small knife as exchange for ice cream, so cute!"
+            },
+            "publishTime": "2025-10-19T18:56:02.912468349Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Thank Florin for the kind hospitality, we had a great time with the delicious steak!\nThe wagyu skirt was really good with rich aroma😋\nRose lemonade is amazing! Can’t wait to have it next time.\nIce cream is also indeed nice and I really like the design of small knife as exchange for ice cream, so cute!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Carol Cheung",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVM_gS7T1gAto7z6QDB7IvkdR6Dl9RcmQz6f2h3ivNs2rxJLJI6JQ=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/109709188464420351356/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21aUFFVTlFXVFZ4Vkd0aFVVRlNSWE54TUdOUlRFRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aUFFVTlFXVFZ4Vkd0aFVVRlNSWE54TUdOUlRFRRAB!2m1!1s0x48761b2d53888cdb:0x1ad619c86ad551f3",
+            "name": "places/ChIJ24yIUy0bdkgR81HVasgZ1ho/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aUFFVTlFXVFZ4Vkd0aFVVRlNSWE54TUdOUlRFRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Dining at Flat Iron Tottenham Court Road was one of the highlights of my trip to London. The restaurant is stylish but relaxed, creating a welcoming atmosphere the moment you walk through the door. Despite being a very popular spot, the service was quick and incredibly friendly. Every member of staff I encountered went out of their way to make me feel comfortable, offering helpful suggestions and serving everything with a genuine smile. Their warmth and professionalism really stood out.\n\nThe food was excellent and, most importantly, fantastic value for money. The steak was cooked perfectly—juicy, tender, and full of flavor. The sides were also delicious that complemented the meat beautifully. For the quality of the meal, the prices were very reasonable, which makes this place a real gem in central London.\n\nWhat impressed me most was the combination of affordability, quality, and outstanding service. It is rare to find all three together, but Flat Iron manages to deliver effortlessly. I left feeling not only satisfied with the food but also genuinely happy with the whole dining experience. I would definitely recommend this restaurant to anyone looking for a great meal in London."
+            },
+            "publishTime": "2025-08-18T07:58:54.154314391Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "3 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Dining at Flat Iron Tottenham Court Road was one of the highlights of my trip to London. The restaurant is stylish but relaxed, creating a welcoming atmosphere the moment you walk through the door. Despite being a very popular spot, the service was quick and incredibly friendly. Every member of staff I encountered went out of their way to make me feel comfortable, offering helpful suggestions and serving everything with a genuine smile. Their warmth and professionalism really stood out.\n\nThe food was excellent and, most importantly, fantastic value for money. The steak was cooked perfectly—juicy, tender, and full of flavor. The sides were also delicious that complemented the meat beautifully. For the quality of the meal, the prices were very reasonable, which makes this place a real gem in central London.\n\nWhat impressed me most was the combination of affordability, quality, and outstanding service. It is rare to find all three together, but Flat Iron manages to deliver effortlessly. I left feeling not only satisfied with the food but also genuinely happy with the whole dining experience. I would definitely recommend this restaurant to anyone looking for a great meal in London."
+            }
+        }
+    ],
+    "servesBeer": true,
+    "servesBreakfast": false,
+    "servesBrunch": false,
+    "servesCocktails": true,
+    "servesCoffee": true,
+    "servesDessert": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "servesWine": true,
+    "shortFormattedAddress": "9 Denmark St, London",
+    "takeout": false,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "steak_house",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+    ],
+    "userRatingCount": 6416,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.5165288802915,
+            "longitude": -0.12823566970849798
+        },
+        "low": {
+            "latitude": 51.513830919708504,
+            "longitude": -0.130933630291502
+        }
+    },
+    "websiteUri": "https://flatironsteak.co.uk/restaurant/tottenham-court-road/",
+    "timestamp": 1764064800
+}

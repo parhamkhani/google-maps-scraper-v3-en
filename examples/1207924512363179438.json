@@ -1,0 +1,233 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "71-75",
+            "shortText": "71-75",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Shelton Street",
+            "shortText": "Shelton St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2H 9JQ",
+            "shortText": "WC2H 9JQ",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJs4GOh8sEdkgRRiBFZKMP8ZE",
+                "placeId": "ChIJs4GOh8sEdkgRRiBFZKMP8ZE"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "St Martin's Courtyard"
+                },
+                "name": "places/ChIJ0YfiAc0EdkgRoKYIH7344ZA",
+                "placeId": "ChIJ0YfiAc0EdkgRoKYIH7344ZA"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Royal Ballet and Opera"
+                },
+                "name": "places/ChIJySOgh8sEdkgRCBzTYt83Klg",
+                "placeId": "ChIJySOgh8sEdkgRCBzTYt83Klg",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 238.11823,
+                "travelDistanceMeters": 316.11945,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Dr. Martens - Neal Street"
+                },
+                "name": "places/ChIJ9S8lwMwEdkgRBHLhxbz2ovk",
+                "placeId": "ChIJ9S8lwMwEdkgRBHLhxbz2ovk",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 39.351753,
+                "travelDistanceMeters": 40.95489,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "shoe_store",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Seven Dials"
+                },
+                "name": "places/ChIJLVbVPM0EdkgRGUvoNqAiQ30",
+                "placeId": "ChIJLVbVPM0EdkgRGUvoNqAiQ30",
+                "straightLineDistanceMeters": 43.50546,
+                "travelDistanceMeters": 87.73728,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Pineapple Dance Studios"
+                },
+                "name": "places/ChIJY7ti6cwEdkgRcV5k1BiSk6s",
+                "placeId": "ChIJY7ti6cwEdkgRcV5k1BiSk6s",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 34.605892,
+                "travelDistanceMeters": 64.36885,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Hawksmoor Seven Dials"
+                },
+                "name": "places/ChIJCWgQ38wEdkgROQYuPAFfDRo",
+                "placeId": "ChIJCWgQ38wEdkgROQYuPAFfDRo",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 26.194403,
+                "travelDistanceMeters": 33.092133,
+                "types": [
+                    "bar",
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "displayName": {
+        "languageCode": "en",
+        "text": "NGL FOODS LTD"
+    },
+    "formattedAddress": "71-75 Shelton St, London WC2H 9JQ, UK",
+    "goodForWatchingSports": false,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x4876051025048931:0x10c368f1b2e4edae!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x4876051025048931:0x10c368f1b2e4edae!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=1207924512363179438&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x4876051025048931:0x10c368f1b2e4edae!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x4876051025048931:0x10c368f1b2e4edae!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=1207924512363179438&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJMYkEJRAFdkgRru3ksvFowxA",
+    "liveMusic": false,
+    "location": {
+        "latitude": 51.5136472,
+        "longitude": -0.12546279999999999
+    },
+    "name": "places/ChIJMYkEJRAFdkgRru3ksvFowxA",
+    "plusCode": {
+        "compoundCode": "GV7F+FR London, UK",
+        "globalCode": "9C3XGV7F+FR"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "71-75 Shelton Street"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2H 9JQ",
+        "regionCode": "GB"
+    },
+    "primaryType": "meal_takeaway",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Takeout Restaurant"
+    },
+    "servesLunch": true,
+    "shortFormattedAddress": "71-75 Shelton St, London",
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.514994130291505,
+            "longitude": -0.12416031970849796
+        },
+        "low": {
+            "latitude": 51.512296169708506,
+            "longitude": -0.126858280291502
+        }
+    },
+    "timestamp": 1764064800
+}

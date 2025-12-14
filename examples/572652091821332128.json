@@ -1,0 +1,821 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleParking": false,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": true
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "21",
+            "shortText": "21",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Slingsby Place",
+            "shortText": "Slingsby Pl",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2E 9AB",
+            "shortText": "WC2E 9AB",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "St Martin's Courtyard"
+                },
+                "name": "places/ChIJ0YfiAc0EdkgRoKYIH7344ZA",
+                "placeId": "ChIJ0YfiAc0EdkgRoKYIH7344ZA"
+            },
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJs4GOh8sEdkgRRiBFZKMP8ZE",
+                "placeId": "ChIJs4GOh8sEdkgRRiBFZKMP8ZE"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Rossopomodoro Covent Garden"
+                },
+                "name": "places/ChIJ2cjoEc0EdkgRNs0j8LonCYg",
+                "placeId": "ChIJ2cjoEc0EdkgRNs0j8LonCYg",
+                "straightLineDistanceMeters": 56.879128,
+                "travelDistanceMeters": 92.904366,
+                "types": [
+                    "bar",
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Dishoom Covent Garden"
+                },
+                "name": "places/ChIJxZXYx7cEdkgRdgAOZ6OHOJw",
+                "placeId": "ChIJxZXYx7cEdkgRdgAOZ6OHOJw",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 37.54412,
+                "travelDistanceMeters": 67.9536,
+                "types": [
+                    "bar",
+                    "cafe",
+                    "establishment",
+                    "food",
+                    "meal_takeaway",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The Mousetrap at St. Martin's Theatre"
+                },
+                "name": "places/ChIJ2dkqXs0EdkgRlVUsXtEbwsQ",
+                "placeId": "ChIJ2dkqXs0EdkgRlVUsXtEbwsQ",
+                "straightLineDistanceMeters": 74.19373,
+                "travelDistanceMeters": 105.12627,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "TK Maxx"
+                },
+                "name": "places/ChIJkxhCVcwEdkgRPpPtDDaXqbM",
+                "placeId": "ChIJkxhCVcwEdkgRPpPtDDaXqbM",
+                "straightLineDistanceMeters": 96.58705,
+                "travelDistanceMeters": 123.78278,
+                "types": [
+                    "department_store",
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Bill's Covent Garden Restaurant"
+                },
+                "name": "places/ChIJxe02As0EdkgRZeOhNiEbtt8",
+                "placeId": "ChIJxe02As0EdkgRZeOhNiEbtt8",
+                "spatialRelationship": "ACROSS_THE_ROAD",
+                "straightLineDistanceMeters": 23.754942,
+                "travelDistanceMeters": 14.655754,
+                "types": [
+                    "cafe",
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            }
+        ]
+    },
+    "allowsDogs": false,
+    "businessStatus": "OPERATIONAL",
+    "containingPlaces": [
+        {
+            "id": "ChIJVcjKBs0EdkgRYnVLQmcNBfk",
+            "name": "places/ChIJVcjKBs0EdkgRYnVLQmcNBfk"
+        }
+    ],
+    "currentOpeningHours": {
+        "nextOpenTime": "2025-11-25T12:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 – 10:00 PM",
+            "Tuesday: 12:00 – 10:00 PM",
+            "Wednesday: 12:00 – 10:00 PM",
+            "Thursday: 12:00 – 10:00 PM",
+            "Friday: 12:00 – 10:00 PM",
+            "Saturday: 12:00 – 10:00 PM",
+            "Sunday: 12:00 – 10:00 PM"
+        ]
+    },
+    "delivery": true,
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Lahpet West End"
+    },
+    "formattedAddress": "21 Slingsby Pl, London WC2E 9AB, UK",
+    "goodForChildren": true,
+    "goodForGroups": true,
+    "goodForWatchingSports": false,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x487605019353b993:0x7f2780b20e516a0!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487605019353b993:0x7f2780b20e516a0!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=572652091821332128&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487605019353b993:0x7f2780b20e516a0!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487605019353b993:0x7f2780b20e516a0!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=572652091821332128&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJk7lTkwEFdkgRoBblIAt48gc",
+    "internationalPhoneNumber": "+44 20 4580 1276",
+    "liveMusic": false,
+    "location": {
+        "latitude": 51.51279170000001,
+        "longitude": -0.1265123
+    },
+    "menuForChildren": false,
+    "name": "places/ChIJk7lTkwEFdkgRoBblIAt48gc",
+    "nationalPhoneNumber": "020 4580 1276",
+    "outdoorSeating": true,
+    "parkingOptions": {
+        "freeParkingLot": false
+    },
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Lahpet West End",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUVLCTZPRbogr6MtMvZRHZFAHcgSZZUWVhDjGhz4vhp_5Bipcw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/108662514593298225717"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNkkINn-n_KEYO8JqoqXVEy45aKFHG3YCH3F9KE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNkkINn-n_KEYO8JqoqXVEy45aKFHG3YCH3F9KE!2e10!4m2!3m1!1s0x487605019353b993:0x7f2780b20e516a0",
+            "heightPx": 1667,
+            "name": "places/ChIJk7lTkwEFdkgRoBblIAt48gc/photos/AWn5SU4d4WXZfWMdDaijiVFsgs9-gCTX7AN-FcoarCBI7pE5U1W2jz5JhoOx9TCQDfEVKynRIv8NLWfuify5XVBAvlkp7L29OJDbHI2lyBSVa1j4ZJT_UgwnpqLeCkAjusLloSTuDaH2yAJDtSLNxNo9kZQTFlru4cWItfX9WIROUpyfTcyW9sJVb-0XwsgED312Ykd0ywKV-FzMfz_pzy0ZoZe90FMi6cbe_K-WZRKYv8sZVU61ZQ8_TXFNooeMHVVsuPVQtzktyK9mPhMaiZgnJoXjJQpTtVW8tITs_6iQJ0UQyA",
+            "widthPx": 2500
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Lahpet West End",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUVLCTZPRbogr6MtMvZRHZFAHcgSZZUWVhDjGhz4vhp_5Bipcw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/108662514593298225717"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNxlFUsoZcqivhQxjDA7y7_jBZB-17eS9nVbmEr&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNxlFUsoZcqivhQxjDA7y7_jBZB-17eS9nVbmEr!2e10!4m2!3m1!1s0x487605019353b993:0x7f2780b20e516a0",
+            "heightPx": 1667,
+            "name": "places/ChIJk7lTkwEFdkgRoBblIAt48gc/photos/AWn5SU6wmXCwu1xZq12vROm0vtLInSoQG0JjJBR4s9tcXribCpSajApVSsJ8sHxk-EY1i8GLdQgxhGkvTYxcwCqkk9x48vzYsEfPzDl_3Z5JClLSh12X36ipJpbod9pw8sMeOl9eIKpck35YzlVxE1A-QXec4pfeZ70hOHoOhX2BVBSyG2Pa65D5fykUuZooLPihWEN64_KvJtHs2CGjZk5Wq-56iM_flLMsvpMnh813V8ZW2Q3u1n1CBj1iZ_8Ejs01wuEiZx7Yw0lDEZZOrWvNXFu-3nMr6fMsmQBWBbQdXpLGNw",
+            "widthPx": 2500
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Sun Cho",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIY1lceDJc6aFMwPKm_qfQXEbJcFI5sBzCOewsqOTztJPR_IQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/115124273041233055374"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBdW6ZXQWb5oRSk24KWkq8P&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBdW6ZXQWb5oRSk24KWkq8P!2e10!4m2!3m1!1s0x487605019353b993:0x7f2780b20e516a0",
+            "heightPx": 4032,
+            "name": "places/ChIJk7lTkwEFdkgRoBblIAt48gc/photos/AWn5SU4vSUz09b74AdPQB-rXKFM0VBQ-s-9ciJpcIUylYVuXjGVGrU7bfFhu5y4mh0RHK0y3q6HwCGrlSvJIzh-NKwy5o70lMm3c8ns9nAoV2lUQt5hNyMTtosrH0u0XkZRjU5J4S3eUKcOpkDr39Cn1i6bK5pTVEH_SDYgYeEgJP7Tb82AZt6SR6jvxKg8O0F6d47k2_DdztCVkYf3hXl-dFm-aYJzXRNQPwSIlP6V85pTBMzZm_TVUnFCD7FNP33wdsdumNarGvMGAld5tX7z2VNHSYctWNIGoEclx-4__pKd2XtaztxMjTeqtVMy8Vf16ZdfNqGc0VV1uIQK1lmF4l5YTPpiwBBOT0zKqYhR0ZKDGKIdHzYZNGUs-IzZA5INoaWIPqHMZyOJZXSGuJUcNpywHCjzNRQCaJ7pvnGeSFfnwjMwlZKmoUneKleatDsbJ",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Gary Walker",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVAOh2VGfwKpx4LMTc8E1gbSHflVpdJaYg3xkhr81qiAHlyzZM=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/115626255049432385988"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICfnZrLeA&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICfnZrLeA!2e10!4m2!3m1!1s0x487605019353b993:0x7f2780b20e516a0",
+            "heightPx": 3024,
+            "name": "places/ChIJk7lTkwEFdkgRoBblIAt48gc/photos/AWn5SU5A6VDm_apjNSGZYaOa_FrxyJyg4a_NrLrCeS2rLcIoQE9lRBRIGRcD4pYyCdvaw12ItZHDbdA00sdhAQeCNvrOBw-9814xiYFFSBMKaqV0cPvXfbC4-fmp2lFxBsc5puxtsJ0f6xyhffHwbsBpYQZw_y8FnPxGCv3XAUoG3j-Hs3CAwgT6gTXqcDWeEmF1auZxAoioiYl_RnxCCi-GjNKkWWO07PppNjZ9wTyrbAGaW4qlLs5zj5R0aRXgmLdtYpnyo1TKcLdE6K_xoKkRMokQlPO2piBukeoyOP-G7jpATQRbklHlpJNOdE2Fg_2cUdu8qOqRbHlwYP6wS4Zkg3v5BcXlcVoGaQWcRyVOV1UgwlGRZgfS0jUSrmIdvDI6AipOvS3iSgV_AmzwjMRP_Lwy6PCX0o0I4S_F6sjoJJIMTw",
+            "widthPx": 4032
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Monika Rybczak",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUNXy725SVrsJ9VIspJ03bsll6VwJgDnosu6LiVJwM_BC-2baHn=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117537263430078150279"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDQDTbdji8XH3Jd0wl7SdtK&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDQDTbdji8XH3Jd0wl7SdtK!2e10!4m2!3m1!1s0x487605019353b993:0x7f2780b20e516a0",
+            "heightPx": 4000,
+            "name": "places/ChIJk7lTkwEFdkgRoBblIAt48gc/photos/AWn5SU6kSFmsGVFKC0CgwOK_KAoDhSPjF2QIGyQsz9_aN_jaE9NXWWRvAujJmsVYw4zpneGD3m28JMhmM6yqXV2qzb3SDTv6DuUzif3Z0_f-h8uDHohsDCXbHAKPWcuihW1zMjG-mpfTSrgF0272wNs2ErwcNFrGReprcKD3OcdjgtpGbgxEEjEOH7WOYdA56k4xR646_DqtxtjtqFf-5zciNKSSxOFD4rL-iXOHJXvonc2vdKIF5bWkhZfhX1RLPcs8Kp4lzmBDvbPu-P-44-Tz_flgRFQHEH5Y9zTEafAlL1Jx0Sm5rL9QpJu66SM046POL9kkw1vjH4giSqaB9b8qMKxb9TCuoFlkE9_aexCEUBPkjGJqhcW5DXfQbxjGTFRq-fasas6ffpbOeGYw4DH5RNLgbkecK2ZqQNeVIwtIW6sil8SY2uCYpnhHpWVqhF6K",
+            "widthPx": 3000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Chocolate Chocolate",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXEgxknmOkUPUMdc0SSLbLgr4Y6nChFj6skvse6aTM4y8YqKqwj=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/102907114660016886063"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICf1pyD_gE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICf1pyD_gE!2e10!4m2!3m1!1s0x487605019353b993:0x7f2780b20e516a0",
+            "heightPx": 2377,
+            "name": "places/ChIJk7lTkwEFdkgRoBblIAt48gc/photos/AWn5SU6NozZlSwPJPLgOW-BZqwUndKdGVwYQCxMHTyeUYR2tdixre0ftHupTrPn5BsEJDDMIEkHaYas0h74fdZ6KFhRnTIxdfH5f0y-n8kUQa8bQe7U9GCSYbeTdlDXPKxqrnQCJvIZryOJYHAh3ikoEKUxQxvqKEjF2mCBVm0MY6VAIwd5HHbSzi42xjQYZ4dEXaCbCHDfDfBZdprlq0UTIn_rAlR4nWEehag597epvwDxHAzJFtdk4hf_RFaANOfXypVyLm1x1vQ6UolHzk9x40Ze_zXwSOfLAmagHW05H0n0sXr5r4pBMJgMBwcO9Bz8RxKdZ5QKlKyHYneD24LbOiAWeY6mxFX7mYKm8mYlF0M0GwpxcCj10hILIus2XQGa7Y-siM_qOnoxciH3wTYaFfIZF7sYIWUutoGbAGYQs7vtTr1A",
+            "widthPx": 2584
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Monica Puri Bangia",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU6RkyYSK5w-QKq4ITh1Atyt23LvaChrE0ocdrg5ph46rePtTx3Ag=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/102008535406350858861"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhC7QIQG5m8q4_eU-YswqtvP&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhC7QIQG5m8q4_eU-YswqtvP!2e10!4m2!3m1!1s0x487605019353b993:0x7f2780b20e516a0",
+            "heightPx": 3472,
+            "name": "places/ChIJk7lTkwEFdkgRoBblIAt48gc/photos/AWn5SU6cLlq6b3go3hRjtXfptoP09MFW3GreTn6DEqXFmpAnCtggjacj0prf5ke6ZShLxqaACKipy_hWzxz7snzC3hu_Mz1RICefpBN08m97_0Kb5yxIFrCeUIncwUYKBL-kqKQ1VZKuDK6ficZ3urFaLCpLzz4lcomuU7ISjq4qDz_lAc5VBPQRWXGCPrxDCyTKlOdauw7C6zSszaplXi58cNVxpJO5Wp0qS1BKrcegu6IpT4HpLeBG2-3qbZ29Z-IZurxuKRhDL4VdaSaXq2fJI44bTkov4tn3pQDTA_uap3JisAJ8cdbQmBaCAAwUAN60M5AwkFZuog1Y4J-n5_0Ag4HyW2_AdWxBC_9XfMAYppYONEo3v44Wp33b00K44EIHoKUHOPANEtbwbA54TemvcfjTJs49Nxy9fG3mhSoex7UPVt19OjqWboIMTb0Y9r8-",
+            "widthPx": 4624
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "John Bellas",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK-zkFhkeUyxxrGo5FC3XJ-As2rCie-KWBlKB6FK61JTP8Xhg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113600576575979315063"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCQ3Nj79wE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCQ3Nj79wE!2e10!4m2!3m1!1s0x487605019353b993:0x7f2780b20e516a0",
+            "heightPx": 4032,
+            "name": "places/ChIJk7lTkwEFdkgRoBblIAt48gc/photos/AWn5SU4ul9p-8donQDTYkhjF3D-F-aE7fakO8-G0ytcmCigvbPAE7mZrdwRmAwN2RoKFr-Z7UehSir7KFC15VnX4HnxdN-vcW4OW8mhjNMQXqzHuq7inby527QRPCvA6m0lU6RcrcnXjCIQIEhnlm_7HmsQG2u6Itzpj1VWOe82JPJNpkrdCmeOnRW1OENcVqL7KawwHzqPvsHDaam3_W0tX02ABVaUE4a2MKGBRxzsDTv1I4ET5DQHswMTncBTPjIxwd-1lXgfm6QerUWlSDON5fYehSTvo4b2rvoAWeeNhDhbJmTNIaDoj6ZyVDr73pTCZ3zwmKVIuGXzGF-6G6P9oBs1ccQKV9QOSYToEhCar9XsOnT-Hy9dDq9MhWb5DXswAo-oQEfF_wWpOL1saMNvTdZn38Jbq_YfhewELrMxAe8KCKa2t",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Gloria Gao",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJhOeICjYERIJBDJHmbZ2tVKm2EwVbQWzpYUfGORdjwOmUy2g=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/109530367198548891218"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICP0oy9Wg&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICP0oy9Wg!2e10!4m2!3m1!1s0x487605019353b993:0x7f2780b20e516a0",
+            "heightPx": 4032,
+            "name": "places/ChIJk7lTkwEFdkgRoBblIAt48gc/photos/AWn5SU7RNKJfcQ9uEE7HDQ60eJgxriMUFhe-j-WOhis2A7FV6H1Bw4f01DzYZJEVTytNIKzV6zbEJdNTzF5FOc8OZ-zwHkIPuzLLaWy7EeLgwQjTF1WOMU-gX-UqePxZRZhVBXZwAv3W4nmcoM6KbJjnwpoHAr2soPfKSopBpMLRyo9-n2bfAB_eQKPOjPsx_FC6Oc-1QokyNF3pQMy731rMeua-mxHmn1B4eYCUK97nEneY5nsMwxT4aNulycukE8T61VN7iuZC04ga-5Dyo_6t9q1adEYe3bMDRsdJTM0jHO5h3KFIKz9nysmuooOtMSV11yDyDbz079nawnmC0kBqDAc4xEViDaAb5XUB50jZGD99JbLrgf5NOa2WpDSOeBXQFGcDKo5MCsDzVpMAVlDepwBNhijS5XinsFOZF62tXKAqXA",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "F X",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXEgziSJR1NrAJ6Bzwx_od-_1LxZubw_U-RshFU1Akn1WH8DP8=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/105061892003393672497"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBfV927o1op9bjt0kTUFaWN&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBfV927o1op9bjt0kTUFaWN!2e10!4m2!3m1!1s0x487605019353b993:0x7f2780b20e516a0",
+            "heightPx": 4032,
+            "name": "places/ChIJk7lTkwEFdkgRoBblIAt48gc/photos/AWn5SU6RR4ukWWgW8MTD7HRsqMNfsuZN8C3DUvEbgr-g37yUw67Ti4J-Fd2c2jgHkmuzE44JlFqsQ8Gy_Cjx-D4rxXGgU7RtHdFcwj8YhfbsMPeDkM_aaOLtmG4SXmnsqc11TSiFdsvO4IjAF1Isfh0xuCz3srHSSncmWnTAmoIN_PBBXAzY590_VTvpnAMLhUBwvj3wKSIe36eRZPmEavKVxcbD-ap863fGQ3QpHOX682KFfYPoDGFS7qpGWlzPfod0Zss3BdEOZVQ8Ee3gWKzbixTXqJVRbQ4m9l-6WK1-PiSNsAP3sbWrpkdp2B3N5VJdUw02mViNz2FBaaZ9m0A4lWlyz1SsFTd8EjsrrvTwVMqQZM3TMsBCTYCJCK0hWcgUYth3SHRo-8Al42pdOEQUmSMID92opArT1lRcXiwWiVhME5ZLR7lVzWHRZfB-yg",
+            "widthPx": 3024
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV7F+49 London, UK",
+        "globalCode": "9C3XGV7F+49"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "21 Slingsby Place"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2E 9AB",
+        "regionCode": "GB"
+    },
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "priceRange": {
+        "endPrice": {
+            "currencyCode": "GBP",
+            "units": "40"
+        },
+        "startPrice": {
+            "currencyCode": "GBP",
+            "units": "20"
+        }
+    },
+    "primaryType": "restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Restaurant"
+    },
+    "rating": 4.6,
+    "regularOpeningHours": {
+        "nextOpenTime": "2025-11-25T12:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 – 10:00 PM",
+            "Tuesday: 12:00 – 10:00 PM",
+            "Wednesday: 12:00 – 10:00 PM",
+            "Thursday: 12:00 – 10:00 PM",
+            "Friday: 12:00 – 10:00 PM",
+            "Saturday: 12:00 – 10:00 PM",
+            "Sunday: 12:00 – 10:00 PM"
+        ]
+    },
+    "reservable": true,
+    "restroom": true,
+    "reviewSummary": {
+        "disclosureText": {
+            "languageCode": "en-US",
+            "text": "Summarized with Gemini"
+        },
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=5%401:CAIQACodChtyc19oOl85aHFWNUdVUVFac0xucjNVWXNnUXc%7CCAIQACoqChtyc19oOl85aHFWNUdVUVFac0xucjNVWXNnUXcSCwiE6LbIBhDApeBE&d=17924085&t=8",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487605019353b993:0x7f2780b20e516a0!9m1!1b1",
+        "text": {
+            "languageCode": "en-US",
+            "text": "People say this Burmese restaurant serves delicious coconut noodles with chicken, king prawn curry, and tea leaf salad. They highlight the flavorful dishes, generous portions, and good value, especially the lunch deals. They also like the modern and cozy atmosphere, and the friendly and attentive staff."
+        }
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Patrick",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUAzDRHF34XtCOk_8_4pq6YNjWMba2H14VLWWuz2wLK2J1RDImXJA=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/114026670061338495103/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWalZrOVFaeTFZUWtaZlNYZ3hOMWx4YkdaU1gwRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWalZrOVFaeTFZUWtaZlNYZ3hOMWx4YkdaU1gwRRAB!2m1!1s0x487605019353b993:0x7f2780b20e516a0",
+            "name": "places/ChIJk7lTkwEFdkgRoBblIAt48gc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWalZrOVFaeTFZUWtaZlNYZ3hOMWx4YkdaU1gwRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "This was my first time trying Burmese food. Very highly recommend going to this restaurant. Burmese food, to me, is much more similar to Thai food than I thought. As Thai, I’m very familiar with the Thai cuisine, and many of the flavours of Burmese cuisine reminded me of it. There are certain types of meats and curries that are clearly influenced by India/Nepal, making this a very interesting cuisine.\n\nI most recommend the mutton curry - by far the best dish I’ve had, and I’ve tried a few dishes at this place. The second meal I would recommend is the Mohinga, which is a national dish and similar to a Malaysian Laksa + Vietnamese vermicelli noodles.\n\nFood gets delivered super quick ~5-10 minutes. Staff are very friendly."
+            },
+            "publishTime": "2025-10-03T22:01:30.413767668Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "This was my first time trying Burmese food. Very highly recommend going to this restaurant. Burmese food, to me, is much more similar to Thai food than I thought. As Thai, I’m very familiar with the Thai cuisine, and many of the flavours of Burmese cuisine reminded me of it. There are certain types of meats and curries that are clearly influenced by India/Nepal, making this a very interesting cuisine.\n\nI most recommend the mutton curry - by far the best dish I’ve had, and I’ve tried a few dishes at this place. The second meal I would recommend is the Mohinga, which is a national dish and similar to a Malaysian Laksa + Vietnamese vermicelli noodles.\n\nFood gets delivered super quick ~5-10 minutes. Staff are very friendly."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Sani Ario",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWWVELB5wMgxyoesM2EFI48XKi3wyJ7o7aXl1gLPIF5iH13EH6Vvg=s128-c0x00000000-cc-rp-mo-ba6",
+                "uri": "https://www.google.com/maps/contrib/109424470531023414633/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4amRrUXpXRjlCZHpGR1ZXUklaR2cyU0VWd1YzYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4amRrUXpXRjlCZHpGR1ZXUklaR2cyU0VWd1YzYxAB!2m1!1s0x487605019353b993:0x7f2780b20e516a0",
+            "name": "places/ChIJk7lTkwEFdkgRoBblIAt48gc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4amRrUXpXRjlCZHpGR1ZXUklaR2cyU0VWd1YzYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "I thought I knew Southeast Asian food. Who isn't familiar with a good Thai, Vietnamese Malaysian or Indonesian? But Lahpet's Burmese puts Myanmar on the map. The dishes here are delicate, yet flavourful. It has the freshness of Vietnamese with its whimsical salads, acidity and playful spiciness of Thai and the rich curries of Sumatra, Indonesia. That fish curry was decadent, and the tofu was delightful. Lahpet has invited me to learn more about Burmese culture cooking. And isn't that what it's all about? Shall be back for more."
+            },
+            "publishTime": "2025-10-17T11:21:58.733817232Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "I thought I knew Southeast Asian food. Who isn't familiar with a good Thai, Vietnamese Malaysian or Indonesian? But Lahpet's Burmese puts Myanmar on the map. The dishes here are delicate, yet flavourful. It has the freshness of Vietnamese with its whimsical salads, acidity and playful spiciness of Thai and the rich curries of Sumatra, Indonesia. That fish curry was decadent, and the tofu was delightful. Lahpet has invited me to learn more about Burmese culture cooking. And isn't that what it's all about? Shall be back for more."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Ambreen Ansari",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ-MQFXvL-NvjWd4L1sPIHUcJtno0yAZAlRUyszPrbV30igpg=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/101221396101771610830/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGQ1VXcFRiM1pEWm05S1dVaFBja2xaVDAxclJXYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGQ1VXcFRiM1pEWm05S1dVaFBja2xaVDAxclJXYxAB!2m1!1s0x487605019353b993:0x7f2780b20e516a0",
+            "name": "places/ChIJk7lTkwEFdkgRoBblIAt48gc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGQ1VXcFRiM1pEWm05S1dVaFBja2xaVDAxclJXYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "No food quite evokes a memory like one from your childhood. My mom grew up in Burma/Myanmar and as a result we grew up with the richness of Burmese cuisine. Therefore, it was a pleasure to relive childhood memories at Lahpet. The food is authentic, the service is accommodating and friendly. The atmosphere is the lovely surroundings of Covent Gardens. I had the Tea Leaf Salad and the pandan creme brûlée. Both amazing. My only regret is not having enough space to try more. I will be back here next time I am in London."
+            },
+            "publishTime": "2025-11-05T16:18:58.314367888Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 weeks ago",
+            "text": {
+                "languageCode": "en",
+                "text": "No food quite evokes a memory like one from your childhood. My mom grew up in Burma/Myanmar and as a result we grew up with the richness of Burmese cuisine. Therefore, it was a pleasure to relive childhood memories at Lahpet. The food is authentic, the service is accommodating and friendly. The atmosphere is the lovely surroundings of Covent Gardens. I had the Tea Leaf Salad and the pandan creme brûlée. Both amazing. My only regret is not having enough space to try more. I will be back here next time I am in London."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Emily Dolan",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXUKZ0mYxu_pHGKJzssALOtHZ84QbM4f3Fgs89AYAJVp_dEXYWS=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/109279053750296602521/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWWWN6WXpPRTR0T1hOak1uUjBhR3hYTW5abFVFRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWWWN6WXpPRTR0T1hOak1uUjBhR3hYTW5abFVFRRAB!2m1!1s0x487605019353b993:0x7f2780b20e516a0",
+            "name": "places/ChIJk7lTkwEFdkgRoBblIAt48gc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWWWN6WXpPRTR0T1hOak1uUjBhR3hYTW5abFVFRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "We were early for our res but they sat us at a lovely table upstairs right away! The staff were wonderful and never hovered over the table, quick check backs which was perfect for our date night! The food... Wow what can I say, absolutely incredible and fresh! We went for the ginger salad which was a refreshing way to start the meal and then the masala hake which was tangy and earthy with the cassava rosti then the fillet of beef which was sweet and comforting! Can't recommend enough!"
+            },
+            "publishTime": "2025-10-25T19:28:44.588110746Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "We were early for our res but they sat us at a lovely table upstairs right away! The staff were wonderful and never hovered over the table, quick check backs which was perfect for our date night! The food... Wow what can I say, absolutely incredible and fresh! We went for the ginger salad which was a refreshing way to start the meal and then the masala hake which was tangy and earthy with the cassava rosti then the fillet of beef which was sweet and comforting! Can't recommend enough!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Henry Rowling",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVA0n3ZNOB02TyCMpduV09PVNSzuUsaGkKHEl9adNB9EP6q9Jqr=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/102616344557821887454/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pOR2FWbFlWalV6Y0ZNeGJXTk1kMWx2ZG5sYWMyYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pOR2FWbFlWalV6Y0ZNeGJXTk1kMWx2ZG5sYWMyYxAB!2m1!1s0x487605019353b993:0x7f2780b20e516a0",
+            "name": "places/ChIJk7lTkwEFdkgRoBblIAt48gc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOR2FWbFlWalV6Y0ZNeGJXTk1kMWx2ZG5sYWMyYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Popped in for a quick lunch and this place was absolutely delicious. Had lunchtime deal of main and starter for £17. The ginger salad was delicious - tangy, crunchy, heat - all bases covered flavour wise. One of the best salads I’ve eaten in a long time. Main course was the mutton curry - it was extremely good. The meat melted in your mouth and strong flavour of tamarind. Warming, hearty and meaty. Everything my table ordered was enjoyed. Will be back to try other parts of the menu as it all looks delicious. 😎"
+            },
+            "publishTime": "2025-10-23T15:24:24.682741366Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Popped in for a quick lunch and this place was absolutely delicious. Had lunchtime deal of main and starter for £17. The ginger salad was delicious - tangy, crunchy, heat - all bases covered flavour wise. One of the best salads I’ve eaten in a long time. Main course was the mutton curry - it was extremely good. The meat melted in your mouth and strong flavour of tamarind. Warming, hearty and meaty. Everything my table ordered was enjoyed. Will be back to try other parts of the menu as it all looks delicious. 😎"
+            }
+        }
+    ],
+    "servesBeer": true,
+    "servesCocktails": true,
+    "servesCoffee": true,
+    "servesDessert": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "servesVegetarianFood": true,
+    "servesWine": true,
+    "shortFormattedAddress": "The Yards, 21 Slingsby Pl, London",
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "asian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 971,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.514050080291504,
+            "longitude": -0.12544886970849797
+        },
+        "low": {
+            "latitude": 51.511352119708505,
+            "longitude": -0.128146830291502
+        }
+    },
+    "websiteUri": "https://lahpet.co.uk/",
+    "timestamp": 1764064800
+}

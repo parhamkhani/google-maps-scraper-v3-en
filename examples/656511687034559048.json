@@ -1,0 +1,673 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "67",
+            "shortText": "67",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Kingsway",
+            "shortText": "Kingsway",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2B 6TD",
+            "shortText": "WC2B 6TD",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Holborn"
+                },
+                "name": "places/ChIJA7_adjUbdkgR_XPGaE3twAI",
+                "placeId": "ChIJA7_adjUbdkgR_XPGaE3twAI"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "London School of Economics and Political Science"
+                },
+                "name": "places/ChIJWwWza3sadkgRxTUj6ptmfRA",
+                "placeId": "ChIJWwWza3sadkgRxTUj6ptmfRA"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "King's College London"
+                },
+                "name": "places/ChIJ3VW0o7UEdkgR8eAcbhKByyg",
+                "placeId": "ChIJ3VW0o7UEdkgR8eAcbhKByyg"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "De Vere Grand Connaught Rooms"
+                },
+                "name": "places/ChIJhQ9d1zQbdkgROua8iUNLDC0",
+                "placeId": "ChIJhQ9d1zQbdkgROua8iUNLDC0",
+                "straightLineDistanceMeters": 73.46951,
+                "travelDistanceMeters": 211.34431,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Sway Bar"
+                },
+                "name": "places/ChIJd6Wa2DQbdkgR1kza4rSNkUk",
+                "placeId": "ChIJd6Wa2DQbdkgR1kza4rSNkUk",
+                "straightLineDistanceMeters": 59.924305,
+                "travelDistanceMeters": 196.89027,
+                "types": [
+                    "bar",
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Freemasons Hall, London"
+                },
+                "name": "places/ChIJZ4MM0TQbdkgRWOac4RsNLPs",
+                "placeId": "ChIJZ4MM0TQbdkgRWOac4RsNLPs",
+                "straightLineDistanceMeters": 150.3681,
+                "travelDistanceMeters": 216.79694,
+                "types": [
+                    "establishment",
+                    "museum",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Cheng Kin Ku Building"
+                },
+                "name": "places/ChIJj0LyUTUbdkgR_CUAuFw9p5Y",
+                "placeId": "ChIJj0LyUTUbdkgR_CUAuFw9p5Y",
+                "straightLineDistanceMeters": 107.42676,
+                "travelDistanceMeters": 91.22335,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "university"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "London School of Economics and Political Science"
+                },
+                "name": "places/ChIJWwWza3sadkgR77gsD5ccs70",
+                "placeId": "ChIJWwWza3sadkgR77gsD5ccs70",
+                "straightLineDistanceMeters": 250.23013,
+                "travelDistanceMeters": 108.98748,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "university"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "currentOpeningHours": {
+        "nextOpenTime": "2025-12-11T11:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 14,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 17,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 14,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 15,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 20,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 15,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 16,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 20,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 16,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 17,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 20,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 17,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 20,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 20,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 11,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 11:00 AM – 8:30 PM",
+            "Tuesday: 11:00 AM – 8:30 PM",
+            "Wednesday: 11:00 AM – 8:30 PM",
+            "Thursday: 11:00 AM – 8:30 PM",
+            "Friday: 11:00 AM – 8:30 PM",
+            "Saturday: 11:00 AM – 10:30 PM",
+            "Sunday: 11:00 AM – 5:00 PM"
+        ]
+    },
+    "delivery": false,
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Assenheims"
+    },
+    "formattedAddress": "67 Kingsway, London WC2B 6TD, UK",
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x48761b56de66775b:0x91c65e6a8965a48!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x48761b56de66775b:0x91c65e6a8965a48!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=656511687034559048&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x48761b56de66775b:0x91c65e6a8965a48!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x48761b56de66775b:0x91c65e6a8965a48!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=656511687034559048&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJW3dm3lYbdkgRSFqWqOZlHAk",
+    "location": {
+        "latitude": 51.5156504,
+        "longitude": -0.1194986
+    },
+    "name": "places/ChIJW3dm3lYbdkgRSFqWqOZlHAk",
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Assenheims 56",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKuT9_9Vd_XU87MailZf2Fi8-oyvfOD2q6aMhBlO4tn6v4HPg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113041641666518553389"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOTRMWPpy7fc0yrOwelDrU_BECRv1njCxIAwApP&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOTRMWPpy7fc0yrOwelDrU_BECRv1njCxIAwApP!2e10!4m2!3m1!1s0x48761b56de66775b:0x91c65e6a8965a48",
+            "heightPx": 1365,
+            "name": "places/ChIJW3dm3lYbdkgRSFqWqOZlHAk/photos/AZLasHqL9XZ_YrGY6R9CEzzZYfcvr63bcuZuJB4UkhOVEEX0S4RAfllv5jIs57O_d6xNvxIckXzFrAPkLAG5Lk5ctNi0aQHf6Snf_jR_58ZqO8BkXS3yR9pwWH2BejZI01GEInFKpHSUqETUhiVfwH6HhCgYeNBZUpAZ6vRZbIjwIOxCEnTNjxrGDF8td-HEffERkg3UzgaJC4Run0yVEMfVjc7kzwqZ1GbwmOJxMCWodarCBAQEyCoBhWEuHiVQGTOAmKW9j00DiQPL_zJByqBsVi5MsgS38cwyUcZQxXo634D_nQ",
+            "widthPx": 2048
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Assenheims 56",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKuT9_9Vd_XU87MailZf2Fi8-oyvfOD2q6aMhBlO4tn6v4HPg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113041641666518553389"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMn0nUvJlQfrFY6_f7jQlPx5sIRIvviPZNoqB5f&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMn0nUvJlQfrFY6_f7jQlPx5sIRIvviPZNoqB5f!2e10!4m2!3m1!1s0x48761b56de66775b:0x91c65e6a8965a48",
+            "heightPx": 1365,
+            "name": "places/ChIJW3dm3lYbdkgRSFqWqOZlHAk/photos/AZLasHrWL_AAbNaGJp2lQwzlp6rWsgb8FUkU1uJ_jf2tT-ifnqxaXJIa4RCjiApDA-z0OmaVMNsQpjM5WsOZm29m4ECA3jT_Tt1f8lMh07jcE7o-ny9gPLpJCmuzC8FHOl88QhJCKcpPLVYemhyF0OpyYt41OT93jQy3QOsGSe6IyAPML96gHnXtoo01Vxu1F2lbHA4Aim9Nrst4LkgHDHPeP5YdvaxUS9zMRylW06-ctXk_97tV3AGxTv3eDeuzh36DEqLDZ32ZqRJ7HCq-w7HP7mOqBK9zF61CmRIoc9AQDD2psg",
+            "widthPx": 2048
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Assenheims 56",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKuT9_9Vd_XU87MailZf2Fi8-oyvfOD2q6aMhBlO4tn6v4HPg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113041641666518553389"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOnqNxVL3LS14dLTPBEL0lt7XvVIf4XHfWrikch&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOnqNxVL3LS14dLTPBEL0lt7XvVIf4XHfWrikch!2e10!4m2!3m1!1s0x48761b56de66775b:0x91c65e6a8965a48",
+            "heightPx": 1365,
+            "name": "places/ChIJW3dm3lYbdkgRSFqWqOZlHAk/photos/AZLasHot0kTfpxxgu-Qnj6ECkNfI5_Y0KzoY0xjxQuCmfdt2_iCzSCX6EhaAZrbIZx4W7GWtJNG11-8P2VTyCsUf4S7e02ROvednFx0r9BNKPNNxNzO4Zh33Iq07gumTeh22G5prF96q6mrN6ozeiDEL4YePfxyqE_XNpE1NQoPPGEJtIq_OET6c38JJC9g73CvbIXj0kP9uyJVLeCKF9xsUhinbguxK_HNrtaSlIfIqbBOaaxCAP_K13HIl88Krb-2wOMM9kBokiJsJnwGSl5hHQ3wlJE4nPxAwgsU1tHLzTbufmA",
+            "widthPx": 2048
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Assenheims 56",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKuT9_9Vd_XU87MailZf2Fi8-oyvfOD2q6aMhBlO4tn6v4HPg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113041641666518553389"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNSGEBwm4_lTvHKKoz6HL38TvVbQl-UJN7XUuWp&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNSGEBwm4_lTvHKKoz6HL38TvVbQl-UJN7XUuWp!2e10!4m2!3m1!1s0x48761b56de66775b:0x91c65e6a8965a48",
+            "heightPx": 2048,
+            "name": "places/ChIJW3dm3lYbdkgRSFqWqOZlHAk/photos/AZLasHrruOKo9VUlyXv4J-qIbSa2AK0M2bjNA7fRdiIIWP7Yor9QvJfBdOMdzAFUzSlmxmdihSCNzyhq9NtnJHMs8q4jj6rsTkdKKWMzkw8gZYDAyyHsxSZ3vL9uaMGKJF2AwAadOYwP3ldfEXgGA__3_9e7Up1XPJOewYP034BOYysyOE7S14nRKe468BaNMTmLSfdbJUzPhe_M0kubqGCgfvXIK1r39G_8w5tLYtju7zWLfu9Gra4oxIqtskaCXK-vRxzmR00MUeW2B85Ijf4DkcnKC9sB-Wxt6sfHX_0BqPGyFw",
+            "widthPx": 1365
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Assenheims 56",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKuT9_9Vd_XU87MailZf2Fi8-oyvfOD2q6aMhBlO4tn6v4HPg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113041641666518553389"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNbyvHhzIVIOY5tjfiLDnePQmwq4DWHY7yEoOwu&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNbyvHhzIVIOY5tjfiLDnePQmwq4DWHY7yEoOwu!2e10!4m2!3m1!1s0x48761b56de66775b:0x91c65e6a8965a48",
+            "heightPx": 1346,
+            "name": "places/ChIJW3dm3lYbdkgRSFqWqOZlHAk/photos/AZLasHrnQ3hE3Z8duRn6udI-KBJwfiomvvK7knJQZcEaIhlgDS5JEniuh2hXXqlBdDQaTWz6t_yhlh5wTX9NkuBp-1D4STo1vHhKOV-0eVaJgP0PBGbvm1a44PvkEHilfiAc8wVFo7evc7jbSZRkbB_lE4QiT6jVRQmr7JFIGIYd5FwBdKYgEmvl5QA8QcWORqPJBDMBDibiGX-X51RU1LntNi39IWhcJhgyWpnxsZQF1hFfSikykXmWSGI49vnIcNmc0xQ7-Gielg8KIcMS-JObJDhKBTlF9_NWV-e1rnKm2qCmJg",
+            "widthPx": 2048
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Assenheims 56",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKuT9_9Vd_XU87MailZf2Fi8-oyvfOD2q6aMhBlO4tn6v4HPg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113041641666518553389"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOtbchudU3PLc12pOwgKriglsOcFOm0EVIcSmH2&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOtbchudU3PLc12pOwgKriglsOcFOm0EVIcSmH2!2e10!4m2!3m1!1s0x48761b56de66775b:0x91c65e6a8965a48",
+            "heightPx": 2005,
+            "name": "places/ChIJW3dm3lYbdkgRSFqWqOZlHAk/photos/AZLasHrkuJC7av61zQs_CzWAKnDMRPQMSsGT7Jerwe0S06Kjni_woGvgCLDqFj8P28e_qIjKPqV0GFCMeacbL1ClnVOwjGcipEAIjFOK-afTI1m7e1w098lwFhT_ScsDsYloRBQhQZUGn54OkYZ92ZHgW5g2DQRRkamNu2JvanjqoNPkID6WfBccgiltDTuJ3FWmSLaVKsSHWYKDJCLmBpk3PCC5hseEdD22tKVhiEprPOYXZUOuDj5D3bfdrxgLmWxNDyJSd1jYOtuETfkrf2h8w7sjmf4EXY9a6xcO_YRbfn-aDA",
+            "widthPx": 2048
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Assenheims 56",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKuT9_9Vd_XU87MailZf2Fi8-oyvfOD2q6aMhBlO4tn6v4HPg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113041641666518553389"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNZpJ4kNScXXu7StFG5oztExhTXIN2n_agxgHxI&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNZpJ4kNScXXu7StFG5oztExhTXIN2n_agxgHxI!2e10!4m2!3m1!1s0x48761b56de66775b:0x91c65e6a8965a48",
+            "heightPx": 2048,
+            "name": "places/ChIJW3dm3lYbdkgRSFqWqOZlHAk/photos/AZLasHoTqqb549MerArEolDLiXIaIk-w6Ul-2N5hseD_yjT0LAKkscXNzxgdya9RrW47pF9-g1VvDP_2WtFZnxoq-hqm4TBV8GvExu4Z-_l8jl9Tv_gKWWFzU3o4BwqQ3CeFYJm9p43GzVFTikBDPPLOeRFg7B8ocmydifZ9XG9XhiwuaCWrpu8S9gfckaeWd6Z8-SP_v1zYe_fD26uGKdyQi2NVqyckiG_rebKhXlg6LcN0zdI853zX_hBWRqE2Wq_lK1EMUvBFcY_eTVeC9jF6biL0PVLLMYCYouQ9DfHz4C6WLg",
+            "widthPx": 1365
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Assenheims 56",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKuT9_9Vd_XU87MailZf2Fi8-oyvfOD2q6aMhBlO4tn6v4HPg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113041641666518553389"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM1mjM3EJhLVxUwKK1eszIkIyBVTX79XxaBLkMV&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM1mjM3EJhLVxUwKK1eszIkIyBVTX79XxaBLkMV!2e10!4m2!3m1!1s0x48761b56de66775b:0x91c65e6a8965a48",
+            "heightPx": 2048,
+            "name": "places/ChIJW3dm3lYbdkgRSFqWqOZlHAk/photos/AZLasHp-RqhIw7yC93vIEy0xsx0kbqyWNwbIkQODDSEjSDYDDBxTgLIu5tQ_-E4V8Im1VEaFtpThTlL3GY_V3JZngJ0qutToSwnIBhEvxijs7rUTjPapUmrF3g8eBI7Di3YlFxpzQI1mFYQyTHhe6imCZl-YxlKsMUxQT886O1zXcfkauGfP-LmqNzf0Lv_ViY8LSj-3mniFHIq_ZugTig34Cnh_MbOZbpSThvkv2QTR9oKl9N-R6AfFQTZbz_Ob4gnnllG6NXzM7sArQnRgw-m4iTKhoGXnOxgnlnjNvXfZsS-jzQ",
+            "widthPx": 1365
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Assenheims 56",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKuT9_9Vd_XU87MailZf2Fi8-oyvfOD2q6aMhBlO4tn6v4HPg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113041641666518553389"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPagqMi5ZctbbTvT6vM7LaOj4LnIWAcCl_iHpRE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPagqMi5ZctbbTvT6vM7LaOj4LnIWAcCl_iHpRE!2e10!4m2!3m1!1s0x48761b56de66775b:0x91c65e6a8965a48",
+            "heightPx": 2048,
+            "name": "places/ChIJW3dm3lYbdkgRSFqWqOZlHAk/photos/AZLasHq8se4I6yodNyLauZe6Th4lWUvzm47GRP5FzTuhae-zKHKbCqndVNCuc1Q9hmFZy1RjTxN69uT7vN3JMSjvFdKUFmxKIHAjHO5SCSEqWzozNfBow8prsD0Uc6RAKOZ_OiCbP9OgQCnOlwh-HjPm2VJ18C0Z-_aB531dbSrcmF6oTtjNPDEwpJNl9vD2ZFMqh9PbV1UEniKJM5BClfVJCGQOfkpHV9STYnY1qTygZqFjo24svnBr1AU-7rHM9JxZaWnkgcZ7Y1v-e6n0_Yo8Ki1R1B_IcK5oTekoLd6ZSBQWsA",
+            "widthPx": 1365
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Assenheims 56",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKuT9_9Vd_XU87MailZf2Fi8-oyvfOD2q6aMhBlO4tn6v4HPg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113041641666518553389"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNy6ID3_7XcAcBSLOUvC_S2bQshJUOweDlLhtqg&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNy6ID3_7XcAcBSLOUvC_S2bQshJUOweDlLhtqg!2e10!4m2!3m1!1s0x48761b56de66775b:0x91c65e6a8965a48",
+            "heightPx": 1365,
+            "name": "places/ChIJW3dm3lYbdkgRSFqWqOZlHAk/photos/AZLasHrWaggHByoiesmrn7FS4ahaT3HebG8M7-Li9mbbDMFYnCVZ9XdcY1DEgi1OCnERyMdpM1qthUfkDqoGH-bFiHtVZCWwkFZsxtpzP6yV1Ovn8QIAvSfl5sgpNDkiPv3MSFjZUveudlE_ySclAmd8lTUlKKDKBx8jtLtwOUoYmgzGYRPDh5GtSMYA85uJQza09Xg8xS8mSUZmTApOKoikGkYnzgOfJdiawleAHgj8TbZH3yUQC0wBt_-xDW2LBMkS9twNcdaS5s4a1Dp8LBLz4-DZhiUf5_691lxzeA0N91bZ6w",
+            "widthPx": 2048
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV8J+76 London, UK",
+        "globalCode": "9C3XGV8J+76"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "67 Kingsway"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2B 6TD",
+        "regionCode": "GB"
+    },
+    "primaryType": "restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Restaurant"
+    },
+    "rating": 1,
+    "regularOpeningHours": {
+        "nextOpenTime": "2025-12-11T11:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 17,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 20,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 20,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 20,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 20,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 20,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 11,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 11:00 AM – 8:30 PM",
+            "Tuesday: 11:00 AM – 8:30 PM",
+            "Wednesday: 11:00 AM – 8:30 PM",
+            "Thursday: 11:00 AM – 8:30 PM",
+            "Friday: 11:00 AM – 8:30 PM",
+            "Saturday: 11:00 AM – 10:30 PM",
+            "Sunday: 11:00 AM – 5:00 PM"
+        ]
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "David Men",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUws5JYbRg4G-Qa-2BtX06owZq1kwNfigGu71nmrcZgK-nzlfo=s128-c0x00000000-cc-rp-mo-ba2",
+                "uri": "https://www.google.com/maps/contrib/109221567356974109464/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GdFNXdEdXVGxoZFc1T01XbFRTRjlSUWtGaFJuYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GdFNXdEdXVGxoZFc1T01XbFRTRjlSUWtGaFJuYxAB!2m1!1s0x48761b56de66775b:0x91c65e6a8965a48",
+            "name": "places/ChIJW3dm3lYbdkgRSFqWqOZlHAk/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GdFNXdEdXVGxoZFc1T01XbFRTRjlSUWtGaFJuYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Store not even open - why put it on Google maps? I walked all the way here to a construction site"
+            },
+            "publishTime": "2025-10-13T11:23:42.957634342Z",
+            "rating": 1,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Store not even open - why put it on Google maps? I walked all the way here to a construction site"
+            }
+        }
+    ],
+    "shortFormattedAddress": "67 Kingsway, London",
+    "takeout": true,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+    ],
+    "userRatingCount": 1,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.5169993802915,
+            "longitude": -0.11814961970849798
+        },
+        "low": {
+            "latitude": 51.5143014197085,
+            "longitude": -0.12084758029150201
+        }
+    },
+    "websiteUri": "https://www.as56.co.uk/",
+    "timestamp": 1765447200
+}

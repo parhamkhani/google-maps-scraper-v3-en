@@ -1,0 +1,1073 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleEntrance": false,
+        "wheelchairAccessibleParking": false,
+        "wheelchairAccessibleSeating": false
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "14",
+            "shortText": "14",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Little Newport Street",
+            "shortText": "Little Newport St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2H 7JJ",
+            "shortText": "WC2H 7JJ",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJs4GOh8sEdkgRRiBFZKMP8ZE",
+                "placeId": "ChIJs4GOh8sEdkgRRiBFZKMP8ZE"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Vue Cinema London - West End (Leicester Square)"
+                },
+                "name": "places/ChIJQ5TwgGyue0gRhxMwO-iXTYU",
+                "placeId": "ChIJQ5TwgGyue0gRhxMwO-iXTYU",
+                "spatialRelationship": "ACROSS_THE_ROAD",
+                "straightLineDistanceMeters": 59.371838,
+                "travelDistanceMeters": 41.394012,
+                "types": [
+                    "establishment",
+                    "food",
+                    "movie_theater",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "KFC London - Leicester Square"
+                },
+                "name": "places/ChIJMVplzTwFdkgRuSvAK9t1XSk",
+                "placeId": "ChIJMVplzTwFdkgRuSvAK9t1XSk",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 24.069689,
+                "travelDistanceMeters": 32.859623,
+                "types": [
+                    "establishment",
+                    "food",
+                    "meal_takeaway",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Palace Theatre"
+                },
+                "name": "places/ChIJYxVJmtIEdkgRSFNK6hLhPvQ",
+                "placeId": "ChIJYxVJmtIEdkgRSFNK6hLhPvQ",
+                "straightLineDistanceMeters": 163.08864,
+                "travelDistanceMeters": 223.32794,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Leicester Square"
+                },
+                "name": "places/ChIJ98Dokc0EdkgRy3-ajwvdD94",
+                "placeId": "ChIJ98Dokc0EdkgRy3-ajwvdD94",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 56.39443,
+                "travelDistanceMeters": 25.912462,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "subway_station",
+                    "transit_station"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Angus Steakhouse"
+                },
+                "name": "places/ChIJwaGrbNIEdkgRaMpO65jtVrQ",
+                "placeId": "ChIJwaGrbNIEdkgRaMpO65jtVrQ",
+                "straightLineDistanceMeters": 40.764263,
+                "travelDistanceMeters": 57.50007,
+                "types": [
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            }
+        ]
+    },
+    "allowsDogs": false,
+    "businessStatus": "OPERATIONAL",
+    "currentOpeningHours": {
+        "nextOpenTime": "2025-11-25T12:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 11,
+                    "minute": 30
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 – 9:00 PM",
+            "Tuesday: 12:00 – 9:00 PM",
+            "Wednesday: 12:00 – 9:00 PM",
+            "Thursday: 12:00 – 9:00 PM",
+            "Friday: 11:30 AM – 9:00 PM",
+            "Saturday: 11:30 AM – 10:00 PM",
+            "Sunday: 11:30 AM – 9:00 PM"
+        ]
+    },
+    "currentSecondaryOpeningHours": [
+        {
+            "nextOpenTime": "2025-11-25T12:00:00Z",
+            "openNow": false,
+            "periods": [
+                {
+                    "close": {
+                        "date": {
+                            "day": 30,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 0,
+                        "hour": 21,
+                        "minute": 0
+                    },
+                    "open": {
+                        "date": {
+                            "day": 30,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 0,
+                        "hour": 11,
+                        "minute": 30
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 1,
+                            "month": 12,
+                            "year": 2025
+                        },
+                        "day": 1,
+                        "hour": 21,
+                        "minute": 0
+                    },
+                    "open": {
+                        "date": {
+                            "day": 1,
+                            "month": 12,
+                            "year": 2025
+                        },
+                        "day": 1,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 25,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 2,
+                        "hour": 21,
+                        "minute": 0
+                    },
+                    "open": {
+                        "date": {
+                            "day": 25,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 2,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 26,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 3,
+                        "hour": 21,
+                        "minute": 0
+                    },
+                    "open": {
+                        "date": {
+                            "day": 26,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 3,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 27,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 4,
+                        "hour": 21,
+                        "minute": 0
+                    },
+                    "open": {
+                        "date": {
+                            "day": 27,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 4,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 28,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 5,
+                        "hour": 21,
+                        "minute": 0
+                    },
+                    "open": {
+                        "date": {
+                            "day": 28,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 5,
+                        "hour": 11,
+                        "minute": 30
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 29,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 6,
+                        "hour": 22,
+                        "minute": 0
+                    },
+                    "open": {
+                        "date": {
+                            "day": 29,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 6,
+                        "hour": 11,
+                        "minute": 30
+                    }
+                }
+            ],
+            "secondaryHoursType": "TAKEOUT",
+            "weekdayDescriptions": [
+                "Monday: 12:00 – 9:00 PM",
+                "Tuesday: 12:00 – 9:00 PM",
+                "Wednesday: 12:00 – 9:00 PM",
+                "Thursday: 12:00 – 9:00 PM",
+                "Friday: 11:30 AM – 9:00 PM",
+                "Saturday: 11:30 AM – 10:00 PM",
+                "Sunday: 11:30 AM – 9:00 PM"
+            ]
+        }
+    ],
+    "delivery": false,
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Good Friend Chicken"
+    },
+    "formattedAddress": "14 Little Newport St, London WC2H 7JJ, UK",
+    "goodForWatchingSports": false,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x487604cd8709ea7f:0x1f874a2be3a2b138!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487604cd8709ea7f:0x1f874a2be3a2b138!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=2271866089394843960&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487604cd8709ea7f:0x1f874a2be3a2b138!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487604cd8709ea7f:0x1f874a2be3a2b138!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=2271866089394843960&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJf-oJh80EdkgROLGi4ytKhx8",
+    "internationalPhoneNumber": "+44 20 7734 2088",
+    "liveMusic": false,
+    "location": {
+        "latitude": 51.5117794,
+        "longitude": -0.1287906
+    },
+    "menuForChildren": false,
+    "name": "places/ChIJf-oJh80EdkgROLGi4ytKhx8",
+    "nationalPhoneNumber": "020 7734 2088",
+    "outdoorSeating": false,
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Ji Chickens",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX3Kb4vd1P607PGW4193_bgdT729-6tT_ktmQwr2GqpML9_agY=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/114492773993138264107"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipN9uLarbtXfAj1SDnB-SFPX3y8zQVvCV_QE63TW&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN9uLarbtXfAj1SDnB-SFPX3y8zQVvCV_QE63TW!2e10!4m2!3m1!1s0x487604cd8709ea7f:0x1f874a2be3a2b138",
+            "heightPx": 768,
+            "name": "places/ChIJf-oJh80EdkgROLGi4ytKhx8/photos/AWn5SU51Vui9Pa4BQWtqT_YNxJcbmv-E5R_UK_UeGbr4dsfZrE33PvrWY-Vz-qeE3vqf1LFBUsWn6T-npW_0_hCVTQc9gH1g6T7b4GAKhaZok-9hs34WAclSQjuVavJvGrZ0r5iBUNZqzIIJ8KFrEc_3EHTVXaAx0upTcO7VTuA6URoecc3XH7FCCV902Ccoaekhq9-4EQU1T8lqDpnthELNMJ0z8llGkRmwicN0lrFNyFJ6aSdRmqgqOxHZuuL9ArvO4ak4EUuSvFJCCvenPZgDmAwCLfbjEXG-ECiOMFWkJIFrHA",
+            "widthPx": 1024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Mark Philpott",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXVYB8dKaMPLkK_z5RmJZdsNLQN42OHj2P5MkIoogmtSv3nHPT6=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/111824889263990145647"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCIyI2a0QE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCIyI2a0QE!2e10!4m2!3m1!1s0x487604cd8709ea7f:0x1f874a2be3a2b138",
+            "heightPx": 990,
+            "name": "places/ChIJf-oJh80EdkgROLGi4ytKhx8/photos/AWn5SU5HUy1UeHkaKPq7ON53_smFXWvw7RRwl2D8-Yha6uuo1MVnIOIsH04_mSXpSeULr3MKbnNMUG-yMztVFANIibRSdAghy4x9fFKwgCD-Q19M7SN6hKoYZbZAJohAWvzoTm5piVOjb6G2lfvxMy9KUBS50f7EFwsqrHSR0alTzkbg6azS7hNywCtv7Qi6Aa3TS1lIce-mHnPz8i0ilrGREzukSJzRjdzGGd3fcmU3RLYwwg2hAaRihD9j8fYczOer7iw0ESsKqAeUI9nXkNo5YWerz7DbTZmzI4wtjYQNqxgDvp5Gdu1fx74cN9dZEdkyMOkImR3EQiAq6SSCsUrpfMW6gQwe7OQOCd8yHO75kFAymQLuyQX6C-xCxgSkqDYTW0GH_F-8PSfTLlEWS5XRSlH2Y-GfIHntompHNTMe0yq4b7Hv",
+            "widthPx": 1170
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Mario Gurgel",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU2Zy9KR0f9OfuXUBIrQCWexiR-Ebw_4FGuv26nUotGunc4VQVmKg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/109908252462814471305"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEIbt1_SToY7qpAE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEIbt1_SToY7qpAE!2e10!4m2!3m1!1s0x487604cd8709ea7f:0x1f874a2be3a2b138",
+            "heightPx": 3024,
+            "name": "places/ChIJf-oJh80EdkgROLGi4ytKhx8/photos/AWn5SU5Rqb9WcWnzCqwESUDaqcvJMJ_34DeDvMZ_FqIV0cxsuMiAgKFIUYa7IJRw-gZj0DZNAkKGUm61cDNVVnDgFSwQwv4aZ6MYFE098VACwXsTrtqO39eD15fRKSUfxWZzyFYa7_7zfOSgpwWhNIjMqFWcXocV2UYENkHLfzxqYEUuvS0e9pAAwBGBPZCUTJ5dDE7K5L-t4WYYHk7KmVHBvxljZVTd2u3QkpT8mmdIQOrdqP_2b5CIXE9sOe1G8QPRHzdsNi6-Gltxg15T7CtqVDn7pMqRhawo2LSv3-5uU112Xe4UTI1Jg0sdsGSifbSp-H7dw3pFpWuMstwxwgZfUb3T2pSmKBlumoClZIY56J0gYHeePdxhhzsWgLxdYgZZeEUT5yrO3TEQ_e8vYM-N20ypdMRUUtliEuLSLAHYrPqpACmu",
+            "widthPx": 4032
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Mr Singh",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVVEpVrlITOOPEXYzIxp1n_yOW18uuOl9uNCzmYMr_JH7rutII=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/101463662102251444353"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDiY62feAJg80SfWJEVXq4R&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDiY62feAJg80SfWJEVXq4R!2e10!4m2!3m1!1s0x487604cd8709ea7f:0x1f874a2be3a2b138",
+            "heightPx": 3024,
+            "name": "places/ChIJf-oJh80EdkgROLGi4ytKhx8/photos/AWn5SU43tenKMwxOpC0Bpj8mpkyt-49uL4r9YtkaK0YhtZOsSFYHH6idxRFs61c6mQPGUY8gCeMaM4VkII-sHDAtGMlOowdMIf-x_0rYgvxfb9yRPlHRY0dUsWgLOPnaBQ0JzUiXkMZ6XaksaYXj5sw8mac84Mf69ko7X6pXrSvIcICLwEwvnMdwEBDDeAYNK0HbKYT0F15OUYh_Va6pR09naGgzYg9JtyAJyoACp8RzLCWAgvkDmbuVaA6MDmRJBfxJXZcRlkEVc-VvsNIh15dDeUtvVN9kw3iYgScK_jaiSP8J9kECj00vPrQnyYMyXUgW8jOdFabdQQp_RYidThuAze-JonHlCnaoRJFS3cdY4GMT7kMlIVIvG0l5lR6NP0_u-u9oKHkXBaJ8wdUvYFz3uPwpYM94_k2VoCLU27lojw_YaQZR99PWgKQhtP7bSucd",
+            "widthPx": 4032
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "George Hudson",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX_Xt7FLLWlBbdB_M8yBk9xfq9V2RaHJx4jBXBi3MIIcOR5w_rVKA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/105503032223422940473"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCQuqyzVqoMJ-AnFgrjwaaX&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCQuqyzVqoMJ-AnFgrjwaaX!2e10!4m2!3m1!1s0x487604cd8709ea7f:0x1f874a2be3a2b138",
+            "heightPx": 4800,
+            "name": "places/ChIJf-oJh80EdkgROLGi4ytKhx8/photos/AWn5SU6j9O-MKv4bn78lK8qJQ11YwyEW-WY1X17WIKFboWT0ia99QaTlxgQkl9ybVM0lBNfnA7abvZu7wqqcsNvri_hpm34x4gastXLC0TTZoXVVVudz5kXujTtvF3tlfFs5xiaFi9qn7MHDuM6uj7dSltTZblQd9UBRy4Z3ROrUQEJWJytNitK1XmZubCBozfNK01KEONtuWaTKI-OZY1DaCQT2brWKkvbaX0qCj6QWDyliDjMM0nAse4uO3eDGh-TJFWiOaW2fgYGFgeiYA1xAsuhVGIlla5qU5_VCjge4fI3CfIIBSSw_IsLesh6JiwHeHOqpfsD2C0mEzMgQ0zZH_OqMc30_8QvMAN0psK-YirSc0tdSwABYkULCDZA7_Otg8clihiHqxhFPzGs9opipPTnZmYn298J6tgNv-TphCt1DGzURDL9WlPQCiTvhjknR",
+            "widthPx": 3600
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Mark Philpott",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXVYB8dKaMPLkK_z5RmJZdsNLQN42OHj2P5MkIoogmtSv3nHPT6=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/111824889263990145647"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCIyI2aUQ&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCIyI2aUQ!2e10!4m2!3m1!1s0x487604cd8709ea7f:0x1f874a2be3a2b138",
+            "heightPx": 1169,
+            "name": "places/ChIJf-oJh80EdkgROLGi4ytKhx8/photos/AWn5SU5gqldV3U1_ZEhDWuB17KFhctACZVz74rRQ4hA0S5QAS_PC1mKi1Jcqe-8o0Z94qr2FjtX4johdWaMgEiLOi4gl0QrnXCd6-vI-j9zHxCH0F-kFOKqpjUZSR6bGPZj3UqyYlCnDizJjjGu6ZnpRNpdXCR8FZYW-JoddHtbQk4ZzHiav9mGaXCLDMJaRWt80-e8WqyL32bjW37PTRgK4t3oXaEetZpy_c_1LPEu3M-h_mKawjw2DuYt0bsBrJ0KJBxVF5p4CuTKbz5xd0zXsyQ6W_mt3fm10j442M9itQx1509OcZXbuOE_RZTiEv3OBjcsYegTb_elIggFJqBM90ahlaKOEmFvCk7JFYCYqDc11lhRSyHXb1R512BUPzAMWX5bEYdA9QzlmHG2c6L1hHPLnMqw9dVlk0dhLh_ISui4",
+            "widthPx": 1170
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Perry A Tiu",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUhr-NdxXUIELrzr1ngvu0i1GozKeiZT8mIf3sYvZPyPWCn8fI=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/105167234720311466271"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCQtsuV5QE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCQtsuV5QE!2e10!4m2!3m1!1s0x487604cd8709ea7f:0x1f874a2be3a2b138",
+            "heightPx": 4800,
+            "name": "places/ChIJf-oJh80EdkgROLGi4ytKhx8/photos/AWn5SU6otVmZB3xkv32UaCHv60PnII_GLy_fUDjYC0oGQYKfA7rGwkQbxJ7szT7XDBaiIi-J0DaCgMVeQNybQt_P8eXn2gdL8xPqJk_f45dje6aMmPzB1GnneYXFOMnQQ8YrcMr9GW0jSdB6PEMWsFYKDQLzGy7rMlwRoO-x6iiBiOyhabP0_8IgxGA36ZkQ7T048M3ZmB-0i-SJYr3iYGyvXXrhU6d08qRdBBbHJgWZayahuMU9f2Sb1TiApotUaffyBaf-ZU0e8u-vQjtsND7xEIPks6sSRkCoT3kQJjngwSpn-7D-VIaT7DfwP8vB-lPUPX5ur8-ygZOb15sF1hYxZPMiwdvjkqSUpviVHSrGrO-60cAWgqYiBoK5TpvztkBtSGLfSe4bNIcHOdHWBDG-7GCxBX02Se6152mVDA6Yv36QRHM",
+            "widthPx": 3600
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Mario Gurgel",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU2Zy9KR0f9OfuXUBIrQCWexiR-Ebw_4FGuv26nUotGunc4VQVmKg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/109908252462814471305"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKENjYq-GQ9fW97AE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKENjYq-GQ9fW97AE!2e10!4m2!3m1!1s0x487604cd8709ea7f:0x1f874a2be3a2b138",
+            "heightPx": 4032,
+            "name": "places/ChIJf-oJh80EdkgROLGi4ytKhx8/photos/AWn5SU7Yd92yxy8a-0cT90LhGwmeMQQ3PYuMhQiNty4QEhVCrVkq4o5_wlLfcxUgTutSKZXb1WaKQNlKpQ290kPf7afmc5C9Oq8XlDk4mphcD2yXexJMs8QE0mZi3LtSYQLE5ju_2kUfTClwkScIqkUO3NKnqEeaqzWNtIeoGJ9PXV3ptF0OukhPaJ8OJ1s5Mr7X3ikWwjSuOehtc4MMInTtASnB6_9XbmeAtAl2kwV4dUbTLVi5_H1lJ8nXPM09G8KSZUGxhYATLWMcKvW1IVUNvcSntLPjk1dSijibDSaSPr157hLdWEXJxIMOO9dK2BUV373UAB264diwFnNnvoVdY0gMtuj4wwy6aGmWv21ojwZPIsP-G70OR25_b55Qf_JERVwExDn2KVVB4_lQbAurprDv7OvXRABU_6lwTVMVR0FktpH1",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "M D'Silva",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU_KfJKGlqCpq0jNmV6lXvbwUhciBUnFo8zLKr7JTVuljyN4gdJfw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/116485246356224068431"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICfzLiomgE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICfzLiomgE!2e10!4m2!3m1!1s0x487604cd8709ea7f:0x1f874a2be3a2b138",
+            "heightPx": 4000,
+            "name": "places/ChIJf-oJh80EdkgROLGi4ytKhx8/photos/AWn5SU77544vTjysUloi9ckKGVIQ8PcmlIupcm1jTsw2Zgvbq-LGJUbjl1rauMAVwuKNEswVmpi3nFogz9lgN2ndGQinM1bmSfcYujq4lrYNZ4nJm5Za3vL3iEy9lS3jqU3i59R5OiAKBkcPgk-_5V3V409jYEwhceDyOozQ9BrICHM8jpX5KJwBcojeVRNOcJTDBt0gPe3y7afdvDpbryGWHsmz4FnSJFwNpA_3UKpXe3RmOAuaoA2UMgWjbBQ2Z6dCULi2otZlk2zaHn8g-EYkv2BlWTkYny0AfWMcsHzhgcyLHG3kOG_OXCKfgF0sTRZGwy0drvtXyMGjL3Jv7gfP5Dzix2tPqcq1FtSmQuNBhsIrs4fo91QaSh-R80HLtVtDo2tTlyLg9kQd-KCo21ttUN398OtkhP7BbEXp_Av6FGohWiFt",
+            "widthPx": 3000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Saad Remix",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXboVWqR44YkPUvDiAce5AjHKJd570pFnoIJxNn3Is8fmzLKDa7=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/103549635262568325950"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDU5prjjgE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDU5prjjgE!2e10!4m2!3m1!1s0x487604cd8709ea7f:0x1f874a2be3a2b138",
+            "heightPx": 3024,
+            "name": "places/ChIJf-oJh80EdkgROLGi4ytKhx8/photos/AWn5SU4aOdRJVEpMT1gY2s_7KgV4Ae4aHQgh9AWzC5pvDrtfVh_sIJgqtwuLmA0q7I3SWe2uylWuGYAYt4Gt865rtGh-Q5GoHgt5KigAgY6-TgkpW6ZxjDZOChFjJZVfu0106LA3OKrF14FfrKsGXcKRUsQ0nQaZ0GumzJmnRRWpQOfpldi-DZpiNiUdqbR8K2jAGHKZYH7Xb7c476XeJYnAzPq-Q_vmOEjRb54I4t7CywTQtQYz8IuOF0eAE1dl9Lx2DYI9CsruCG6HuIG3x-0q8mRmgF8S1hC_ufHhzwIughriHldWSbXPMCitLc3zCXf3PqAQ25lomPZMXaDzkimhy1nHwgHn66U0rHNRoFgjyjD0iEQMFq80obsCNsuxrpRSwDXE0mfGW2GdPkznGFkAoOz-aPJYAcwevXRZqNrxMoCvh7DU",
+            "widthPx": 3024
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV6C+PF London, UK",
+        "globalCode": "9C3XGV6C+PF"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "14 Little Newport Street"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2H 7JJ",
+        "regionCode": "GB"
+    },
+    "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+    "priceRange": {
+        "endPrice": {
+            "currencyCode": "GBP",
+            "units": "10"
+        },
+        "startPrice": {
+            "currencyCode": "GBP",
+            "units": "1"
+        }
+    },
+    "primaryType": "meal_takeaway",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Takeout Restaurant"
+    },
+    "rating": 4.3,
+    "regularOpeningHours": {
+        "nextOpenTime": "2025-11-25T12:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 11,
+                    "minute": 30
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 – 9:00 PM",
+            "Tuesday: 12:00 – 9:00 PM",
+            "Wednesday: 12:00 – 9:00 PM",
+            "Thursday: 12:00 – 9:00 PM",
+            "Friday: 11:30 AM – 9:00 PM",
+            "Saturday: 11:30 AM – 10:00 PM",
+            "Sunday: 11:30 AM – 9:00 PM"
+        ]
+    },
+    "regularSecondaryOpeningHours": [
+        {
+            "nextOpenTime": "2025-11-25T12:00:00Z",
+            "openNow": false,
+            "periods": [
+                {
+                    "close": {
+                        "day": 0,
+                        "hour": 21,
+                        "minute": 0
+                    },
+                    "open": {
+                        "day": 0,
+                        "hour": 11,
+                        "minute": 30
+                    }
+                },
+                {
+                    "close": {
+                        "day": 1,
+                        "hour": 21,
+                        "minute": 0
+                    },
+                    "open": {
+                        "day": 1,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "hour": 21,
+                        "minute": 0
+                    },
+                    "open": {
+                        "day": 2,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "hour": 21,
+                        "minute": 0
+                    },
+                    "open": {
+                        "day": 3,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "hour": 21,
+                        "minute": 0
+                    },
+                    "open": {
+                        "day": 4,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "hour": 21,
+                        "minute": 0
+                    },
+                    "open": {
+                        "day": 5,
+                        "hour": 11,
+                        "minute": 30
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "hour": 22,
+                        "minute": 0
+                    },
+                    "open": {
+                        "day": 6,
+                        "hour": 11,
+                        "minute": 30
+                    }
+                }
+            ],
+            "secondaryHoursType": "TAKEOUT",
+            "weekdayDescriptions": [
+                "Monday: 12:00 – 9:00 PM",
+                "Tuesday: 12:00 – 9:00 PM",
+                "Wednesday: 12:00 – 9:00 PM",
+                "Thursday: 12:00 – 9:00 PM",
+                "Friday: 11:30 AM – 9:00 PM",
+                "Saturday: 11:30 AM – 10:00 PM",
+                "Sunday: 11:30 AM – 9:00 PM"
+            ]
+        }
+    ],
+    "reservable": false,
+    "restroom": false,
+    "reviewSummary": {
+        "disclosureText": {
+            "languageCode": "en-US",
+            "text": "Summarized with Gemini"
+        },
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=5%401:CAIQACodChtyc19oOjEtQkV6YTNLTFkwN3FXSHV0cjJKWVE%7CCAIQACorChtyc19oOjEtQkV6YTNLTFkwN3FXSHV0cjJKWVESDAiyx8vBBhCc_selAw&d=17924085&t=8",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487604cd8709ea7f:0x1f874a2be3a2b138!9m1!1b1",
+        "text": {
+            "languageCode": "en-US",
+            "text": "People say this fried chicken takeaway serves up delicious popcorn chicken with a variety of seasonings, including garlic, chili, and plum. They also highlight the generous portions, reasonable prices, and friendly staff.\n\nSome reviews mention the wait times can be long."
+        }
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Mariya Mavli Wala",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLeB5816G-1tU6pkbUZUTpy0AF_QmIIan1M1DXGnIJ7y--tRpn7=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/114614682701923976175/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GVVFYTnRZVkp1VHpkUlYydDJjbnByVm1jNFowRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GVVFYTnRZVkp1VHpkUlYydDJjbnByVm1jNFowRRAB!2m1!1s0x487604cd8709ea7f:0x1f874a2be3a2b138",
+            "name": "places/ChIJf-oJh80EdkgROLGi4ytKhx8/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GVVFYTnRZVkp1VHpkUlYydDJjbnByVm1jNFowRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Finally tried the viral chicken popcorn from Ji Chicken and it genuinely lives up to the hype! The chicken was super crispy on the outside and juicy inside, cooked to perfection with that addictively crunchy texture.\n\nThey’ve got loads of seasoning options to choose from, I went for the plum one and it was just right. The shop also serves loads of other chicken items and seafood along with wide variety of milk-teas and drinks, but I only tried the popcorn chicken this time.\n\nThe place is quite small and always busy (which says a lot about how popular it is), so be ready to wait a little.\n\nThe portion size is small to decent for £7, and yes, a bit pricey, but honestly the flavour, crunch, and freshness make it worth it. Definitely a must-try if you’re visiting Chinatown! I’m absolutely going back to try more next time!"
+            },
+            "publishTime": "2025-10-23T21:12:35.582470518Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Finally tried the viral chicken popcorn from Ji Chicken and it genuinely lives up to the hype! The chicken was super crispy on the outside and juicy inside, cooked to perfection with that addictively crunchy texture.\n\nThey’ve got loads of seasoning options to choose from, I went for the plum one and it was just right. The shop also serves loads of other chicken items and seafood along with wide variety of milk-teas and drinks, but I only tried the popcorn chicken this time.\n\nThe place is quite small and always busy (which says a lot about how popular it is), so be ready to wait a little.\n\nThe portion size is small to decent for £7, and yes, a bit pricey, but honestly the flavour, crunch, and freshness make it worth it. Definitely a must-try if you’re visiting Chinatown! I’m absolutely going back to try more next time!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Toby H",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUOv2CJSmJ6J9dQJN7BgTIiIqWhc5E4AAFlojgiWIrC0WdMxDig=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/116850874808339671623/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2treVNGcHJZVk01ZUZSV1oyRnNUVU5uVGswMmRVRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2treVNGcHJZVk01ZUZSV1oyRnNUVU5uVGswMmRVRRAB!2m1!1s0x487604cd8709ea7f:0x1f874a2be3a2b138",
+            "name": "places/ChIJf-oJh80EdkgROLGi4ytKhx8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2treVNGcHJZVk01ZUZSV1oyRnNUVU5uVGswMmRVRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Not the biggest of shops but it was very busy inside and out and nonetheless and you can see why, they do all different types of chicken from a battered large chicken breast that has been flattened to popcorn chicken which seems to be the most popular. They fill up a small bag with a decent size portion of popcorn chicken and then have about eight different seasonings you can put on and then they shake it up in the bag and give you a long toothpick/fork to eat it with on the Go, tasted absolutely delicious."
+            },
+            "publishTime": "2025-08-23T13:41:39.484045187Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "3 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Not the biggest of shops but it was very busy inside and out and nonetheless and you can see why, they do all different types of chicken from a battered large chicken breast that has been flattened to popcorn chicken which seems to be the most popular. They fill up a small bag with a decent size portion of popcorn chicken and then have about eight different seasonings you can put on and then they shake it up in the bag and give you a long toothpick/fork to eat it with on the Go, tasted absolutely delicious."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "caro",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXJzeevcpJgDnaTd9cNIXJPhHOHpmQBQ2592Iio3Tiy42jUHWYNDA=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/116289685091100933106/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21wWVREaEpaamx0VEZweExWVXhZamRNU25wS1JuYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21wWVREaEpaamx0VEZweExWVXhZamRNU25wS1JuYxAB!2m1!1s0x487604cd8709ea7f:0x1f874a2be3a2b138",
+            "name": "places/ChIJf-oJh80EdkgROLGi4ytKhx8/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wWVREaEpaamx0VEZweExWVXhZamRNU25wS1JuYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Best fried chicken I’ve ever had! I tried it with the seaweed seasoning and it slapped! The portion was also decent for the price! I wish I could go back, this is definitely the first food spot I’d hit if I came to London."
+            },
+            "publishTime": "2025-09-27T12:32:38.676603651Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Best fried chicken I’ve ever had! I tried it with the seaweed seasoning and it slapped! The portion was also decent for the price! I wish I could go back, this is definitely the first food spot I’d hit if I came to London."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Sani Ario",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWWVELB5wMgxyoesM2EFI48XKi3wyJ7o7aXl1gLPIF5iH13EH6Vvg=s128-c0x00000000-cc-rp-mo-ba6",
+                "uri": "https://www.google.com/maps/contrib/109424470531023414633/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSbFZXcFFiemxTVEU0M2NVZ3haRTB3UjBWVloxRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSbFZXcFFiemxTVEU0M2NVZ3haRTB3UjBWVloxRRAB!2m1!1s0x487604cd8709ea7f:0x1f874a2be3a2b138",
+            "name": "places/ChIJf-oJh80EdkgROLGi4ytKhx8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSbFZXcFFiemxTVEU0M2NVZ3haRTB3UjBWVloxRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Tasty, juicy chicken. But is it worth 7.50 quid for a small bag? No. They are really milking the hype, well played. The end."
+            },
+            "publishTime": "2025-11-08T14:48:47.468902378Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "2 weeks ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Tasty, juicy chicken. But is it worth 7.50 quid for a small bag? No. They are really milking the hype, well played. The end."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Maria Livia Ch",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVludzqNy9aFOimwGzPO70WqckqXJK9QEevWa4ao7XGs3SmDua9ow=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/100420119627262268756/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tsQlVGUlJWVWxvWVZwbk4wZ3RZMGR1VEZwTVpsRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsQlVGUlJWVWxvWVZwbk4wZ3RZMGR1VEZwTVpsRRAB!2m1!1s0x487604cd8709ea7f:0x1f874a2be3a2b138",
+            "name": "places/ChIJf-oJh80EdkgROLGi4ytKhx8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsQlVGUlJWVWxvWVZwbk4wZ3RZMGR1VEZwTVpsRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Went here on a Saturday afternoon and it was packed. Tried the crispy chicken breast with plum salt and it was delicious. Tender and juicy, brought me back to my Taiwan trip. Gave it 4 stars because of the chaos inside, crowd management could be better. But still, I'd go back!"
+            },
+            "publishTime": "2025-06-14T21:35:35.643522581Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "5 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Went here on a Saturday afternoon and it was packed. Tried the crispy chicken breast with plum salt and it was delicious. Tender and juicy, brought me back to my Taiwan trip. Gave it 4 stars because of the chaos inside, crowd management could be better. But still, I'd go back!"
+            }
+        }
+    ],
+    "servesBeer": true,
+    "servesBreakfast": false,
+    "servesBrunch": false,
+    "servesCocktails": false,
+    "servesCoffee": false,
+    "servesDessert": false,
+    "servesDinner": true,
+    "servesLunch": true,
+    "shortFormattedAddress": "14 Little Newport St, London",
+    "takeout": true,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "meal_takeaway",
+        "fast_food_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 1748,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.5131032302915,
+            "longitude": -0.127424519708498
+        },
+        "low": {
+            "latitude": 51.5104052697085,
+            "longitude": -0.13012248029150206
+        }
+    },
+    "websiteUri": "http://jichickens.com/",
+    "timestamp": 1764064800
+}

@@ -1,0 +1,740 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleParking": false
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "19",
+            "shortText": "19",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Kingsway",
+            "shortText": "Kingsway",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2B 6UN",
+            "shortText": "WC2B 6UN",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Holborn"
+                },
+                "name": "places/ChIJA7_adjUbdkgR_XPGaE3twAI",
+                "placeId": "ChIJA7_adjUbdkgR_XPGaE3twAI"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "London School of Economics and Political Science"
+                },
+                "name": "places/ChIJWwWza3sadkgRxTUj6ptmfRA",
+                "placeId": "ChIJWwWza3sadkgRxTUj6ptmfRA"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "King's College London"
+                },
+                "name": "places/ChIJ3VW0o7UEdkgR8eAcbhKByyg",
+                "placeId": "ChIJ3VW0o7UEdkgR8eAcbhKByyg"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Starbucks Coffee"
+                },
+                "name": "places/ChIJJdDpX7UEdkgRmu_ox6Q9-a4",
+                "placeId": "ChIJJdDpX7UEdkgRmu_ox6Q9-a4",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 31.941578,
+                "travelDistanceMeters": 144.74417,
+                "types": [
+                    "cafe",
+                    "establishment",
+                    "food",
+                    "meal_takeaway",
+                    "point_of_interest",
+                    "restaurant",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "London School of Economics and Political Science"
+                },
+                "name": "places/ChIJWwWza3sadkgR77gsD5ccs70",
+                "placeId": "ChIJWwWza3sadkgR77gsD5ccs70",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 131.90665,
+                "travelDistanceMeters": 148.01962,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "university"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Aldwych Theatre"
+                },
+                "name": "places/ChIJO_T0j8oEdkgRfqYuoE3d6c4",
+                "placeId": "ChIJO_T0j8oEdkgRfqYuoE3d6c4",
+                "straightLineDistanceMeters": 101.172455,
+                "travelDistanceMeters": 143.8984,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "LSE 20 Kingsway"
+                },
+                "name": "places/ChIJgSbSDu4FdkgRB6SBZg-MDZo",
+                "placeId": "ChIJgSbSDu4FdkgRB6SBZg-MDZo",
+                "straightLineDistanceMeters": 46.996155,
+                "travelDistanceMeters": 210.68533,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "university"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "LSE Old Building"
+                },
+                "name": "places/ChIJN_VYQ7UEdkgR9-3aqHpoeGs",
+                "placeId": "ChIJN_VYQ7UEdkgR9-3aqHpoeGs",
+                "straightLineDistanceMeters": 90.94914,
+                "travelDistanceMeters": 186.15585,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "university"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "containingPlaces": [
+        {
+            "id": "ChIJ9e72vcoEdkgRrxe5naTlIY4",
+            "name": "places/ChIJ9e72vcoEdkgRrxe5naTlIY4"
+        }
+    ],
+    "currentOpeningHours": {
+        "nextOpenTime": "2025-12-11T11:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 15,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 20,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 15,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 16,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 20,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 16,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 17,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 20,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 17,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 20,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 20,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 11,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 11:00 AM – 8:30 PM",
+            "Tuesday: 11:00 AM – 8:30 PM",
+            "Wednesday: 11:00 AM – 8:30 PM",
+            "Thursday: 11:00 AM – 8:30 PM",
+            "Friday: 11:00 AM – 8:30 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Wasabi Sushi & Bento"
+    },
+    "editorialSummary": {
+        "languageCode": "en",
+        "text": "Light-filled, modern chain branch serving up bento boxes, sushi and hot Japanese dishes."
+    },
+    "formattedAddress": "19 Kingsway, London WC2B 6UN, UK",
+    "goodForChildren": true,
+    "goodForGroups": true,
+    "goodForWatchingSports": false,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x487604cabccbc5d3:0x19adc160a1433f2!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487604cabccbc5d3:0x19adc160a1433f2!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=115646727667856370&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487604cabccbc5d3:0x19adc160a1433f2!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487604cabccbc5d3:0x19adc160a1433f2!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=115646727667856370&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJ08XLvMoEdkgR8jMUChbcmgE",
+    "internationalPhoneNumber": "+44 20 7379 1075",
+    "liveMusic": false,
+    "location": {
+        "latitude": 51.513852899999996,
+        "longitude": -0.11818940000000001
+    },
+    "menuForChildren": false,
+    "name": "places/ChIJ08XLvMoEdkgR8jMUChbcmgE",
+    "nationalPhoneNumber": "020 7379 1075",
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Wasabi Sushi & Bento",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWtI43cz3ySD4v4_rejSqsObd_b5n08MZLKUainTnMSeNvLVg0=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/108488496232738547653"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNvbjxLpn7PpVZZ7Xe55ydwn_D0hfOW0mDwcSyw&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNvbjxLpn7PpVZZ7Xe55ydwn_D0hfOW0mDwcSyw!2e10!4m2!3m1!1s0x487604cabccbc5d3:0x19adc160a1433f2",
+            "heightPx": 1365,
+            "name": "places/ChIJ08XLvMoEdkgR8jMUChbcmgE/photos/AZLasHoqIVCP0qyw3aMaIky8jZRQOFrleKbtx2Lo5Dr3ez20Eff8Mc_m8B1zW9PSZzOr60etBplbtDtQemO2w5odfCzmwxg3Yr6uvVF2B5bYGrMsViKv2wnYK7xnxeTsJo5uUBtuqzzw5KBUH3U0XXjXyyKSNi7SFpuj_IV03C5mwV-Gka9wCeyBMJeq3_eC8P7AbV_6cD5zowiRD3YWCkEuE-72xbEnymOYko4Ndc3ZrrNIHN6xDqiZmI1myUJ3kwkTHrvBegtzlco86bSmcJSNgHLQk9ghgY_HpvEHEuqu4Vowvg",
+            "widthPx": 2048
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Jane Wong",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWPlX8CG1x4CSilNyEmmorjWNanFFKnt6anlSRYT4HMEElk8b05=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/108361440721263791826"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID1hpKKdw&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID1hpKKdw!2e10!4m2!3m1!1s0x487604cabccbc5d3:0x19adc160a1433f2",
+            "heightPx": 1055,
+            "name": "places/ChIJ08XLvMoEdkgR8jMUChbcmgE/photos/AZLasHpUObAKGGoFAW9YNNxFDO0-6SxN1tqnTFOwzX5W_WFlduzHz5bee8AwhxVLF4gYNs4ZH2NUFZewytvX4JQ7MMGM60SF45Dmf1dw__5g_M0FikPiW7GAV-x9guEyXOw_SKFZ_NqFXcokDP3SLSo5dH4ZEXFYtP50l04rEv-SAvrUi0nn4iyMLRQ2sKdMo_N0kw3haiOdeQTRBPid3pEEocVL9yj36ldadOS2e_uPqGcnvWu4v1dDP-JVkMNAOsuGhujSdevmitxgmRA0ZqomsnaQQVlffpeOuehET17JFv7A50FO9-F6J908uzoftnyIDic7eeVHkL7ZAO7XYnPIjNnVxBHx_o-AeBT0JKARjFnIuprsK0NyV-F_qODF8tQNF6UKEblh1NqbE0knFgjP4buN4JWB60D9Mz_ntD5wxspOUg",
+            "widthPx": 828
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Yer&gezer!",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKSVv92Hn0vS2RhJsfjNYx2wslY1qCRb2OyvGBQNiCsM9uc=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110895755249872764683"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDwjo6hTw&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDwjo6hTw!2e10!4m2!3m1!1s0x487604cabccbc5d3:0x19adc160a1433f2",
+            "heightPx": 2160,
+            "name": "places/ChIJ08XLvMoEdkgR8jMUChbcmgE/photos/AZLasHozAeUVPv5hNJvQYXWsMH_fXCWjg7NgT7PlRaT6OXkYdZ4SJUNCi3nVbOMcPiqpYcTfQERJGh8Rx9keU3QHxgEm5Sa4Uheiey5uOL6Ocu9S0qYOM-V9m-AOIn72q0BAOYki6FrEXKtjJheBkdBUwF7uLKKqTj9m-DF3AH2W6LpvCmiF4s-fpeI_j0Ttb2XD8Py0QL61s5JHIFMAkx14X7GwUCKet8P8Nj_Od7wUIk_FQX0nxLwMwcH8Pk58X973NFNd5GaQJflLnUN0WN_0e_6yGKaIMMjT9A-sfiSV_QgRw9DX-U3nY7Z7-lfl0lmaC6UScwVmZ98nFuIjvnMwYsZWZFhgVrg9HASHFS2_aVDXc_30c1nIPRvg5hgWef-hOWZ8aI0yJ3BbuIuZZCBhAZH4jiICXqESq_B4mVaIhCo",
+            "widthPx": 3840
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Samantha Sheehy",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU4gMnJfTlUepW2WqDTQIH1gOHQqS-dG3K6imOSqsTISdTWmZWX5Q=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/112789207135091873114"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICTvNaS5AE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICTvNaS5AE!2e10!4m2!3m1!1s0x487604cabccbc5d3:0x19adc160a1433f2",
+            "heightPx": 1908,
+            "name": "places/ChIJ08XLvMoEdkgR8jMUChbcmgE/photos/AZLasHoZbxB3EINPuw87BJYhgkq0IcgyQ7aQA5WWhvP7kT2WDNuijZcHjdAdVABqvpEusbI8DZ5amMawUKsHSDEvzqPcVJgX5pUypfVjjZ7danISZVWJe75qsVrZChT5MaTOliikbNwLvxJXxBydBQ2fiBq7IXyJJ8WNPhPZCiVWWLP7erd7Ge0O-QBlEdaVrxXGTWRGb8jxwYbi9AuY541yD-y35f7rPQmVVSeCBnkZcG4tm7e7lNrlXOshLwIMnnBbnPCM2etUsv2pHX27V_R1_QarYLioQZTkxJ_8cgyd83ZWqczM79EKc22CaF-4evZHRfLiLAbpx4y3_FE_ol7474tQjxVX8RxqiJICyg1TlhhGPxliojWMqs4HEILNNsj0q6GDFQRg_0OBLeUJU3yCYJj-D_rZrwag_G_Gol53OxCwwMEV",
+            "widthPx": 2060
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "KOFAS 360 excavator driver Tankistas777",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUZw_ieHYgi-R8CgawvrQ31jox4z0JFH81ljrTD2wT_NwF4PRLX=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117348641206495690587"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDJ6cHVqQE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDJ6cHVqQE!2e10!4m2!3m1!1s0x487604cabccbc5d3:0x19adc160a1433f2",
+            "heightPx": 4032,
+            "name": "places/ChIJ08XLvMoEdkgR8jMUChbcmgE/photos/AZLasHqTAtHvEn4in0xcs5tXT4BfXxGb2MSvlO7GUPskAXBc9HuSrof9zNKl8uwQAMP2eY_jlsZPtjhp-LqmOt-UjqF9f7-axOwc1adZtfcUswPCj3HqFcRY57CX70B3_CyiJlTAbBQ4OMExVmn2aW0OoRB-_cB0TJi99xEINRQsRMlkzvkaEdANWEgHICeYyboQ82f65e0XwIV5zfiO1Kh2jGpFIeYUgSYj9O01YDT3ocDQbGhy7-V0XE0TzSA6MN2k6ef2LsuhnlqUO7ZbYCpPAbTOAk1W43vl5YiUkRLQ16R7JDylbCsD19hncu0GaFrFM9g72oXxgeMmNAoYrsq_q5bkb2CNMFgBRbmLTTSvU6IFDWz92Z_9PoPKT33nz3d1NbVx-EJNaWGR93zEP6bSCmYR90eBenDCOjUrpGvhLHzMIMFR",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "G",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLocqXVXTeXloXBudxFyOzRuumiOcORb0-u1UyNWG-20CBtjQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110302192996949783510"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICjy8PDZg&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICjy8PDZg!2e10!4m2!3m1!1s0x487604cabccbc5d3:0x19adc160a1433f2",
+            "heightPx": 4032,
+            "name": "places/ChIJ08XLvMoEdkgR8jMUChbcmgE/photos/AZLasHqu1bW7qZbVs7-JUl3uLv1guA1bTa2EQS__w0TsjuRXLpXJmp2dPNdQd4g7awhD9rm_BNg_MGg1Yw1bp70ex1aIs4mmlBrmteGi_AYnykIK-O8rwOWY8xmeLH3YEmtJjAZxumkeom-jAgM81xBaoiF5HyrMtNdlWR9XDyzAA96ncWj0Mxlwwt9drBUSoZLmMI7T5JWKBPWVSBm1e4Y0qwZrUzwaE-4sBTFe6QwTJPC3MM9ucWbynvddhzIlcjmmYp9W2amG73f_v2Rx4Fa6Cgdzjk-keyVhNfBVBrT2BAYFIrTqN9Dct7ONeM17adsIst5iIddONIJyOddIgli9Cuxqm7TcVf6V1GACtIGWwMwwoZEXVe4LjKkVWoFdbMilRr6JkMmLahZZhZx3ORJ9Ra_iYSXGN_4ze5v0MOg7P5Ufbg",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Simonr Palmer",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKM39x-UfTKQSqbUy1qO7nRNTyWk8LJSkVnboJrEuHAe-hT0Q=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110792852553655402697"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICUhuWkGA&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICUhuWkGA!2e10!4m2!3m1!1s0x487604cabccbc5d3:0x19adc160a1433f2",
+            "heightPx": 3120,
+            "name": "places/ChIJ08XLvMoEdkgR8jMUChbcmgE/photos/AZLasHq2G92OV_GYjGv_Eaphp-xjJ--cxF4SNJU_VNudImz3rTD7u8wq5GdJY8sgaFyeRxpdIwj3snWLXMabfy2RwO7vtmqjy4CVT7yHhVqXD8ao80aritxSWHprLRTugQKTdC5TiAaW0kVA3AWTIuKUypCZFHhEwSVNc3fVPb64oRpLlVS69M2JzeYUyMjS_RrncjrmIvFGwMJJsPjcDJrh7kdF3bVN2VFWMOhBlkwTF7wEl-1qJcbgPegrdKYMMPkW4GjpJ4tlEOXkDyw3EhhHW6ntPtKaswICztTmTOm3pszmkQd4xMZMNDtjcLfx0lSfc0xqsWSYhaHPga267po2ADgjmBvaL6L4h_sNHsrVxEyPVqrTiZHKnpCMPlfw_uw9QdQUkQ_LhKJx3cTx6CZHiDPugOC-xToIDUM_L22dcLY4jw",
+            "widthPx": 4160
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "IRiS",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUSumb-5C_2aMTTsWoQHHowdZ5UbgUgX-_JkTrOsTIyFqv1sdOO=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/109441496134658449344"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDpooH1GA&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDpooH1GA!2e10!4m2!3m1!1s0x487604cabccbc5d3:0x19adc160a1433f2",
+            "heightPx": 2781,
+            "name": "places/ChIJ08XLvMoEdkgR8jMUChbcmgE/photos/AZLasHqJ8q3yxdxz9OdePUFH0TqErBG4IwzXoAho8dI7yDzNWVfwmhjMqx9RwTYWpZOT9z0iz2cgSjvoBRrzQfHyYEm0Oez3ppssxc5OforjCT5DDb_AUyXXIeSrMLxfIg-Eencm_63CEHqnddFDKqZEzpLqKXCAfw_Q3cDj9NcVfkth_4bgL_mjCEc8lw-iYGDnBTP2J7apHinMglr_POVz7Ulo7qYPLFuCenD-8laXXfdBYVGdbWHojgrVwtM1YYzh3oDAWlNLFpZM_9RIwDI0BrqHs82OMUFeSoFDVebh7c0pqeCh8BBElYEMmNjf89xiUdUJDjzl2n-gvbjIew2OVNCB2U-TFcRVd2bbIwJYwjfJvwuT1AWlZ1dmpgtBuRXyYzY5nsbXO8N5Ig2PdlDUk7yd_3sR9RsFjyRRDg-EODBd-g",
+            "widthPx": 3709
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "IRiS",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUSumb-5C_2aMTTsWoQHHowdZ5UbgUgX-_JkTrOsTIyFqv1sdOO=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/109441496134658449344"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDpooH16AE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDpooH16AE!2e10!4m2!3m1!1s0x487604cabccbc5d3:0x19adc160a1433f2",
+            "heightPx": 2160,
+            "name": "places/ChIJ08XLvMoEdkgR8jMUChbcmgE/photos/AZLasHpUMehmTACm0nBPK4bVG5oLL2p07h4uISVCgabV49qVX7NqHBsS-q6d5oFALfL2r1vEo19MW_FbOfXneMkL7zb10l2gFZQEKVMXuVFKxyZAFGE97Izw3g18_gGQ5-e1hvWExHZv-flHv5PHN9G1J3Y2vpRMv9Be68aWcfVhDbbWA3cVY228aaD0y7WozFfZDE70Pig5X8BRZclPJmhry4XeHVvy14de9wTy_wGP6rm9JOAF3A6Sx0gFPWA5Xgw7SVBTz0RFtm_uzmcYhTr_GqOUoXlbHaWrnV0ZEuWxhVQF5VCBR_4VT9cWOxmk9tIUilyuju6U6voyJlK6NP48jupUqddLS4f4pFJ-reboS1iFl66Iqkj0h8TkSg75dpBnuE_S4TZScWtaHGXdELyXP31jzfrd4gZU_P7pXenv-rC3MxJe",
+            "widthPx": 2160
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Katrina W",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW-pw7jM-rzvfgm_m4ZaFSZ33vpmrvmB1QFZB0GrSYm63Q8pfQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/107314781742708582401"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICqleCm2gE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICqleCm2gE!2e10!4m2!3m1!1s0x487604cabccbc5d3:0x19adc160a1433f2",
+            "heightPx": 725,
+            "name": "places/ChIJ08XLvMoEdkgR8jMUChbcmgE/photos/AZLasHo1yN7q8-jwARlavhw3zysSFXx7Ebdp6GWj_OXcGp6etaPB-GI96sKhCUGidE09ks2fMkjUKFGgj6wsSiU4qZNVndDcGMn0iAZZBQJRRxmmbpNKPvbOL36-YtaoIHyhitfRwS__fsVze2XrMc8-ESoBZCz7Rg-rcJE4vkoQ4DHfSxek9S6EyCvrh2Yki_0ZbOBrEozDdWZj4V6jPTojynS1EtnpxY89QnZV2csjdd8gYgXpKDTPcVXzPXfBUg_N4Yt_2MS8iGNE3FylXlebhrFzPdLMk-w3r7ixN8tgMIAl9mthaeZ0etsdmF3KPvApuOglgw9loemlS3vFsi5sVxgOUBptU1GesJzZ1fQrGLqNxH_aa6IIJUHuhmtt8p9ZKy6RfPnyXCiRKp48Cl4zlojTj7VKyST-97wlNCUJLnZlDluV",
+            "widthPx": 1086
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV7J+GP London, UK",
+        "globalCode": "9C3XGV7J+GP"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "19 Kingsway"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2B 6UN",
+        "regionCode": "GB"
+    },
+    "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+    "priceRange": {
+        "endPrice": {
+            "currencyCode": "GBP",
+            "units": "10"
+        },
+        "startPrice": {
+            "currencyCode": "GBP",
+            "units": "1"
+        }
+    },
+    "primaryType": "japanese_restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Japanese Restaurant"
+    },
+    "rating": 4.1,
+    "regularOpeningHours": {
+        "nextOpenTime": "2025-12-11T11:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 20,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 20,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 20,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 20,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 20,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 11,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 11:00 AM – 8:30 PM",
+            "Tuesday: 11:00 AM – 8:30 PM",
+            "Wednesday: 11:00 AM – 8:30 PM",
+            "Thursday: 11:00 AM – 8:30 PM",
+            "Friday: 11:00 AM – 8:30 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+        ]
+    },
+    "reservable": false,
+    "restroom": false,
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Angelina Samsonova",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIWUn4CcrYwQwDG86ZOZ6YNAeHxARMjhvrXaqU7GFY6Ih-zDw=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/117398545165031279894/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25VNFdtWm9VRk52UkhKR1dUTkRhRmh6Y1hoYU4zYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25VNFdtWm9VRk52UkhKR1dUTkRhRmh6Y1hoYU4zYxAB!2m1!1s0x487604cabccbc5d3:0x19adc160a1433f2",
+            "name": "places/ChIJ08XLvMoEdkgR8jMUChbcmgE/reviews/Ci9DQUlRQUNvZENodHljRjlvT25VNFdtWm9VRk52UkhKR1dUTkRhRmh6Y1hoYU4zYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "People who work here would always want you to help to get you want you want. Quite often I would come and the food might finish but they will cook additional portion for me! Thank you so much !!!"
+            },
+            "publishTime": "2025-11-25T11:17:32.120968053Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 weeks ago",
+            "text": {
+                "languageCode": "en",
+                "text": "People who work here would always want you to help to get you want you want. Quite often I would come and the food might finish but they will cook additional portion for me! Thank you so much !!!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "KOFAS 360 excavator driver Tankistas777",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUZw_ieHYgi-R8CgawvrQ31jox4z0JFH81ljrTD2wT_NwF4PRLX=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/117348641206495690587/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN1bVBfM3NBRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN1bVBfM3NBRRAB!2m1!1s0x487604cabccbc5d3:0x19adc160a1433f2",
+            "name": "places/ChIJ08XLvMoEdkgR8jMUChbcmgE/reviews/ChdDSUhNMG9nS0VJQ0FnSUN1bVBfM3NBRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Customer service is best from staff!!!! Sonia has 5 stars ⭐️⭐️ ⭐️ ⭐️ ⭐️ service skills!!!! Fresh food and hot food was brilliant ⭐️⭐️⭐️⭐️⭐️.\nHi everyone nice to come back again after 11 months. I was so happy shop is still same conditions as was before. Nice clean and tidy. Im only eating if shop is tidy and clean!!!! Clean is 5 ⭐️.A lot food some new sushi menu. Nice place for have your late  breakfast because  they open 11 am and lunch… good music and atmosphere inside shop. So you can relax bring you computer and do your work then you have your breakfast or…,I was saying if good management so you bring 5 ⭐️ servings for customer!!!!! Good job Wasabi keep going that way . Recommend everyone to come and have a good food and time!!!! I take some pictures I added!!!!"
+            },
+            "publishTime": "2023-07-19T18:52:29.528665Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 years ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Customer service is best from staff!!!! Sonia has 5 stars ⭐️⭐️ ⭐️ ⭐️ ⭐️ service skills!!!! Fresh food and hot food was brilliant ⭐️⭐️⭐️⭐️⭐️.\nHi everyone nice to come back again after 11 months. I was so happy shop is still same conditions as was before. Nice clean and tidy. Im only eating if shop is tidy and clean!!!! Clean is 5 ⭐️.A lot food some new sushi menu. Nice place for have your late  breakfast because  they open 11 am and lunch… good music and atmosphere inside shop. So you can relax bring you computer and do your work then you have your breakfast or…,I was saying if good management so you bring 5 ⭐️ servings for customer!!!!! Good job Wasabi keep going that way . Recommend everyone to come and have a good food and time!!!! I take some pictures I added!!!!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Anna Karlsson",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUXrvYsNI2fD_rYk_CQDCDQKGb6zWjTzsNssB8V0yWcK2I--pWv=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/116506857244182894387/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tsSFgzaFhUMTlKZEVSR1pYZHRSbHB3YlVkWE5GRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsSFgzaFhUMTlKZEVSR1pYZHRSbHB3YlVkWE5GRRAB!2m1!1s0x487604cabccbc5d3:0x19adc160a1433f2",
+            "name": "places/ChIJ08XLvMoEdkgR8jMUChbcmgE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsSFgzaFhUMTlKZEVSR1pYZHRSbHB3YlVkWE5GRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Tasteless tofubowl and Salmonbowl.\nToo cold to be good.\nThe guy behind the bar was more interested of his phone than us.\nNever again.\nMusic much to loud."
+            },
+            "publishTime": "2025-09-25T17:20:46.772447931Z",
+            "rating": 1,
+            "relativePublishTimeDescription": "2 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Tasteless tofubowl and Salmonbowl.\nToo cold to be good.\nThe guy behind the bar was more interested of his phone than us.\nNever again.\nMusic much to loud."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "S FARADAY",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLqdRv1uLCRLvxqCb7ObS16KPuu1HOlMEY5C9liRIwW60YzqQ=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/103538259439609796449/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21oUVZUbHNZVE10YjFWNFRUTlFTVVJ0U2xFek0xRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21oUVZUbHNZVE10YjFWNFRUTlFTVVJ0U2xFek0xRRAB!2m1!1s0x487604cabccbc5d3:0x19adc160a1433f2",
+            "name": "places/ChIJ08XLvMoEdkgR8jMUChbcmgE/reviews/Ci9DQUlRQUNvZENodHljRjlvT21oUVZUbHNZVE10YjFWNFRUTlFTVVJ0U2xFek0xRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Majority of the hot meals are only 30% full inside the box first it looks like person who prepares doesn't want customer to buy or come back.\nNo ginger left in the store when I wanted to buy Sushi so I left without buying a sushi and remember this is Sushi place.\nOverall wrong team working in this store.\nAll change or change their way of services."
+            },
+            "publishTime": "2025-06-11T13:33:35.216610376Z",
+            "rating": 2,
+            "relativePublishTimeDescription": "6 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Majority of the hot meals are only 30% full inside the box first it looks like person who prepares doesn't want customer to buy or come back.\nNo ginger left in the store when I wanted to buy Sushi so I left without buying a sushi and remember this is Sushi place.\nOverall wrong team working in this store.\nAll change or change their way of services."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "G",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLocqXVXTeXloXBudxFyOzRuumiOcORb0-u1UyNWG-20CBtjQ=s128-c0x00000000-cc-rp-mo-ba6",
+                "uri": "https://www.google.com/maps/contrib/110302192996949783510/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNqeThQREJnEAE&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNqeThQREJnEAE!2m1!1s0x487604cabccbc5d3:0x19adc160a1433f2",
+            "name": "places/ChIJ08XLvMoEdkgR8jMUChbcmgE/reviews/ChZDSUhNMG9nS0VJQ0FnSUNqeThQREJnEAE",
+            "originalText": {
+                "languageCode": "en",
+                "text": "It was nice but nothing special. They had a few vegan options which was good to see. Wouldn’t revisit, service was cold and the atmosphere of the place wasn’t nice."
+            },
+            "publishTime": "2024-04-25T20:52:46.902077Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "a year ago",
+            "text": {
+                "languageCode": "en",
+                "text": "It was nice but nothing special. They had a few vegan options which was good to see. Wouldn’t revisit, service was cold and the atmosphere of the place wasn’t nice."
+            }
+        }
+    ],
+    "servesBeer": false,
+    "servesBreakfast": true,
+    "servesCocktails": false,
+    "servesCoffee": false,
+    "servesDinner": true,
+    "servesLunch": true,
+    "servesWine": false,
+    "shortFormattedAddress": "Imperial House, 19 Kingsway, London",
+    "takeout": true,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "japanese_restaurant",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+    ],
+    "userRatingCount": 297,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.51521913029149,
+            "longitude": -0.11675796970849799
+        },
+        "low": {
+            "latitude": 51.5125211697085,
+            "longitude": -0.11945593029150203
+        }
+    },
+    "websiteUri": "http://www.wasabi.uk.com/",
+    "timestamp": 1765447200
+}

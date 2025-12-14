@@ -1,0 +1,1109 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "1",
+            "shortText": "1",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Leicester Place",
+            "shortText": "Leicester Pl",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2H 7BP",
+            "shortText": "WC2H 7BP",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Leicester Square"
+                },
+                "name": "places/ChIJoQ6SENIEdkgR2KECVj0PBdY",
+                "placeId": "ChIJoQ6SENIEdkgR2KECVj0PBdY"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Prince Charles Cinema"
+                },
+                "name": "places/ChIJs_wVR9IEdkgRqColcXYGFE0",
+                "placeId": "ChIJs_wVR9IEdkgRqColcXYGFE0",
+                "spatialRelationship": "ACROSS_THE_ROAD",
+                "straightLineDistanceMeters": 42.928032,
+                "travelDistanceMeters": 38.436638,
+                "types": [
+                    "establishment",
+                    "movie_theater",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Leicester Square"
+                },
+                "name": "places/ChIJVX1-GtIEdkgR1n_gGjHQZpI",
+                "placeId": "ChIJVX1-GtIEdkgR1n_gGjHQZpI",
+                "straightLineDistanceMeters": 78.49675,
+                "travelDistanceMeters": 53.65593,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Vue Cinema London - West End (Leicester Square)"
+                },
+                "name": "places/ChIJQ5TwgGyue0gRhxMwO-iXTYU",
+                "placeId": "ChIJQ5TwgGyue0gRhxMwO-iXTYU",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 68.72175,
+                "travelDistanceMeters": 56.80713,
+                "types": [
+                    "establishment",
+                    "food",
+                    "movie_theater",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Church of Notre Dame de France RC"
+                },
+                "name": "places/ChIJI_LRbdIEdkgRu18ZfdVwBkw",
+                "placeId": "ChIJI_LRbdIEdkgRu18ZfdVwBkw",
+                "spatialRelationship": "ACROSS_THE_ROAD",
+                "straightLineDistanceMeters": 42.466293,
+                "travelDistanceMeters": 23.068134,
+                "types": [
+                    "church",
+                    "establishment",
+                    "place_of_worship",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Premier Inn London Leicester Square hotel"
+                },
+                "name": "places/ChIJJUyxFNIEdkgRajb-0tlYT_0",
+                "placeId": "ChIJJUyxFNIEdkgRajb-0tlYT_0",
+                "spatialRelationship": "BESIDE",
+                "straightLineDistanceMeters": 9.287931,
+                "travelDistanceMeters": 1.5091782,
+                "types": [
+                    "establishment",
+                    "food",
+                    "lodging",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "currentOpeningHours": {
+        "nextOpenTime": "2025-11-25T12:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 23,
+                    "minute": 59,
+                    "truncated": true
+                },
+                "open": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 3,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 0,
+                    "minute": 0,
+                    "truncated": true
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 3,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 3,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 3,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 3,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 3,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 PM – 3:00 AM",
+            "Tuesday: 12:00 PM – 3:00 AM",
+            "Wednesday: 12:00 PM – 3:00 AM",
+            "Thursday: 12:00 PM – 3:00 AM",
+            "Friday: 12:00 PM – 3:00 AM",
+            "Saturday: 12:00 PM – 3:00 AM",
+            "Sunday: 12:00 – 11:00 PM"
+        ]
+    },
+    "currentSecondaryOpeningHours": [
+        {
+            "nextOpenTime": "2025-11-25T12:00:00Z",
+            "openNow": false,
+            "periods": [
+                {
+                    "close": {
+                        "date": {
+                            "day": 30,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 0,
+                        "hour": 21,
+                        "minute": 0
+                    },
+                    "open": {
+                        "date": {
+                            "day": 30,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 0,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 1,
+                            "month": 12,
+                            "year": 2025
+                        },
+                        "day": 1,
+                        "hour": 23,
+                        "minute": 59,
+                        "truncated": true
+                    },
+                    "open": {
+                        "date": {
+                            "day": 1,
+                            "month": 12,
+                            "year": 2025
+                        },
+                        "day": 1,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 25,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 2,
+                        "hour": 2,
+                        "minute": 0
+                    },
+                    "open": {
+                        "date": {
+                            "day": 25,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 2,
+                        "hour": 0,
+                        "minute": 0,
+                        "truncated": true
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 26,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 3,
+                        "hour": 2,
+                        "minute": 0
+                    },
+                    "open": {
+                        "date": {
+                            "day": 25,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 2,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 27,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 4,
+                        "hour": 2,
+                        "minute": 0
+                    },
+                    "open": {
+                        "date": {
+                            "day": 26,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 3,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 28,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 5,
+                        "hour": 2,
+                        "minute": 0
+                    },
+                    "open": {
+                        "date": {
+                            "day": 27,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 4,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 29,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 6,
+                        "hour": 2,
+                        "minute": 0
+                    },
+                    "open": {
+                        "date": {
+                            "day": 28,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 5,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 30,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 0,
+                        "hour": 2,
+                        "minute": 0
+                    },
+                    "open": {
+                        "date": {
+                            "day": 29,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 6,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                }
+            ],
+            "secondaryHoursType": "KITCHEN",
+            "weekdayDescriptions": [
+                "Monday: 12:00 PM – 2:00 AM",
+                "Tuesday: 12:00 PM – 2:00 AM",
+                "Wednesday: 12:00 PM – 2:00 AM",
+                "Thursday: 12:00 PM – 2:00 AM",
+                "Friday: 12:00 PM – 2:00 AM",
+                "Saturday: 12:00 PM – 2:00 AM",
+                "Sunday: 12:00 – 9:00 PM"
+            ]
+        }
+    ],
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "zh-TW",
+        "text": "楠火锅 Nan Hotpot"
+    },
+    "formattedAddress": "1 Leicester Pl, London WC2H 7BP, UK",
+    "goodForGroups": true,
+    "goodForWatchingSports": false,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x4876059262f293db:0x10854468e14cb954!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x4876059262f293db:0x10854468e14cb954!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=1190432893756553556&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x4876059262f293db:0x10854468e14cb954!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x4876059262f293db:0x10854468e14cb954!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=1190432893756553556&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJ25PyYpIFdkgRVLlM4WhEhRA",
+    "internationalPhoneNumber": "+44 20 3916 6006",
+    "liveMusic": false,
+    "location": {
+        "latitude": 51.511061700000006,
+        "longitude": -0.13017099999999998
+    },
+    "menuForChildren": false,
+    "name": "places/ChIJ25PyYpIFdkgRVLlM4WhEhRA",
+    "nationalPhoneNumber": "020 3916 6006",
+    "outdoorSeating": false,
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Charles XL",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU9hq-Sl3H_qFPMIhc52LBj2WxKvfLMC4I6q94DpMWwJy88VUO0ug=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/106668257899658475786"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC3-NG2Ag&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC3-NG2Ag!2e10!4m2!3m1!1s0x4876059262f293db:0x10854468e14cb954",
+            "heightPx": 3200,
+            "name": "places/ChIJ25PyYpIFdkgRVLlM4WhEhRA/photos/AWn5SU4Wm1arj6F0_uclcaEDklsJco9Um7lQjB0dbHdqccSS5276UZUh0A1czz08jo_iS2cau5BcRuA2wXQUEHjr83nGJryiMdgxyzsog0L9mughU_JJD6nG9O39IiKHQ8ZngKJ-K0sSGSjAnd4bz7FJw1HLIthSl3BdQui4jFm8ud8dR9HW9uk9Ze2AaVY2LqtDqitJVwxXwhe2Jrw-SsK40VrFkPUNfI3e7-Zgm3lDvAdE79LV7OCT4Ade0jsJrplcdHKwS_UrfoZPYxCqbfSWXf0AE-Dqm3BHWtuvHwusqCzzGjonRc3RnD8YIURaLInU2EDiTqEyZLu4kSXF5RLMKHNzd_0epA-xpIvs8_IgtHskrwlP7lwK5-KDAMWOkPzQp8EQ0BOahy3yH9yOWSKJD2JQb5GAJemWpGN0xvualzUiEA",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "楠火锅 Nan Hotpot",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJJ9RqADGfX-LoDrEu5JKxEjBNPLWA-wAClhpnAWMs2wdtk=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/105279281104327464238"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPnVC3IN4Z_3zkGbOElxn_gzOQox5dBOVEsUes&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPnVC3IN4Z_3zkGbOElxn_gzOQox5dBOVEsUes!2e10!4m2!3m1!1s0x4876059262f293db:0x10854468e14cb954",
+            "heightPx": 1208,
+            "name": "places/ChIJ25PyYpIFdkgRVLlM4WhEhRA/photos/AWn5SU4JUCehNwGKyCq-f59EPpzrRdgKQzyvqbKdUrI0a69O_3XwiSxyJoT8eJDXhKX1zdA9puvxQRwipb3XXdrcfsjfWRiT1yGkJBHIVQtzX4Ug3uUFdK8F4EzZdoP3GKuFSZ6NJELlAZLr5oC28VIUrOmNWnPddWkhxmliOUQRfhTLSoX8qEmRYdNOOQMe_GZU_B35wKG2LuH4CL-ZIUATJ1Hh6D-YJHHANC6skOB2HJB1cJZ9Q58UJBBVaWEU7e8WDiEuZgUEX7tAjZ3JDYo3sFhJhQEfYK3ZQivV2Zv53So",
+            "widthPx": 1612
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Suki G",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVTC8DUaGixPKR_0wQMTJ9pz-NHG625y9SSz4fk__FcoJeB4zn1=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/103540635305595460143"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCK_vlPGKFOlx0DB2IBkG-q&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCK_vlPGKFOlx0DB2IBkG-q!2e10!4m2!3m1!1s0x4876059262f293db:0x10854468e14cb954",
+            "heightPx": 3600,
+            "name": "places/ChIJ25PyYpIFdkgRVLlM4WhEhRA/photos/AWn5SU5Xa4d1NZXKnIJjIifu5RjPHNH-UE5Z3unRpPTPyzmDD5NbnG8C_1GLQpQyQTHtkHkve0wR-Ukiz5N7UQlsA-VN6C8Qmr82c-yB2-zgcpBvQlJCB4P1g3E4ddviQG-Qb9aJXk6Jz2I9u3uUuLsLYmAID8l6LNDHnTYzEUKS-fX0TkzApN5pRI0taYQTMHqSS_X2lggROU43r-zD2GZ66JQas7T-w9P1Bws-oVzoyOhPnO8YavoCLNtIOLu1imro00jHl1d9QUf9mjAobh_wDmk8udZ_LAvTdi4huNcniO3lx61O_-qDGdgGytTJ1OFG-HltPKWYK4m9O7X1lPUcvXMOldjIPjddAeKsIr6cCC2ZTvQk0cfCth9M8M4uOBpg0O4lK1GPHRTHZN4fwv_SsaTJidHniXDifvk8_mV-e_VwgDhzMc49YDBxrIbn-whx",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Chu Hanson",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWGlp-qzGn7RfqYKQincSqRlVmJA2GLeWH1yM9H6rHrWlZsTT4=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/112041190226863122627"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCe6S46sD5opYD1OxuDhUbE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCe6S46sD5opYD1OxuDhUbE!2e10!4m2!3m1!1s0x4876059262f293db:0x10854468e14cb954",
+            "heightPx": 3600,
+            "name": "places/ChIJ25PyYpIFdkgRVLlM4WhEhRA/photos/AWn5SU76EYQeF6P54K_JpgaMmkJYfU64jDHcPyREoGbI85eikGBToqYBhx_Lcrx6Af0J6k-ZPcLSFyH9ZJGko7XwrWO2SY-CI1d_HmzO19A7UjyxUHjxATlo5Jq4Nu483qkAXF9c3EyoSMhunTO8tLFRTLrhO09qRJZNq-EQ3XOwMU19G2L3DtNAOHWJGlAjHbQuP9gEDGvGgy8EZ5fujm4ytCNLZB7qUPNttCdGJxD8cgYmhHeGbyYLiaCargwbI7BOj9jLpKtBNXHu-A4Fkw44T2abp3RRvAIKmZLoaAqTmwJ4zsLDaUlH_JR_SXJSunSae9GNMDg54T0yQCpEylMeyjeUpkamlQiefnQNSsImO1Uuu-8htY9xfgjTZft6y3jYrEkfj1l0w84U0hQs8muDXRuVcRG5fI54PTCmj-0gsMAXBgi8EOM1VOk-Qt1nGCPv",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "X Zhang",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJUMGn6lLjlyAs7SmO_nv_hbJuY4lSmzDziE2DKx1SXuLeAkg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/102436612057402882587"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCda25BsJbYfblS7L_NncUE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCda25BsJbYfblS7L_NncUE!2e10!4m2!3m1!1s0x4876059262f293db:0x10854468e14cb954",
+            "heightPx": 2502,
+            "name": "places/ChIJ25PyYpIFdkgRVLlM4WhEhRA/photos/AWn5SU6f05uckOa5fUvKmdkDZcFuZ2hr4MqKpvkhAwEpFQUTRO4SCidqbOD3W8XNexME3-x4z05h_qUyF4G8D2BINwJxq6EXycDVaqPl4RnxyA9ApOTqvtb5aGlwMioPUgKNw4sPceOr5HZI7ys03yJm8iZqQAl4IHXUzGGv3wsKPwFQDtNu4Y2Vzsr7vdGmwzXCkbwNgFPbHgYHYcnDbe320tF49_GbaBMhRMhp9vBKUXDzEPY3EYW3GFJyWjxwgmu52X-aMjRawahYOwJKWANK7_SaRaRIx2RgsXrnxAkGfSV9djgXZD7s0rRUrBL_QiY5H26RinoGCP5ewOG6ESBgV8BFHZWiYFgw27jgsT9p6q6M5pSD02U-Ro4eULHPdxCKTZzBC1bR4QYneP2NADyZ-Y5_KVdYM5Q0xiLxNSZlXPSts0Zw6Wcu5X-KuzdlBQ",
+            "widthPx": 3547
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "楊",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUUThmD-QClkXVMWvzVwNqGuERqQxMIe4bmcfRi5Cu7EdgNA0xo=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/106758965381453895133"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDFIFaQ5D9GzR1S2qU2enlA&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDFIFaQ5D9GzR1S2qU2enlA!2e10!4m2!3m1!1s0x4876059262f293db:0x10854468e14cb954",
+            "heightPx": 3600,
+            "name": "places/ChIJ25PyYpIFdkgRVLlM4WhEhRA/photos/AWn5SU6Ocq2Y1e5oekCI3rp_PDJ3ueQM5yDc6swNzYYyzlKRhvr7xmwqO2s5QNuGAi6DCDMYaKyLNytDnkge39EnXTMXVct-39N_hFWt2bJ6G5l9KtVj7pLcQfauYFUymIK_U4tITX9r6ibKWDtDWDY2L03peS3Lj4XZH1fpRbcbnUqeufrXEkSVHcWFjowd_mHyMFBugVSBXeD5FgAWggKccwsm0CjPYfO0d0W7GJQk4qx_sorAFS8WDx4W7eUALOh4WVPyEamMGWROxDYnxZZ6CVHePKSzdL-0vm1_okWauTeqmWbSv3Ob4B7zGUZOfaOb7BPWtQmax81jh4ijpjYYSyU_L1iNA8-GCtQ7qOHzHl1NH67ywZyQe9u5i1ZUU-ph8XbHB5WlWsfioxKjQK9-OPxVqmHI15WfMmIQVRKvowD07uhmCUGAy5vRR9mr3w",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Yaran Liang",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUkH2bMGBIDxLPNejTtSMkU3mhBQBOgwAgM7KhAUOtTqBTWEmq0PQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/116557193353150274160"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCoz6jtUA&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCoz6jtUA!2e10!4m2!3m1!1s0x4876059262f293db:0x10854468e14cb954",
+            "heightPx": 4624,
+            "name": "places/ChIJ25PyYpIFdkgRVLlM4WhEhRA/photos/AWn5SU4eWYcLOr2qya8gQ3fl0k9XSEz_O4dHNI9L7-Tx6hZhuy719vnnUishWQXvFOrHCkqNGZRgb-xj9KSYmxmvHoHpVOa2olPc7d5VBfdr0p20IKHm_7rjrtjTgNi8JCHUa7CwvN8JuF4nY95pTLSM0ZoU0y0ZCkpnoUVLl2RCN7bWPFWgC5B4N3k0WwYaZ8ZziqVXiqu4joceDVo97PIRl2yjtNWFdWkViLbsLZU4x0mCOBhohv0HNaRNmE1Gx7JnHpvcSmdtIrB8RLABkbegyNma4eD74Sq8z0nRp0lEHg4htZa6h4Fqx0EL3pN6QUrrj3sOiOf714gPu7ONomHIRy7amV0xwk670eL7Kgy3XH4kpZl7iWTBk1I8demest_CB06FTwsqDNaXzU-Prtm7ZFNBJIn-R9hVu35gbvBePegrng",
+            "widthPx": 3472
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "can yildiz",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXmMq7Dp1Ekk0StfQYXfIG4bVK1VPKG9a9J210xCeLu4g34uM4n=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/111880280896932698381"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAlliQ1lMJuQjZyK0-gGY6h&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAlliQ1lMJuQjZyK0-gGY6h!2e10!4m2!3m1!1s0x4876059262f293db:0x10854468e14cb954",
+            "heightPx": 3060,
+            "name": "places/ChIJ25PyYpIFdkgRVLlM4WhEhRA/photos/AWn5SU5RIYTE1qLXc-QjwSdGOe9Q9fU9zTjdUJSbji0wnrs0Tw4A7WWVkv_QHjEjRvQmWquShJYODl80a82SLlbTDGvkFBs8CU0sRgHUVClbEk0K7HKmlN2RAyzV8XxWgmH4Xns47MiaRFpYWRBc5Bif8DOA0-Q-naXTcfW359vc7toG658bPyjxop0bgee10zjq1EBCpDQoXQzIh074cI7-oxS2_YzjtPJVv3OAlpyugjOVdyBKvRN12WUAnqJgMUmYCw3liA7_uyUH3uS4wPi_FdKWEwpvNaAxhq5E8xGDSyM64Pl02K9TIU0oEWgEJMFSIS_UmvQPdYX883t8lK-NuUJAQcs9XlGEHvzNEZHO4QCgisN8AvheFA-9Tox5qkzmI6H71SEdglarqa44FQ46BLxM9qpHoK2t4B0T3Rvr8CTHb9pB7gxl-0pstrejor3a",
+            "widthPx": 4080
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "lina wang",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVdCjOqdBNPPcnZDbqexjyE3LysJgXlt54Kn25v-wNN3p0-y-Ub=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110014455631254888385"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBXTqcm2qvSRG_9ajUCbkE5&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBXTqcm2qvSRG_9ajUCbkE5!2e10!4m2!3m1!1s0x4876059262f293db:0x10854468e14cb954",
+            "heightPx": 4032,
+            "name": "places/ChIJ25PyYpIFdkgRVLlM4WhEhRA/photos/AWn5SU6VujMHECgHpnKcNPvGCNbDom2l_E3khISqZukAkkkbYiRzrcjZWXsBiZM64pWGVQ7PNEIQlJ2ZzssMeFLsxQ2VPTrOrU8r74eTpYGyzEDBfMr2qhRID6yactA72tyXBOJSwRJUTlZAjoVSbTEbnsYOPnYpKNZP26GV5O5Gyf6pjPfyO_1dc5W6o7jzU7Km4r_sonFr3sQs3OTgU7CepaXNxqFrwo_-240YvpW6Ke6rEPQ3s8L81QfLMmpRjxQELdtlYrYUZbNho-l6yDEEEXmhO_Dv-GkZZtXAUzqt9rwu8sLPvjaJ7k1yDO6fmPw02sA4-dQ83EeUQpqFlx468qnoBc1BTpwZ0pohlQC64yKp5HqS89mXMj3P81w-aKCSIJ_M9-KjCKCKpjGdmmtYjM93LtwpdptDWgS28OrPAzqfObnn0qsdH4s61q0-Gljt",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "R Y",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXtZ2nxrR4kfibag-Z18zEzn70zfI8wwO-CyGV3dRIVFv-BQeKh=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/103115279657711635276"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDBL2rbKLwnMXKObMq4-NLz&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDBL2rbKLwnMXKObMq4-NLz!2e10!4m2!3m1!1s0x4876059262f293db:0x10854468e14cb954",
+            "heightPx": 3024,
+            "name": "places/ChIJ25PyYpIFdkgRVLlM4WhEhRA/photos/AWn5SU5hadqCJka0Abmy7KoDdAvFdI7yTdl8y5QpxdgrV_3c2Ew1hi1P7dKyga5Q9aYuEs6W245bYNW9yxLYDIN8OST02ZA41_Y5Y7fhZ0H2xxeWy7bmS70_eqKLOKTFmeiKM7808Q2t41H25TqupGe56_oOgTj7SvJ_vKz1Nksf_ZY62GtlEs0MY_MzZSmr6cQFG96wvA0mIhYVDZAY28XosSeIXK7E5MxcGEm3d5LidQx7qHli5MHQ4LunId2GEEpexoTV0cAxHER9DCvB-xYivXZat746b0X2MI3599CWeoDQ9LeODRvxaEJRjS2o5Ds2btygwEsF4KkRH3Yqd8OU77ErTChrPC2Iiu5SUd1h7VsNA2h4E6ffknprzNSuqNEzgXJJwKLblR58V8AV8auoOA8Ad4FM88v7i8z7ccKmMHEkMhvMArFm7evFFloA5fSC",
+            "widthPx": 4032
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV69+CW London, UK",
+        "globalCode": "9C3XGV69+CW"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "1 Leicester Place"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2H 7BP",
+        "regionCode": "GB"
+    },
+    "priceRange": {
+        "endPrice": {
+            "currencyCode": "GBP",
+            "units": "50"
+        },
+        "startPrice": {
+            "currencyCode": "GBP",
+            "units": "30"
+        }
+    },
+    "primaryType": "restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Restaurant"
+    },
+    "rating": 4.8,
+    "regularOpeningHours": {
+        "nextOpenTime": "2025-11-25T12:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 3,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 3,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 3,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 3,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 3,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 3,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 PM – 3:00 AM",
+            "Tuesday: 12:00 PM – 3:00 AM",
+            "Wednesday: 12:00 PM – 3:00 AM",
+            "Thursday: 12:00 PM – 3:00 AM",
+            "Friday: 12:00 PM – 3:00 AM",
+            "Saturday: 12:00 PM – 3:00 AM",
+            "Sunday: 12:00 – 11:00 PM"
+        ]
+    },
+    "regularSecondaryOpeningHours": [
+        {
+            "nextOpenTime": "2025-11-25T12:00:00Z",
+            "openNow": false,
+            "periods": [
+                {
+                    "close": {
+                        "day": 0,
+                        "hour": 21,
+                        "minute": 0
+                    },
+                    "open": {
+                        "day": 0,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "hour": 2,
+                        "minute": 0
+                    },
+                    "open": {
+                        "day": 1,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "hour": 2,
+                        "minute": 0
+                    },
+                    "open": {
+                        "day": 2,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "hour": 2,
+                        "minute": 0
+                    },
+                    "open": {
+                        "day": 3,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "hour": 2,
+                        "minute": 0
+                    },
+                    "open": {
+                        "day": 4,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "hour": 2,
+                        "minute": 0
+                    },
+                    "open": {
+                        "day": 5,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "day": 0,
+                        "hour": 2,
+                        "minute": 0
+                    },
+                    "open": {
+                        "day": 6,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                }
+            ],
+            "secondaryHoursType": "KITCHEN",
+            "weekdayDescriptions": [
+                "Monday: 12:00 PM – 2:00 AM",
+                "Tuesday: 12:00 PM – 2:00 AM",
+                "Wednesday: 12:00 PM – 2:00 AM",
+                "Thursday: 12:00 PM – 2:00 AM",
+                "Friday: 12:00 PM – 2:00 AM",
+                "Saturday: 12:00 PM – 2:00 AM",
+                "Sunday: 12:00 – 9:00 PM"
+            ]
+        }
+    ],
+    "reservable": true,
+    "restroom": true,
+    "reviewSummary": {
+        "disclosureText": {
+            "languageCode": "en-US",
+            "text": "Summarized with Gemini"
+        },
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=5%401:CAIQACodChtyc19oOkdqQUV5NFJvd19LaDM2RWdteUN2Tmc%7CCAIQACorChtyc19oOkdqQUV5NFJvd19LaDM2RWdteUN2TmcSDAi_2OfEBhD44ZHwAg&d=17924085&t=8",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x4876059262f293db:0x10854468e14cb954!9m1!1b1",
+        "text": {
+            "languageCode": "en-US",
+            "text": "People say this hot pot restaurant offers a wide variety of fresh ingredients, including beef slices, crispy pork, and duck blood, and flavorful dipping sauces. They also highlight the authentic atmosphere, the friendly and helpful staff, and the delicious shaved ice desserts.\n\nOther reviews mention the portions can be small."
+        }
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Suki G",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVTC8DUaGixPKR_0wQMTJ9pz-NHG625y9SSz4fk__FcoJeB4zn1=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/103540635305595460143/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pCQ1RrODVSVWRqV25vdE9VTXRWVXhMWm1vMVgyYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCQ1RrODVSVWRqV25vdE9VTXRWVXhMWm1vMVgyYxAB!2m1!1s0x4876059262f293db:0x10854468e14cb954",
+            "name": "places/ChIJ25PyYpIFdkgRVLlM4WhEhRA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCQ1RrODVSVWRqV25vdE9VTXRWVXhMWm1vMVgyYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Lovely broth and good quality ingredients — everything tasted fresh and well prepared. But despite booking in advance, we still waited more than 30 minutes to be seated, which was disappointing. The biggest downside is the price. For what we paid, the portions felt quite limited. A nice place to try once, but for the cost, I expected more generous servings and faster seating."
+            },
+            "publishTime": "2025-11-12T00:16:04.366072743Z",
+            "rating": 3,
+            "relativePublishTimeDescription": "a week ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Lovely broth and good quality ingredients — everything tasted fresh and well prepared. But despite booking in advance, we still waited more than 30 minutes to be seated, which was disappointing. The biggest downside is the price. For what we paid, the portions felt quite limited. A nice place to try once, but for the cost, I expected more generous servings and faster seating."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Coco T",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU8uOzv6CBe1Ixvz8m0A184r62OGENe4FqzlxjnTPcG3b7xnHE=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/115623374791160469418/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xObFFsRkdjVTQwZGpSUVFUZGZWbDlRTFc4NVdrRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xObFFsRkdjVTQwZGpSUVFUZGZWbDlRTFc4NVdrRRAB!2m1!1s0x4876059262f293db:0x10854468e14cb954",
+            "name": "places/ChIJ25PyYpIFdkgRVLlM4WhEhRA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xObFFsRkdjVTQwZGpSUVFUZGZWbDlRTFc4NVdrRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Absolutely love Nan Hotpot! The beef is super tender, the salted egg yolk shrimp balls are amazing, and the coconut ice is the perfect finish. Authentic flavors, cozy atmosphere, and great discounts — easily my favorite hotpot spot in London!"
+            },
+            "publishTime": "2025-11-12T01:17:51.265336802Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a week ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Absolutely love Nan Hotpot! The beef is super tender, the salted egg yolk shrimp balls are amazing, and the coconut ice is the perfect finish. Authentic flavors, cozy atmosphere, and great discounts — easily my favorite hotpot spot in London!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Luo jiaxi",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWoyq774jQoRSeUmeK-mOusJP1MCQEKcu5kkgzXpGCu8NoQ3UFr=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/106681199930243350521/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21kRE1WaFFjSFZRTm5sM2JqZ3RZazFKVUZaSU5HYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kRE1WaFFjSFZRTm5sM2JqZ3RZazFKVUZaSU5HYxAB!2m1!1s0x4876059262f293db:0x10854468e14cb954",
+            "name": "places/ChIJ25PyYpIFdkgRVLlM4WhEhRA/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kRE1WaFFjSFZRTm5sM2JqZ3RZazFKVUZaSU5HYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "I recently tried Nan Hotpot, and it was absolutely amazing. The broth was rich and flavorful, perfectly balanced without being too heavy. All the ingredients were super fresh – from the tender beef slices to the crunchy vegetables – and everything tasted so satisfying when cooked in the soup. I especially loved the dipping sauces, which really elevated the flavors and made each bite unique. The atmosphere was warm and inviting, making it a great place to enjoy with friends. Definitely one of the best hotpot experiences I’ve had in a long time!"
+            },
+            "publishTime": "2025-09-15T20:18:34.624568347Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "I recently tried Nan Hotpot, and it was absolutely amazing. The broth was rich and flavorful, perfectly balanced without being too heavy. All the ingredients were super fresh – from the tender beef slices to the crunchy vegetables – and everything tasted so satisfying when cooked in the soup. I especially loved the dipping sauces, which really elevated the flavors and made each bite unique. The atmosphere was warm and inviting, making it a great place to enjoy with friends. Definitely one of the best hotpot experiences I’ve had in a long time!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Julia Zhu",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUZ1-A-eSLSjbXK24g72HZMl4s107hdoOjHVjIeKlAAsLmW7Jrc=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/103836970083136264791/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w5dE4wazBTVXRaZDJVeFZFWmFkbGhqVW14c1lXYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5dE4wazBTVXRaZDJVeFZFWmFkbGhqVW14c1lXYxAB!2m1!1s0x4876059262f293db:0x10854468e14cb954",
+            "name": "places/ChIJ25PyYpIFdkgRVLlM4WhEhRA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5dE4wazBTVXRaZDJVeFZFWmFkbGhqVW14c1lXYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "I’ve tried Nan hot pot when I was in China, I have to say this hotpot is totally authentic flavor ! I do like all the fresh meat and vegetables. The meat is so tender and juicy — it just melts in my  mouth!\n\nThe soup base is really flavorful. Definitely will come again."
+            },
+            "publishTime": "2025-10-11T12:32:11.713520392Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "I’ve tried Nan hot pot when I was in China, I have to say this hotpot is totally authentic flavor ! I do like all the fresh meat and vegetables. The meat is so tender and juicy — it just melts in my  mouth!\n\nThe soup base is really flavorful. Definitely will come again."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Andi Yu",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX1K3qKwMkwp3A4DGV_m0GTxWpmnRsS1AEnasSxbvkIpqae9nNf=s128-c0x00000000-cc-rp-mo-ba2",
+                "uri": "https://www.google.com/maps/contrib/111097874700987683137/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kxWlFXNTVRV2htU0dKbGIyOW1UalV0UzNoRFNrRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxWlFXNTVRV2htU0dKbGIyOW1UalV0UzNoRFNrRRAB!2m1!1s0x4876059262f293db:0x10854468e14cb954",
+            "name": "places/ChIJ25PyYpIFdkgRVLlM4WhEhRA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxWlFXNTVRV2htU0dKbGIyOW1UalV0UzNoRFNrRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Better than hi dialogue\n\nIf you’re looking for the ultimate hot pot experience, this place is a must-visit! The broth selection is rich and flavorful—perfectly balanced and never too salty. The ingredients are super fresh, from the thinly sliced meats to the crisp vegetables. I especially loved the dipping sauces—you can mix and match to create your own flavor, which makes it fun and personal.\n\nThe service was attentive and friendly; staff made great recommendations and kept everything topped up without us even asking. The atmosphere is cozy yet lively, making it a great spot for both casual dinners with friends and special occasions."
+            },
+            "publishTime": "2025-09-16T19:45:39.229103728Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Better than hi dialogue\n\nIf you’re looking for the ultimate hot pot experience, this place is a must-visit! The broth selection is rich and flavorful—perfectly balanced and never too salty. The ingredients are super fresh, from the thinly sliced meats to the crisp vegetables. I especially loved the dipping sauces—you can mix and match to create your own flavor, which makes it fun and personal.\n\nThe service was attentive and friendly; staff made great recommendations and kept everything topped up without us even asking. The atmosphere is cozy yet lively, making it a great spot for both casual dinners with friends and special occasions."
+            }
+        }
+    ],
+    "servesCoffee": false,
+    "servesDessert": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "shortFormattedAddress": "1 Leicester Pl, London",
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 2346,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.51264193029151,
+            "longitude": -0.128905019708498
+        },
+        "low": {
+            "latitude": 51.50994396970851,
+            "longitude": -0.13160298029150205
+        }
+    },
+    "websiteUri": "https://nanhotpot.co.uk/",
+    "timestamp": 1764064800
+}

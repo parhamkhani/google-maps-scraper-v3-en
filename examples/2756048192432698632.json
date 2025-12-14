@@ -1,0 +1,795 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleParking": false
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "10",
+            "shortText": "10",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "New Row",
+            "shortText": "New Row",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2N 4LH",
+            "shortText": "WC2N 4LH",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJs4GOh8sEdkgRRiBFZKMP8ZE",
+                "placeId": "ChIJs4GOh8sEdkgRRiBFZKMP8ZE"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Tesco Express"
+                },
+                "name": "places/ChIJd_jjQMwEdkgRh1TovPapxSM",
+                "placeId": "ChIJd_jjQMwEdkgRh1TovPapxSM",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 55.54646,
+                "travelDistanceMeters": 80.27349,
+                "types": [
+                    "convenience_store",
+                    "establishment",
+                    "food",
+                    "grocery_or_supermarket",
+                    "point_of_interest",
+                    "store",
+                    "supermarket"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The White Swan"
+                },
+                "name": "places/ChIJkypeSMwEdkgRn8r2NlZeWYc",
+                "placeId": "ChIJkypeSMwEdkgRn8r2NlZeWYc",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 29.794746,
+                "travelDistanceMeters": 24.54361,
+                "types": [
+                    "bar",
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "TK Maxx"
+                },
+                "name": "places/ChIJkxhCVcwEdkgRPpPtDDaXqbM",
+                "placeId": "ChIJkxhCVcwEdkgRPpPtDDaXqbM",
+                "straightLineDistanceMeters": 112.83807,
+                "travelDistanceMeters": 152.79689,
+                "types": [
+                    "department_store",
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "St Martins Lane London, a Morgans Originals hotel"
+                },
+                "name": "places/ChIJF4PizM0EdkgRRMPLsE5qX_0",
+                "placeId": "ChIJF4PizM0EdkgRRMPLsE5qX_0",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 83.82075,
+                "travelDistanceMeters": 144.086,
+                "types": [
+                    "establishment",
+                    "lodging",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Trafalgar Square"
+                },
+                "name": "places/ChIJH-tBOc4EdkgRJ8aJ8P1CUxo",
+                "placeId": "ChIJH-tBOc4EdkgRJ8aJ8P1CUxo",
+                "straightLineDistanceMeters": 366.21332,
+                "travelDistanceMeters": 362.3498,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "currentOpeningHours": {
+        "nextOpenTime": "2025-11-25T11:30:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 11,
+                    "minute": 30
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 11:30 AM – 9:00 PM",
+            "Tuesday: 11:30 AM – 9:00 PM",
+            "Wednesday: 11:30 AM – 9:00 PM",
+            "Thursday: 11:30 AM – 9:00 PM",
+            "Friday: 11:30 AM – 10:00 PM",
+            "Saturday: 11:30 AM – 10:00 PM",
+            "Sunday: 11:30 AM – 9:00 PM"
+        ]
+    },
+    "delivery": true,
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Chill Since '93 - Covent Garden"
+    },
+    "formattedAddress": "10 New Row, London WC2N 4LH, UK",
+    "goodForChildren": true,
+    "goodForWatchingSports": false,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x4876053d83426261:0x263f733a95cef508!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x4876053d83426261:0x263f733a95cef508!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=2756048192432698632&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x4876053d83426261:0x263f733a95cef508!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x4876053d83426261:0x263f733a95cef508!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=2756048192432698632&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJYWJCgz0FdkgRCPXOlTpzPyY",
+    "internationalPhoneNumber": "+44 20 7836 5710",
+    "liveMusic": false,
+    "location": {
+        "latitude": 51.511073499999995,
+        "longitude": -0.125974
+    },
+    "name": "places/ChIJYWJCgz0FdkgRCPXOlTpzPyY",
+    "nationalPhoneNumber": "020 7836 5710",
+    "outdoorSeating": true,
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Alexis",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLheU9mJ_7nkP10OFfLou96HczOlND3-Q-Ig7Rt180D1Jt1K2PS=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/109794280193865167374"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICBpLye5QE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICBpLye5QE!2e10!4m2!3m1!1s0x4876053d83426261:0x263f733a95cef508",
+            "heightPx": 3024,
+            "name": "places/ChIJYWJCgz0FdkgRCPXOlTpzPyY/photos/AWn5SU7ESG7FCKwsfcOF_48szXsVqgid8NkPxACTBTvP26RqkySzdB3Tfitzkd15uOCyjCBTACMkVrfEjQ5ZerVBYvg5CVPjaiLke2Z8c60RawnPxmjq2yZRemtGGjPPGwBihLTpMBCR4esjzYnxBW0AbZAyAqEhXJaEhWLP-K3bBX6cfF7_mOAjVi8HqATAIU99q1vpU4MPQ4ClS7md8pd1KZLVr-hAV5uVvLnFL5MLeOCWh5tK7BvYf8Xa5liqgGiJQ6LqdraqOfqrGfrAMU1PMnRHv5xr-ZoiycIcNnR3Wv7bxv_p4UfebsGKbmL8BW7qOLgA8U3pbHggicg223IDnJp48L9nR98wX_7dP_oWSZiUszBOHoX_pugGB6huHIpw4_RpgKW9-uRT76CyIMF41vGng5Rr-yZuexBxmcIR7hcZq_DL",
+            "widthPx": 4032
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Chill Since '93 - Covent Garden",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJtf7ZjWOwTqDXwLde0i-dsptrTw0dBqS_s9GPR6eYVdQNSxA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110112165945150129447"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNgf3NgDTzGxe05zIDdzq2ybWtLfxAZPSI1H4cS&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNgf3NgDTzGxe05zIDdzq2ybWtLfxAZPSI1H4cS!2e10!4m2!3m1!1s0x4876053d83426261:0x263f733a95cef508",
+            "heightPx": 1500,
+            "name": "places/ChIJYWJCgz0FdkgRCPXOlTpzPyY/photos/AWn5SU5JGxu97tjSuzd6Rkpyno-xve3N0QkWGsog_lkVUXmMcxVGJd4XFrZLSQ8Y0RoctX1kuF8kqSOpxemprTd1TI41hdxq9xgnob539RjVoWxBJNVS2J3Kch-3F5aKKYTxmFsD1KgpBQeBvTR5GBLNU68-e5A2CTh0houJIzwSgev8KuVuIIfbSi5he9OISKarUKxihRt0ViRYI8KyB3a9ijoccZ7uX-q03zdO_GPUy4kJ6o5wEqcK-HS42YJ6I8WuqBAS2y4NtcuBFu0kgfiemh2xrP6M81wyw1KMeNaEBgdB5g",
+            "widthPx": 1500
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Ricardo Carvalho",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIF6F8wg8AYwFpcwmRSUjAR8HShglfAgAFt1_PZdlD2wRv-Nw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117899203327216991538"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAufJHf1pGqt1I2DgJJ2wI4&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAufJHf1pGqt1I2DgJJ2wI4!2e10!4m2!3m1!1s0x4876053d83426261:0x263f733a95cef508",
+            "heightPx": 4032,
+            "name": "places/ChIJYWJCgz0FdkgRCPXOlTpzPyY/photos/AWn5SU5CuVtWQgyB122oOR3C9KF1TmBztD8tBe1-Fqv7TDV2wZWz6FeoshDiP6_iFh5jT8RwMV6u1uVURUCJQ23mN5Oe7D82wxbZ6d3_H2uO0eMENI14mi5EZ2YQ3jY-ELgNA_K7aOYuKfFJ_RzCLPRNjy3P0GoAaHEqT-WfiIQ70zMjc15vJo9KH6EdxcuuTrZsQY6JmxdC3T87QzLKlQpIumeaImSZ0SfJZMcxqy9uieyUeW1nlWlGmSMn63FyLAfD837Zue-0UXaek5JQmYLiQ-nmHpfdyNsR_E9JtnL7Gr1WPQC5uO0rpX9HLedU2VjEjrE7a6SM2cUCYBm1vLzphFscjjWV7N-CeDnlCo3w5DvNG-6m1immOZEdCwgeh6BIUYjsj_ftAyLzP0H9kszM3pHmo-ac8HN0kVzVE6cStRN3KCw-_PQQSN_3Qh1yowpj",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Antony",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXTRdShgoArswtFYDN60uV1pIyJuzGQCGcW0_KoqhIugZ_45SGQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/105334594404211232648"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCrJb-iKI4RMQ1bBvUp014y&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCrJb-iKI4RMQ1bBvUp014y!2e10!4m2!3m1!1s0x4876053d83426261:0x263f733a95cef508",
+            "heightPx": 3600,
+            "name": "places/ChIJYWJCgz0FdkgRCPXOlTpzPyY/photos/AWn5SU4cLBeCScr_skhZYauxFf3tYJZ__TEV1_PMWwOICa5jjjTUphpXIHD2VQSVZcU2mazUzz3IrpgCVJKs-aId4pHMcVWX0oMm8ICA70Cyc_oYPf_NgZs_F7_hLanScQwLb5y-HsoC_lz3DEJVuxadZVemBpdqd39i_Vxj3rz8H7Z2TpiK52OjNkGhQVcp70t9NYIbeJtWleZuFTiFHM9HU8kafRWDtO_bk12IlxcIR7oyrHs6uKIrDq7ZVnyvmc7LzuNw--kyUlUe2HFK4-BnbsQIEAprdPfMDzra0_Zm0fp7lhzfuFihFiN0UQ4zNyP9_v3EAUr7fOWXV3ljSwLHnnc1XC5_hLlB9oM0CtI-ovQULY7eD8vVsCxRPEGgWFEy-6Au44PpjAdhFZRH8pujbG0D8mSCNGap13su3IagVL4uv4OMRA1dpvx-Ay9mkKkv",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Chill Since '93 - Covent Garden",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJtf7ZjWOwTqDXwLde0i-dsptrTw0dBqS_s9GPR6eYVdQNSxA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110112165945150129447"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOHe-aRXx8Uaa3-rdR_b912PgWToeAsl4qTUgUQ&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOHe-aRXx8Uaa3-rdR_b912PgWToeAsl4qTUgUQ!2e10!4m2!3m1!1s0x4876053d83426261:0x263f733a95cef508",
+            "heightPx": 1500,
+            "name": "places/ChIJYWJCgz0FdkgRCPXOlTpzPyY/photos/AWn5SU4nLQUvbshESfVIROmBAjt9jz5YzKK7Y1nCQLR-sELPtQNyvA-zW8FunuO81lrdsQzsV7RctvZM9lMIt9HJoFTvFfklEVSq4RhdsItEB3pB4Y5H4nfTwHEw8-JInM0CHuxoCPbcoZQL8q6qvLvm5NGs5_nPo0jisZsCPbvX4HE6bz809rB-dcfdJLR2kPEjx0oscyKxHC0RGpQOMt_1-sREDLfIDc2xhTOA79O25yb2CqonxGRD0BW3ZXMLK7Ez-lbTpn3sXmXLnvJgBb_tbT2eqXhAtoHKUUpv-mgV6MyclQ",
+            "widthPx": 1500
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Sandrinka Kamysz",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXtNsWqZvhpAIiex8fNNKBFdM3x7z2yOMNYbDxPkyxqRC8guVCM1g=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/108994054234499886597"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKENqUtt3tlrW4bA&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKENqUtt3tlrW4bA!2e10!4m2!3m1!1s0x4876053d83426261:0x263f733a95cef508",
+            "heightPx": 3024,
+            "name": "places/ChIJYWJCgz0FdkgRCPXOlTpzPyY/photos/AWn5SU7eWnjf5aO30UYxY6KCduMkbaVLrYb-Iv362wgDhw2UVPdvuRSSuawUlx9oNtHZIvpAbzASHhatrStr5QZDH4UWjmzyFCc18cJysVGMQw5b6s1ZGs0zUk1jGSoSQDfXY4jYk52LHnfp2jhvEiFu3Obtv3_UtdaaAayDKs0ztHaEvChcxJCViIdrRl-O7Ql32-RwDi41NvaPxfd4AzOjt_vRZ7nKGfDhklsLuoF-B1TGUDn9gZmTBT7l8sHSLzIhKJaBkPYwf9_bYUTt5ykvz02HLx3ksEyJnbAccznZ4zo5JeQP6LxZZ2QqK33PTBLl33SOYjF52plS-yRBRDSrewKA3VSlmASilPDfUWFH0uE9G486kl6iki25urbdziuvoOOS7ddA-E0OmSZucQQACrTbbcTioADRMQOQfYgjNzCQKA",
+            "widthPx": 4032
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Ashish Singh",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXYNHOj0yIvgzXKtIlYeeZfHZwFB2FFO4bT0pDUvp62kRfspGl6=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/103120035899797135450"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCQ3cPM2QE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCQ3cPM2QE!2e10!4m2!3m1!1s0x4876053d83426261:0x263f733a95cef508",
+            "heightPx": 4800,
+            "name": "places/ChIJYWJCgz0FdkgRCPXOlTpzPyY/photos/AWn5SU6NnWYF8rrBaeujY8eT9WSsGbPBje5bBEeRZ4QniBxkk1dbCVHC2yx_ro3OU1VFPtwxwkNb08NSczD-_rv_mIYZHb12LONEemPB83miBcBBG8wdZVpHPP6k5kHEl1pJEQDGeHg3kRJomhZXhRd0IhukjsErQGiAHWVvn9pN3DHAZRmZ0e6iqQ1Od6JklAlDWJujYrKKS_AVtw6I4-cISKuGN7Nh7_KuNcz1dranHy1wYBk5AF7GJPztBzOOotitKkduPADwqB1-ElVJr3BcH8TXYpnV2R3qkQrjws0zTH4I2ZMmHKgMnubqmV2h9G9moHroCKOyJxU-a0wKEQk02VyOiFgkswYlTWGRRCpiV8IxEAFxL_maJk58ZV5DBxvt8G6pqFxNvufcLOQ_wkg5Y3ZBoz_6OGTOBlkksnr1cbyQWTJi",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Sandrinka Kamysz",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXtNsWqZvhpAIiex8fNNKBFdM3x7z2yOMNYbDxPkyxqRC8guVCM1g=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/108994054234499886597"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEISfm5fevrGDxAE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEISfm5fevrGDxAE!2e10!4m2!3m1!1s0x4876053d83426261:0x263f733a95cef508",
+            "heightPx": 3024,
+            "name": "places/ChIJYWJCgz0FdkgRCPXOlTpzPyY/photos/AWn5SU72A-SFwPtCRmm1W1E6vxAx2v9DszxjkKN_VG3ZvOwWQrLSntGT1XLYWtLen1p6jvgII8BTW85cDXoPacLmFidd-9atUhYURKac2CvBcy86xeziT1xBm2ezqSAxLBLeQFi-fJFdl94flnI55vzrAtyTonsYM5VmIHReSMKybXTLjvJuZ3NM86fppmp1HlgbPFInUdyIO3WaBE9Ocdis290T8QVR_IOXZ_Ebtwa_XkCcI9vahW1HMHBxzw0PzFk5iH4pT23E8wd-SiAPVTcf2Xu6T9fYrRQBpLhj9fE398W2Qr3xbnZFBKCUhK1gc8QYMsMJ6uTsPFG3RvgWVIXgJfN5pHheIMaw3xoRXguL9Th7fsQvWgmaheZWlQR_3Qcui_XNrPEYaY47KMfDDMWjATntAJwHycVvM8p6UnCh8vsQu4I",
+            "widthPx": 4032
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Mo H",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX5oOt0yMIQFv6glUr75-hMiwaznZ_rk6d60_EsPkQE_T3Dx5ei=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/105881060575040144217"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDuOqrszoJFMUAXytpQVvtO&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDuOqrszoJFMUAXytpQVvtO!2e10!4m2!3m1!1s0x4876053d83426261:0x263f733a95cef508",
+            "heightPx": 2600,
+            "name": "places/ChIJYWJCgz0FdkgRCPXOlTpzPyY/photos/AWn5SU4OKyr06I1Crj8eAytKbPaQi6cISbYpROmD7pYuN9QyGQiKeo_tVgZDtU_kQDswJaOK3kJr264Ox4lC0E9KDzrkyQuazW2JENZ5h1xO30HaKp3jIjAuN7b4t3RO-b09GmOx2mxucuqzAsMPjErelVpUldT1s6k2qyo2AkVkCDr5xuenbu0Z_1zFEbuG_nZ4aU_-lw-DuK9dIXFJ_vZLUqzeKzq1NPUa9MfXgohDi80LllwqL_3kZUynCa3d2b_5MdstwC2ZVQJOPQbZPJ6S7I5G-iknN7uR3Zklm1vIo8Y4v2lVDjxv_KFW7q10565AAUBkwS4GkXEFPIlrjuLabkJlkXFmd9F0yCWdTPahodSYA0dbdF852m2-zpEadb7hFNfrpUOgcJkEgOIkS-oN9APHB2FkHdKfKfXbD3-hYdoXlahNf0ogaWt4hWmMXAMH",
+            "widthPx": 1950
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Chill Since '93 - Covent Garden",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJtf7ZjWOwTqDXwLde0i-dsptrTw0dBqS_s9GPR6eYVdQNSxA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110112165945150129447"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPqz4EroZZUcpyt48pNKppfiqBLRkrJR9XHWHtZ&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPqz4EroZZUcpyt48pNKppfiqBLRkrJR9XHWHtZ!2e10!4m2!3m1!1s0x4876053d83426261:0x263f733a95cef508",
+            "heightPx": 500,
+            "name": "places/ChIJYWJCgz0FdkgRCPXOlTpzPyY/photos/AWn5SU46ODTkqADaAsrUo7VUmTXoWeOcpRfa2Mz9sJY1TYStB3O3sceQvgKXJMcPwyyie4HwZd4EVuDCAColze09QGxlkFH9Mpacr047ppyi4Sy2TM3KPoA9rWYz-sqkJ1DkoyGEifpzQWPtkWo1OV5JRq3oHUfmx_dU5pC1j-kKYecsLyNCuo6z1-A_FF05GmX8Zqe5ywvEanj9jK4vtH99VOhQX0fV-Jdwvn3_VH3L1Cb36xphgD8G2cfZf8WUZgUXy3lDhkHO80xwBGx8D0h2p--qKyJfeuYBd4sJm-rLia0KyQ",
+            "widthPx": 500
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV6F+CJ London, UK",
+        "globalCode": "9C3XGV6F+CJ"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "10 New Row"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2N 4LH",
+        "regionCode": "GB"
+    },
+    "priceRange": {
+        "endPrice": {
+            "currencyCode": "GBP",
+            "units": "20"
+        },
+        "startPrice": {
+            "currencyCode": "GBP",
+            "units": "10"
+        }
+    },
+    "primaryType": "pizza_restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Pizza Restaurant"
+    },
+    "rating": 4.8,
+    "regularOpeningHours": {
+        "nextOpenTime": "2025-11-25T11:30:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 11,
+                    "minute": 30
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 11:30 AM – 9:00 PM",
+            "Tuesday: 11:30 AM – 9:00 PM",
+            "Wednesday: 11:30 AM – 9:00 PM",
+            "Thursday: 11:30 AM – 9:00 PM",
+            "Friday: 11:30 AM – 10:00 PM",
+            "Saturday: 11:30 AM – 10:00 PM",
+            "Sunday: 11:30 AM – 9:00 PM"
+        ]
+    },
+    "reviewSummary": {
+        "disclosureText": {
+            "languageCode": "en-US",
+            "text": "Summarized with Gemini"
+        },
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=5%401:CAIQACodChtyc19oOmdxZDA4SlVLd05XQVk5ZV80ZWVCYkE%7CCAIQACoqChtyc19oOmdxZDA4SlVLd05XQVk5ZV80ZWVCYkESCwiE6LbIBhDApeBE&d=17924085&t=8",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x4876053d83426261:0x263f733a95cef508!9m1!1b1",
+        "text": {
+            "languageCode": "en-US",
+            "text": "People say this pizza restaurant serves delicious focaccia sandwiches, pizzas, and cookies, and offers excellent coffee. They highlight the generous portions, reasonable prices, and quick service. They also like the friendly staff and cozy atmosphere."
+        }
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "STTMcontinues",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKEjZ5LtGEfwXfgFMOMFF5oLXVA-czOtA1S6T0qkXQU-PHiqA=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/117738888110387727406/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWT1psWkxjRTlmTW5Fd1p5MUxkV3BHWTA5UFMwRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWT1psWkxjRTlmTW5Fd1p5MUxkV3BHWTA5UFMwRRAB!2m1!1s0x4876053d83426261:0x263f733a95cef508",
+            "name": "places/ChIJYWJCgz0FdkgRCPXOlTpzPyY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWT1psWkxjRTlmTW5Fd1p5MUxkV3BHWTA5UFMwRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Focaccia Mortadella Burrata Sandwich\nFirst of all, the portion was generous. The ingredients looked fresh, but the amount of mortadella and burrata was a bit on the small side. Of course, nothing compares to what I had during my trip to Italy 😭 Still, the focaccia was amazing—crispy on the outside and soft on the inside. It was a little salty for my taste, so I added some olive oil from the table between the bread slices, which helped a lot.\nFor London, I think the price and portion were quite reasonable — sandwich + drink for £12.5. If you don’t order a drink separately, it seems like you can ask for tap water.\nThe service was cool and efficient, neither too friendly nor indifferent.\nOne thing I wondered about: they threw my used napkin and the recyclable glass bottle in the same bin — not sure if they actually separate the recycling afterward."
+            },
+            "publishTime": "2025-11-08T18:40:47.022695339Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "2 weeks ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Focaccia Mortadella Burrata Sandwich\nFirst of all, the portion was generous. The ingredients looked fresh, but the amount of mortadella and burrata was a bit on the small side. Of course, nothing compares to what I had during my trip to Italy 😭 Still, the focaccia was amazing—crispy on the outside and soft on the inside. It was a little salty for my taste, so I added some olive oil from the table between the bread slices, which helped a lot.\nFor London, I think the price and portion were quite reasonable — sandwich + drink for £12.5. If you don’t order a drink separately, it seems like you can ask for tap water.\nThe service was cool and efficient, neither too friendly nor indifferent.\nOne thing I wondered about: they threw my used napkin and the recyclable glass bottle in the same bin — not sure if they actually separate the recycling afterward."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Alessandra Alari",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVSTlNMtpXbaDEJDXvkiAQ70PfHLvxwI6JtEaQzHUDvzwnHXMYN3w=s128-c0x00000000-cc-rp-mo-ba6",
+                "uri": "https://www.google.com/maps/contrib/113618580258734038264/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xBeWVYSjNUamROWnpsNWFVOUxRME5sTVdKWlNIYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xBeWVYSjNUamROWnpsNWFVOUxRME5sTVdKWlNIYxAB!2m1!1s0x4876053d83426261:0x263f733a95cef508",
+            "name": "places/ChIJYWJCgz0FdkgRCPXOlTpzPyY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xBeWVYSjNUamROWnpsNWFVOUxRME5sTVdKWlNIYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Very lovely calm spot among Covent Garden madness, available for a quick and healthy meal with great pizza and focaccia, prepared on the spot. We loved our pizza Margherita and our Caprese focaccia. Thank you!"
+            },
+            "publishTime": "2025-09-12T20:51:51.705301469Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Very lovely calm spot among Covent Garden madness, available for a quick and healthy meal with great pizza and focaccia, prepared on the spot. We loved our pizza Margherita and our Caprese focaccia. Thank you!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Hetal Shah",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW1KlOD_-4iBroh8qT6cCMOKlJnX-HzKpWSHwTuG5YxWHUneIU=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/103028849702137934394/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xseFlXZFRlVkV3ZW1GRmMxZEJTVU5qWkVzMWVtYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xseFlXZFRlVkV3ZW1GRmMxZEJTVU5qWkVzMWVtYxAB!2m1!1s0x4876053d83426261:0x263f733a95cef508",
+            "name": "places/ChIJYWJCgz0FdkgRCPXOlTpzPyY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xseFlXZFRlVkV3ZW1GRmMxZEJTVU5qWkVzMWVtYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "DO Not eat here if you're vegan or vegetarian.  Your food will be contaminated with meat. The staff do not change their gloves are touching meat products like salami and i think it was chicken slices or other meat. Touch a wet dirty towel. Serve customers touching the till. Then proceed to make my food. Hygiene is 0/10 ! Basically, after looking at the dirty rag on the chopping board put me off my food! Not sure why the reviews are great because the food is average at best. It is pre made and warmed up!"
+            },
+            "publishTime": "2025-07-01T21:09:02.874369677Z",
+            "rating": 1,
+            "relativePublishTimeDescription": "4 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "DO Not eat here if you're vegan or vegetarian.  Your food will be contaminated with meat. The staff do not change their gloves are touching meat products like salami and i think it was chicken slices or other meat. Touch a wet dirty towel. Serve customers touching the till. Then proceed to make my food. Hygiene is 0/10 ! Basically, after looking at the dirty rag on the chopping board put me off my food! Not sure why the reviews are great because the food is average at best. It is pre made and warmed up!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Pete white",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJVaFTJStvlvDXuiJuy4gJQ5aj9U85WQu7XhEcpzxCQGQFAAHE=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/109367264769327044244/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT201dlZWSnRjMFZ0YjFCdk9FVm1hRGw1U21OdVNWRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201dlZWSnRjMFZ0YjFCdk9FVm1hRGw1U21OdVNWRRAB!2m1!1s0x4876053d83426261:0x263f733a95cef508",
+            "name": "places/ChIJYWJCgz0FdkgRCPXOlTpzPyY/reviews/Ci9DQUlRQUNvZENodHljRjlvT201dlZWSnRjMFZ0YjFCdk9FVm1hRGw1U21OdVNWRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Excellent food, excellent service, very reasonable prices for the portion sizes. Friendly staff. Will definitely be back."
+            },
+            "publishTime": "2025-11-08T16:33:45.666022297Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 weeks ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Excellent food, excellent service, very reasonable prices for the portion sizes. Friendly staff. Will definitely be back."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Mo H",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX5oOt0yMIQFv6glUr75-hMiwaznZ_rk6d60_EsPkQE_T3Dx5ei=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/105881060575040144217/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xKMWRUUnJhWE5uUnpWVFVVbENjR2RoVDNsWGNuYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKMWRUUnJhWE5uUnpWVFVVbENjR2RoVDNsWGNuYxAB!2m1!1s0x4876053d83426261:0x263f733a95cef508",
+            "name": "places/ChIJYWJCgz0FdkgRCPXOlTpzPyY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKMWRUUnJhWE5uUnpWVFVVbENjR2RoVDNsWGNuYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Delicious Italian pizza and sandwiches. A must try food in the area. Good cheese and amazing olive oil."
+            },
+            "publishTime": "2025-10-06T19:15:01.224173109Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Delicious Italian pizza and sandwiches. A must try food in the area. Good cheese and amazing olive oil."
+            }
+        }
+    ],
+    "servesBeer": true,
+    "servesBreakfast": true,
+    "servesCoffee": true,
+    "servesDessert": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "servesWine": true,
+    "shortFormattedAddress": "10 New Row, London",
+    "takeout": true,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "pizza_restaurant",
+        "meal_delivery",
+        "meal_takeaway",
+        "food_delivery",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 441,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.5124427302915,
+            "longitude": -0.12462981970849797
+        },
+        "low": {
+            "latitude": 51.5097447697085,
+            "longitude": -0.12732778029150202
+        }
+    },
+    "websiteUri": "https://chillsince93.com/",
+    "timestamp": 1764064800
+}

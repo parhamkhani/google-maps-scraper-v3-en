@@ -1,0 +1,242 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleEntrance": true
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "8",
+            "shortText": "8",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Northumberland Avenue",
+            "shortText": "Northumberland Ave",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2N 5BY",
+            "shortText": "WC2N 5BY",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Westminster"
+                },
+                "name": "places/ChIJVbSVrt0EdkgRQH_FO4ZkHc0",
+                "placeId": "ChIJVbSVrt0EdkgRQH_FO4ZkHc0"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "8 Northumberland Avenue"
+                },
+                "name": "places/ChIJYW_iAc8EdkgRzDqMzg1RZKE",
+                "placeId": "ChIJYW_iAc8EdkgRzDqMzg1RZKE",
+                "spatialRelationship": "BESIDE",
+                "straightLineDistanceMeters": 19.319063,
+                "travelDistanceMeters": 0.0010757446,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Trafalgar Square"
+                },
+                "name": "places/ChIJH-tBOc4EdkgRJ8aJ8P1CUxo",
+                "placeId": "ChIJH-tBOc4EdkgRJ8aJ8P1CUxo",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 178.4373,
+                "travelDistanceMeters": 135.70808,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The Grand"
+                },
+                "name": "places/ChIJ78fbAc8EdkgRWG1dhffz9AY",
+                "placeId": "ChIJ78fbAc8EdkgRWG1dhffz9AY",
+                "spatialRelationship": "BESIDE",
+                "straightLineDistanceMeters": 14.035747,
+                "travelDistanceMeters": 3.4411616,
+                "types": [
+                    "bar",
+                    "establishment",
+                    "lodging",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The Civil Service Club"
+                },
+                "name": "places/ChIJQ90aBc8EdkgRe2j3WhdTPjA",
+                "placeId": "ChIJQ90aBc8EdkgRe2j3WhdTPjA",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 67.971756,
+                "travelDistanceMeters": 144.19972,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Korean Cultural Centre UK"
+                },
+                "name": "places/ChIJu-p9-M4EdkgR0J8kpP5H2Io",
+                "placeId": "ChIJu-p9-M4EdkgR0J8kpP5H2Io",
+                "spatialRelationship": "ACROSS_THE_ROAD",
+                "straightLineDistanceMeters": 28.61094,
+                "travelDistanceMeters": 13.083546,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "containingPlaces": [
+        {
+            "id": "ChIJ78fbAc8EdkgRWG1dhffz9AY",
+            "name": "places/ChIJ78fbAc8EdkgRWG1dhffz9AY"
+        }
+    ],
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "BOB'S BURGER"
+    },
+    "formattedAddress": "8 Northumberland Ave, London WC2N 5BY, UK",
+    "goodForChildren": true,
+    "goodForWatchingSports": false,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x487605a5a4482817:0x265811cdca1f0a00!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487605a5a4482817:0x265811cdca1f0a00!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=2762977946948798976&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487605a5a4482817:0x265811cdca1f0a00!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487605a5a4482817:0x265811cdca1f0a00!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=2762977946948798976&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJFyhIpKUFdkgRAAofys0RWCY",
+    "liveMusic": false,
+    "location": {
+        "latitude": 51.507010199999996,
+        "longitude": -0.1259867
+    },
+    "name": "places/ChIJFyhIpKUFdkgRAAofys0RWCY",
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+    },
+    "plusCode": {
+        "compoundCode": "GV4F+RJ London, UK",
+        "globalCode": "9C3XGV4F+RJ"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "8 Northumberland Avenue"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2N 5BY",
+        "regionCode": "GB"
+    },
+    "primaryType": "hamburger_restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Hamburger Restaurant"
+    },
+    "servesDinner": true,
+    "servesLunch": true,
+    "shortFormattedAddress": "8 Northumberland Ave, London",
+    "takeout": true,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "hamburger_restaurant",
+        "american_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.5084377302915,
+            "longitude": -0.12461806970849798
+        },
+        "low": {
+            "latitude": 51.5057397697085,
+            "longitude": -0.127316030291502
+        }
+    },
+    "timestamp": 1764064800
+}

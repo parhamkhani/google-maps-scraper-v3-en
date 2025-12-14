@@ -1,0 +1,798 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "80",
+            "shortText": "80",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Long Acre",
+            "shortText": "Long Acre",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2E 9NG",
+            "shortText": "WC2E 9NG",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJs4GOh8sEdkgRRiBFZKMP8ZE",
+                "placeId": "ChIJs4GOh8sEdkgRRiBFZKMP8ZE"
+            },
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Holborn"
+                },
+                "name": "places/ChIJA7_adjUbdkgR_XPGaE3twAI",
+                "placeId": "ChIJA7_adjUbdkgR_XPGaE3twAI"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "King's College London"
+                },
+                "name": "places/ChIJ3VW0o7UEdkgR8eAcbhKByyg",
+                "placeId": "ChIJ3VW0o7UEdkgR8eAcbhKByyg"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Royal Ballet and Opera"
+                },
+                "name": "places/ChIJySOgh8sEdkgRCBzTYt83Klg",
+                "placeId": "ChIJySOgh8sEdkgRCBzTYt83Klg",
+                "straightLineDistanceMeters": 167.95108,
+                "travelDistanceMeters": 188.82565,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The Marlborough Head"
+                },
+                "name": "places/ChIJ77_aTcsEdkgRcCamkQMzbTc",
+                "placeId": "ChIJ77_aTcsEdkgRcCamkQMzbTc",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 37.45499,
+                "travelDistanceMeters": 63.05767,
+                "types": [
+                    "bar",
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Caffè Nero"
+                },
+                "name": "places/ChIJSQWsWssEdkgRGHAsGJ8jI9E",
+                "placeId": "ChIJSQWsWssEdkgRGHAsGJ8jI9E",
+                "spatialRelationship": "BESIDE",
+                "straightLineDistanceMeters": 20.550598,
+                "travelDistanceMeters": 21.211409,
+                "types": [
+                    "cafe",
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Donmar Warehouse Office"
+                },
+                "name": "places/ChIJH79KJ80EdkgRF7ttsQ7xoWY",
+                "placeId": "ChIJH79KJ80EdkgRF7ttsQ7xoWY",
+                "spatialRelationship": "BEHIND",
+                "straightLineDistanceMeters": 24.999268,
+                "travelDistanceMeters": 101.05762,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Freemasons Hall, London"
+                },
+                "name": "places/ChIJZ4MM0TQbdkgRWOac4RsNLPs",
+                "placeId": "ChIJZ4MM0TQbdkgRWOac4RsNLPs",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 92.84305,
+                "travelDistanceMeters": 75.54941,
+                "types": [
+                    "establishment",
+                    "museum",
+                    "point_of_interest"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "currentOpeningHours": {
+        "nextOpenTime": "2025-11-25T12:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 19,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 20,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 20,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 – 8:30 PM",
+            "Tuesday: 12:00 – 8:30 PM",
+            "Wednesday: 12:00 – 9:00 PM",
+            "Thursday: 12:00 – 9:00 PM",
+            "Friday: 12:00 – 9:00 PM",
+            "Saturday: 12:00 – 9:00 PM",
+            "Sunday: 12:30 – 7:00 PM"
+        ]
+    },
+    "delivery": true,
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Kung Fu Mama"
+    },
+    "formattedAddress": "80 Long Acre, London WC2E 9NG, UK",
+    "goodForChildren": true,
+    "goodForWatchingSports": false,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x487605da9c80c275:0xa0d02b7e82f67bf!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487605da9c80c275:0xa0d02b7e82f67bf!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=724238103974209471&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487605da9c80c275:0xa0d02b7e82f67bf!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487605da9c80c275:0xa0d02b7e82f67bf!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=724238103974209471&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJdcKAnNoFdkgRv2cv6LcCDQo",
+    "internationalPhoneNumber": "+44 7367 639966",
+    "liveMusic": false,
+    "location": {
+        "latitude": 51.5144589,
+        "longitude": -0.12242299999999999
+    },
+    "name": "places/ChIJdcKAnNoFdkgRv2cv6LcCDQo",
+    "nationalPhoneNumber": "07367 639966",
+    "outdoorSeating": true,
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Ally Weng",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVmLRlUmiAG4wjvsSArm4zWO8oYIB43xZIOpKt4ABTNKhQ4EOfl4w=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/107520359012588408609"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCowsGSAQ&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCowsGSAQ!2e10!4m2!3m1!1s0x487605da9c80c275:0xa0d02b7e82f67bf",
+            "heightPx": 4032,
+            "name": "places/ChIJdcKAnNoFdkgRv2cv6LcCDQo/photos/AWn5SU48zDtrE6_cCnrxRoPsjVuG1mFToktVVnNgc-vqoxaplOwty-UFesph1aOYqgqvsAQQN9QxyrBqInDFzc2Z5AMpdUJ9yj7TGGwYAOZFsd-pfr9xw6Qywj0fk6B3TDTx-HoMtAcRknx2-yiYC2NI4v3WV8CzaQ0qn-UbMsqxY1i9BFB3Fz8X_yEi71NVrQWrby2tjUEGv2fxTSoW-s-qXcr0iXLrRITHBuAqEyNArZxyZm39TO05svoa06LebYxhf8cnrdzJup5Ndw3NMGO37VD91GHEYbs2o56MzOzNqbOIGo8Me4XuP1uzpfh1lctXP4ey9YvfpHJUd9H7ZkAtq8BLvgf14NuB96msYcSESH9dm44nAIkRb4BKxpQP4JXivYyF4d4EuUgMbYPa4GH6CGwLqV45VscVD1JDsOlK8VKT1g",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Kung Fu Mama",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVUYQZ7ZuUeaeXHrYPsyNXLL7nSY2IuUN4ti5qsBVY2WkvEyxE=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117273542585358093248"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPba4pwSaLFMu6G0TlHnzittJ-S5NsV5n997HiO&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPba4pwSaLFMu6G0TlHnzittJ-S5NsV5n997HiO!2e10!4m2!3m1!1s0x487605da9c80c275:0xa0d02b7e82f67bf",
+            "heightPx": 2843,
+            "name": "places/ChIJdcKAnNoFdkgRv2cv6LcCDQo/photos/AWn5SU6Z0uQKM-00owRo0RVRvwv5ij92YuDbRUTWCup1cdpJuRUah95Y_aTdhBDvaRaiXieckhk0tQPbWfsaJe7fTTe4zSt1tsSArBSD_tsU5Zf3H6ucTydYmLbFAhGAI-NkhHbiCpP8hpfGzAclXnAAe0ykI2sb72zOgLn79wqBpZNMje44nDi3qreeMDwbbNoyfHtaHS3kJxGsYherex_P9ilEz05a9Pyr4rpgY5KKHh4H1Yqrso9G87WnIX041BRzhF0f7bgQ7ht1YcHi5A2PPvEwuybBBOIahjp0lTcckkG9_g",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Deric Chng",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWxbJlWoONT6Bdm_95Ogr-DlGLoKfiAsvqPq1P7PRejVbjCwQNd=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/101228433801695027607"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDnnrZQjXGu2zJALmOQuLMI&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDnnrZQjXGu2zJALmOQuLMI!2e10!4m2!3m1!1s0x487605da9c80c275:0xa0d02b7e82f67bf",
+            "heightPx": 3000,
+            "name": "places/ChIJdcKAnNoFdkgRv2cv6LcCDQo/photos/AWn5SU4TlMZecjruSP6sb-gxcCdbcFI0iiiE_n14zXgccMaNlS1Ke5oZ8GDd0jbfxH_NQ6lkHYQfQiFJxLTWPbuQ6VhqOnWbwBIDgiGVc3X1CkzsvJ5Yuh1zu4bstx-n7jb8nLcd7aYedZH_aWLjgsjyxlo-G1HVxodkSQvj01tt2WIz0EYCAi89hJ-oMA_KhfwhFa-iu_xQgr3bUn9j2F5Cby-fuR3AC233HBmjXsvd1yEeo3V0U-0MQLuAYDWcITQggFhaaDG6hnjd3KUOnlPI4yYiVL4FB2HKCJG0JiwJ3-cZOsabAG2rG0JZp2ZcJXqvjCW2KloL9DsWIL22JzWm4W1wmFnUFR52zFi6XpoACYZ6lCXj2vi4DEbOtQ14L3eGzrCf_JAA56XA-xsAsIJiiOtP0VTZhvGTH93dk_3oFO3e9GzhYT8zzq1UERgYNLZr",
+            "widthPx": 4000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Kung Fu Mama",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVUYQZ7ZuUeaeXHrYPsyNXLL7nSY2IuUN4ti5qsBVY2WkvEyxE=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117273542585358093248"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPLjA5xXoLDNQLprp-6lMV7G4Tm98heV9DwoBQd&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPLjA5xXoLDNQLprp-6lMV7G4Tm98heV9DwoBQd!2e10!4m2!3m1!1s0x487605da9c80c275:0xa0d02b7e82f67bf",
+            "heightPx": 4800,
+            "name": "places/ChIJdcKAnNoFdkgRv2cv6LcCDQo/photos/AWn5SU47HJhu4S3bGLh6vGQZ6V75ga-1OzQmAZ7E4BdyXpaEb_HMKtQt5FzQi8EGchI9rTTH2r5nVxLS5eb38WR3YRGmqy9Wfkg7Mk6-DaKCSguagsr1bjZafpaFKJ3Y_OC4qP5lvyNQfOqWKw1L4F-AZNA_C0ddM0JpoHsTBO6ONCLTB-1OF6Ejy9eLZ6UYWUDZSe7-eeA6ByO4zpL7SizJ5WuJoGl_5RoXAhtPtG_ELPyqfKBZn7WFlh-YDyDxaBzpsXdIQC5TzvpBwc3OmEMLzbs-RmuCZx1ovpzkaGsNUCOBfw",
+            "widthPx": 3839
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Deric Chng",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWxbJlWoONT6Bdm_95Ogr-DlGLoKfiAsvqPq1P7PRejVbjCwQNd=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/101228433801695027607"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDvJFQyE0cINbjzfyhymr7J&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDvJFQyE0cINbjzfyhymr7J!2e10!4m2!3m1!1s0x487605da9c80c275:0xa0d02b7e82f67bf",
+            "heightPx": 3000,
+            "name": "places/ChIJdcKAnNoFdkgRv2cv6LcCDQo/photos/AWn5SU7IyGLplzQuUJC4AdqIuomWSs_HZv8NH8fJs1VdXfIZnBq1u4f7IFvvFLlGtBYLlhsGuFkQt9E-a32VJ7WGO8PBpI92FX_gj6BIEuQQwC7lnvC9bQbIXB08fVX1KVeRx2ed4TbTfgB1Y6XdmwJJxU7G01AuxjQYegTC9VdJBkQXN0EJPrWgzwjQzZ98SeNz7xPAiAe67Esu26AKVqy978FqKuS_wt2XiqLy6mX_caSJHkzXOhiIm4ynDp9lX7orNmKEZZ1aAAG2kS8XYQE0CdnOVjTpk6Ey0KWH_ao205TzgR9jZkwbr4KmyMThVfkT1JIeuFfO_3LNAqXcWJ4GIC1kH2RmhE91UhaylDtq0s8ibLuXDtHbIuhs-yow4ADdS-tff0eLED3zR7vF1rVbQ8_B1pbwqkSE7LyGOKWFle7xiv15YTYTgv8rJ1tyg7KW",
+            "widthPx": 4000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Ben Woods",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWCvU4tCKV-HBPFb27OgE1HiQxppo-zK-wohX0p2aS7M0xscFHh=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/116706740400966534097"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCHA2fjWMu5I240xIW79zj_&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCHA2fjWMu5I240xIW79zj_!2e10!4m2!3m1!1s0x487605da9c80c275:0xa0d02b7e82f67bf",
+            "heightPx": 3472,
+            "name": "places/ChIJdcKAnNoFdkgRv2cv6LcCDQo/photos/AWn5SU5ECFdpr7K2U18zDA79pRBCMp-UeCVnfpI4ggfltpee525K428ywRXWGWLb8BO3b72_jOKwTfOZHctK2VkdMEBgrze6al6z-f4VS01ib5l8JIlKpuVJJ3KdGcCcDe9TbLRn7IZ7yP6TrZoLyNjHPt7rPs-SSdu9k3SDnF4ZVx8RYC-jy-Hn2o2x6F91F9zvPM3Cqb8y9fQAGzdi4ssEcwmpODrJMZveqnxqZU-5YGThRK-fU7hHojwnKPRdE5ikueu8-JV3hFoy8HyfCIxKrWP-tjkEZrWj5CmpXsIynUiceVA8IwHHnXlanbsjEb8_QdKUfVCoEkVLXsH36qhqr0dbZICfRaHJwlBC5n-KhFWO582bcBY2rjHeRmGbU-OWEPhoAr9a5IyArSa4Hnja-iR47Qva_FlShmA3CeLW-pU7YC52uPdzbuhJsbNRhSOH",
+            "widthPx": 4624
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "ONA",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJI9lhu2r6SpX4LekDd74phCgOHme3Sy2H72JqOCSOFJ8-8sQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/105796020853720652778"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCz3p0_3KsmrcOElZm1ktuP&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCz3p0_3KsmrcOElZm1ktuP!2e10!4m2!3m1!1s0x487605da9c80c275:0xa0d02b7e82f67bf",
+            "heightPx": 4800,
+            "name": "places/ChIJdcKAnNoFdkgRv2cv6LcCDQo/photos/AWn5SU4PD0KqBa-RW0j_X3DVawHyh8tlKs9oa40w-8vbylDgI7nEeSaTkLkgyRiHfxiacWCZnR8-hoY_l7T0A-5XiJAalHST8U8AK-Mpy1eCvTeFr3c-PPK5qeJXVstmy7eKoLzZubfTWRNhGBlLB-oy99wn5dLKvqKIs2fRc_sSTd8L59lvGY_WyHkiR5wMTIxeyRFyXRCXhf2Olti97eRj5qDqqxYc9_GfKE8Hn4TFyo71jaVyXfqe-nzUwsTBV7ijotDu0w7PNQYIq51i-Wu8a3pTZCJwTxhheXyv0npOQX92XRFB5ELS4oN6UAROhffDIfyr4DAfl1rIryqnG3dMwKCv2iezGN3OXnBLrxR12b2EXkWzN13K0_Na2kQOMCVfnkPyOHtHJvgSalqrmIxwS09lUfhflk-veyZUlQrcN9g7GoQXQjOOTmkpFZqPzG23",
+            "widthPx": 3600
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Emma Wong-Stephens",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU1UZ3w1E1eNA-RJZho3rMSyWrNKnusyAOYqy68H-PRz7DZrQPZgw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/112609633085739638293"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEP-NuZKsjOrLxQE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEP-NuZKsjOrLxQE!2e10!4m2!3m1!1s0x487605da9c80c275:0xa0d02b7e82f67bf",
+            "heightPx": 4032,
+            "name": "places/ChIJdcKAnNoFdkgRv2cv6LcCDQo/photos/AWn5SU5i_NbCofH-UrGsY4Y9eDhp6qA4CQyE1yVZOSWerfXq07YbWdSbx0FJykt_ZIQ575Gh7yGZ82uUYwAxy8hMg1ynyNJaRa6G5VPHfe6EUHmCuHBV_ZFXRFR_XzPA0KUHKyLP4GdTgmv81sFLV94SWZeJZDoABGw29Qhv5aie0XseJOr8q5EIetGKQ8Rz2SBnnRhsmdCty3xPWiy__2dctQPSexrhhYFEeDzpvxQcNqpuItzRdnegd_4s8zftrhg8oxIwp_L7TZnR8vzGYsX8kWApc6zP1Zn59UmSlstdw6G2C-ssnk_Ga08ulVGvPC-WtyQm8gJ--md1k5SXCD5ktx9M-pLYX6EP3cq1MLrIq5P46J9hBbEJZe4uUsghMSy1MCOBc0dMFPl4VA4vA5dOXChfdeqPd4ohiTuHI3J0HJTKW0o",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Yi-Ju Tsai",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIlGMOxHUHMtaOz4qKaEZ7HkxlCr6hit5zhqyhiKKmuCN13Jw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/100753004203568392247"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCooKP1igE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCooKP1igE!2e10!4m2!3m1!1s0x487605da9c80c275:0xa0d02b7e82f67bf",
+            "heightPx": 4800,
+            "name": "places/ChIJdcKAnNoFdkgRv2cv6LcCDQo/photos/AWn5SU7NrC_WsSanv7_XXdYFZBNXjJv-1ItZAPDfR4vdVhN3LmnZGhcqTCUqUxQ75A_xCfSRQgZlmbsILo1_wtHS56qvHPJw5wdPrNiGwKVQscnykpzepR_B6aGtfJJYibMifuRCWE1vmc6_3aC1EN7KZa-bamdd_FQn_q9HukasCU4wK2SAy6BC8i87b5iAxaK7zzsip23C1N4iouA-9xCEA4G4CVKFlQp_nycH-ZbT96Gcsk1xOJZxWBuMRzAm9TDKxmQzrXE0_A8rcB6c0bpQ_XubomYlMt5iTREynHAiyOOY6CQN_MpCRlOaV3b1cjwowR4su_lb4OEUpgO9DNwuo2Z3ilg9dMUrpc1L3_BqQM4RMLNlVjJ_-to5V3ypOf9RwjT-ZTX1iusVuUj2yHqKtsXdcVUTHFrwLBtslYFlZQctzLE",
+            "widthPx": 3600
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Valerie Chou",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUL1WMfw2lruBDxBdxmBo7q_qo9R6O9oNzGrJNbdo21jaRKRLtxZQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/112865293433505027701"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDUgaazuZId1-mEgakwQWuG&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDUgaazuZId1-mEgakwQWuG!2e10!4m2!3m1!1s0x487605da9c80c275:0xa0d02b7e82f67bf",
+            "heightPx": 4032,
+            "name": "places/ChIJdcKAnNoFdkgRv2cv6LcCDQo/photos/AWn5SU7KAvHe7lwyR82TUiDlW2gpSoqM4cHEFKFCJcxxnuDptEOS_eC4LFH0AeaEaTHKVMzgXNcsaYp4XEPFjaf5J6Y-cBeTi7SigW6sptu9BaIRSL4pmgtW1vH4wqbgSLiCGDQKOeWAHN4tyE2zqHtiAp3IGkKBtTOk9jzF6uBnUKMGxXLx1-OD3J0iU71r1KSeGcmZyYCm4XJk0dvzaASdAmlb83bp_GsPKDvv8ZyIRuBOSuVotMTe_KkJE21CNSheS1XcxBk92KCSqy42pwPe4Ec3U4sQ1nu3iP98H0s6JMXatrFXQ8gCXqVnm6pcNsytnlXMDKk9Pxa-mw-EUQKQkkkvvRc1sg6dNkLb9lH8tlUUM_B2Kb4R0WFGEKkhXWcfDzX8dCvc2RptCy1J9__M2da2HG4JSTrnBQ63Go4qHTNvYSibbNPoMpdHurAmvdR_",
+            "widthPx": 3024
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV7H+Q2 London, UK",
+        "globalCode": "9C3XGV7H+Q2"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "80 Long Acre"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2E 9NG",
+        "regionCode": "GB"
+    },
+    "priceRange": {
+        "endPrice": {
+            "currencyCode": "GBP",
+            "units": "20"
+        },
+        "startPrice": {
+            "currencyCode": "GBP",
+            "units": "10"
+        }
+    },
+    "primaryType": "restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Restaurant"
+    },
+    "rating": 4.7,
+    "regularOpeningHours": {
+        "nextOpenTime": "2025-11-25T12:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 19,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 20,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 20,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 – 8:30 PM",
+            "Tuesday: 12:00 – 8:30 PM",
+            "Wednesday: 12:00 – 9:00 PM",
+            "Thursday: 12:00 – 9:00 PM",
+            "Friday: 12:00 – 9:00 PM",
+            "Saturday: 12:00 – 9:00 PM",
+            "Sunday: 12:30 – 7:00 PM"
+        ]
+    },
+    "reviewSummary": {
+        "disclosureText": {
+            "languageCode": "en-US",
+            "text": "Summarized with Gemini"
+        },
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=5%401:CAIQACodChtyc19oOjA1MEtsQWNDNEVzNGpUMkdFbl9LWGc%7CCAIQACorChtyc19oOjA1MEtsQWNDNEVzNGpUMkdFbl9LWGcSDAjdvd_BBhDt4_CvAg&d=17924085&t=8",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487605da9c80c275:0xa0d02b7e82f67bf!9m1!1b1",
+        "text": {
+            "languageCode": "en-US",
+            "text": "Diners say this restaurant serves up delicious Taiwanese beef noodle soup, mango shaved ice, and bao buns, especially the soft shell crab and chicken varieties. They also highlight the friendly and welcoming staff, reasonable prices, and generous portions."
+        }
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "ONA",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJI9lhu2r6SpX4LekDd74phCgOHme3Sy2H72JqOCSOFJ8-8sQ=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/105796020853720652778/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2trM1pEQkhWMDAxUldWWWFrWnZNbGRaUkdwUVpVRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2trM1pEQkhWMDAxUldWWWFrWnZNbGRaUkdwUVpVRRAB!2m1!1s0x487605da9c80c275:0xa0d02b7e82f67bf",
+            "name": "places/ChIJdcKAnNoFdkgRv2cv6LcCDQo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2trM1pEQkhWMDAxUldWWWFrWnZNbGRaUkdwUVpVRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Food was incredibly tasty, especially the 12h marinated beef with szechuan pepper, it was sooo tender, there was barely any chew! I also loved the soft shell crab bao and mango shaved ice cream. All the food was such good value for money even though it's in the heart of Covent Garden. Staff was so so nice and helpful. I'd definitely recommend."
+            },
+            "publishTime": "2025-10-23T08:54:24.094128587Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Food was incredibly tasty, especially the 12h marinated beef with szechuan pepper, it was sooo tender, there was barely any chew! I also loved the soft shell crab bao and mango shaved ice cream. All the food was such good value for money even though it's in the heart of Covent Garden. Staff was so so nice and helpful. I'd definitely recommend."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Quỳnh Lê",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVpa-8mXbQk19byA7Cu1VL1vVnr2Zx-GBhU6OQN3GIWA9xGxnshow=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/100740520546737644828/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pKRFNVbENka0pvTVZod1QwVnRSV3N4VFcxaE1VRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKRFNVbENka0pvTVZod1QwVnRSV3N4VFcxaE1VRRAB!2m1!1s0x487605da9c80c275:0xa0d02b7e82f67bf",
+            "name": "places/ChIJdcKAnNoFdkgRv2cv6LcCDQo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKRFNVbENka0pvTVZod1QwVnRSV3N4VFcxaE1VRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "The hype is a bit overrated for me. It was really crowded when it first opened, but I went on a rainy day and managed to get a table right away. The prices are quite cheap and affordable for such a central location. I got the popular beef dish — the beef was quite tender, but I wish the noodles were more flavorful; they were a bit bland for me. My friend got the chicken one, and the chicken was good too. The milk tea was nice, and the shaved ice was great with a good portion size. Overall, it’s worth a try. The place isn’t very big — there are seats, but they fill up quickly. You order from a machine, and I’d say it’s more of a fast-paced, takeaway-style restaurant"
+            },
+            "publishTime": "2025-10-19T21:26:29.573567949Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "The hype is a bit overrated for me. It was really crowded when it first opened, but I went on a rainy day and managed to get a table right away. The prices are quite cheap and affordable for such a central location. I got the popular beef dish — the beef was quite tender, but I wish the noodles were more flavorful; they were a bit bland for me. My friend got the chicken one, and the chicken was good too. The milk tea was nice, and the shaved ice was great with a good portion size. Overall, it’s worth a try. The place isn’t very big — there are seats, but they fill up quickly. You order from a machine, and I’d say it’s more of a fast-paced, takeaway-style restaurant"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Zhanaia Ramos",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKfMJoJdkxioahhmmaha3N8baWxITqQvZYmci6Kq6J2o2ucxQ=s128-c0x00000000-cc-rp-mo-ba2",
+                "uri": "https://www.google.com/maps/contrib/113616555997275190733/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pKM1MwaFFTRkZWYkdwSWIwUldWelkyT0RORU5GRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKM1MwaFFTRkZWYkdwSWIwUldWelkyT0RORU5GRRAB!2m1!1s0x487605da9c80c275:0xa0d02b7e82f67bf",
+            "name": "places/ChIJdcKAnNoFdkgRv2cv6LcCDQo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKM1MwaFFTRkZWYkdwSWIwUldWelkyT0RORU5GRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Paid a visit recently after walking past and then searching it up on Instagram. We ended up ordering 5 items (pictured) and the bill came to around £48 for 5 items between 2, which I would say isn’t too bad considering the state of London prices atm (diabolical btw)\n\nPersonally, the only star of the show was the Soft-Shell Crab. I found both of the noodle dishes rather bland and one-dimensional, even with the addition of some of the condiments on the side table. Granted, the meat in both dishes were cooked quite well and weren’t dry or tough. Service was quick and super nice, our server was kind enough to tell us to keep an eye on our stuff as theft was apparently pretty common in that area. All in all, 3 stars as the food itself was quite underwhelming but the service was great and the ambiance/aesthetic of the shop is pretty cool."
+            },
+            "publishTime": "2025-10-02T20:21:27.269040732Z",
+            "rating": 3,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Paid a visit recently after walking past and then searching it up on Instagram. We ended up ordering 5 items (pictured) and the bill came to around £48 for 5 items between 2, which I would say isn’t too bad considering the state of London prices atm (diabolical btw)\n\nPersonally, the only star of the show was the Soft-Shell Crab. I found both of the noodle dishes rather bland and one-dimensional, even with the addition of some of the condiments on the side table. Granted, the meat in both dishes were cooked quite well and weren’t dry or tough. Service was quick and super nice, our server was kind enough to tell us to keep an eye on our stuff as theft was apparently pretty common in that area. All in all, 3 stars as the food itself was quite underwhelming but the service was great and the ambiance/aesthetic of the shop is pretty cool."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Oscar Bladh",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW5Qugd2iWhD_V0xUytvozDoQyEsZhZvtJtKtnLkTIiKI2TWp0=s128-c0x00000000-cc-rp-mo-ba2",
+                "uri": "https://www.google.com/maps/contrib/102457759769749620076/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21WMloxcHpNa0ZtUWpOcmNUZGpVM3ByTjAxSGFYYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WMloxcHpNa0ZtUWpOcmNUZGpVM3ByTjAxSGFYYxAB!2m1!1s0x487605da9c80c275:0xa0d02b7e82f67bf",
+            "name": "places/ChIJdcKAnNoFdkgRv2cv6LcCDQo/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WMloxcHpNa0ZtUWpOcmNUZGpVM3ByTjAxSGFYYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "If you’re looking for great Taiwanese street food this is definitely the place to dine. Great tasting food and quick service. This is not the place to have a romantic evening at your first date. But if you’re looking for great value for your money and a treat for your tastebuds then look no longer. Highly recommended!"
+            },
+            "publishTime": "2025-10-30T20:03:17.532141071Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "3 weeks ago",
+            "text": {
+                "languageCode": "en",
+                "text": "If you’re looking for great Taiwanese street food this is definitely the place to dine. Great tasting food and quick service. This is not the place to have a romantic evening at your first date. But if you’re looking for great value for your money and a treat for your tastebuds then look no longer. Highly recommended!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Lee Andrews",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKQbq0c1Nb5wuPHxpIS6u8EChKvSn65MVUIM13M2MNZ0X12IQ=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/108788967049641481551/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21neVluTkRUbFUyVDBwcldXVk5SV2RJZEVsUk9FRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21neVluTkRUbFUyVDBwcldXVk5SV2RJZEVsUk9FRRAB!2m1!1s0x487605da9c80c275:0xa0d02b7e82f67bf",
+            "name": "places/ChIJdcKAnNoFdkgRv2cv6LcCDQo/reviews/Ci9DQUlRQUNvZENodHljRjlvT21neVluTkRUbFUyVDBwcldXVk5SV2RJZEVsUk9FRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "A little gem off from the overpriced and over-busy Covent Garden streets. Gorgeous fiery beef noodles with broccoli and even more chillis - yum. Quick and friendly service, buzzy vibe. Highly recommend."
+            },
+            "publishTime": "2025-11-18T13:30:15.817980183Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "in the last week",
+            "text": {
+                "languageCode": "en",
+                "text": "A little gem off from the overpriced and over-busy Covent Garden streets. Gorgeous fiery beef noodles with broccoli and even more chillis - yum. Quick and friendly service, buzzy vibe. Highly recommend."
+            }
+        }
+    ],
+    "servesDessert": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "shortFormattedAddress": "80 Long Acre, London",
+    "takeout": true,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 305,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.5157700302915,
+            "longitude": -0.12101271970849796
+        },
+        "low": {
+            "latitude": 51.5130720697085,
+            "longitude": -0.123710680291502
+        }
+    },
+    "websiteUri": "http://www.kungfumama.co.uk/",
+    "timestamp": 1764064800
+}

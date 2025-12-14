@@ -1,0 +1,333 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "8",
+            "shortText": "8",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Newport Place",
+            "shortText": "Newport Pl",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "7JR",
+            "shortText": "7JR",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2H 7JP",
+            "shortText": "WC2H 7JP",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJs4GOh8sEdkgRRiBFZKMP8ZE",
+                "placeId": "ChIJs4GOh8sEdkgRRiBFZKMP8ZE"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Soho"
+                },
+                "name": "places/ChIJm39Ln9QEdkgR0l1-U8xXTuQ",
+                "placeId": "ChIJm39Ln9QEdkgR0l1-U8xXTuQ"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Q-Park Chinatown"
+                },
+                "name": "places/ChIJsZRhh80EdkgROJ00VxRNeak",
+                "placeId": "ChIJsZRhh80EdkgROJ00VxRNeak",
+                "straightLineDistanceMeters": 41.543392,
+                "travelDistanceMeters": 53.799324,
+                "types": [
+                    "establishment",
+                    "parking",
+                    "point_of_interest",
+                    "storage"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Vue Cinema London - West End (Leicester Square)"
+                },
+                "name": "places/ChIJQ5TwgGyue0gRhxMwO-iXTYU",
+                "placeId": "ChIJQ5TwgGyue0gRhxMwO-iXTYU",
+                "spatialRelationship": "BESIDE",
+                "straightLineDistanceMeters": 49.807724,
+                "travelDistanceMeters": 43.504856,
+                "types": [
+                    "establishment",
+                    "food",
+                    "movie_theater",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Palace Theatre"
+                },
+                "name": "places/ChIJYxVJmtIEdkgRSFNK6hLhPvQ",
+                "placeId": "ChIJYxVJmtIEdkgRSFNK6hLhPvQ",
+                "straightLineDistanceMeters": 136.14731,
+                "travelDistanceMeters": 158.20584,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Soho Fire Station"
+                },
+                "name": "places/ChIJf2FWiNIEdkgRG2VaMMbrq2c",
+                "placeId": "ChIJf2FWiNIEdkgRG2VaMMbrq2c",
+                "straightLineDistanceMeters": 82.13324,
+                "travelDistanceMeters": 125.90643,
+                "types": [
+                    "establishment",
+                    "fire_station",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Leicester Square"
+                },
+                "name": "places/ChIJVX1-GtIEdkgR1n_gGjHQZpI",
+                "placeId": "ChIJVX1-GtIEdkgR1n_gGjHQZpI",
+                "straightLineDistanceMeters": 183.15982,
+                "travelDistanceMeters": 163.98227,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Chicken House"
+    },
+    "formattedAddress": "8 Newport Pl, 7JR WC2H 7JP, UK",
+    "goodForWatchingSports": false,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x487605006a946c43:0x12c5f0f6d631ba11!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487605006a946c43:0x12c5f0f6d631ba11!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=1352752206040906257&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487605006a946c43:0x12c5f0f6d631ba11!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487605006a946c43:0x12c5f0f6d631ba11!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=1352752206040906257&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJQ2yUagAFdkgREbox1vbwxRI",
+    "liveMusic": false,
+    "location": {
+        "latitude": 51.511947899999996,
+        "longitude": -0.12947450000000002
+    },
+    "name": "places/ChIJQ2yUagAFdkgREbox1vbwxRI",
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "HY C",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVEozhH-3GH6KPUWs9QsapB1TO1qVro_vhEHvN5mmV3konuYq7f4Q=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/105197181305450172517"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBMB0GZJeeJYxWSIKQuT2jD&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBMB0GZJeeJYxWSIKQuT2jD!2e10!4m2!3m1!1s0x487605006a946c43:0x12c5f0f6d631ba11",
+            "heightPx": 4032,
+            "name": "places/ChIJQ2yUagAFdkgREbox1vbwxRI/photos/AZLasHpx8b9rNN7YHMBL8cvzzp5Ny_CExWHFhN45t5WaIu2euu_4ZjDnu9QxMmO1nyJ9nENaE7OqmRDwpbQ2anWVesh8CV6lpUWymy9ob4nlDMCdKbj2Tr38WQB-TTJPMaN-aSAJfIoKFp4h99SErgVToom4RI9uWPQizjByg3dCnOO1wWUDxTjDr97j8G-UozCjPnn5gF5RG27YpOsLIVyfsnqli76Yjjq49yprAhi2BRGwkVDNhUmqAv3r9mIR0k7fUul03lVNP0ayr2_Ba3DQyr8zah309Fi3USoCLaAdV2WtiNddUmhnAc1vZXL5YT84zySuUubOhJnFphoSkZuMj05uGqjZAEX9uUMwQ_2FmwRKtisLTZhf3zmvrvd7ioQWp8rE6eFGNDQYRum2470py6VdHKdMaCz-qxOhyTUWfcWq8Amcd-YWsEugNU5fs0Wb",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "HY C",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVEozhH-3GH6KPUWs9QsapB1TO1qVro_vhEHvN5mmV3konuYq7f4Q=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/105197181305450172517"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhACoJD58YlvVZib5InWhezs&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhACoJD58YlvVZib5InWhezs!2e10!4m2!3m1!1s0x487605006a946c43:0x12c5f0f6d631ba11",
+            "heightPx": 4032,
+            "name": "places/ChIJQ2yUagAFdkgREbox1vbwxRI/photos/AZLasHpszjp6F_T0CxXgPiD6eTrSuDihZD1INfR1fleHVNGB_lXV6znLfscrcu-xF8rGkl9J4pR_uP-MGXRbANBCzu-vrvPB4lbJyldmLhpU-4-ZDKjG4e1KPpyMzQI2ZGg9FxOsj0QxX_oSXjO6yEfRYPMHGg5jrF8TZvJD5Nw7hRpxk8uq-_VvgjbpOOJrsJIToWdX_LkZuuslDazmYkTr-3AZqF6STqfYiatOnxeEq58gq6yDasmeBoZu3EYEeEFAftfWa88M4vphF4eZ4bgncDVziM6LFhZjWV4hcgBt30520C6PUb8eAobbMh5djP-af8_zmYmCqwZOUdYw25sfcayfpBz8w8oy41DElmUcF21RpsiYWQZOf9pSeFsS70oynTUgPYnFZUQh7wpb5HYmdUgAPdRokz3Tcj2C_LTmahZI4aAp2RMU-pN7UaW30zvW",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "HY C",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVEozhH-3GH6KPUWs9QsapB1TO1qVro_vhEHvN5mmV3konuYq7f4Q=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/105197181305450172517"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAmXjo4R-p697V2eoJA838H&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAmXjo4R-p697V2eoJA838H!2e10!4m2!3m1!1s0x487605006a946c43:0x12c5f0f6d631ba11",
+            "heightPx": 4032,
+            "name": "places/ChIJQ2yUagAFdkgREbox1vbwxRI/photos/AZLasHrr-qal-jAVAcVQtka40cm7oTDiFE2lyi5s16SrmY5HMoPa-EjqcpwTZnVSz3RaCswQ6Y-b5wdvgUlx0yGeeBhDd-bBb8KY-BXyQ7Q2J2pfR54g-_TBjOeVcgjaY0MamFxUZew--l-nbVQj0yUifHNgudXVDiP97mx5e9qCv0zn4YfIbs3IWK6mUrEcvXjgoWPmm7KiTcw-Zi8CVu3XFzl2RnlTCSjPtlXnr0GQy7gNyGuBjusDVvIwwEY-yvzLo79GAtOdYV_paJ0VrqNNg3MK8Jp2yvG8rznczQ-kxGWj5TLyfUYpvBkhSJKG9iMfyk3lu4lc4T8BkQFxEs9ML3RG4iesiNyIRSCy4Yh-bSfJKS1Gpi9uEv3CXRbPhNf3Dz0v7urwsGjiYCg6TFhvw4IkWPGiNgRrDHzDS7WiRC6DdxZV-8OyBayizNS0ogHF",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "HY C",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVEozhH-3GH6KPUWs9QsapB1TO1qVro_vhEHvN5mmV3konuYq7f4Q=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/105197181305450172517"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCD7AKp7rTyCPEww6EeDjow&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCD7AKp7rTyCPEww6EeDjow!2e10!4m2!3m1!1s0x487605006a946c43:0x12c5f0f6d631ba11",
+            "heightPx": 4032,
+            "name": "places/ChIJQ2yUagAFdkgREbox1vbwxRI/photos/AZLasHo3hctMARFV-KJmcwC_LHElUvP1INKmRFeNeH-VeNy7ZL7gOJvP4tST52eoC68gwPKVI85tg0K3E1qsGGl5pbCksGQ9gGzZok0_HAYnnLZlehgWB4NM-fH4goaRU4oRHJtgHy80gujtRVXb3ptCRvOa5dM4cxql8ldCT48yqAmKB_B-CmzsaVIz_V5Ap_eY3cNDq8a2sPyjaTwaeSaefOLnuPWo8K6DBaQcvxIGr5IdX41fydFdWfalrDt0h88LOq-nsWVBa0smkePtxzu0V6V_O66467gT45ghA_fsbX_L6A55LwM1iEKWP-rjWXaBQqxRSkD1uzgmme4pBc8ArnK86Liqs-6GbjrUCjGP0Q3OuS08-T-uA1Eu57FzxS42gBktT_vx7pve5LkZQTrvAbmPkE_YwvFEPKbtyTCN5whLD_PVMIAxZHoHLKvEfCIT",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "HY C",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVEozhH-3GH6KPUWs9QsapB1TO1qVro_vhEHvN5mmV3konuYq7f4Q=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/105197181305450172517"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAMV7FvvkCONxkwCUcEC4xt&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAMV7FvvkCONxkwCUcEC4xt!2e10!4m2!3m1!1s0x487605006a946c43:0x12c5f0f6d631ba11",
+            "heightPx": 4032,
+            "name": "places/ChIJQ2yUagAFdkgREbox1vbwxRI/photos/AZLasHp358dSg6JQaArADrvjas3aZOAokqnmZpBQukHsmR_6DIbXjkMpEeAi9_SSGfGkfmN2cIv8iyutrDlXb5Gn8xdDF2RnTnB6zhiknQJS6FfMO1ZXpbgJ_Zov4FV5BimbI_z5uLPMQh1SB4Z_l6WDEuIXj9Z8_p0JufDp-5FydHfinbjj50nkAD0DVdwUzBtLWgevNrKE4iL5oE4ivNFAqRzy9v1mfxRErsCn2QAOt3I35xAdIhpPWGmNyRXn1vYzix7insGV4UcxtCLRRPAUo3_oeqwu-v7tSkRc94b1W1Ru4zvRu4ONpYbvUPjYYR1foICSV-Nt59JcagWGJzWulKJ0-Gf_ON1lvLbpemyqm2jQvlnsnuTZo-bV0IbYA14ZsK47KGWeb-cpjvm7vGdEzJXcmzxNwuTOw8yol0mFqmrWBCpZugnhW4hOQ7Bkkw",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "HY C",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVEozhH-3GH6KPUWs9QsapB1TO1qVro_vhEHvN5mmV3konuYq7f4Q=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/105197181305450172517"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAX4NXCLGQMcJIu2r8r6SvK&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAX4NXCLGQMcJIu2r8r6SvK!2e10!4m2!3m1!1s0x487605006a946c43:0x12c5f0f6d631ba11",
+            "heightPx": 4032,
+            "name": "places/ChIJQ2yUagAFdkgREbox1vbwxRI/photos/AZLasHoHj6l41pX4EuchssLIEnA6mhwHqzfXznse5cvyuSqRmfLtGyVvYxzQQnIKEZO8PFa9CNXkScwUw7pd4e2FssgKnc1wlK7E1cDbeIIavGE4SlW1y-1T-N7ROFoV-5yi8JCneqFOa6vvqF9hA8UAXRyamocgSdgQLjH4_7CXg2yT_EDhNiMW-eFdkaTnKAW7LP9dDxT-0yklUNyzS2xZprCAAzJcR7l5dccaYXi2w4EtFWSHfab0SmPomyXnSeU6VbV82GV1ol8xtJasaj0PX9rv6mU8IoPkhvDtR2vbHVYa4E8XS0qjfcP0rmjxx64RTq6PpQj2NM1GUadtr8zQLqHNYf0eXTSpgtzhWzjmJWPU2sBbxAzSx8Rb30X2aPgXksXQSWcJTdi62D5T8ToSjdhIh0iF-B8WdZjRryaM6NtQhXrsSRWUduhDzlTgxGGe",
+            "widthPx": 3024
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV6C+Q6 London, UK",
+        "globalCode": "9C3XGV6C+Q6"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "8 Newport Place"
+        ],
+        "languageCode": "en-US",
+        "locality": "7JR",
+        "postalCode": "WC2H 7JP",
+        "regionCode": "GB"
+    },
+    "primaryType": "asian_restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Asian Restaurant"
+    },
+    "servesDinner": true,
+    "servesLunch": true,
+    "shortFormattedAddress": "8 Newport Pl, 7JR",
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "asian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.513295630291495,
+            "longitude": -0.12814991970849798
+        },
+        "low": {
+            "latitude": 51.5105976697085,
+            "longitude": -0.13084788029150202
+        }
+    },
+    "timestamp": 1765447200
+}

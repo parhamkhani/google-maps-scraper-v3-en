@@ -1,0 +1,957 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": true
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "100",
+            "shortText": "100",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Strand",
+            "shortText": "Strand",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2R 0EZ",
+            "shortText": "WC2R 0EZ",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The Savoy"
+                },
+                "name": "places/ChIJqUbg0ssEdkgR8QSuJx1uIAs",
+                "placeId": "ChIJqUbg0ssEdkgR8QSuJx1uIAs"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJs4GOh8sEdkgRRiBFZKMP8ZE",
+                "placeId": "ChIJs4GOh8sEdkgRRiBFZKMP8ZE"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Strand Palace"
+                },
+                "name": "places/ChIJa7MYyssEdkgRW0GxGFyDvWw",
+                "placeId": "ChIJa7MYyssEdkgRW0GxGFyDvWw",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 52.68991,
+                "travelDistanceMeters": 57.847214,
+                "types": [
+                    "establishment",
+                    "lodging",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The Savoy"
+                },
+                "name": "places/ChIJTVquz8sEdkgRKdz7pP3v9BU",
+                "placeId": "ChIJTVquz8sEdkgRKdz7pP3v9BU",
+                "spatialRelationship": "WITHIN",
+                "straightLineDistanceMeters": 36.18121,
+                "travelDistanceMeters": 12.593236,
+                "types": [
+                    "establishment",
+                    "lodging",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Lyceum Theatre"
+                },
+                "name": "places/ChIJcXx0Uoms2EcR8Be43HHdy2U",
+                "placeId": "ChIJcXx0Uoms2EcR8Be43HHdy2U",
+                "straightLineDistanceMeters": 134.61728,
+                "travelDistanceMeters": 218.78322,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Vaudeville Theatre"
+                },
+                "name": "places/ChIJczPJ8csEdkgRedKpYe0M6Wc",
+                "placeId": "ChIJczPJ8csEdkgRedKpYe0M6Wc",
+                "straightLineDistanceMeters": 109.74145,
+                "travelDistanceMeters": 129.64792,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Savoy Street (Stop U)"
+                },
+                "name": "places/ChIJQx8-y8sEdkgRi6vGuNZkDgM",
+                "placeId": "ChIJQx8-y8sEdkgRi6vGuNZkDgM",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 42.320477,
+                "travelDistanceMeters": 64.71703,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "transit_station"
+                ]
+            }
+        ]
+    },
+    "allowsDogs": false,
+    "businessStatus": "OPERATIONAL",
+    "containingPlaces": [
+        {
+            "id": "ChIJTVquz8sEdkgRKdz7pP3v9BU",
+            "name": "places/ChIJTVquz8sEdkgRKdz7pP3v9BU"
+        }
+    ],
+    "curbsidePickup": false,
+    "currentOpeningHours": {
+        "nextOpenTime": "2025-12-11T12:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 14,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 14,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 15,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 15,
+                    "minute": 15
+                },
+                "open": {
+                    "date": {
+                        "day": 15,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 16,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 15,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 16,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 15,
+                    "minute": 15
+                },
+                "open": {
+                    "date": {
+                        "day": 16,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 17,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 16,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 17,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 15,
+                    "minute": 15
+                },
+                "open": {
+                    "date": {
+                        "day": 17,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 17,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 23,
+                    "minute": 59,
+                    "truncated": true
+                },
+                "open": {
+                    "date": {
+                        "day": 17,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 15,
+                    "minute": 15
+                },
+                "open": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 14,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 – 3:15 PM, 5:00 PM – 12:00 AM",
+            "Tuesday: 12:00 – 3:15 PM, 5:00 PM – 12:00 AM",
+            "Wednesday: 12:00 – 3:15 PM, 5:00 PM – 12:00 AM",
+            "Thursday: 12:00 – 3:15 PM, 5:00 PM – 12:00 AM",
+            "Friday: 12:00 PM – 12:00 AM",
+            "Saturday: 12:00 PM – 12:00 AM",
+            "Sunday: 12:00 – 11:30 PM"
+        ]
+    },
+    "delivery": false,
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Savoy Grill"
+    },
+    "editorialSummary": {
+        "languageCode": "en",
+        "text": "Gordon Ramsay's classic British and French menu with wine pairings in luxury Savoy Hotel restaurant."
+    },
+    "formattedAddress": "100 Strand, London WC2R 0EZ, UK",
+    "goodForChildren": false,
+    "goodForGroups": true,
+    "goodForWatchingSports": false,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x487604c926ff263f:0x17967b823b5eb47e!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487604c926ff263f:0x17967b823b5eb47e!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=1699681708650968190&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487604c926ff263f:0x17967b823b5eb47e!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487604c926ff263f:0x17967b823b5eb47e!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=1699681708650968190&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJPyb_JskEdkgRfrReO4J7lhc",
+    "internationalPhoneNumber": "+44 20 7592 1600",
+    "liveMusic": false,
+    "location": {
+        "latitude": 51.5106095,
+        "longitude": -0.12058020000000001
+    },
+    "menuForChildren": false,
+    "name": "places/ChIJPyb_JskEdkgRfrReO4J7lhc",
+    "nationalPhoneNumber": "020 7592 1600",
+    "outdoorSeating": false,
+    "parkingOptions": {
+        "freeGarageParking": false,
+        "freeParkingLot": false,
+        "freeStreetParking": false,
+        "paidGarageParking": true,
+        "paidParkingLot": false,
+        "paidStreetParking": false,
+        "valetParking": true
+    },
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Savoy Grill",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV_h-B7aG2029BTyNMnPLL5f0_gUNO9xgPQuFvuOoETBzoy-B0T=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/108118136964445363570"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipO2GK1KvwU-HPR0lPek_i0nUx0S5Qp6yhnkQuje&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO2GK1KvwU-HPR0lPek_i0nUx0S5Qp6yhnkQuje!2e10!4m2!3m1!1s0x487604c926ff263f:0x17967b823b5eb47e",
+            "heightPx": 2250,
+            "name": "places/ChIJPyb_JskEdkgRfrReO4J7lhc/photos/AZLasHqVsF1VfdToOKb0VoFz__IDQFNimLGT49aMe9KrvHT8zkQJcXmn_JWr7d60GcigyQ9KWnORHbp_hdIgPEbaROnjvf3KcnyYNeJaIfSNmoiJMmawVvw1JcafW_f0sMDNu8E3APQrsXpOHrUnm8zFNauCrGuzKFqu7wOSe3Hy4JKBwhrmXFQe-jnuVQZ14b3_jhyJK_rzvZHMHuutWswdfhd1tBnHRdTyJeTKuxFvfytRh7CKAOo2mZobEkQ0KagF7WfiV5H3KPteJL1ena62S_IcYx7BWcQRspCKxiZExzmagg",
+            "widthPx": 3000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Christian Dujour (LeSteveDuJour)",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVRyiK7ZIMnCUdkuOMvjstJOfF9gV-po4YwSKS_AbKAR0lH_00=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113715841871390512634"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAgd9ZkNtgBiws7htV3xzsM&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAgd9ZkNtgBiws7htV3xzsM!2e10!4m2!3m1!1s0x487604c926ff263f:0x17967b823b5eb47e",
+            "heightPx": 4800,
+            "name": "places/ChIJPyb_JskEdkgRfrReO4J7lhc/photos/AZLasHredZ7sZqPkeydxufQig67U6C7RqOeLUUdi3hx9U3_YwMm1oQGfofE5lt-q1yAknVHSy1hrSwIatip2RsH6IfBFKgCiDiYpMPWMxKuMkEALtiMBbtETHEVw2UBaqbSlK1cfAHckt07Qqx3odxUOlr-3eCWVzeAkUTltY2sa9UK2lrT-NrDnu2oclT8dqYC3qDIuPdVbbEBLRHwARqJLadrx-BmwlgbbanULnuJrCzXUGU6vxs5ZdGqg1LBAXyyx89C6f_DQbAjnadGSuJeboR7rB7pDYGSMID0DN5lWrBVreXerWezE2Jex_yvLGY_2b6HjPuMNEgmfNb0kcw89sAE9F6eD-wi8K0w8dFdvlSReYIw_MEz9VWTbINlpOkbwUHREyGBh8CoprPCKxqsOZsVwKcr4RkUWcNfmo1pKSF6vpvwDvQh96Fd0Iza_8jHs",
+            "widthPx": 3600
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Savoy Grill",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV_h-B7aG2029BTyNMnPLL5f0_gUNO9xgPQuFvuOoETBzoy-B0T=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/108118136964445363570"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPUepMl6F4_IH10cdLRp7til9U34PJ6AfmzgaVo&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPUepMl6F4_IH10cdLRp7til9U34PJ6AfmzgaVo!2e10!4m2!3m1!1s0x487604c926ff263f:0x17967b823b5eb47e",
+            "heightPx": 1331,
+            "name": "places/ChIJPyb_JskEdkgRfrReO4J7lhc/photos/AZLasHrEsSQGFTgtEO00Drmo6Ijl_p2siNvj0dbGR25-L1atGORkQIN-KyiEat9b1qNcvFowbRclFtu-qd-cviBjeejwN3GOj7XW4CPPjzXRBb9waXlwM1WlzP0sHw3OT_9DQrCjQ-8RHm53SdS5QZp6EI7k-kO9Ai3tTv2nq5UG3DvVpEdxLkMkvGhTUMhk0f1FgvzH10DJXwG6nNi3hFmW4akv1a2UJyis_799PbddjkQY0iWCcNyfGtijNbmXB_uwjolXGEEvPm32Tq_7Aia1BzPKkUklvhkKa0YDAKVFagQWcA",
+            "widthPx": 2000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Michael Clark",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW3qBdQEG3mF1QKzO3KrtjBw23glrYWF6rdo0n3gJ3vVK6vMmRU=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/112176151360671273165"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhA-j6BryDlkZrqOh3YtD7an&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhA-j6BryDlkZrqOh3YtD7an!2e10!4m2!3m1!1s0x487604c926ff263f:0x17967b823b5eb47e",
+            "heightPx": 1080,
+            "name": "places/ChIJPyb_JskEdkgRfrReO4J7lhc/photos/AZLasHoepOpvbCndo6TCswRrecc5LqdmtkAWb9OTdERw3Id1pE1i_4-HeLW9R4VYG0VYp4v2QhbgKkSm1iTb1kw-sebP38Hx1qNfAbOLTmxzaby-upNMDleohV09axL8r4VPxSlTpbPOGlzTwv8BKWMBBO-BMhNMuNNd1rCblFa1TPHiayvwXtpndrc3BOsO5HOgFGK2bO-zXzH5Se0bZdEdN_2DpOkl-aNFpyjEbbZ40qn7tCYricE4Wiee6S2QbY2OhX2VwHC_tto2oJKdNuRrA0lo1VsTK2sLBmKcR-WUk2NVjFvYIi9gO250ElnhBVpNP6s_lKQnuHAdnqSNBM0aoescmMm1F5W5Rl-w8Yzzzi_plcLk4FucFJBNq3U7hvxLWSh_qjcJm4eH3xrGRMSIqnI4HrQXU1EQ7-qTSYQUV4LHSPUuV52GvmqnrGeSZQ",
+            "widthPx": 1080
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Gil Diaz",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUtZ_fvn3-En-NkT6932k3wWHo6F5oQZPZxlhye1zIw4kwuTtoV=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110092981293945924276"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCpPvSEaUayzStpfJpOlvBw&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCpPvSEaUayzStpfJpOlvBw!2e10!4m2!3m1!1s0x487604c926ff263f:0x17967b823b5eb47e",
+            "heightPx": 3696,
+            "name": "places/ChIJPyb_JskEdkgRfrReO4J7lhc/photos/AZLasHpfZIEK3deXqcVABb81_IXzMJac9qMtNyg_BJc_2AQC3b6pFLZMF6U8_Gm8j8L7gRxumV2tphRDR70ixoaQ2_PVcUiSDISN92KcKly-F1o9AhL0SSystUZKUgRkteUysROw9V_oRGA8Spe9k_9J6zPbi6stOnMVcf-aEzhxbxL1CkPFiT_g0VPdAg0yjzBo_yzsrpY0P1ORXh-M73Fs7Wp9p_bmggfGmHS2hy_I6xKiUnjXaCgafowcrQgSUQwzT_JFdbsKF8QkGZeKh5Fbw62VQLeSjfE5KyqNSuQjz-g6ddFipqriT7IhyYjHwl0o0uZHw1HS-HomM6KvM7EqTe3oTDvyKjE-ldY1kINkdbEdpUfZQzX7WW3Xenz1BveobfgjG1ILrmyKPos_ZwVzOJfihmuesg28nnr7MlyPdsm5n3nGa3yuSpzrxGSeYurI",
+            "widthPx": 2772
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "CARL “Carl HOTD Tattoo Studio”",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUtZ5dE3OqJWAl2aFLv8HDL322O-DgIPoKicrbfjI1X-aEdZ2rZ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/107341776269508342314"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDfpfKFOQ&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDfpfKFOQ!2e10!4m2!3m1!1s0x487604c926ff263f:0x17967b823b5eb47e",
+            "heightPx": 4800,
+            "name": "places/ChIJPyb_JskEdkgRfrReO4J7lhc/photos/AZLasHq85wm-KTM9JaRmDPcpPbwiBk6eDQxpLHdLLXHS2aIYCaWU9yHLyKzAnc9aPm9WF0t5tkXyA7zNH9bmIxn0x1RmrHHfrfv2eE8pqYgt1yCo9RvYLScFu3msst2cfpKbzoqaxIukTGG7Uvst59YnBMTsSXT9zHwFw_EHUzMNWgzFFh4H_g8FS3L6C-VWOmG0H4tHNt7qVPLoaZs1ESNJtE4DmYG7p3kQMx5nQcKfQnubC0zrMHrWespEq7XO5WTdsVAg0D_oKfYHKnM2dLRxg2w5I15N_7qxKijznKdIzbcz0rMJV2N_6MQ9zSSkl_9W3zsu052K-o5U7prE2nygpfPgeC1752jD317wOANGJ0bCHtC6ML591Cub7Qun8yBw3WvSRMhjiXZBaQIZJR-6xoCpc0PwkSv0AxhNpjA2G0Wgww",
+            "widthPx": 3600
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "JJ",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIz1f9xbkHmy54Bz_DDkAHtqm4wuYEDrPksNvLMx-temgXpyg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/102525628730651289053"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCfq_feUq3k4xaXTfVK-vnZ&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCfq_feUq3k4xaXTfVK-vnZ!2e10!4m2!3m1!1s0x487604c926ff263f:0x17967b823b5eb47e",
+            "heightPx": 3072,
+            "name": "places/ChIJPyb_JskEdkgRfrReO4J7lhc/photos/AZLasHp6dNaLN4eo9QqgJvajy-KsBlugY-hMFtCxfH90oc6oRbe-piWoLR-BtwP4BB31ZAX2ARlSubdXxvWHKHgEl_GGKTTh00GX-dP0acy38CNQ4m-rP9qby4f5MhX3ODmS9WsLtgtmzCOlF-AYHcEoPULz18tvFls-xrVmDA0X6N7D48QN6zqkYIZcJJfKOJlgZvcdZWVAGBjRnDgGKqwSo9N1DlMEwn_uDu70B0DuPwXtXkS3_YlE6eXiRNa46vZdPaJc3Uw4Od46GW7xZUPRcwVHacOD5zcy7-l_FageHzew78EE4YQ381V7AP0umzC3uFUFJxYyHz0acKBRzT_xQrjRca3myz-yWijtYc5j31oNXj9RZsg2hHhMvB24ur-q1jfBC59z8xdOAaPo6aXh0OPKmWnt4NcIPvYrGBb2QBl46VBdTFayNyi6uPJeO_y3",
+            "widthPx": 4080
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "matthew vanzoelen",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIK24o1HUNeGNPLhRs24Urb-l-6FAJY3gh7mgmFlgs6il3y6Q=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/116129795632863287726"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCw8sy5RQ&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCw8sy5RQ!2e10!4m2!3m1!1s0x487604c926ff263f:0x17967b823b5eb47e",
+            "heightPx": 3000,
+            "name": "places/ChIJPyb_JskEdkgRfrReO4J7lhc/photos/AZLasHrTn8HDiYbfNMrVRUWQcNjT0mCs6Mz7pNhPgKF7KnxoyCDvMesFqkLD3iy6HWKh0n45sdgV3MDdsquytFThrCetyzdGb71x4yWVjur0HkNhMnlMI4sgoe5i5Xj_bvsHkBQ-R9GbUSG3zVbTICIWHaMmacnpMA7629TyRJurqpE-6o-_9_AR_y6zGjXEbNhk4UJ4rpepF3TWZRklf3u2hohZ9-Ka4EKGKis5CH_lmTmZXmR_hdACvr-KbFKmCU2GzzzGQvX-Vldv1rKiawjSK4lQNiZ48pMQaKLowK5sk1vlVIqxawXprPpJLfcV8_7_j6U2KE4SmNE1Sm514_o4oaEa-4qltAlnw3dkNPfSmEcHotDm27BNm0G0UrCbGLq_1FZKugZlT7R6hfa3IPJqXvBq4MfNUeG9uBTHMtBrANo",
+            "widthPx": 4000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Zamo",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWtxpOJ8AP6Y5Y6WmcNUqeNehQ19DEz2FBvI49CvxwQLmjmFE16=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/106200331514360963680"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCA64jEggE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCA64jEggE!2e10!4m2!3m1!1s0x487604c926ff263f:0x17967b823b5eb47e",
+            "heightPx": 3600,
+            "name": "places/ChIJPyb_JskEdkgRfrReO4J7lhc/photos/AZLasHooo1eyEvUhed6YZRQVUdgHBuN385I9leLZZyMvyl9VNNf0KjCY1AnOJxPSnHJqtdz-Awtci3YsPGVTM_PRNi0b5Q5JtA-4jDyOCBHYzVim4GItpeUak-zhtN6jsX82T0Y8f0dYEF05dfWMhQqL6OV_4Nh0ZXaCQWKAoQKEPaQVbfLwu9kRiUDMsoYMWCZRbr2FoZh_964JdM_qrN9OhAC0oFaXJuBleuNSlYey37BV0kovLS1MfbquyyUkEZoJAhq5AAsesS3POWbYgI7ti_cG4eNyS9jXumUaGzaeA-fTqtEANVafbmDlidNp_Np5Z9ZLzIHjWWwPhEV2UzyrhHCMK65EFtilf0oAiKuX-M6a9YwNdqykk5j4wSWxoYVYEktMXwoy14g2cdbQuHwGzgYR5lMrlKNsxoq4IJCkUB35Uhhr",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Savoy Grill",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV_h-B7aG2029BTyNMnPLL5f0_gUNO9xgPQuFvuOoETBzoy-B0T=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/108118136964445363570"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMlSiKib7Ng3EFJjQcDHb3mlykfzDiTaPoaBV48&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMlSiKib7Ng3EFJjQcDHb3mlykfzDiTaPoaBV48!2e10!4m2!3m1!1s0x487604c926ff263f:0x17967b823b5eb47e",
+            "heightPx": 1331,
+            "name": "places/ChIJPyb_JskEdkgRfrReO4J7lhc/photos/AZLasHrKobUAvePvyaq_oi3PjAUpvBOAKdFT6F42-2K6Weey6eZHsam-Eb76PHdXb7kouYPGZsI6P-a1Wc32DsOALwEd4TiTEo36UZUN8psSf13bqfre-aoAxzmQ4JQ8exzj5BfxQ5sK4HRa-_IPcvMiCKrLIcYp1WDMK5GZfw3NSfzmj4wL9oMeXh8UNkl6ldEe7czKNIDMKls4UUHpKMHXyB_RcMicRf_4BHa-9och_v5BSiTT6bdCoJuBhvk4ZrUPHIGVT8KESl6beB-1BL_r_sOs5s-xluaE5KGOyg5yWZ2uZg",
+            "widthPx": 2000
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV6H+6Q London, UK",
+        "globalCode": "9C3XGV6H+6Q"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "100 Strand"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2R 0EZ",
+        "regionCode": "GB"
+    },
+    "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
+    "priceRange": {
+        "startPrice": {
+            "currencyCode": "GBP",
+            "units": "100"
+        }
+    },
+    "primaryType": "restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Restaurant"
+    },
+    "rating": 4.4,
+    "regularOpeningHours": {
+        "nextOpenTime": "2025-12-11T12:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 15,
+                    "minute": 15
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 15,
+                    "minute": 15
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 15,
+                    "minute": 15
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 15,
+                    "minute": 15
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 – 3:15 PM, 5:00 PM – 12:00 AM",
+            "Tuesday: 12:00 – 3:15 PM, 5:00 PM – 12:00 AM",
+            "Wednesday: 12:00 – 3:15 PM, 5:00 PM – 12:00 AM",
+            "Thursday: 12:00 – 3:15 PM, 5:00 PM – 12:00 AM",
+            "Friday: 12:00 PM – 12:00 AM",
+            "Saturday: 12:00 PM – 12:00 AM",
+            "Sunday: 12:00 – 11:30 PM"
+        ]
+    },
+    "reservable": true,
+    "restroom": true,
+    "reviewSummary": {
+        "disclosureText": {
+            "languageCode": "en-US",
+            "text": "Summarized with Gemini"
+        },
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=5%401:CAIQACodChtyc19oOnlQeHpEQ0U5VzlMNGxhbmQ4blpvU2c%7CCAIQACorChtyc19oOnlQeHpEQ0U5VzlMNGxhbmQ4blpvU2cSDAjI187JBhDIsfTkAg&d=17924085&t=8",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487604c926ff263f:0x17967b823b5eb47e!9m1!1b1",
+        "text": {
+            "languageCode": "en-US",
+            "text": "People say this restaurant serves delicious beef Wellington and steak tartare. They also highlight the attentive service and beautiful atmosphere.\n\nOther reviews mention the portions can be small."
+        }
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Christian Dujour (LeSteveDuJour)",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVRyiK7ZIMnCUdkuOMvjstJOfF9gV-po4YwSKS_AbKAR0lH_00=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/113715841871390512634/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21kYWEzWTFhWE5qZW5Gdk9VdzJRbVZqVVd4ZlYyYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kYWEzWTFhWE5qZW5Gdk9VdzJRbVZqVVd4ZlYyYxAB!2m1!1s0x487604c926ff263f:0x17967b823b5eb47e",
+            "name": "places/ChIJPyb_JskEdkgRfrReO4J7lhc/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kYWEzWTFhWE5qZW5Gdk9VdzJRbVZqVVd4ZlYyYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Our experience at the Savoy Grill was delightful. The service and attention to detail were impeccable.  We were recommended the festive menu which was a great choice given our desire for oysters and beef Wellington. We skipped the wine pairing this time but it would likely enhance your meal for a special occasion.  Our neighbours were enjoying crepes flambé which smelled amazing.  If you’re dining à la carte I highly recommend trying these.\n\nIG LeSteveDuJour"
+            },
+            "publishTime": "2025-12-06T17:08:17.666873325Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "in the last week",
+            "text": {
+                "languageCode": "en",
+                "text": "Our experience at the Savoy Grill was delightful. The service and attention to detail were impeccable.  We were recommended the festive menu which was a great choice given our desire for oysters and beef Wellington. We skipped the wine pairing this time but it would likely enhance your meal for a special occasion.  Our neighbours were enjoying crepes flambé which smelled amazing.  If you’re dining à la carte I highly recommend trying these.\n\nIG LeSteveDuJour"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "M G",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKpfx05NGa4eCrWObsTHXQzH7URLcy4WjQ8oV2dsw0UdlY8ng=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/107827779486582445276/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tOak9FaGhVbHBJT0hac2IxSnlkVmhSYzFCWFJIYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOak9FaGhVbHBJT0hac2IxSnlkVmhSYzFCWFJIYxAB!2m1!1s0x487604c926ff263f:0x17967b823b5eb47e",
+            "name": "places/ChIJPyb_JskEdkgRfrReO4J7lhc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOak9FaGhVbHBJT0hac2IxSnlkVmhSYzFCWFJIYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "I've been waiting to try the British classic - Beef Wellington for quite some time now, but there were very few places offering this dish for single servings, which is precisely the reason why I chose this place. Wanted to try few more things and decided to go with the tasting menu. So to sum up my experience, I would say it was satisfactory! The preparation on every single course was carefully thought of and extremely well executed. Right from the canapé to the dessert. Still the flavours should have been more piquant or might I add...more diverse. Like for example - the Haddock Soufflé was one of the best prepared savoury version of the soufflé I've ever had but it lacked the finesse to be extraordinary; the Beef Wellington was top notch but taste-wise, it was quite flat; the final dessert, though delicious, was the usual. Great food, but lacking zesty flavours in my opinion. All in all, the food felt like it was one tone.\nThe service I would say, was good from some folks but not everybody...like just cracking a smile isn't that hard come on! I wanted to ask them to exclude gratuity, but also I did not want to penalize some other servers who were kind...so that's that. Food (minus the flavours) and for ok service...I'll rate 4 stars."
+            },
+            "publishTime": "2025-11-11T00:06:43.482300283Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "I've been waiting to try the British classic - Beef Wellington for quite some time now, but there were very few places offering this dish for single servings, which is precisely the reason why I chose this place. Wanted to try few more things and decided to go with the tasting menu. So to sum up my experience, I would say it was satisfactory! The preparation on every single course was carefully thought of and extremely well executed. Right from the canapé to the dessert. Still the flavours should have been more piquant or might I add...more diverse. Like for example - the Haddock Soufflé was one of the best prepared savoury version of the soufflé I've ever had but it lacked the finesse to be extraordinary; the Beef Wellington was top notch but taste-wise, it was quite flat; the final dessert, though delicious, was the usual. Great food, but lacking zesty flavours in my opinion. All in all, the food felt like it was one tone.\nThe service I would say, was good from some folks but not everybody...like just cracking a smile isn't that hard come on! I wanted to ask them to exclude gratuity, but also I did not want to penalize some other servers who were kind...so that's that. Food (minus the flavours) and for ok service...I'll rate 4 stars."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Andy Green",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV5cyzYJxCo1iPmNIviX8gtmPWE2nxXiVBPBWreFeoSWgUNEAxx=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/101843391072619027082/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205Q1FVOHhSbkZ6VHpBeFJUUnFPWFZHY210ek5VRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205Q1FVOHhSbkZ6VHpBeFJUUnFPWFZHY210ek5VRRAB!2m1!1s0x487604c926ff263f:0x17967b823b5eb47e",
+            "name": "places/ChIJPyb_JskEdkgRfrReO4J7lhc/reviews/Ci9DQUlRQUNvZENodHljRjlvT205Q1FVOHhSbkZ6VHpBeFJUUnFPWFZHY210ek5VRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Dining at Gordon Ramsay’s Savoy Grill is nothing short of an exceptional experience — a seamless blend of timeless elegance and world-class cuisine. The set three-course menu perfectly showcases the kitchen’s artistry and precision.\n\nThe steak tartare starter was a triumph of texture and balance — beautifully seasoned, with just the right bite and a richness that lingered without overpowering. The Atlantic cod was delicately cooked, perfectly flaky, and paired with refined accompaniments that elevated every mouthful. The beef Wellington, however, was the undeniable showstopper — tender, melt-in-the-mouth beef wrapped in golden pastry perfection, exactly as you’d hope from Ramsay’s signature dish.\n\nTo finish, the orange torte offered a vibrant finale — light yet indulgent, with a citrus brightness that cut through the richness of the meal and left the palate refreshed.\n\nFrom start to finish, every course was meticulously executed and full of flavour. Combined with impeccable service and the timeless charm of the Savoy, this is fine dining at its best — a must-visit for anyone seeking the true Gordon Ramsay experience.\n\nThe service at the Savoy Grill was nothing short of outstanding. From the moment we arrived, the staff exuded warmth, professionalism, and genuine attentiveness. Every detail was handled with quiet precision — water glasses were never left empty, courses arrived with perfect timing, and each dish was introduced with passion and knowledge. The waiters were polished yet personable, effortlessly striking the balance between formality and friendliness. Their anticipation of our needs made the entire experience feel seamless and special. It’s clear that the front-of-house team takes immense pride in delivering a truly five-star dining experience — a level of service that perfectly complements the exceptional food and setting."
+            },
+            "publishTime": "2025-10-31T21:02:25.593439776Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Dining at Gordon Ramsay’s Savoy Grill is nothing short of an exceptional experience — a seamless blend of timeless elegance and world-class cuisine. The set three-course menu perfectly showcases the kitchen’s artistry and precision.\n\nThe steak tartare starter was a triumph of texture and balance — beautifully seasoned, with just the right bite and a richness that lingered without overpowering. The Atlantic cod was delicately cooked, perfectly flaky, and paired with refined accompaniments that elevated every mouthful. The beef Wellington, however, was the undeniable showstopper — tender, melt-in-the-mouth beef wrapped in golden pastry perfection, exactly as you’d hope from Ramsay’s signature dish.\n\nTo finish, the orange torte offered a vibrant finale — light yet indulgent, with a citrus brightness that cut through the richness of the meal and left the palate refreshed.\n\nFrom start to finish, every course was meticulously executed and full of flavour. Combined with impeccable service and the timeless charm of the Savoy, this is fine dining at its best — a must-visit for anyone seeking the true Gordon Ramsay experience.\n\nThe service at the Savoy Grill was nothing short of outstanding. From the moment we arrived, the staff exuded warmth, professionalism, and genuine attentiveness. Every detail was handled with quiet precision — water glasses were never left empty, courses arrived with perfect timing, and each dish was introduced with passion and knowledge. The waiters were polished yet personable, effortlessly striking the balance between formality and friendliness. Their anticipation of our needs made the entire experience feel seamless and special. It’s clear that the front-of-house team takes immense pride in delivering a truly five-star dining experience — a level of service that perfectly complements the exceptional food and setting."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Lisa Schnettler",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUYEuRL-T5qfpPSu6smmQydzFnClID7cGKmnMuYn0jQYs-8Kp-pTw=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/103961314293516886690/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKSk9EZHFOVEUxVjFGWlNWbDVNV0k0T0ZWZlQyYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKSk9EZHFOVEUxVjFGWlNWbDVNV0k0T0ZWZlQyYxAB!2m1!1s0x487604c926ff263f:0x17967b823b5eb47e",
+            "name": "places/ChIJPyb_JskEdkgRfrReO4J7lhc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKSk9EZHFOVEUxVjFGWlNWbDVNV0k0T0ZWZlQyYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "I opted for the Kitchen Table experience for my husband's birthday dinner. To be honest, I wasn't sure what to expect. They went above and beyond to exceed any and all expectations. I had made them aware of some dietary restrictions of members of our party. They took them seriously and made thoughtful choices that were a resounding success. I felt compelled to photograph every dish because they were so beautiful. And then...they were all delicious, too! (We left fully sated to say the least) Each portion was perfect. The timing for serving each course was perfect. (Enough time to digest and breathe a bit but not so long that we ever thought \"did they forget about us?\") Each chef gave a wonderful description of each course so we really understood each one. I cannot recommend it strongly enough."
+            },
+            "publishTime": "2025-08-11T22:54:45.687180856Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "4 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "I opted for the Kitchen Table experience for my husband's birthday dinner. To be honest, I wasn't sure what to expect. They went above and beyond to exceed any and all expectations. I had made them aware of some dietary restrictions of members of our party. They took them seriously and made thoughtful choices that were a resounding success. I felt compelled to photograph every dish because they were so beautiful. And then...they were all delicious, too! (We left fully sated to say the least) Each portion was perfect. The timing for serving each course was perfect. (Enough time to digest and breathe a bit but not so long that we ever thought \"did they forget about us?\") Each chef gave a wonderful description of each course so we really understood each one. I cannot recommend it strongly enough."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Roger Hii",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX3r9N194MsCzx-RLNbMEeNpM8rHt1SHpKWwtEZQGT-IGX9gCmg=s128-c0x00000000-cc-rp-mo-ba2",
+                "uri": "https://www.google.com/maps/contrib/104821188324315091768/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xalpYVnVSVlZ2U2xOelQwb3dUVTQyZVVGSmIyYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xalpYVnVSVlZ2U2xOelQwb3dUVTQyZVVGSmIyYxAB!2m1!1s0x487604c926ff263f:0x17967b823b5eb47e",
+            "name": "places/ChIJPyb_JskEdkgRfrReO4J7lhc/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xalpYVnVSVlZ2U2xOelQwb3dUVTQyZVVGSmIyYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "I recently dined at this fine-dining restaurant and, unfortunately, left with significant disappointment. While the food was decent, the service fell far below the standards I would expect from a two-Michelin-star establishment, especially when compared to my previous experiences at Gordon Ramsay restaurants in Macau and Malaysia.\n\nFirstly, I acknowledge that it was my responsibility to note the two-hour table limit stated on the reservation page. However, the way the manager “reminded” us was uncomfortable and unprofessional. The reservation page is lengthy, and it is unreasonable to expect guests to thoroughly scroll through multiple conditions when they are simply trying to enjoy their visit. This could have been communicated politely after we were seated.\n\nUpon arrival, the receptionist was friendly, and we were excited for our meal. If the table was limited to two hours, the manager could have mentioned this politely after we were seated. Instead, there was no clear reminder throughout the meal, and only after we had completed our courses were we rushed to finish and asked to leave abruptly, which created an unpleasant and pressured atmosphere. If you would like to identify the manager I am referring to, he was the male manager in a formal dark suit who attended to our table between 7:00 PM and 8:00 PM on the date of our reservation. He did not introduce himself by name, but the timing and role should make it easy for your team to identify him.\n\nSecondly, we were served by two managers, yet we did not receive any introduction to the menu, whereas other tables clearly did. This inconsistency made us feel neglected and confused. During my previous Gordon Ramsay visits, a brief explanation of courses is standard and avoids unnecessary questions.\n\nThirdly, after we finished our main course, we mentioned that we were full and did not request dessert. Instead of checking whether we still wished to order, the dessert menu was placed on the table directly without any\nexplanation as well. Thankfully, one waiter approached politely and recommended an option, and we appreciated his professionalism enough to order one dessert to share.\n\nHowever, while we were still eating, the manager returned and asked, “Have you completed your meal?” When we nodded, the bill was immediately placed on the table without clarification or closing comments. This felt rushed and discourteous.\n\nLastly, as we took our time to finish the dessert, the manager repeatedly returned to ask whether we were finished, again stating, “I need this table right now.” While I understand turnover management, such behaviour in a fine-dining environment felt stressful, unwelcoming, and inappropriate. Even far more casual restaurants offer friendlier, more considerate service.\n\nTo summarise, the food was decent but the service, particularly from the manager mentioned above, was extremely disappointing and did not reflect the reputation associated with the Gordon Ramsay brand. I sincerely hope further training and internal review can be conducted to ensure other guests do not encounter similar treatment.\n\nThank you for taking the time to review this feedback. I look forward to hearing from your team regarding this matter, as I have already provided this feedback in person to one of the receptionists yesterday."
+            },
+            "publishTime": "2025-11-01T09:14:24.697121757Z",
+            "rating": 2,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "I recently dined at this fine-dining restaurant and, unfortunately, left with significant disappointment. While the food was decent, the service fell far below the standards I would expect from a two-Michelin-star establishment, especially when compared to my previous experiences at Gordon Ramsay restaurants in Macau and Malaysia.\n\nFirstly, I acknowledge that it was my responsibility to note the two-hour table limit stated on the reservation page. However, the way the manager “reminded” us was uncomfortable and unprofessional. The reservation page is lengthy, and it is unreasonable to expect guests to thoroughly scroll through multiple conditions when they are simply trying to enjoy their visit. This could have been communicated politely after we were seated.\n\nUpon arrival, the receptionist was friendly, and we were excited for our meal. If the table was limited to two hours, the manager could have mentioned this politely after we were seated. Instead, there was no clear reminder throughout the meal, and only after we had completed our courses were we rushed to finish and asked to leave abruptly, which created an unpleasant and pressured atmosphere. If you would like to identify the manager I am referring to, he was the male manager in a formal dark suit who attended to our table between 7:00 PM and 8:00 PM on the date of our reservation. He did not introduce himself by name, but the timing and role should make it easy for your team to identify him.\n\nSecondly, we were served by two managers, yet we did not receive any introduction to the menu, whereas other tables clearly did. This inconsistency made us feel neglected and confused. During my previous Gordon Ramsay visits, a brief explanation of courses is standard and avoids unnecessary questions.\n\nThirdly, after we finished our main course, we mentioned that we were full and did not request dessert. Instead of checking whether we still wished to order, the dessert menu was placed on the table directly without any\nexplanation as well. Thankfully, one waiter approached politely and recommended an option, and we appreciated his professionalism enough to order one dessert to share.\n\nHowever, while we were still eating, the manager returned and asked, “Have you completed your meal?” When we nodded, the bill was immediately placed on the table without clarification or closing comments. This felt rushed and discourteous.\n\nLastly, as we took our time to finish the dessert, the manager repeatedly returned to ask whether we were finished, again stating, “I need this table right now.” While I understand turnover management, such behaviour in a fine-dining environment felt stressful, unwelcoming, and inappropriate. Even far more casual restaurants offer friendlier, more considerate service.\n\nTo summarise, the food was decent but the service, particularly from the manager mentioned above, was extremely disappointing and did not reflect the reputation associated with the Gordon Ramsay brand. I sincerely hope further training and internal review can be conducted to ensure other guests do not encounter similar treatment.\n\nThank you for taking the time to review this feedback. I look forward to hearing from your team regarding this matter, as I have already provided this feedback in person to one of the receptionists yesterday."
+            }
+        }
+    ],
+    "servesBeer": true,
+    "servesBreakfast": true,
+    "servesBrunch": false,
+    "servesCocktails": true,
+    "servesCoffee": true,
+    "servesDessert": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "servesVegetarianFood": true,
+    "servesWine": true,
+    "shortFormattedAddress": "100 Strand, London",
+    "takeout": false,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 2936,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.511856130291505,
+            "longitude": -0.11936646970849799
+        },
+        "low": {
+            "latitude": 51.509158169708506,
+            "longitude": -0.12206443029150203
+        }
+    },
+    "websiteUri": "https://www.gordonramsayrestaurants.com/savoy-grill/?utm_source=gmb&utm_medium=uberall&utm_campaign=business_profile",
+    "timestamp": 1765447200
+}

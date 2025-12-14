@@ -1,0 +1,790 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleParking": false
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en",
+            "longText": "Seven Dials",
+            "shortText": "Seven Dials",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2H 9AT",
+            "shortText": "WC2H 9AT",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "St Martin's Courtyard"
+                },
+                "name": "places/ChIJ0YfiAc0EdkgRoKYIH7344ZA",
+                "placeId": "ChIJ0YfiAc0EdkgRoKYIH7344ZA"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJs4GOh8sEdkgRRiBFZKMP8ZE",
+                "placeId": "ChIJs4GOh8sEdkgRRiBFZKMP8ZE"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Dr. Martens - Neal Street"
+                },
+                "name": "places/ChIJ9S8lwMwEdkgRBHLhxbz2ovk",
+                "placeId": "ChIJ9S8lwMwEdkgRBHLhxbz2ovk",
+                "straightLineDistanceMeters": 81.44704,
+                "travelDistanceMeters": 76.67969,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "shoe_store",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "NBCUniversal"
+                },
+                "name": "places/ChIJv4f2tzIbdkgR9ockIRcTijo",
+                "placeId": "ChIJv4f2tzIbdkgR9ockIRcTijo",
+                "straightLineDistanceMeters": 263.4153,
+                "travelDistanceMeters": 317.54694,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Cambridge Theatre"
+                },
+                "name": "places/ChIJ059kIs0EdkgRAbuyqaAavxU",
+                "placeId": "ChIJ059kIs0EdkgRAbuyqaAavxU",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 51.032578,
+                "travelDistanceMeters": 62.836975,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "store",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJQR9pg8sEdkgRKeWNNYlDdPU",
+                "placeId": "ChIJQR9pg8sEdkgRKeWNNYlDdPU",
+                "straightLineDistanceMeters": 302.90625,
+                "travelDistanceMeters": 185.08324,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "shopping_mall"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The Mousetrap at St. Martin's Theatre"
+                },
+                "name": "places/ChIJ2dkqXs0EdkgRlVUsXtEbwsQ",
+                "placeId": "ChIJ2dkqXs0EdkgRlVUsXtEbwsQ",
+                "straightLineDistanceMeters": 158.49028,
+                "travelDistanceMeters": 217.39075,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "containingPlaces": [
+        {
+            "id": "ChIJD4dBYbgFdkgRv99UblXvkYw",
+            "name": "places/ChIJD4dBYbgFdkgRv99UblXvkYw"
+        }
+    ],
+    "currentOpeningHours": {
+        "nextOpenTime": "2025-12-11T12:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 14,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 20,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 14,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 15,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 15,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 16,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 16,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 17,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 17,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 11,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 – 10:00 PM",
+            "Tuesday: 12:00 – 10:00 PM",
+            "Wednesday: 12:00 – 10:00 PM",
+            "Thursday: 12:00 – 10:00 PM",
+            "Friday: 12:00 – 10:00 PM",
+            "Saturday: 11:00 AM – 10:00 PM",
+            "Sunday: 11:00 AM – 8:00 PM"
+        ]
+    },
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Yaay Yaay"
+    },
+    "formattedAddress": "Seven Dials, London WC2H 9AT, UK",
+    "goodForGroups": true,
+    "goodForWatchingSports": false,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x4876059ad7322e1b:0x21edfaed916cc9ad!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x4876059ad7322e1b:0x21edfaed916cc9ad!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=2444886070986066349&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x4876059ad7322e1b:0x21edfaed916cc9ad!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x4876059ad7322e1b:0x21edfaed916cc9ad!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=2444886070986066349&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJGy4y15oFdkgRrclske367SE",
+    "internationalPhoneNumber": "+44 7306 233962",
+    "liveMusic": false,
+    "location": {
+        "latitude": 51.5140463,
+        "longitude": -0.1259151
+    },
+    "menuForChildren": false,
+    "name": "places/ChIJGy4y15oFdkgRrclske367SE",
+    "nationalPhoneNumber": "07306 233962",
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Yaay Yaay",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKcNtyMSG49dakwxL0Vz769Dz2gfapOr6Bo8bT2g51dqq6u8Q=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/101349676407115512686"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNg7Lf3exJc1zzTm2EBSfH-SlnaLXDnXYrh9XBh&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNg7Lf3exJc1zzTm2EBSfH-SlnaLXDnXYrh9XBh!2e10!4m2!3m1!1s0x4876059ad7322e1b:0x21edfaed916cc9ad",
+            "heightPx": 1171,
+            "name": "places/ChIJGy4y15oFdkgRrclske367SE/photos/AZLasHpYaLsb2a0lu317wRP4RDrm_1XJuou0uxRztcYLApbabNFdXHdtPuzbOZLHmsqH4llLk85vF49KWtMhujZjh9bTHN9SSivPXvHXzIHQfcNm-dzLxPb-NhGAOYyXisLR7ywGEz8eht1491uByLfePfk-BSrNVWEC9hZmKANYLN0pjAryZ0w1cDp2noOpkhxz-f-VbJ0m2eZ0sv1X3W8mbdNB0cBTAY6gjl1Q2ghfQqLbpSOOFqL5Ra9kSvO5DFY5CTQ7Dp2kOGgdkMlXwJHccoTwjGCZclZUyap8Wvyvv3L41A",
+            "widthPx": 1080
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Yaay Yaay",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKcNtyMSG49dakwxL0Vz769Dz2gfapOr6Bo8bT2g51dqq6u8Q=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/101349676407115512686"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNeUv5gOV1GPaK0uAB4yPAUbTfaU60fxivJKPC3&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNeUv5gOV1GPaK0uAB4yPAUbTfaU60fxivJKPC3!2e10!4m2!3m1!1s0x4876059ad7322e1b:0x21edfaed916cc9ad",
+            "heightPx": 4032,
+            "name": "places/ChIJGy4y15oFdkgRrclske367SE/photos/AZLasHqiTufnm2mhqQiTv_ZjAaX9KFSIXxWB33RxZh8neorbsxIInczuy59KuxV1Fyp1IU2oStuZmTC3l7EIyQGvtmxdWpfjnoucf3w2GvvWuLUPEYSbk16bMF3vzdzr9R_JFnoxtvZzqJ-KIaI665d0pRY8WODgllX0RxWqCdcoqnAtqWyEVpfBLvf5Kuk0niWbkjvCLZM_HUbNEHWmyc5k2GwgSIygK0y612htxB55PLYQovSa73kF66s8yGp6qlOZ7P1sci5DiKMai-K_W09SQ30fEc2DtI4PUmAwBjO3BH4mag",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Sophie Pasquet",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXHRfjc_FuKbUVcJX0zTEczuap_U2qT_V6gbMFCfOned3SdeWFydA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/114469037989980383125"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAwIxsn0_pO01S_lMbWv3qs&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAwIxsn0_pO01S_lMbWv3qs!2e10!4m2!3m1!1s0x4876059ad7322e1b:0x21edfaed916cc9ad",
+            "heightPx": 4032,
+            "name": "places/ChIJGy4y15oFdkgRrclske367SE/photos/AZLasHpjGTppkGMjI-t_iU9d5Sho2dvDmbtAJxBhztdHMr_rhDmN6jrHNfMEIiT2fuLWtjNHP2qUH4LKQjrbNvSMMKz9UJGEbmBMZrP9u1Ly6uPM4srttmj7UC6sIPpQMH1f0Z9rQaRCpS93VhgQPntMSfsGkL928vghxtSNhf4ZDjcj0SYy1E9_O0LFMjOJ_YcIhVGWYs676kRCIy09Sb4YUimB6-4hFHXNMnPB2iv_mQ89YMsVGXgJe0QjeL4sWNvrGlth97gjcEdj1nwvWCCdYqYwqIA5ecx3cZgCUzWmqyblm6jSboE_ELyUvE_xG2HDatl74weXcoRhzX1zcWW5KsGdxCK9NmBeJZ41iG_2p84sbKS-lB_U9qKusQ5M-nVc6nqVr0VKDGyVw0VRBBTfhIDcs91n0e4LyZzui5Kr1cGAJv1Olnp3Qo2gupjJreby",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Gulja Park",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW3iRWOpmSHMOpEbuRtRpgyOC7dNIsJRA3maR9XolOurhMOb6dO=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/115772007634601316064"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBRaKKYHUu3UI5wTR8D6Rxj&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBRaKKYHUu3UI5wTR8D6Rxj!2e10!4m2!3m1!1s0x4876059ad7322e1b:0x21edfaed916cc9ad",
+            "heightPx": 2048,
+            "name": "places/ChIJGy4y15oFdkgRrclske367SE/photos/AZLasHpP2VSTa25-oTqOe4Oa0pmGHNkVIMMMaAvI8-muJdp4mPN8IM-JYJjzJr6JCdfpCQ0cA6d5vGFs24M5XQC0LKXW2kqZ3NuCNaqF9ZcHLjnKAshOPVh5ApM0jTUOqcg9BJjtmlt1GSYEMRuii4YncelUOt1A7jA7oau5erWvalhxE1FXmOFieEeCov5enOjS20nEMoti5-pWN8UbNQwjykjRcvLTQII-KTy80OXrA1QRvk2oz-1rnxPXJII5WHuTY_Q2hrkkMR3gfJ8E3XKhN2f8OEHGVKKP-MnBTYarhLFlYOgsbP7fIWImxEodSr-ZvhjKMAbKcISjqXEenT2HGm2OMsbRo1lIMDsNPJGZZLleeyvi1ZU9u01lotJSfQxPmJHuKZThDbfDWXTz-UeI5dbDbHEHe7QVV97NyDqvSD6fDILxJsfI-aR12xBhcpod",
+            "widthPx": 1536
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Sam Aberman",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWW8LD98tdvZGX2GSpZHvoTTtCKd8qb17YM2nQsTU6mmb_xz9uN7Q=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/111941996399252793572"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBQKOw1Kmoi0SOk5j-EW10e&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBQKOw1Kmoi0SOk5j-EW10e!2e10!4m2!3m1!1s0x4876059ad7322e1b:0x21edfaed916cc9ad",
+            "heightPx": 1289,
+            "name": "places/ChIJGy4y15oFdkgRrclske367SE/photos/AZLasHr6EVpTYUl4ji5N5aO0f7ZONjymQxnn_eNDlt_YfDEaWAtE0s4MkXjrJu1JRjTr-ODxdApa-ZZqaZvzhhQjuUUECIEv265lOhqeWhcZhwIZosKOj26XSzJOEswC7byLJ7KloGPGjAwfwo8U0FjBn5xGpptOQBK86T_L0pNQ9zSleoTS9_JQyBEeWEMbSr5C0iPw6reIC91jLvpidSWQDXy9B5TH51o9dM0OYEfm-4Xo7W2MD5uskZeOwIkzUxkgZU-MAJaBQAP5KUq90uweGtjJv1NRzpmSUFDkDkkPjY7GFqopf8GeaSoJFXLZdG2X7g-ucE_SiaqOXYEHre-QXJJs-h8WvbuV0rFGK1GkvWrrfw3B8uLdBX1SozJDXPHJ3539vBuHQj7PREnE8z2h9XMJ6f0lIqbZ3zCNr2v7lcpMtK2GvO20CT8RtjZGsnAL",
+            "widthPx": 1686
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "K H",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX91ZKF5j8eNPAK4_FN7VhVtV7fw3iiPJg905GbSaqOgovqkVXE=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/115112932513343947101"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKELnGvsivxLnk-AE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKELnGvsivxLnk-AE!2e10!4m2!3m1!1s0x4876059ad7322e1b:0x21edfaed916cc9ad",
+            "heightPx": 4032,
+            "name": "places/ChIJGy4y15oFdkgRrclske367SE/photos/AZLasHpKG7BsJjF8ffgO5KIQWjygYhZztR5-J4SY12IC1MgeCoFldUQV99lfbWI2sgrteQft495689IlGD58Th_jRod_9ag8W2YBR7NTiW7ZePOkarNmfMNy_wTF8aonH30AwMqbbeagudj0V6QI-iyzIlzcAWkK9zT_3ZKAlwni1jN9O9qcqDSorXJ5oAjuqTuB1coSb4a4xmaGth2zGXPv2dVc2tzgb6MqdmMjmy7QrMWrQE_J1DmE2IiQ3BXOvT5smEBW98zcDoMEfTzNxqugDOOIBQMYP68XJBaNFxF-BKLmP2Cm61aKsCruwjwgfyBx6TOQxQJ5zt7SoaXMjWwK6fWFi8dxkrePopsbRf0tJ6j5jgRydG5nyZiBQNgzMyEJyPZo83jsebMWerf93GakIpmgTMfsmruBFu70ZWwS-yITHrBO",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "B S",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJNWU0dltQ0tNlAivqJ1sgfkkOLrGYsrs5zWF9KgMS8nSNvQVyZ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/114906542929226649129"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICx0NHlaA&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICx0NHlaA!2e10!4m2!3m1!1s0x4876059ad7322e1b:0x21edfaed916cc9ad",
+            "heightPx": 4000,
+            "name": "places/ChIJGy4y15oFdkgRrclske367SE/photos/AZLasHrzwoDDm8AJkAoJ50uDgrmtpPwoa7nDXrTbmWx2QB8sXxemdCgmEpxVdNGgW2NNI1Lg34JsLxeOpYAWUfTLtN_7uDEfPNWomG8B4p59hn2i86f0D5aiCgxcuFgBf0NzD3n3SbGqcP_H21Cuh0E1HMPKcTY9vC4Ut-NtQeTBbcGGheY-iuGcwolUiPq0kF1RyTImUP2oaltqjOW9CrIlC_oocGXtvJCx-kS4agmaw4Lb0cCzJoJ5vZqYcvbJ1nzK1eE4AXPkS9vSp8pafkD-lzvOfy8k593vIPKj8tX4kZTe_tQRwwRKVrPLAwj0r2O1HU21SeJP-cUfLd01rIkdpxWAK2Dr4I1p01q0cRH6bYOD_NTAW5ihZUUT4q1PSUBzQablnjglpKEyIOKFgL-B7OmuD_nZfUhs5FB22bTuZaijbg",
+            "widthPx": 3000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Jamie Hall",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWwE5veyKtV_NtBrHmUOg147Sd0yJLHTa_64ZRu-pw0BBnMDfB2dg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113095721156008116455"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDnHlGesLOXZo_YUgfDldUc&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDnHlGesLOXZo_YUgfDldUc!2e10!4m2!3m1!1s0x4876059ad7322e1b:0x21edfaed916cc9ad",
+            "heightPx": 3000,
+            "name": "places/ChIJGy4y15oFdkgRrclske367SE/photos/AZLasHr8OCFtWpI4gkKFlfKnpsUDqNWXQOmOWk5H3ylXqjesUwUSGSeZc5KJWkY9OIr0NYRes1HPW1TzAFG7hgJ0a2J3lV_Atu_0quNZ8OjgUUBYqiVAVWwBKJJ2RsL2fGQUDUTEyUhzineyNkCQXuHRpcrvwjBRAbu88iJFcLDTbmlu7lhnzmEUdCcxmsWk8c8_TRbop0v2bX_jR29XE1tE20T5-8vb9GouKfcJVshKJLLqJwfcbkduZ3_LcNSkjPIaDcq0TSARvvnv26hc0DeSV_Z1iBh0D8XOTMMNeKYoIDUNrdfxsb0HCFViNdFn3l37tQVmnTrIbTIZzcYvbqqELpzcpkDeMfjxIbq8tRyWw9Zz5d1fv5pKk8UKURMUDTmmtlFrT_-qUkdThIVpE2CjRFNBGk47LQNTxObVKBAaUEiF6nP_-7cOeOD5eEDitivK",
+            "widthPx": 4000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Feliz Pete",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXMPD8QR7NTLNMdqiOalGjMByBDItaFWRoOLqleZjFvlEWDrQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/109495682631813974571"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAD5IZkmrB5t4f23SsdK9NS&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAD5IZkmrB5t4f23SsdK9NS!2e10!4m2!3m1!1s0x4876059ad7322e1b:0x21edfaed916cc9ad",
+            "heightPx": 3024,
+            "name": "places/ChIJGy4y15oFdkgRrclske367SE/photos/AZLasHr7__HjoodMAULBPLl_Rz9RZUaeODZRXtSyDdocDYZGFh_ReFfXgVsIKo3r2xCejCgVzfBtzNhGftAUHscgTGClbHjHpMjvzlEcXIgzX7vLpWbRBbvh0s_xN2elHHp0flD9DQge1CVgdKYIjzGhF2sGUW8FQSvqWk-AQdXEvqLvQO9IICG7I9oSrA2V1ZyA6HISU6MFGlZXgj1SwhCh_mIO7QatlH-8uSp7baW5KnxTndSO-rxerTVwo2gUDUifyRUjtJXH9y3cYA6XaXEhrOuW4-ZP9KV0IC02MV_-cUa4ym8b_lecHI4cxDKnXs_CejgE5hEsHHKKYCHLTWxoyoybVgCvhK0ok9HR9LGx1lRkcsu84dQTKothhTgA-aTiv_4NbBqZuBfcC-Mixol6wPH0Ghvav6OTFT9wHOoF9ESTlYlmvAt19IxzJ9NVY5Zl",
+            "widthPx": 4032
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Monthon Inmanee",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXEWkYqhUF_dWUUPtUfyRI3z1-Hmqg8krbXOjOXYr2nN_YnKfk=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113536408598638883347"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEJbPm-yAscP0eg&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEJbPm-yAscP0eg!2e10!4m2!3m1!1s0x4876059ad7322e1b:0x21edfaed916cc9ad",
+            "heightPx": 4032,
+            "name": "places/ChIJGy4y15oFdkgRrclske367SE/photos/AZLasHoecySCHpYDrR-P0WYNQxoKquYMK9JYOAySfF3oltwJafh_xns2WfYUsAC-PmgrBLk9ijdMNuqtFUQMAHQolpXUlN0zoTyY6RvxpuliOOwAV8dE-2iUQ4cjMG4zVlLn5eFVaudKZl7CEccs7Kh9fd0Eo62jkH5DyWssHY_mJncooVbDvfeTLEzXDR1Xd4GT5afBlYJfx8A-g2JPWIY_obhSQMX0zp2TEw2QJcTTyAj6OZB7GZkBBzRwu-gsEvnQMLa-x0X_ML9U2ThXjfODk_aylo45QVOTMMFn_j6yRQ45fHQ1xyZIKnwyqRMgjeAoK5vGE47Vz-S5N-QstYxWPeT0ArADtAksZxaQ3HaMbSqcK7QUXWwh2ifulI9e9e5y5wgyWrK2zv7ptQPAkGwOXhX6GDVfHxYyYtZm_aSwt6utxA",
+            "widthPx": 3024
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV7F+JJ London, UK",
+        "globalCode": "9C3XGV7F+JJ"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "Seven Dials"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2H 9AT",
+        "regionCode": "GB"
+    },
+    "priceRange": {
+        "endPrice": {
+            "currencyCode": "GBP",
+            "units": "20"
+        },
+        "startPrice": {
+            "currencyCode": "GBP",
+            "units": "10"
+        }
+    },
+    "primaryType": "thai_restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Thai Restaurant"
+    },
+    "rating": 4,
+    "regularOpeningHours": {
+        "nextOpenTime": "2025-12-11T12:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 20,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 11,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 – 10:00 PM",
+            "Tuesday: 12:00 – 10:00 PM",
+            "Wednesday: 12:00 – 10:00 PM",
+            "Thursday: 12:00 – 10:00 PM",
+            "Friday: 12:00 – 10:00 PM",
+            "Saturday: 11:00 AM – 10:00 PM",
+            "Sunday: 11:00 AM – 8:00 PM"
+        ]
+    },
+    "restroom": true,
+    "reviewSummary": {
+        "disclosureText": {
+            "languageCode": "en-US",
+            "text": "Summarized with Gemini"
+        },
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=5%401:CAIQACodChtyc19oOnhUTGFQQXdjUXM3MWV1bXUzb043d3c%7CCAIQACorChtyc19oOnhUTGFQQXdjUXM3MWV1bXUzb043d3cSDAjt6LPJBhC32LzGAQ&d=17924085&t=8",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x4876059ad7322e1b:0x21edfaed916cc9ad!9m1!1b1",
+        "text": {
+            "languageCode": "en-US",
+            "text": "People say this Thai restaurant serves delicious Pad Thai, drunken noodles, and Massaman curry. They also highlight the friendly staff and reasonable prices.\n\nSome reviews mention the portions can be small."
+        }
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Cleric Preston",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU4VG2I3VnKj48ZiZtsk8mvU7ce2Wgtoe7mp5kUt5WqXXHpuG96=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/100982331515479606697/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGclNHVkVTRWhyYlVaUFJXTjNaelJ6UTJ0UFFuYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGclNHVkVTRWhyYlVaUFJXTjNaelJ6UTJ0UFFuYxAB!2m1!1s0x4876059ad7322e1b:0x21edfaed916cc9ad",
+            "name": "places/ChIJGy4y15oFdkgRrclske367SE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGclNHVkVTRWhyYlVaUFJXTjNaelJ6UTJ0UFFuYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "A exceptionally food outlet with a decent selection of food. One of the best Massaman currys I have sampled. Really good choice for good food at a reasonable price."
+            },
+            "publishTime": "2025-11-15T17:45:22.374119302Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "3 weeks ago",
+            "text": {
+                "languageCode": "en",
+                "text": "A exceptionally food outlet with a decent selection of food. One of the best Massaman currys I have sampled. Really good choice for good food at a reasonable price."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "K H",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX91ZKF5j8eNPAK4_FN7VhVtV7fw3iiPJg905GbSaqOgovqkVXE=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/115112932513343947101/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VLQ1NxZVNtbXRiV3BnRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VLQ1NxZVNtbXRiV3BnRRAB!2m1!1s0x4876059ad7322e1b:0x21edfaed916cc9ad",
+            "name": "places/ChIJGy4y15oFdkgRrclske367SE/reviews/ChdDSUhNMG9nS0VLQ1NxZVNtbXRiV3BnRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Lovely friendly staff, penang curry so much veg and rice and very flavoursome! Tofu in curry delicious. My partner loved his pad Thai. Very reasonably priced."
+            },
+            "publishTime": "2025-05-15T13:43:48.314515Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "6 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Lovely friendly staff, penang curry so much veg and rice and very flavoursome! Tofu in curry delicious. My partner loved his pad Thai. Very reasonably priced."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Jo L",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIpIsOq5ohRTMitEFLI77PhE6QHNNM-yhK2F9izF9JQ4tyyCg=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/116450666779467028832/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWM1ozQjFOWE5EWXpVeFRuVnRZMFpLVTNsR1ExRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWM1ozQjFOWE5EWXpVeFRuVnRZMFpLVTNsR1ExRRAB!2m1!1s0x4876059ad7322e1b:0x21edfaed916cc9ad",
+            "name": "places/ChIJGy4y15oFdkgRrclske367SE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWM1ozQjFOWE5EWXpVeFRuVnRZMFpLVTNsR1ExRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Delicious red curry with lots of veggies! The staff were friendly and also knowledgeable about gluten free diets."
+            },
+            "publishTime": "2025-06-26T03:42:32.066115080Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "5 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Delicious red curry with lots of veggies! The staff were friendly and also knowledgeable about gluten free diets."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Bhanu P",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJoeeYLyCaC7Dbg_ssw_AEZFqmJrmPamDSXBVIuaJdy7kUaR-8=s128-c0x00000000-cc-rp-mo-ba2",
+                "uri": "https://www.google.com/maps/contrib/107615571239074752182/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VMbWp4WnFhbU92eXVRRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VMbWp4WnFhbU92eXVRRRAB!2m1!1s0x4876059ad7322e1b:0x21edfaed916cc9ad",
+            "name": "places/ChIJGy4y15oFdkgRrclske367SE/reviews/ChdDSUhNMG9nS0VMbWp4WnFhbU92eXVRRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "I ordered the chicken Pad Thai, and it was hands down one of the worst I’ve ever had. The chicken was clearly not fresh—rubbery, pale, and visually unappealing. On top of that, the dish was far too sweet, it lacked the savoury, tangy punch you expect from a good Pad Thai. A real let-down, especially for a restaurant in such a central location. I won’t be coming back."
+            },
+            "publishTime": "2025-05-11T20:01:46.316104Z",
+            "rating": 1,
+            "relativePublishTimeDescription": "7 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "I ordered the chicken Pad Thai, and it was hands down one of the worst I’ve ever had. The chicken was clearly not fresh—rubbery, pale, and visually unappealing. On top of that, the dish was far too sweet, it lacked the savoury, tangy punch you expect from a good Pad Thai. A real let-down, especially for a restaurant in such a central location. I won’t be coming back."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Feliz Pete",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXMPD8QR7NTLNMdqiOalGjMByBDItaFWRoOLqleZjFvlEWDrQ=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/109495682631813974571/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xFd1pqUjVabkpsUnpaNmNUWnRlSFJTY0hKVFQwRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xFd1pqUjVabkpsUnpaNmNUWnRlSFJTY0hKVFQwRRAB!2m1!1s0x4876059ad7322e1b:0x21edfaed916cc9ad",
+            "name": "places/ChIJGy4y15oFdkgRrclske367SE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xFd1pqUjVabkpsUnpaNmNUWnRlSFJTY0hKVFQwRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "I ordered chefs special for lunch and I was not disappointed, it was very tasty and the portion was big. Good value for money."
+            },
+            "publishTime": "2025-08-20T03:07:04.968635536Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "3 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "I ordered chefs special for lunch and I was not disappointed, it was very tasty and the portion was big. Good value for money."
+            }
+        }
+    ],
+    "servesDessert": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "servesVegetarianFood": true,
+    "shortFormattedAddress": "Seven Dials Market, Seven Dials, London",
+    "takeout": true,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "thai_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 152,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.515298280291496,
+            "longitude": -0.12461341970849797
+        },
+        "low": {
+            "latitude": 51.512600319708504,
+            "longitude": -0.12731138029150202
+        }
+    },
+    "websiteUri": "https://www.yaayyaay.co.uk/",
+    "timestamp": 1765447200
+}

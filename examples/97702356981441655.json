@@ -1,0 +1,834 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleParking": false,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": true
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "9-12",
+            "shortText": "9-12",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Bow Street",
+            "shortText": "Bow St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2E 7AH",
+            "shortText": "WC2E 7AH",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJs4GOh8sEdkgRRiBFZKMP8ZE",
+                "placeId": "ChIJs4GOh8sEdkgRRiBFZKMP8ZE"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Holborn"
+                },
+                "name": "places/ChIJA7_adjUbdkgR_XPGaE3twAI",
+                "placeId": "ChIJA7_adjUbdkgR_XPGaE3twAI"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Royal Ballet and Opera"
+                },
+                "name": "places/ChIJySOgh8sEdkgRCBzTYt83Klg",
+                "placeId": "ChIJySOgh8sEdkgRCBzTYt83Klg",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 85.24676,
+                "travelDistanceMeters": 70.58675,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Masala Zone Covent Garden"
+                },
+                "name": "places/ChIJ40_ZncwEdkgRKYHPtm7wi28",
+                "placeId": "ChIJ40_ZncwEdkgRKYHPtm7wi28",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 29.383257,
+                "travelDistanceMeters": 55.227283,
+                "types": [
+                    "bar",
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Zizzi - Bow Street (Covent Garden)"
+                },
+                "name": "places/ChIJKe1bXcsEdkgRpy-Y-fxKxck",
+                "placeId": "ChIJKe1bXcsEdkgRpy-Y-fxKxck",
+                "spatialRelationship": "ACROSS_THE_ROAD",
+                "straightLineDistanceMeters": 16.244495,
+                "travelDistanceMeters": 7.4474945,
+                "types": [
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The Sun Tavern"
+                },
+                "name": "places/ChIJO29yW8sEdkgRYntt1mjVMyk",
+                "placeId": "ChIJO29yW8sEdkgRYntt1mjVMyk",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 46.039314,
+                "travelDistanceMeters": 69.637,
+                "types": [
+                    "bar",
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The Real Greek"
+                },
+                "name": "places/ChIJ4RPgn8wEdkgRicQv93efaZ0",
+                "placeId": "ChIJ4RPgn8wEdkgRicQv93efaZ0",
+                "spatialRelationship": "BESIDE",
+                "straightLineDistanceMeters": 30.877563,
+                "travelDistanceMeters": 23.898846,
+                "types": [
+                    "bar",
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            }
+        ]
+    },
+    "allowsDogs": false,
+    "businessStatus": "OPERATIONAL",
+    "containingPlaces": [
+        {
+            "id": "ChIJQR9pg8sEdkgRKeWNNYlDdPU",
+            "name": "places/ChIJQR9pg8sEdkgRKeWNNYlDdPU"
+        }
+    ],
+    "curbsidePickup": true,
+    "currentOpeningHours": {
+        "nextOpenTime": "2025-12-11T11:30:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 14,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 14,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 15,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 15,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 16,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 16,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 17,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 17,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 11,
+                    "minute": 30
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 11:30 AM – 9:00 PM",
+            "Tuesday: 11:30 AM – 9:00 PM",
+            "Wednesday: 11:30 AM – 9:00 PM",
+            "Thursday: 11:30 AM – 10:30 PM",
+            "Friday: 11:30 AM – 11:00 PM",
+            "Saturday: 11:30 AM – 11:00 PM",
+            "Sunday: 11:30 AM – 9:00 PM"
+        ]
+    },
+    "delivery": true,
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "PizzaExpress"
+    },
+    "editorialSummary": {
+        "languageCode": "en",
+        "text": "Chain pizzeria where chefs in striped t-shirts toss handmade pizzas in a relaxed space."
+    },
+    "formattedAddress": "9-12 Bow St, London WC2E 7AH, UK",
+    "goodForChildren": true,
+    "goodForGroups": true,
+    "goodForWatchingSports": false,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x487604cb67e68429:0x15b1bc6a998e477!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487604cb67e68429:0x15b1bc6a998e477!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=97702356981441655&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487604cb67e68429:0x15b1bc6a998e477!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487604cb67e68429:0x15b1bc6a998e477!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=97702356981441655&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJKYTmZ8sEdkgRd-SYqcYbWwE",
+    "internationalPhoneNumber": "+44 20 7240 3443",
+    "liveMusic": false,
+    "location": {
+        "latitude": 51.513620700000004,
+        "longitude": -0.12289610000000001
+    },
+    "menuForChildren": true,
+    "name": "places/ChIJKYTmZ8sEdkgRd-SYqcYbWwE",
+    "nationalPhoneNumber": "020 7240 3443",
+    "outdoorSeating": false,
+    "parkingOptions": {
+        "freeParkingLot": false,
+        "paidStreetParking": true
+    },
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "PizzaExpress",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX7QArRGUXIMO9AU9fjGU7IgiBr-nMllIyTm-_NHDYeO5JNYOQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/107095800113999753946"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOFQUH0H8cWuGiUftKLN7Y1x1jpAgmZu6POBlxN&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOFQUH0H8cWuGiUftKLN7Y1x1jpAgmZu6POBlxN!2e10!4m2!3m1!1s0x487604cb67e68429:0x15b1bc6a998e477",
+            "heightPx": 2448,
+            "name": "places/ChIJKYTmZ8sEdkgRd-SYqcYbWwE/photos/AZLasHqFERcpxSXFZtS_UcBOTisn_Jraguzh16oMRN1zJjbm41kvlX2fIicVTtEZLFCCcMZ_Gg_Oj6zaVlsFpvdh1qJ6GGotpdCv1rNrCB9aaZkRxBQDBkf6f55pfjnq3bLIj0CQ_Qf3dRIuism1bgWg-nPx5SrmGXk1OlfBHYZkk6PtqJ3YkuHV8pymKxiDy7RU2UCM4yCzyDIGJUl0J-7GkOAaeeLaKOahuUrKS84GCCpAfhnccUSBZr-_DCpMFP-oU9iDjig7bCoGXsnfOY6xAMEgg5efii1bECzW9573nzAMsg",
+            "widthPx": 3264
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "PizzaExpress",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX7QArRGUXIMO9AU9fjGU7IgiBr-nMllIyTm-_NHDYeO5JNYOQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/107095800113999753946"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOEKMvhQCTtyfwBMrpheBhRVzxnJIh-XQLl73Od&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOEKMvhQCTtyfwBMrpheBhRVzxnJIh-XQLl73Od!2e10!4m2!3m1!1s0x487604cb67e68429:0x15b1bc6a998e477",
+            "heightPx": 1000,
+            "name": "places/ChIJKYTmZ8sEdkgRd-SYqcYbWwE/photos/AZLasHrOnrcqXMbCTGD8rR-EmsKxk8OYHXLjdKo92E70Bl7OjXU1QEGcDpWSPVEwgFb2SKjp55Qpy8UMY2IiAFgA8dH_PUuxZF8cqXYLLmsZLlju-tbMQuDFR-WUI_uEvVbJnFS7QY6vaMLvlAQloDA1aSE3C5-9UrCOsmGgYGKuYXF_BiFOcfKlYcx6EPkARfPHXM58rwEn7JxGn47AGzF4Q6D2gyrcURCUlxW8QWUponlEOIICuswoiXqCs6volBrLQvh2ZlokPB6svauvRqcUQpME0_kbYVQW-1B8uzgRHjjiwg",
+            "widthPx": 1778
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "PizzaExpress",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX7QArRGUXIMO9AU9fjGU7IgiBr-nMllIyTm-_NHDYeO5JNYOQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/107095800113999753946"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPxVhC4kNWfjTflnYrmRfflSH1jwBaZMvjLo9TN&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPxVhC4kNWfjTflnYrmRfflSH1jwBaZMvjLo9TN!2e10!4m2!3m1!1s0x487604cb67e68429:0x15b1bc6a998e477",
+            "heightPx": 480,
+            "name": "places/ChIJKYTmZ8sEdkgRd-SYqcYbWwE/photos/AZLasHoko4esLzVmvNaRXlCutUPCV8dRUUkCzYe-UUpoezs1mPJxdyISPEsHpvoJ3X2q1yI5mAodOAq2J-CU9hbNsSe6NUe7AzLhgPKbSGaZlbqUATUPKGLAZ5QLjpNM6dT9XDyze8AnboohVVzeG0ajCNj-OwWGXq22W6AgMFdT-pI_t-3NKIf83u0K_zHTLdFCallUVJpmgAd2rQs4WZPtTBFERTE7UUh-Cb1Sr5bDtozHHZmA5OQ7u6cRCLd9ygk2Lo81K5fj0QD64AiD1x_FfkSqSBj9-a6TZV2T9AhXycuP3w",
+            "widthPx": 640
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "PizzaExpress",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX7QArRGUXIMO9AU9fjGU7IgiBr-nMllIyTm-_NHDYeO5JNYOQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/107095800113999753946"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipO-PqWGC5TLvdbMrzk38IdRaN-0aQReMXP2hmaQ&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO-PqWGC5TLvdbMrzk38IdRaN-0aQReMXP2hmaQ!2e10!4m2!3m1!1s0x487604cb67e68429:0x15b1bc6a998e477",
+            "heightPx": 480,
+            "name": "places/ChIJKYTmZ8sEdkgRd-SYqcYbWwE/photos/AZLasHqSSpTUUgv5Ug8lMyAUx5YcPbLucY0xWa5bgtLrVuY-ZNk7UDoQtg0ggP3S4IoxaihZlXF2-fJlzP8bVVSUbPqfYk9hj7_DZ5nPb8d-py4dxS1sXj5t8k9VXVxqe8Vm89IbLuOCA-ii2OdO08F5AWHUIYaWYiIEP_mcwCNlOCtEakLKObxld4qjWvnpKWAnmGhEGqmh-yvZL_6UKuHuP6xAxTFQy8DY--uFH6EwhTmtgM-Vnc_f5FgM6ArGkto58l3iwOPRuIQ3-TiGsOcQRmQcrMfy-ZEIUzMCeHtRISp_4A",
+            "widthPx": 640
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "PizzaExpress",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX7QArRGUXIMO9AU9fjGU7IgiBr-nMllIyTm-_NHDYeO5JNYOQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/107095800113999753946"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipO0VEAIISzXn5sz8aKvL_UWcXaazZl3btbKBvXi&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO0VEAIISzXn5sz8aKvL_UWcXaazZl3btbKBvXi!2e10!4m2!3m1!1s0x487604cb67e68429:0x15b1bc6a998e477",
+            "heightPx": 480,
+            "name": "places/ChIJKYTmZ8sEdkgRd-SYqcYbWwE/photos/AZLasHrNMcv6hOrHHWYKDz-miEotvo5Ks15ptU891QSQE1XQAf1CF9SGX7BWjBR_yDDdgyhBnPisG3ONepKAIwVvViSExBMYsXoZFsbEYTAEaYJnJ06frtGhrbqSmJlBqT6wwyOwiwEq-Rb7r87Xqf3ceTxAjPk1ZpEE8Dx5Fzkm5OhQB-vKMQjVmkHGnBsOIiHYDHoah5CBxV5xfZgCYQfWol3y2JgxhqDyjBPQpzcX_A8iERpABg4oiY3Hg9gWbn-1fHE3-aiRoTXMd6Q0g9ZgSuPx08euqrGEKZdnn52vQly9QA",
+            "widthPx": 640
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "PizzaExpress",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX7QArRGUXIMO9AU9fjGU7IgiBr-nMllIyTm-_NHDYeO5JNYOQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/107095800113999753946"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNrajO8Z7C27gfXkduD9ROBSSypjVvEolEYv8MX&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNrajO8Z7C27gfXkduD9ROBSSypjVvEolEYv8MX!2e10!4m2!3m1!1s0x487604cb67e68429:0x15b1bc6a998e477",
+            "heightPx": 384,
+            "name": "places/ChIJKYTmZ8sEdkgRd-SYqcYbWwE/photos/AZLasHoP5eG2QblpY1OqieMwJ71vyRWpjJmHhpT-ORlOFyPbliEmDVSAZvgJiLkh7Zrk5TO3wdr3UWj9Th8WyGBZHaoA856MkNy5Q7pbAGSiUk8OztJpwcKGa57IFOpQC3iV9v0yfKZnqwj72lNjjXIQJPzZ7SDV-Ihp6ykkB94M9CNrDfur6-IzYbB5OVIVkv6JPMSZebH4-KUSVm4yGZvUjAic9jp7TDCAnUIa27hF6jh7sHNSJzENAW2whAyxSzFlok4ddijdmYwcpLgFMAmhygc_iPThu5B0IXVt_VUcnp1GCQ",
+            "widthPx": 384
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Eduard Batlle",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXQ99xLvb6bs-1s9h3D9LfKle_LaSUXjpzCLWhEAutdO1CHGrvY=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113160806539899728568"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAXsp54UOT_D94vsEEZQeOW&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAXsp54UOT_D94vsEEZQeOW!2e10!4m2!3m1!1s0x487604cb67e68429:0x15b1bc6a998e477",
+            "heightPx": 1200,
+            "name": "places/ChIJKYTmZ8sEdkgRd-SYqcYbWwE/photos/AZLasHpxqf6zMmp_3UtmRQAHKJ_wx7q4uAPsU7B4hBbyg7N0PJNMFo_iuPBZG7XEKrD0IvNItdewAe0x8e90Q5_r2On0_Yw5ch-iL339PJgBO8K6vUCC_Ttx5leTEAKVl_agr7jMk41TfosdJsxOYS3QUtb_mwOUkfHRFfOQLRCSabGggZWU3s2o9p_x7fi_tHJ9_ohp7jaFtdWGwjJPdtyCzSrDgj0LPysohcIwbLRUqpD8u9P4fmnz3cpM-81sTBzVeobQRRgqxik2EJn5auvY2awT7ErRHnGpEMnrq3y_urWYGq8u8w-9wggW4BqoXfOwiewDRiIaVj8s_J7S_8vdBVPxS69IPfIemHBtq23rqn5HUKybKSqC22VqmqH1mEL9j1tsimAy3d2Ttb-GgtYYg3O0JPyaZ_a-nfASmgSeySndo2B7Elq0ljUiOEluwA",
+            "widthPx": 1600
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "PizzaExpress",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX7QArRGUXIMO9AU9fjGU7IgiBr-nMllIyTm-_NHDYeO5JNYOQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/107095800113999753946"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOZngJAwkPWZSuXI3s5gtpkyQnyLm7oMU1u8tPB&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOZngJAwkPWZSuXI3s5gtpkyQnyLm7oMU1u8tPB!2e10!4m2!3m1!1s0x487604cb67e68429:0x15b1bc6a998e477",
+            "heightPx": 480,
+            "name": "places/ChIJKYTmZ8sEdkgRd-SYqcYbWwE/photos/AZLasHrRIhPkDTCN5aGcpOzHoayLGHmQYAbjOcxtFklfEijfR0lWwOzv8BDYtx7JNfc0rXgPMKLY1QGNlTY-aXxYD5Pft8B0ReaPMw1Riwydg028yJylej23xywj3zQj95wypwdYbzz4PaCi16ZyRHH7lE_aCYNNkKsIQ7iwsZ0FxqEfdQEpOhkjyXQvXHXa5unVM36w5g4oO4M7OPbVBGe3EgkTLisN2TI90i9zyB8vx2qwum74K_78dfD2gfa6jQdVaEYDUTde6eusHJ0Ky1NOarv0PByCVr4sec46VzA2bepCVg",
+            "widthPx": 640
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "PizzaExpress",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX7QArRGUXIMO9AU9fjGU7IgiBr-nMllIyTm-_NHDYeO5JNYOQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/107095800113999753946"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPwIDlVx4wtNRqBmotdBFM8d6xp5DBrSvBbVfBm&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPwIDlVx4wtNRqBmotdBFM8d6xp5DBrSvBbVfBm!2e10!4m2!3m1!1s0x487604cb67e68429:0x15b1bc6a998e477",
+            "heightPx": 384,
+            "name": "places/ChIJKYTmZ8sEdkgRd-SYqcYbWwE/photos/AZLasHp0wMme-E-759cJtdqYpKbn3d7wjld23N3sEDYHiP4jVhc8b_orUeJcL9Op4pF96BHRYxFFlMXhXAeXRYmvVU-ZLIpv8IRI0kqADb0LBYItPGHKcbPVlgtGzU7KhoorVmen0gPCg-siPLpv_h3DOn0WXR7dYw4cyAWzp8q_gxlFe4JKErE-DggiqcYSyoA9rDM5WI7H0mFoMo8eazGeRaRbJU0iBENwGAGN3QWI6ZIh5aadLtUzoMvgf63G_z2E1gGVuA2jRLvMreljRCVqxA-YE-PwfSLKMLQKtV77nBSF0A",
+            "widthPx": 384
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "PizzaExpress",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX7QArRGUXIMO9AU9fjGU7IgiBr-nMllIyTm-_NHDYeO5JNYOQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/107095800113999753946"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNHCMEfrc3WwsWBm_9mGDCLTJEqlxMI9spt5uK_&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNHCMEfrc3WwsWBm_9mGDCLTJEqlxMI9spt5uK_!2e10!4m2!3m1!1s0x487604cb67e68429:0x15b1bc6a998e477",
+            "heightPx": 384,
+            "name": "places/ChIJKYTmZ8sEdkgRd-SYqcYbWwE/photos/AZLasHqCg7iLY_3d19f502beiXfG-quvOaj_8ovlx55MO4poOb9fDL0mJSJ7GBa2wWb0RucacHWaL0Q8oS0DZU10zvN3eAaV7D5djn2YC2VzzEPHA_sgVtwQ4Z5gRcOZoRPQvzK8aWbHc05YT4EsKWGUtJPJwWV6kizDpiyq-d7HxnLEmBwilDS1WJ3O-IJACmRjcLmIgeMIzQN-u1D77fTn5i65B2wW_rqi6Er8PA1kEMDEDsnhDeaeQK1ZUK-GBP3TkGIS38W_q7ICXsxMi2j0HnftxqHNePbTaZojNKgiu18Crw",
+            "widthPx": 384
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV7G+CR London, UK",
+        "globalCode": "9C3XGV7G+CR"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "9-12 Bow Street"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2E 7AH",
+        "regionCode": "GB"
+    },
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "priceRange": {
+        "endPrice": {
+            "currencyCode": "GBP",
+            "units": "30"
+        },
+        "startPrice": {
+            "currencyCode": "GBP",
+            "units": "10"
+        }
+    },
+    "primaryType": "pizza_restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Pizza Restaurant"
+    },
+    "rating": 4.2,
+    "regularOpeningHours": {
+        "nextOpenTime": "2025-12-11T11:30:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 11,
+                    "minute": 30
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 11:30 AM – 9:00 PM",
+            "Tuesday: 11:30 AM – 9:00 PM",
+            "Wednesday: 11:30 AM – 9:00 PM",
+            "Thursday: 11:30 AM – 10:30 PM",
+            "Friday: 11:30 AM – 11:00 PM",
+            "Saturday: 11:30 AM – 11:00 PM",
+            "Sunday: 11:30 AM – 9:00 PM"
+        ]
+    },
+    "reservable": true,
+    "restroom": true,
+    "reviewSummary": {
+        "disclosureText": {
+            "languageCode": "en-US",
+            "text": "Summarized with Gemini"
+        },
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=5%401:CAIQACodChtyc19oOmMzU2NZWHVLSFVYcGJObHFjblg4MlE%7CCAIQACorChtyc19oOmMzU2NZWHVLSFVYcGJObHFjblg4MlESDAi_2OfEBhD44ZHwAg&d=17924085&t=8",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487604cb67e68429:0x15b1bc6a998e477!9m1!1b1",
+        "text": {
+            "languageCode": "en-US",
+            "text": "People say this pizza restaurant serves delicious pizza. They also highlight the quick service and friendly, attentive staff.\n\nOther reviews mention the food can be cold."
+        }
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Karen Alexander",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXUoH58x2nuA_zE8sMOcpXC3R2wR3ll2Q62-EyMOzpdP_4seZow=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/117112810697730118817/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT201Q1pVODVWMnhqU2xscVlsQjZkVzlxVURaTFJuYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201Q1pVODVWMnhqU2xscVlsQjZkVzlxVURaTFJuYxAB!2m1!1s0x487604cb67e68429:0x15b1bc6a998e477",
+            "name": "places/ChIJKYTmZ8sEdkgRd-SYqcYbWwE/reviews/Ci9DQUlRQUNvZENodHljRjlvT201Q1pVODVWMnhqU2xscVlsQjZkVzlxVURaTFJuYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Tasty pizza, pasta and desserts. Good price and welcoming staff. Would recommend pre-booking a table during busy periods. Only one minor criticism; the tables are very close together and feel a little cramped."
+            },
+            "publishTime": "2025-11-29T21:21:18.475195218Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a week ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Tasty pizza, pasta and desserts. Good price and welcoming staff. Would recommend pre-booking a table during busy periods. Only one minor criticism; the tables are very close together and feel a little cramped."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "DIL",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJoLW_yAlFhG3DRdolf1YVH-JptXLJvZjUVpaauznpoeGedEA=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/100156312071492866800/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGUU1ESTRkRTFhT0hJNFJFOXBlRkozY25sZmVWRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGUU1ESTRkRTFhT0hJNFJFOXBlRkozY25sZmVWRRAB!2m1!1s0x487604cb67e68429:0x15b1bc6a998e477",
+            "name": "places/ChIJKYTmZ8sEdkgRd-SYqcYbWwE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGUU1ESTRkRTFhT0hJNFJFOXBlRkozY25sZmVWRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "We visited Pizza Express Bow Street on the 23/09/2025. Andrew, the manager, made us feel comfortable straight away with his warm smile and welcoming professional manner.\n\nWe stayed there a bit as we were catching up with my dear friend. The restaurant got very busy but the friendly, pleasant service continued throughout.\nThe team worked very collaboratively from chefs to the manager which was very impressive.\n\nThe food was delicious and the atmosphere was quite modern, elegant.\nWe will be definitely coming back. Thanks Andrew!"
+            },
+            "publishTime": "2025-09-23T19:05:24.780175995Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "We visited Pizza Express Bow Street on the 23/09/2025. Andrew, the manager, made us feel comfortable straight away with his warm smile and welcoming professional manner.\n\nWe stayed there a bit as we were catching up with my dear friend. The restaurant got very busy but the friendly, pleasant service continued throughout.\nThe team worked very collaboratively from chefs to the manager which was very impressive.\n\nThe food was delicious and the atmosphere was quite modern, elegant.\nWe will be definitely coming back. Thanks Andrew!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Sam Jarman",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLfRRF5BoodEPjgDOgeNY8hvaIqdcv2qMd-DVXmARAxoH051w=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/112106493554727514952/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t0c1lrYzNTRGg0V201aFZ6TmhUVFY2VTNwMmNGRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0c1lrYzNTRGg0V201aFZ6TmhUVFY2VTNwMmNGRRAB!2m1!1s0x487604cb67e68429:0x15b1bc6a998e477",
+            "name": "places/ChIJKYTmZ8sEdkgRd-SYqcYbWwE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0c1lrYzNTRGg0V201aFZ6TmhUVFY2VTNwMmNGRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Food was to a good standard.\nService was ok but not enough check ins and had to go and find someone to pay our bill. Long wait after being seated to be asked for drinks order (again we had to ask someone to serve us).\nToilets out of order with unpleasant smell and the coffee machine wasn't working.\nWe often have good experiences at other pizza express so maybe we just caught an off one."
+            },
+            "publishTime": "2025-10-20T21:41:20.317857213Z",
+            "rating": 3,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Food was to a good standard.\nService was ok but not enough check ins and had to go and find someone to pay our bill. Long wait after being seated to be asked for drinks order (again we had to ask someone to serve us).\nToilets out of order with unpleasant smell and the coffee machine wasn't working.\nWe often have good experiences at other pizza express so maybe we just caught an off one."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Juanette de Turris",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJBcD6WJXr-7egBj6fvW11jJDJSdzeChW2f3pV8BZ3ozmBTlw=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/108243098981513658946/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25WaVJtUm1jelUzUzNWUlIyZG9UVGxyZDE5Rk1tYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WaVJtUm1jelUzUzNWUlIyZG9UVGxyZDE5Rk1tYxAB!2m1!1s0x487604cb67e68429:0x15b1bc6a998e477",
+            "name": "places/ChIJKYTmZ8sEdkgRd-SYqcYbWwE/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WaVJtUm1jelUzUzNWUlIyZG9UVGxyZDE5Rk1tYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Kofi (I hope we ve spelt your name correctly) was THE MOST AMAZING WAITER. We were a large group (17) , with a mixture of ages ranging from 6-60, on a busy Sat night and he was polite, efficient and made sure we were all taken care of. Nothing was too much trouble, we re incredibly grateful that he made this annual family meal out such a good one. :)"
+            },
+            "publishTime": "2025-12-06T22:52:08.648320182Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "in the last week",
+            "text": {
+                "languageCode": "en",
+                "text": "Kofi (I hope we ve spelt your name correctly) was THE MOST AMAZING WAITER. We were a large group (17) , with a mixture of ages ranging from 6-60, on a busy Sat night and he was polite, efficient and made sure we were all taken care of. Nothing was too much trouble, we re incredibly grateful that he made this annual family meal out such a good one. :)"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Paige Goodwin",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKI8iInBKTgWv55WrIaSsNq1KmsnHRG3C4w7hSNSESJtPar5A=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/107079887184878487315/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25kdVFUQlpWR04wVXpsemMyTndiV3RETm5sVFQyYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25kdVFUQlpWR04wVXpsemMyTndiV3RETm5sVFQyYxAB!2m1!1s0x487604cb67e68429:0x15b1bc6a998e477",
+            "name": "places/ChIJKYTmZ8sEdkgRd-SYqcYbWwE/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kdVFUQlpWR04wVXpsemMyTndiV3RETm5sVFQyYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "The food was not good, had burnt dough balls, super bad hallumi sticks( sent them back) pizza burnt around edges also. When paying nearly £50 per person its not good. The only postive was a lovely older man who served us, he made me a lovely martini and couldn't do more for us, super friendly, he deserves to work somewhere better"
+            },
+            "publishTime": "2025-10-21T22:34:13.934107740Z",
+            "rating": 3,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "The food was not good, had burnt dough balls, super bad hallumi sticks( sent them back) pizza burnt around edges also. When paying nearly £50 per person its not good. The only postive was a lovely older man who served us, he made me a lovely martini and couldn't do more for us, super friendly, he deserves to work somewhere better"
+            }
+        }
+    ],
+    "servesBeer": true,
+    "servesBreakfast": false,
+    "servesBrunch": false,
+    "servesCocktails": false,
+    "servesCoffee": true,
+    "servesDessert": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "servesVegetarianFood": true,
+    "servesWine": true,
+    "shortFormattedAddress": "9-12 Bow St, London",
+    "takeout": true,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "pizza_restaurant",
+        "meal_takeaway",
+        "italian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 1399,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.51496468029149,
+            "longitude": -0.12146496970849799
+        },
+        "low": {
+            "latitude": 51.51226671970849,
+            "longitude": -0.12416293029150204
+        }
+    },
+    "websiteUri": "https://www.pizzaexpress.com/london-bow-street?utm_source=GMB&utm_medium=Website&utm_campaign=GMB-WEB-511",
+    "timestamp": 1765447200
+}

@@ -1,0 +1,991 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleParking": false,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": true
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en",
+            "longText": "Drury House",
+            "shortText": "Drury House",
+            "types": [
+                "premise"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "34-43",
+            "shortText": "34-43",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Russell Street",
+            "shortText": "Russell St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2B 5HA",
+            "shortText": "WC2B 5HA",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Holborn"
+                },
+                "name": "places/ChIJA7_adjUbdkgR_XPGaE3twAI",
+                "placeId": "ChIJA7_adjUbdkgR_XPGaE3twAI"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Parking lot"
+                },
+                "name": "places/ChIJmY5F2MoEdkgRoh5YIC8H1dg",
+                "placeId": "ChIJmY5F2MoEdkgRoh5YIC8H1dg"
+            },
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Drury Lane Gardens"
+                },
+                "name": "places/ChIJD3C_IcsEdkgR7XRXm6I_BQI",
+                "placeId": "ChIJD3C_IcsEdkgR7XRXm6I_BQI"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "St Clement Danes Church of England Primary School"
+                },
+                "name": "places/ChIJtVFJ6soEdkgRFa3NDt6VCiE",
+                "placeId": "ChIJtVFJ6soEdkgRFa3NDt6VCiE",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 68.67906,
+                "travelDistanceMeters": 56.86153,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "primary_school",
+                    "school"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Theatre Royal Drury Lane"
+                },
+                "name": "places/ChIJj91E_coEdkgRlUibJh13Jws",
+                "placeId": "ChIJj91E_coEdkgRlUibJh13Jws",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 90.93881,
+                "travelDistanceMeters": 133.10103,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "store",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Royal Ballet and Opera"
+                },
+                "name": "places/ChIJySOgh8sEdkgRCBzTYt83Klg",
+                "placeId": "ChIJySOgh8sEdkgRCBzTYt83Klg",
+                "straightLineDistanceMeters": 160.6066,
+                "travelDistanceMeters": 182.0426,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Sarastro"
+                },
+                "name": "places/ChIJZQpd3coEdkgRh5Xv5vO7lDg",
+                "placeId": "ChIJZQpd3coEdkgRh5Xv5vO7lDg",
+                "spatialRelationship": "ACROSS_THE_ROAD",
+                "straightLineDistanceMeters": 30.37016,
+                "travelDistanceMeters": 16.078495,
+                "types": [
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Aldwych Theatre"
+                },
+                "name": "places/ChIJO_T0j8oEdkgRfqYuoE3d6c4",
+                "placeId": "ChIJO_T0j8oEdkgRfqYuoE3d6c4",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 136.4118,
+                "travelDistanceMeters": 150.86877,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "containingPlaces": [
+        {
+            "id": "ChIJu2QxWIcFdkgREPqJwd7kp2M",
+            "name": "places/ChIJu2QxWIcFdkgREPqJwd7kp2M"
+        }
+    ],
+    "currentOpeningHours": {
+        "nextOpenTime": "2025-12-11T17:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 17,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 17,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 11,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 12,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 14,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 13,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 17,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: 5:00 – 11:00 PM",
+            "Thursday: 5:00 – 11:00 PM",
+            "Friday: 5:00 PM – 12:00 AM",
+            "Saturday: 5:00 PM – 12:00 AM",
+            "Sunday: Closed"
+        ]
+    },
+    "currentSecondaryOpeningHours": [
+        {
+            "nextCloseTime": "2025-12-11T11:00:00Z",
+            "openNow": true,
+            "periods": [
+                {
+                    "close": {
+                        "date": {
+                            "day": 14,
+                            "month": 12,
+                            "year": 2025
+                        },
+                        "day": 0,
+                        "hour": 11,
+                        "minute": 0
+                    },
+                    "open": {
+                        "date": {
+                            "day": 14,
+                            "month": 12,
+                            "year": 2025
+                        },
+                        "day": 0,
+                        "hour": 7,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 15,
+                            "month": 12,
+                            "year": 2025
+                        },
+                        "day": 1,
+                        "hour": 11,
+                        "minute": 0
+                    },
+                    "open": {
+                        "date": {
+                            "day": 15,
+                            "month": 12,
+                            "year": 2025
+                        },
+                        "day": 1,
+                        "hour": 7,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 16,
+                            "month": 12,
+                            "year": 2025
+                        },
+                        "day": 2,
+                        "hour": 11,
+                        "minute": 0
+                    },
+                    "open": {
+                        "date": {
+                            "day": 16,
+                            "month": 12,
+                            "year": 2025
+                        },
+                        "day": 2,
+                        "hour": 7,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 17,
+                            "month": 12,
+                            "year": 2025
+                        },
+                        "day": 3,
+                        "hour": 11,
+                        "minute": 0
+                    },
+                    "open": {
+                        "date": {
+                            "day": 17,
+                            "month": 12,
+                            "year": 2025
+                        },
+                        "day": 3,
+                        "hour": 7,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 11,
+                            "month": 12,
+                            "year": 2025
+                        },
+                        "day": 4,
+                        "hour": 11,
+                        "minute": 0
+                    },
+                    "open": {
+                        "date": {
+                            "day": 11,
+                            "month": 12,
+                            "year": 2025
+                        },
+                        "day": 4,
+                        "hour": 7,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 12,
+                            "month": 12,
+                            "year": 2025
+                        },
+                        "day": 5,
+                        "hour": 11,
+                        "minute": 0
+                    },
+                    "open": {
+                        "date": {
+                            "day": 12,
+                            "month": 12,
+                            "year": 2025
+                        },
+                        "day": 5,
+                        "hour": 7,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 13,
+                            "month": 12,
+                            "year": 2025
+                        },
+                        "day": 6,
+                        "hour": 11,
+                        "minute": 0
+                    },
+                    "open": {
+                        "date": {
+                            "day": 13,
+                            "month": 12,
+                            "year": 2025
+                        },
+                        "day": 6,
+                        "hour": 7,
+                        "minute": 0
+                    }
+                }
+            ],
+            "secondaryHoursType": "BREAKFAST",
+            "weekdayDescriptions": [
+                "Monday: 7:00 – 11:00 AM",
+                "Tuesday: 7:00 – 11:00 AM",
+                "Wednesday: 7:00 – 11:00 AM",
+                "Thursday: 7:00 – 11:00 AM",
+                "Friday: 7:00 – 11:00 AM",
+                "Saturday: 7:00 – 11:00 AM",
+                "Sunday: 7:00 – 11:00 AM"
+            ]
+        }
+    ],
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Penelope's"
+    },
+    "formattedAddress": "Drury House, 34-43 Russell St, London WC2B 5HA, UK",
+    "goodForChildren": false,
+    "goodForGroups": true,
+    "goodForWatchingSports": false,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x487604cb1e63099f:0x1442aa9c3ccce20c!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487604cb1e63099f:0x1442aa9c3ccce20c!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=1459916817233142284&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487604cb1e63099f:0x1442aa9c3ccce20c!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487604cb1e63099f:0x1442aa9c3ccce20c!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=1459916817233142284&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJnwljHssEdkgRDOLMPJyqQhQ",
+    "internationalPhoneNumber": "+44 7442 631181",
+    "location": {
+        "latitude": 51.5133529,
+        "longitude": -0.12051740000000001
+    },
+    "menuForChildren": false,
+    "name": "places/ChIJnwljHssEdkgRDOLMPJyqQhQ",
+    "nationalPhoneNumber": "07442 631181",
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Penelope's",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUsZIqa-UQJ9HMOzUohl7Z9s3wBDndqUXDS6GkDzLCTvF6eVHVz=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/102185018558561680015"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOEarBphkdyAvVF-hrvs8FhI2tLE7CP-K88qk-l&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOEarBphkdyAvVF-hrvs8FhI2tLE7CP-K88qk-l!2e10!4m2!3m1!1s0x487604cb1e63099f:0x1442aa9c3ccce20c",
+            "heightPx": 2251,
+            "name": "places/ChIJnwljHssEdkgRDOLMPJyqQhQ/photos/AZLasHrBbwT5tbAvnos_GBRvVKVkMo9CCE-FsjUYJ_WY3527sweeC8hoy927Wok2z-gmQUpm9YVvyKYWQBo7CgsBOe0aWoUfmUZQ6NUGw1Wgzjnl8HgRIsKBSOCRyH2JPwZr60Z1oqWFu3HwOPkcge_5ND3ClSTvtn18apjZrXIWO9_VAVhaJJIaSfjQyeKE0Ngvp8z-1CD3n0TRrOAStMZor1UeJwcFxEF_bBZxOEYX3W83z76nxeACfnlcM3Xinx_oQZwTyoJHeqi8kEj2ArwQ35r7cDw2X-YiR46LH7FG6CH4Rw",
+            "widthPx": 4000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Penelope's",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUsZIqa-UQJ9HMOzUohl7Z9s3wBDndqUXDS6GkDzLCTvF6eVHVz=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/102185018558561680015"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNeXq2t3x0CWt6mjfIVFU9n1GZt_NKX62_DUuBi&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNeXq2t3x0CWt6mjfIVFU9n1GZt_NKX62_DUuBi!2e10!4m2!3m1!1s0x487604cb1e63099f:0x1442aa9c3ccce20c",
+            "heightPx": 1281,
+            "name": "places/ChIJnwljHssEdkgRDOLMPJyqQhQ/photos/AZLasHpcbS3XAWwINYL3A_AMtXE0pWZxiyXyHWWVnnm9rwpOuIDpkgZUqA4UmXKqLhg77L07Wkpk0TziZk0XFKMIli5bOHr-kKRsQZpFYjmImuXOx-m6KRG0s52qOIFOuv1SSt2CkieHqOoRCqUuItUUzJMT5azblekAl0wOq8jptLLYoUZdnkZSVkYydwkqc9kJYApfKsKGhtGy4HNgYvKAH_iozcXDmuPHX0YmwYTOnBiSgtjYyG8yIn7ghmglKorGniZ9gkQKOSzaQkkt7gpnEwqUcjgC6j2cQoaCviDUVn5V2g",
+            "widthPx": 1920
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "J. M.",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU-89ulc7kqWOAGis6EbcXkEjHEwkzA3CLqo1Ov6hjdZ2NgPstt=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/105569375704772865470"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDIkLeVmgE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDIkLeVmgE!2e10!4m2!3m1!1s0x487604cb1e63099f:0x1442aa9c3ccce20c",
+            "heightPx": 4032,
+            "name": "places/ChIJnwljHssEdkgRDOLMPJyqQhQ/photos/AZLasHo9QFbuhf5-UH2P_0h8EJDevT0Pbr20VamZuKNPfVet-JMUZcjrXh9eF4CBBmC67m0NSCViX1g5aAbrDxaV5sTJ_CdgLnLwK1SMXngtZ7e4LaBqYxEWBcLEbosGoLP9JAZ83SbpxusjNIy7j2QI6JrbyjEHE4VcPSh_kEkGg0Bt-B-cgaqotUmEh9Awtlc2_qyK1R-_J3WigWnH8sKyB-3ryu8L02Q84cUpPoEJ8LxjD2kfQbCRhzO-alu9z4P6ePHU6LvUDuENj-ZFFSX1BRZPXb8UV2slX-VDAzyWrmcI07ED8tW90JVNZBpt7df9d8Pjh1FPUvAJ5a_MeXtk1Rcjsj39njqzcS52JJnbNW0UDCz5kanvBVzQ2TgFxkQVJMbUiqiwq7zZ7BQHUIj8TbBmcu9wg7DWBe6Qv_DJrYrtzHc",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Onur Sari",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKxZayujQPJzD5N6ZjtfuhuxItNZ40w6wy0P3pJ45Bg2Ki0qQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117485198212145127571"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDA8fy62QE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDA8fy62QE!2e10!4m2!3m1!1s0x487604cb1e63099f:0x1442aa9c3ccce20c",
+            "heightPx": 4032,
+            "name": "places/ChIJnwljHssEdkgRDOLMPJyqQhQ/photos/AZLasHpwplpuySGojFZZfdlenE5TS1i03p5wjFupfaR0-4eqpy_fGVfgOAWjyvaKwU5n4grg2tJzuXsFky1e_PXnWwlmW-Z_tYEkk1KvGt_CFkXzC4nzfJxzeNy5tV8C7SeAU1wwNytN6cB2tOcnyY0nx6ft7B-dndmD3f9qOTZVCTVP66ncGQRcHAZM5k_-x34palV6x8MGzDpz2lfRCQfzWYDQOz1igMfNBlL6BxSCwt6Oaw3__W4os13U6tV26BgAzGbPpn-uWIglNTy289FGKoDJ_Wji9GLVMuQBoq6HgHhUR2IvEktJG5mIqdoNt1fjT_A7Zr9za4FyflWdf8NK8wN7AKf6oCoWOamN6ZUbORHDPYyv0JhgfUmdCBK1h-v3yp61qvjUl5ryBIAChwKyhwTEN0laEMbD7RnNjYiBYjLpX_A",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Gezenti Anne",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWNUfH5RFYB874I16OOlP_ZKvTBDfD-t8xFW_T1PYmHQ1T0lyoe=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/115416199665067586518"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAYDYpO6FKRQAV2vMPjeQz_&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAYDYpO6FKRQAV2vMPjeQz_!2e10!4m2!3m1!1s0x487604cb1e63099f:0x1442aa9c3ccce20c",
+            "heightPx": 1872,
+            "name": "places/ChIJnwljHssEdkgRDOLMPJyqQhQ/photos/AZLasHp9TdzjOXCTZxtVlZWqZMobXvs18gBU8v8U96YHZY82fW-cToV_YrkEjmthtiUjUBJmMe1t9lUCWHAyvHy_vatUL-qbZpsy_HqH-8ekV_2aSYm9zOL3UbDV4Te4eGOyLTTo_-B1LwaYH-hXgxkQYsOTFpE1P3JqKK8KhR0Q-fTrZWE6P1P3u7q4K72MYtHPFx0KEuNGveRVl3IoCkgeacHtpaVlXxanboHmzjvfkmf1xLucY8Rja_t_H36ReT2V2_TvbfRnNP_Uo3KPVXvkvcITKbYPXwU036y5wq5EyOrZ-JJl1aLhe4VoXG3GLHTvF5qHuF3bPiCLogWCrD_x_oI3MjjlOWXz2dxmRaT5px7j-_VCAH12fAz3jCH3SCQk4S68Yk86IfZG3sU1ip2aCjXNNUuOntdNKLAxxDur0R3tS1bxIKVnMQsT_rT3Br2z",
+            "widthPx": 1080
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Penelope's",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUsZIqa-UQJ9HMOzUohl7Z9s3wBDndqUXDS6GkDzLCTvF6eVHVz=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/102185018558561680015"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMdXd2Tb1C2LHqxK8ecX2DzSSNHCxooTrH2qhpA&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMdXd2Tb1C2LHqxK8ecX2DzSSNHCxooTrH2qhpA!2e10!4m2!3m1!1s0x487604cb1e63099f:0x1442aa9c3ccce20c",
+            "heightPx": 4800,
+            "name": "places/ChIJnwljHssEdkgRDOLMPJyqQhQ/photos/AZLasHpibm-86RPzILgLqMayOm9uZA-iX21pl0aFPYhFnWfFRS4Jb5EXmzw36IcDgphDczvr5ZgzL6F7BViCxQn87cyeqwB5RLPa9MKE0bD5EqOiMLP5kSvGzMzmBDtmG1o42BqWd0tUbApuPIxNFUdOHt8zYCaH4OkRwtT7C6WoKzGx8PpR2poOUb_iCTlV0wJlfHsX0K4U8Gid1G01qE3dnjYDucht5VTgw0U0n7ogoVXkjuutQ6pY_XzSh7iMbhebTSElVMGg-T9jf_YVup-0E_kKtVjT4uOHb-FSD2Jc5oqelQ",
+            "widthPx": 3600
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Eric Lund",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWySPFjRsP5g5atMvXHaUSQXVTQektwPD-VtYRD4I6Ckswcc6k=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/112584621056664100582"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADyc5UcAUH7mfIv3AABDzJ&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADyc5UcAUH7mfIv3AABDzJ!2e10!4m2!3m1!1s0x487604cb1e63099f:0x1442aa9c3ccce20c",
+            "heightPx": 4080,
+            "name": "places/ChIJnwljHssEdkgRDOLMPJyqQhQ/photos/AZLasHo9rcUFdR6B5bc0_KtZds8HZ5_Wl5ysJghU5-8bxLTrM-tYJXKULwHgUDC8v4z1-QnbX_4uhUyQk--PBaUWuLupmhOJB4SgwKnrhuzzq4q1cyf_E55CrOTVGolqojOpY30O0rDSvsA4Db-nqPGW1kjddBiQyJx_kvhXreygbI3S7mHJexufXzuuZ_TtsJ5YRfQRIDzuoboHZ1kv9-w40WaAKxDx1i5n392EMDus2U2Vp_vKNZTs_2GlHsY1ufTuagxejZTx2MWrEESTBEIYgMat6iW9AJNaDVKQOdBSSxeOUErGnBT_p8QQFQl5edwetgNV7ylH7hohYbLj42Yc7rSCRzLntX9TY8cNC0JOYV0K3y0-WAzgTuYJZ4OI7SDhiv3T-UvF58l_S6pG0t_Ds13hA1VJUCWTxXO-qEHm7GLnWLZ0COhk71N4osN-E6z-",
+            "widthPx": 3072
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "George",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXYlbVDS9qj2ukhjfnFKJ11ZBZL2GjZo5lB_lQZlXCSukSs0-bS=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/108365314526294104889"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDN8cfbCA&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDN8cfbCA!2e10!4m2!3m1!1s0x487604cb1e63099f:0x1442aa9c3ccce20c",
+            "heightPx": 1500,
+            "name": "places/ChIJnwljHssEdkgRDOLMPJyqQhQ/photos/AZLasHojcAuuOoowDFlPXi49htw-9H75b_8pEWepPyHOAqUo2X7WrEpb9n3eASUovTPmewX82tzxtQD8emIPCivoqOZtMpf6BjY_xy4cpfP_Ga3vCauzZ0R37pWjwcJvxYzl-N72CKw38g5I5Wt35qgNQYxjLcdltbdihLaWaBISYP1Wbs1IPq68ANDOKR8Y_Z_GUn0wz4d-uWIPCK2AvIjnq-DG9CEHBZjarcYA6qSI1QVhjqGd_4DQMpWDJQpbS59vhnW-XmKLl2DCw0yEUe-pAthKE1ckjpBPQjiaHgzWIVkG0BVnYarEhIu9KiO9NTqz6a0VztvApKj4jhiXJBGSS8Enf3Ly7aBs_LnwtBJrmqGB9tO12tFqb1v0yfUzm_0hnNf8jRQwjEutni7AmUNJ_-Qw1U0Q22CuA7BqPfndWTOF5g",
+            "widthPx": 2000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "em !",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXuqBESxGKYjQ0ZR_YlBPJx9Jt61yUybfndXq5rpMLebdQlLE59=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/105593790234614385981"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhALreB-xk3dKt6tdtl5Xz0h&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhALreB-xk3dKt6tdtl5Xz0h!2e10!4m2!3m1!1s0x487604cb1e63099f:0x1442aa9c3ccce20c",
+            "heightPx": 4080,
+            "name": "places/ChIJnwljHssEdkgRDOLMPJyqQhQ/photos/AZLasHoOw-G_ee7_effD9V5Zo3A7Jg4mFSy9N1SA3BRUp7kKIJgQgxluY4HhZz1SPthtcIMdDRPfFJaPyoYLvkEw4XWmZ8dzpEakK17dnbe15y8O1ybQnPB7315di2JrYkMK7uguiX02hf6S_XciFg2DpoWzTk6Kn4eAl8KeKJ1GxMVGxXTzp_POuH_iYtUyq7mMUJq47RgY-5wGb3HG52-hmGjfgfF-4svJwREs8tsM-EKW25wmqVydbU4JzX1v778XU_iNq67AudVR1dlQ5mfnZPr_6iR7T65HBFGSub_BuRECkz6u3qu1v6RcEbffYKl_Llz4Ru4MFtxfyYXezuTL-4QUVsXKnkkYoBxlVLQOztFPyVpPHRViZgEhierxKLBItIFwVRjiDeCeMdy2zEe1HJPiIWgm_oHGQkfSxj7f032ejuohh0ZPELHFJ2BP1wtQ",
+            "widthPx": 3060
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Jinlu Liu",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIjKFeZG03-9HrFrUa8o30eZooNjtS0XloDauyQ2gmbkKsu0A=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/112132663075477363946"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDrdOBIcacnqN4YnGZu18zm&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDrdOBIcacnqN4YnGZu18zm!2e10!4m2!3m1!1s0x487604cb1e63099f:0x1442aa9c3ccce20c",
+            "heightPx": 3600,
+            "name": "places/ChIJnwljHssEdkgRDOLMPJyqQhQ/photos/AZLasHpbJi5cp2BfNQMtNI0AtcCyZm2HdxPInihF-ibaIU1Jkt40ZNdi80zthjBHtMPgI_DRzyZVCvgfm0aYbl22zCtjjWAgZVNiHhHmxskMx1PBEwvmOeqjuQqODENfegQ0BPvllBWluQY9x2kUGp4ilMGQJj-vIGRj-Cr8sYCcB07vTxn9h-d-nBahSemcoJ4TkmYqSgL6Cq54hXdtm-zy1oR4J-qHRqsD2kmc4VuJZ2o7M-VbDv_v_H7NMx7iXL-tEoRjYGVhxjEGO8jGlRHSYBTY9IzYlZUlIkftcKFcx2bUjQWk4xfPpkw27vyOT30sWx5pJJ5P3ACkaGbXWp5fb3EAbQNtrO9A1-HK5ObmFupPGaJDGPqvX8rET9rSwvfJ3C7pY22i5kqWYEeKgHTj5dy172N8sSmHS_E0ohjOTgybyYmHUN_FNrOqOLvgMw",
+            "widthPx": 4800
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV7H+8Q London, UK",
+        "globalCode": "9C3XGV7H+8Q"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "Drury House",
+            "34-43 Russell Street"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2B 5HA",
+        "regionCode": "GB"
+    },
+    "primaryType": "middle_eastern_restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Middle Eastern Restaurant"
+    },
+    "rating": 4.5,
+    "regularOpeningHours": {
+        "nextOpenTime": "2025-12-11T17:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 17,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 0,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 17,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: 5:00 – 11:00 PM",
+            "Thursday: 5:00 – 11:00 PM",
+            "Friday: 5:00 PM – 12:00 AM",
+            "Saturday: 5:00 PM – 12:00 AM",
+            "Sunday: Closed"
+        ]
+    },
+    "regularSecondaryOpeningHours": [
+        {
+            "nextCloseTime": "2025-12-11T11:00:00Z",
+            "openNow": true,
+            "periods": [
+                {
+                    "close": {
+                        "day": 0,
+                        "hour": 11,
+                        "minute": 0
+                    },
+                    "open": {
+                        "day": 0,
+                        "hour": 7,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "day": 1,
+                        "hour": 11,
+                        "minute": 0
+                    },
+                    "open": {
+                        "day": 1,
+                        "hour": 7,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "hour": 11,
+                        "minute": 0
+                    },
+                    "open": {
+                        "day": 2,
+                        "hour": 7,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "hour": 11,
+                        "minute": 0
+                    },
+                    "open": {
+                        "day": 3,
+                        "hour": 7,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "hour": 11,
+                        "minute": 0
+                    },
+                    "open": {
+                        "day": 4,
+                        "hour": 7,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "hour": 11,
+                        "minute": 0
+                    },
+                    "open": {
+                        "day": 5,
+                        "hour": 7,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "hour": 11,
+                        "minute": 0
+                    },
+                    "open": {
+                        "day": 6,
+                        "hour": 7,
+                        "minute": 0
+                    }
+                }
+            ],
+            "secondaryHoursType": "BREAKFAST",
+            "weekdayDescriptions": [
+                "Monday: 7:00 – 11:00 AM",
+                "Tuesday: 7:00 – 11:00 AM",
+                "Wednesday: 7:00 – 11:00 AM",
+                "Thursday: 7:00 – 11:00 AM",
+                "Friday: 7:00 – 11:00 AM",
+                "Saturday: 7:00 – 11:00 AM",
+                "Sunday: 7:00 – 11:00 AM"
+            ]
+        }
+    ],
+    "reservable": true,
+    "restroom": true,
+    "reviewSummary": {
+        "disclosureText": {
+            "languageCode": "en-US",
+            "text": "Summarized with Gemini"
+        },
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=5%401:CAIQACodChtyc19oOkx1T0dzVnJ6ZXNQUWYzcnRoZDA5b0E%7CCAIQACorChtyc19oOkx1T0dzVnJ6ZXNQUWYzcnRoZDA5b0ESDAjko8_JBhCA7IuUAg&d=17924085&t=8",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487604cb1e63099f:0x1442aa9c3ccce20c!9m1!1b1",
+        "text": {
+            "languageCode": "en-US",
+            "text": "People say this restaurant serves delicious dishes, including aubergine, tuna ceviche, and octopus paella. They highlight the sophisticated yet relaxed atmosphere, perfect for special occasions, and the attentive service. They also like the extensive wine list and diverse food and drink options."
+        }
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "em !",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXuqBESxGKYjQ0ZR_YlBPJx9Jt61yUybfndXq5rpMLebdQlLE59=s128-c0x00000000-cc-rp-mo-ba2",
+                "uri": "https://www.google.com/maps/contrib/105593790234614385981/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pkTlRERTRObXQ1TTNkbWNGUkNiM1p1UTB0c1NXYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkTlRERTRObXQ1TTNkbWNGUkNiM1p1UTB0c1NXYxAB!2m1!1s0x487604cb1e63099f:0x1442aa9c3ccce20c",
+            "name": "places/ChIJnwljHssEdkgRDOLMPJyqQhQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkTlRERTRObXQ1TTNkbWNGUkNiM1p1UTB0c1NXYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "My friends and I visited Penelope's for a birthday celebration, and we chose the Pre-theatre menu. The food absolutely blew me away. I was honestly beyond impressed with the flavour from each dish, and the staff were very lovely and made our experience one to remember. I cannot recommend Penelope's enough! I would say it's definitely worth the price, with a 3 course meal coming up to £32. Staff always ask for any dietary requirements, and food is carefully prepared. The ambience is just amazing, with a gorgeous interior and beautiful lighting to add to it. I have tried all of the food on the pre-theatre menu, and all of it is very filling and I'm left impressed each time I go!"
+            },
+            "publishTime": "2025-11-02T14:45:01.864348987Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "My friends and I visited Penelope's for a birthday celebration, and we chose the Pre-theatre menu. The food absolutely blew me away. I was honestly beyond impressed with the flavour from each dish, and the staff were very lovely and made our experience one to remember. I cannot recommend Penelope's enough! I would say it's definitely worth the price, with a 3 course meal coming up to £32. Staff always ask for any dietary requirements, and food is carefully prepared. The ambience is just amazing, with a gorgeous interior and beautiful lighting to add to it. I have tried all of the food on the pre-theatre menu, and all of it is very filling and I'm left impressed each time I go!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Gezenti Anne",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWNUfH5RFYB874I16OOlP_ZKvTBDfD-t8xFW_T1PYmHQ1T0lyoe=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/115416199665067586518/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twbFJ6RmZiMGxHTVc5emVXZFhRVGsyYlVaQ1ZWRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twbFJ6RmZiMGxHTVc5emVXZFhRVGsyYlVaQ1ZWRRAB!2m1!1s0x487604cb1e63099f:0x1442aa9c3ccce20c",
+            "name": "places/ChIJnwljHssEdkgRDOLMPJyqQhQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twbFJ6RmZiMGxHTVc5emVXZFhRVGsyYlVaQ1ZWRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Penelope’s: where flavour meets flair 🧡\n\nLast night, we had the pleasure of dining @penelopes.london, a hidden gem located @amanocoventgarden. This isn’t just any restaurant; it’s an immersive dining experience that artfully blends the bold flavours of Israeli and Spanish cuisine. From the moment we stepped inside, we knew we were in for something extraordinary.\n\nThe evening kicked off with an array of tapas-style starters that were as visually stunning as they were delicious. The calamari, served in black challah with coriander aioli, was a symphony of flavours. But it was the roasted Israeli aubergine that truly captivated us. Cooked to tender perfection, it had a slight vegetal bitterness that was beautifully balanced by a tahini soy dressing, all topped with zesty pomegranate. Each bite was a celebration of textures and tastes.\n\nFor our main course, we shared the 12-hour braised beef short rib, and it was nothing short of spectacular. The meat was so tender it practically melted in the mouth, and the rich, deep flavours left us savouring every last morsel.\n\nBut the evening didn’t end there. We couldn’t resist the allure of Penelope’s signature dessert - the baklava cheesecake. A perfect marriage of creamy cheesecake with the nutty sweetness of baklava, accompanied by a refreshing orange basil sorbet, it was the kind of dessert that lingers in your memory long after the last bite.\n\nThe atmosphere at Penelope’s was lively and vibrant, striking the perfect balance between energetic and intimate. The drinks menu deserves special mention too, offering a sensational selection of gins, rums, mezcal, and a carefully curated wine list that perfectly complemented the meal.\n\nAnd of course, none of this would have been possible without the exceptional team at Penelope’s. Their attentive service and deep knowledge of the menu made our dining experience truly unforgettable."
+            },
+            "publishTime": "2025-11-30T21:03:06.833552491Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a week ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Penelope’s: where flavour meets flair 🧡\n\nLast night, we had the pleasure of dining @penelopes.london, a hidden gem located @amanocoventgarden. This isn’t just any restaurant; it’s an immersive dining experience that artfully blends the bold flavours of Israeli and Spanish cuisine. From the moment we stepped inside, we knew we were in for something extraordinary.\n\nThe evening kicked off with an array of tapas-style starters that were as visually stunning as they were delicious. The calamari, served in black challah with coriander aioli, was a symphony of flavours. But it was the roasted Israeli aubergine that truly captivated us. Cooked to tender perfection, it had a slight vegetal bitterness that was beautifully balanced by a tahini soy dressing, all topped with zesty pomegranate. Each bite was a celebration of textures and tastes.\n\nFor our main course, we shared the 12-hour braised beef short rib, and it was nothing short of spectacular. The meat was so tender it practically melted in the mouth, and the rich, deep flavours left us savouring every last morsel.\n\nBut the evening didn’t end there. We couldn’t resist the allure of Penelope’s signature dessert - the baklava cheesecake. A perfect marriage of creamy cheesecake with the nutty sweetness of baklava, accompanied by a refreshing orange basil sorbet, it was the kind of dessert that lingers in your memory long after the last bite.\n\nThe atmosphere at Penelope’s was lively and vibrant, striking the perfect balance between energetic and intimate. The drinks menu deserves special mention too, offering a sensational selection of gins, rums, mezcal, and a carefully curated wine list that perfectly complemented the meal.\n\nAnd of course, none of this would have been possible without the exceptional team at Penelope’s. Their attentive service and deep knowledge of the menu made our dining experience truly unforgettable."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Jinlu Liu",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIjKFeZG03-9HrFrUa8o30eZooNjtS0XloDauyQ2gmbkKsu0A=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/112132663075477363946/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25vdFgyRk5PVTV6TUdkb2JrVTVNalJwTWtkb1ZYYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25vdFgyRk5PVTV6TUdkb2JrVTVNalJwTWtkb1ZYYxAB!2m1!1s0x487604cb1e63099f:0x1442aa9c3ccce20c",
+            "name": "places/ChIJnwljHssEdkgRDOLMPJyqQhQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT25vdFgyRk5PVTV6TUdkb2JrVTVNalJwTWtkb1ZYYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "The food was super tasty and the service was spot on. We celebrated my friend’s birthday here, and the restaurant surprised us with a cute little dessert—so sweet of them! The staff were really friendly and funny, and they even helped set up the cake perfectly without charging extra. Loved the vibe!"
+            },
+            "publishTime": "2025-07-18T20:43:28.493471332Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "4 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "The food was super tasty and the service was spot on. We celebrated my friend’s birthday here, and the restaurant surprised us with a cute little dessert—so sweet of them! The staff were really friendly and funny, and they even helped set up the cake perfectly without charging extra. Loved the vibe!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Mark Harrington",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL0vpUXAjW2hP29cYKU7uhozXXIjjQJbzJVrSOukg3Lv7X9Yg=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/107209369830499467757/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21aR1RFcDZYMlZ3VW5CRFlrVnVRemxZTjNSQlYzYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aR1RFcDZYMlZ3VW5CRFlrVnVRemxZTjNSQlYzYxAB!2m1!1s0x487604cb1e63099f:0x1442aa9c3ccce20c",
+            "name": "places/ChIJnwljHssEdkgRDOLMPJyqQhQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aR1RFcDZYMlZ3VW5CRFlrVnVRemxZTjNSQlYzYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "What an experience! Amazing food, guy starts playing a saxophone, DJ playing bangers, given flashing tiaras. So much fun and brilliant vibes!\n\nFood was excellent all round with highlights being the Coco bread, tuna ceviche, beef short rib (omg), and baklava cheesecake.\n\nTop notch service from Raju and lovely chilled out rooftop bar with stunning views. Highly recommend for a more fun and lively dining experience."
+            },
+            "publishTime": "2025-09-17T00:22:05.441669504Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "What an experience! Amazing food, guy starts playing a saxophone, DJ playing bangers, given flashing tiaras. So much fun and brilliant vibes!\n\nFood was excellent all round with highlights being the Coco bread, tuna ceviche, beef short rib (omg), and baklava cheesecake.\n\nTop notch service from Raju and lovely chilled out rooftop bar with stunning views. Highly recommend for a more fun and lively dining experience."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Miles Taylor",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXYxa-OsN5y1ec92i2DpxfDImI3gtIWuOxfiYthCOSThN8OguA=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/105215692974173643322/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4UlVuaDFOMnhtUm1SZldYQkhjVVI0V1RaUWJYYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4UlVuaDFOMnhtUm1SZldYQkhjVVI0V1RaUWJYYxAB!2m1!1s0x487604cb1e63099f:0x1442aa9c3ccce20c",
+            "name": "places/ChIJnwljHssEdkgRDOLMPJyqQhQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4UlVuaDFOMnhtUm1SZldYQkhjVVI0V1RaUWJYYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "We had a fab pre-theatre meal here (from £28pp + drinks,service), delicious with lovely presentation. Favourites were the beetroot starter and the trout in saffron sauce. Our waiter Raj was especially attentive and happy to discuss in detail each dish. It was quiet when we arrived, so we had drinks first in the rooftop bar."
+            },
+            "publishTime": "2025-08-31T08:02:21.643107202Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "3 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "We had a fab pre-theatre meal here (from £28pp + drinks,service), delicious with lovely presentation. Favourites were the beetroot starter and the trout in saffron sauce. Our waiter Raj was especially attentive and happy to discuss in detail each dish. It was quiet when we arrived, so we had drinks first in the rooftop bar."
+            }
+        }
+    ],
+    "servesBeer": true,
+    "servesBrunch": true,
+    "servesCocktails": true,
+    "servesCoffee": true,
+    "servesDessert": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "servesVegetarianFood": true,
+    "servesWine": true,
+    "shortFormattedAddress": "Drury House, 34-43 Russell St, London",
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "middle_eastern_restaurant",
+        "bar",
+        "spanish_restaurant",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+    ],
+    "userRatingCount": 569,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.5148605802915,
+            "longitude": -0.11896966970849798
+        },
+        "low": {
+            "latitude": 51.5121626197085,
+            "longitude": -0.12166763029150202
+        }
+    },
+    "websiteUri": "https://www.amanogroup.com/en/restaurants/london-covent-garden-penelopes?utm_source=google&utm_medium=gmb&utm_campaign=penelopes-profil&utm_content=button",
+    "timestamp": 1765447200
+}

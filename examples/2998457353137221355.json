@@ -1,0 +1,827 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": true
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "14",
+            "shortText": "14",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Leicester Square",
+            "shortText": "Leicester Square",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2H 7NG",
+            "shortText": "WC2H 7NG",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Leicester Square"
+                },
+                "name": "places/ChIJoQ6SENIEdkgR2KECVj0PBdY",
+                "placeId": "ChIJoQ6SENIEdkgR2KECVj0PBdY"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Leicester Square"
+                },
+                "name": "places/ChIJVX1-GtIEdkgR1n_gGjHQZpI",
+                "placeId": "ChIJVX1-GtIEdkgR1n_gGjHQZpI",
+                "spatialRelationship": "ACROSS_THE_ROAD",
+                "straightLineDistanceMeters": 75.94502,
+                "travelDistanceMeters": 39.889977,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Vue Cinema London - West End (Leicester Square)"
+                },
+                "name": "places/ChIJQ5TwgGyue0gRhxMwO-iXTYU",
+                "placeId": "ChIJQ5TwgGyue0gRhxMwO-iXTYU",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 59.564014,
+                "travelDistanceMeters": 54.8765,
+                "types": [
+                    "establishment",
+                    "food",
+                    "movie_theater",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Prince Charles Cinema"
+                },
+                "name": "places/ChIJs_wVR9IEdkgRqColcXYGFE0",
+                "placeId": "ChIJs_wVR9IEdkgRqColcXYGFE0",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 51.780186,
+                "travelDistanceMeters": 52.202595,
+                "types": [
+                    "establishment",
+                    "movie_theater",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Premier Inn London Leicester Square hotel"
+                },
+                "name": "places/ChIJJUyxFNIEdkgRajb-0tlYT_0",
+                "placeId": "ChIJJUyxFNIEdkgRajb-0tlYT_0",
+                "spatialRelationship": "ACROSS_THE_ROAD",
+                "straightLineDistanceMeters": 30.169355,
+                "travelDistanceMeters": 15.275135,
+                "types": [
+                    "establishment",
+                    "food",
+                    "lodging",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The National Gallery"
+                },
+                "name": "places/ChIJeclqF84EdkgRtKAjTmWFr0I",
+                "placeId": "ChIJeclqF84EdkgRtKAjTmWFr0I",
+                "straightLineDistanceMeters": 257.5702,
+                "travelDistanceMeters": 258.16623,
+                "types": [
+                    "art_gallery",
+                    "establishment",
+                    "museum",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "currentOpeningHours": {
+        "nextCloseTime": "2025-11-26T01:00:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 10,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 23,
+                    "minute": 59,
+                    "truncated": true
+                },
+                "open": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 10,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 1,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 0,
+                    "minute": 0,
+                    "truncated": true
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 1,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 10,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 1,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 10,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 1,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 10,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 3,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 10,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 3,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 10,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 10:00 AM – 1:00 AM",
+            "Tuesday: 10:00 AM – 1:00 AM",
+            "Wednesday: 10:00 AM – 1:00 AM",
+            "Thursday: 10:00 AM – 1:00 AM",
+            "Friday: 10:00 AM – 3:00 AM",
+            "Saturday: 10:00 AM – 3:00 AM",
+            "Sunday: 10:00 AM – 11:00 PM"
+        ]
+    },
+    "delivery": true,
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Slim Chickens"
+    },
+    "formattedAddress": "14 Leicester Square, London WC2H 7NG, UK",
+    "goodForChildren": true,
+    "goodForGroups": true,
+    "goodForWatchingSports": true,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x487605fd4ab7ca09:0x299ca9137fe6eeeb!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487605fd4ab7ca09:0x299ca9137fe6eeeb!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=2998457353137221355&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487605fd4ab7ca09:0x299ca9137fe6eeeb!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487605fd4ab7ca09:0x299ca9137fe6eeeb!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=2998457353137221355&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJCcq3Sv0FdkgR6-7mfxOpnCk",
+    "internationalPhoneNumber": "+44 20 3137 5669",
+    "liveMusic": false,
+    "location": {
+        "latitude": 51.5110307,
+        "longitude": -0.1298638
+    },
+    "menuForChildren": true,
+    "name": "places/ChIJCcq3Sv0FdkgR6-7mfxOpnCk",
+    "nationalPhoneNumber": "020 3137 5669",
+    "outdoorSeating": true,
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Jamie Hall",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWwE5veyKtV_NtBrHmUOg147Sd0yJLHTa_64ZRu-pw0BBnMDfB2dg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113095721156008116455"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCi8dapy4vdygtpwC4G_DBQ&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCi8dapy4vdygtpwC4G_DBQ!2e10!4m2!3m1!1s0x487605fd4ab7ca09:0x299ca9137fe6eeeb",
+            "heightPx": 3000,
+            "name": "places/ChIJCcq3Sv0FdkgR6-7mfxOpnCk/photos/AWn5SU5sDBSN-6hNhlC4-9jcfJcAfIsouj2Pgfzt9GH6YXOFu1bM_I_kThoqDMfqeaCmIfbqO1D-BktVJJF8nPJEpqYoXacg5rOzFCRbtuUSxdfqGSUHEdBIB_bH7M1R1_y7aCpWgCNJ_mQGplEGUQukvaMONvx9ErI-VYL2tqOcwvsaVTqJR-2kRAmEwqap8QxbUp01c_7JvPbP-EK7tsigHlRUfvOlhINoT1Ku5Fgx0ajMXThe9pMEqnR3VbS0T0UZr4DvVYgso-fpAddwJHZh8_aErd2ohJ9P2RmBdSdEWSLFCxbjTnkB7JBmW8ROBKC7tunO2mmiDJX1x4nnL58-SowE8kXwiBBliX7dgKmFQ_uN511lm8w6qNCgYHqh-Vh3pH0BULP0frWJmW0G09jaHaJNFCwps0BNwrpppS4TfgKYRTYcIDApLPI3d-wHtQ",
+            "widthPx": 4000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Rachel Stansbie",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVpIWdg-D5YK1mv-sc0uULyEV3tGZfKX5NPpzL1K5B_ldmyY4bRYA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/107575591681743206943"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhC3r_AYqqskYcHWlrHu-Ztc&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhC3r_AYqqskYcHWlrHu-Ztc!2e10!4m2!3m1!1s0x487605fd4ab7ca09:0x299ca9137fe6eeeb",
+            "heightPx": 3000,
+            "name": "places/ChIJCcq3Sv0FdkgR6-7mfxOpnCk/photos/AWn5SU6ReNiimMy-fcsakhN2RYXJuDHVcUZAjnJ8PxOFWuurGicLmAWyoXOdebGrHRXqUbKSEd4IUG0g-9KGDRqxlAEfmy7TSpjELL9-oICVOMgn6wEjnxMVAXdbXFbftFO04rJhkMd8b07_HtP_PFaLaXlvgCJPmLqUs7vY1cenyks5dZ-_hZJNqXI9zj9PZGKLn4gM4SATgASfAWw4CDTz7z--KXPS5A51wSIXSscms3VzmzeNnfkuB20Hc3KlwPXyKYpvFDmEck9njdu3aklXPg63QJlKzlJA4DVPDrEtbaPyuvKqciFRwID1WZR0TL3WzCt0R06epoRksa-k7MoTpPM2FBij7WVRF7ri8nw8Uubz5f3_VbhRUUwus5-vD0T8LuH1glH7A2h9z84Df_ccWQ76bFtjcC0J608Vu3YblV76rcoE7fUqvmFy0cF3hIo5",
+            "widthPx": 4000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Slim Chickens",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ31Ou4TTPhY3feOTQv13FJnuHpLlLkRwcMJmvVd8crFjgCGw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/104295240860056818480"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNy1qd8hPK7Axd-hEY_HURMq2GNbOu_u0ihHBWT&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNy1qd8hPK7Axd-hEY_HURMq2GNbOu_u0ihHBWT!2e10!4m2!3m1!1s0x487605fd4ab7ca09:0x299ca9137fe6eeeb",
+            "heightPx": 4559,
+            "name": "places/ChIJCcq3Sv0FdkgR6-7mfxOpnCk/photos/AWn5SU69x81JtDeIQdbJW1qbrUqBSVJAQyzeGN4dYQSpvFSKCXFQDqO7zQN95uxBAZQ1clKCj8J4THsyCBEyt1NCFfE9hfulcur1QykyBWoBkFcr3BHHXcrAwgQ5Lc3sjFqaNvhYvXhIXH5Rkq10BHrHOjVI4PkzRVk8HWaa2O_MuK56ZlMW_Xrb6-O1GMBkXc7X0hVFr50vg-RByTqDWC6Eap3PbXtVMMa4PLjmH8rbKvVVIT_g9ih6I5RAwrbHQpeHK8zF_IHaVBQStVE5udo3COGsmlaZXgi1N9ziUKPg6DqbhQ",
+            "widthPx": 4338
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "oluwaseun omosehin",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVHmy0FGSXukzHZutuEK-eET0P0ZMtq7HMk5OkXqQ96daeiYsxIMA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/102692059102933402270"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADyc5UFglHrWfcMokAA6Kw&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADyc5UFglHrWfcMokAA6Kw!2e10!4m2!3m1!1s0x487605fd4ab7ca09:0x299ca9137fe6eeeb",
+            "heightPx": 3000,
+            "name": "places/ChIJCcq3Sv0FdkgR6-7mfxOpnCk/photos/AWn5SU5c1LmkE1HQDPBKEbUgsKEjdrg3J5Dz0CtXcY8WmuKDk8E-WJM1B3osHv1NEMReBEW1lNJlvL-SXv-odk4RLtmMFSyVgnCxDJzgW2J9TqkuUHikLAHXoI6OTzuHISs-z9UEEB4aTNZtKp3ttdRvqz3FQWEIdUzDmyuxE88LVdqmp94digti7pzKSjqWM-9Qnab9j4yDAL5i3OoNcJR0BOQQX8cvlrzXu_toaP78aKfcIjsCqgkRsx7yTrOEt_9Xq2Bs5AOX8KeeiPdw-28NEVneqMV4552-pH0C2W_mXrjwxKHEkfPaphueboAp28uLaP7CX1RHUga7fgYxkujQnTI78pNQS2C1UGk2vMYhOuFB3Wmen4PJJbjOk0Ohk51SeR9t_RUmPwhxBg5G6Y6fiTnP3zFzrwptib0PJPop-DG-nlzH4uLeuVXEOx1U6hBm",
+            "widthPx": 4000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "林仲塏",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWvjOHW7dHuVTcPwk_VoVnb_EsI7s5GSpsLRP6NNoe5UzsuOOSFPg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/111259955187703712924"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCiZcrk6wAYkddXoSoPX-YR&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCiZcrk6wAYkddXoSoPX-YR!2e10!4m2!3m1!1s0x487605fd4ab7ca09:0x299ca9137fe6eeeb",
+            "heightPx": 3600,
+            "name": "places/ChIJCcq3Sv0FdkgR6-7mfxOpnCk/photos/AWn5SU6gt_PkECEDtkCniQMd-cMcuk_BxyN7NZU1fJuh0WKvEWXHLkWUt9J6jATt8MHnY4S3o76t2Fq1sHB09mXrnuRqoPWZn6yOINeQqvLHP1al0KP_omQ12WINTIigmrMxW_h9ZSDjq5z9Qsg2jblEDYI08IXhwdFqHygl3Zsk0uSDl0THTG9z4RNppwbbGA7bRneCCY8CvTYo39n4UkXyfKSvxEoqEmDwHPAcxqAPS9v1yTvQNRIzdCx633ilcRVcQKVs8tXXAT0lgWlztvZdRQB7Lg6_Q4eZqHlTk4eYmqr8aDPrz7aD6tR7psTJfEwymRDZGyK4J4pz4vvyY4j9yzyjoCxT4DpLZt85zV8h6hwdvjdXYvMMUkCL6XMj38ho9BzMmrvmGYhZfSb41fyOkvQ0kv1jNOBAAwfSgo7MO4iAlixxK8mUTjq--pTlYRG3",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "oluwaseun omosehin",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVHmy0FGSXukzHZutuEK-eET0P0ZMtq7HMk5OkXqQ96daeiYsxIMA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/102692059102933402270"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADycKzqSMWQGfcMoUAAVJw&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADycKzqSMWQGfcMoUAAVJw!2e10!4m2!3m1!1s0x487605fd4ab7ca09:0x299ca9137fe6eeeb",
+            "heightPx": 3000,
+            "name": "places/ChIJCcq3Sv0FdkgR6-7mfxOpnCk/photos/AWn5SU7rdudksyeaxqcAEycJfhxL9co_xpDjU7w_xcsAsPcGkZwC_IXTERbR-OmHWA3RnJuJ7cexTq0AcvaXXZt4lXd_ASWI8GKchHHfZorLDJDi7fx-zxZL9dXlGPvviJhyfaGFu8UjcNq7G9qscpW4eu1sfGzTmxD73ySl3VAQFwybhbJQgVMdmEWU038jHOE2njWb7oFZJM0STIpJuEvw2YGuPbIeE-7Y-Fwy9S33EC3Pdd3THrC4w2LhGeM9E5_cZKY-iaWFIyNNrlIi1x09i63E5KnIFRMhrbbJULedm_axcHhr7AoK5PzkPyC0K3MhsQziKOGCpazxj_hl3lgqfPZTMa-eVAA7x0OBJBSCIxX-_MugruNkUgAXHyMKhPMwDpt_7C8tMhm0-mZoXDizuvgvm7t1I_dnQc5pWVt5sNKXp2Rd-HTzEUw-1AH2Ys-8",
+            "widthPx": 4000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Sam Aberman",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWW8LD98tdvZGX2GSpZHvoTTtCKd8qb17YM2nQsTU6mmb_xz9uN7Q=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/111941996399252793572"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhB7Cg_tOgNu1WJLsx7NZrCq&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhB7Cg_tOgNu1WJLsx7NZrCq!2e10!4m2!3m1!1s0x487605fd4ab7ca09:0x299ca9137fe6eeeb",
+            "heightPx": 1587,
+            "name": "places/ChIJCcq3Sv0FdkgR6-7mfxOpnCk/photos/AWn5SU5AKXPm-HQaScfX1HtkI5RN1_63ll9RGTVfzE3S4WhWZ4tJFo6ONlgcr8UDx4DVVMhxgwR_oWkBRuj_Mt4s5t3ThGpqAvV1G4bm37tolcN19SpzCZgAJO84ND5UKhTlcRdT-iKZ9fe0MQakeHL7VuJBGtC0aFhNal3Ee0Xfce1U7UY_bmKOFB9YUKQDU2GiFtwSncTXqMSdpIFa-uB2xzzmk5OL_OBaJLxBX1OEhTS9EN4bcGSoPEXNo6VATSjHisvJ4ij_i2C0abBE_Qbd5k6wO3__QveDWYnaQma0ncUmxVUQAySZ86bPKGZtX8fye-0qBcUBPBmTqsCuHod9xTrrIWCEN5Pn6tpWJi0PVDSiietnc5p1X-khqa9K8JMt1yYJcIJm739tQ62myxxY88t3tLPkWmlgFKGG4z-oQV72GUxm11uSRsxmJ5C2OKNL",
+            "widthPx": 2210
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "G T (GT)",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUvHwpeKF_hsUcR7zpS2d0d_S3zBRVSYuo1rsvem8vpAL7IPk0D=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/105978927551963293666"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhD2ir7S7jPnqxCJkBajzdHa&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhD2ir7S7jPnqxCJkBajzdHa!2e10!4m2!3m1!1s0x487605fd4ab7ca09:0x299ca9137fe6eeeb",
+            "heightPx": 4800,
+            "name": "places/ChIJCcq3Sv0FdkgR6-7mfxOpnCk/photos/AWn5SU6-v4UCuBdZ__xoAusWKhtsdRnYQcaEwYDAOmhzoR5TdvEHL4fYMfR02ksmV-5bA-5gMk5nRbkffFgdQHzgQC-C1XSBBWK4mbH6bQVRwFOPj2xku-o_sYnDZkuEpExBuDA9y2rIIpkiPQqdlmMbHM25r5Uq4oSdm-7N6Sqe4PyEvpzF5qNqybaAJsFqqBegivesvCHcufDr-YbVo16oTgJa1Ti6894sYM5It1WnckA0wsnj6oU4Rb7VzQ6xZ6f08IlEXt-UW7fGWCOn40XNRuyjEiQgWmEVgJ77jwGKmd2GVmy9nWRMoIQ_kqYzWVlDl9IJjEDBMyPSsN0wNftP_uMa8SwI2OLceir57wYKekpAZLXE9pdDf8U9xtrfK9vYEJ10S6lWCfQXsk_MLLJQ8n3cAK4mUZIgx2U0e6DbJiwomPkB6Ip75GpjOfM62-lW",
+            "widthPx": 3600
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Jay",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVoL6PM6nLFuG97SEr-KjkXUFXXpT1nwaltOIN-8BdS0q1Qm5i0=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/111554203436620137191"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBs8kmpGipbecuglo1mIyAl&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBs8kmpGipbecuglo1mIyAl!2e10!4m2!3m1!1s0x487605fd4ab7ca09:0x299ca9137fe6eeeb",
+            "heightPx": 4032,
+            "name": "places/ChIJCcq3Sv0FdkgR6-7mfxOpnCk/photos/AWn5SU4u-dVDnoWls1StDTmHJpbWaE6mSfbHTVDiyYIpuXjm1PSKShKgdrdIBGO-eFuJbNxFmc8KQ9DvS3iyogpTLEt23PYYj-h8l_YWExgpinxJ0J40HjOIkBttuuWqofTMppZ7Ot17-2_EjQUow7ILLkdUSIoMabr7OwknT4l8gkMC7CwHWTNwLywX_yY2mCfl664UXgr1yLBLKQswSQ1X_9hHaJyQZv9SE2Lug_YAbKu7tZKoZbmUymKNj5UbReHta5eLJEM6LR6Ie9xLHJsYuGw40u-iBFHulU0tU40h2G7bugn839DSo8ZX3G76lU32iah9zwAds0zLuoI4tJ32rNI4uNRKKgys7vK69PAk9u7bwpbx4wX0M-qcsftlIIJYpP0GY7GhpYpCEHjgED_fdU_0c3vfHrp7baBCVAjCZl17t-gsdsETqIQB3kyfVg",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Gillian Burns",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVxGBDwf9psp2OFhn1eCT__eVLHZgeIN2-Wr2ObyDYsf567evw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/116491292312254289327"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDQvLzzUw&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDQvLzzUw!2e10!4m2!3m1!1s0x487605fd4ab7ca09:0x299ca9137fe6eeeb",
+            "heightPx": 4800,
+            "name": "places/ChIJCcq3Sv0FdkgR6-7mfxOpnCk/photos/AWn5SU4ryxx1imB3Aj2cQDOxYmxUK3QfWsa3cVx7wgNODgXM-WlRT2OjX9YP8HT8RulzoZAR1hDDShA-wYEEKes5xXpvdpwfcJESJ0WPGc5IuxZ5oIHnqi-0ddl0tVYkMp0WWAhuw-K76Jr_dd_rfDcrg1jerLKIZ_gwzKb2f7I6JGihMjy4RGodZXuJih1vsm_le9pyceoYFn1yK5lk4muXUhueAXPI4vIJO5s9a836u0I33e2Hzsic9Hw1jm_LEzYuDhb8yO0XNJHflPgKZw_y3BlpEBtgvznah-Mr0dizb5wnrvMA9b9rEbHNuTtKEL_XfEmfxxKnP35ZmFtz59-ZuLtb8jwHfcLlxteEty1NogOk-dRHEI5WklUnT2vCVrBL1h327JSaH8Dl_rOMDhqvwHFBrZQWBKizkl899zv6qy2vLA",
+            "widthPx": 3600
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV6C+C3 London, UK",
+        "globalCode": "9C3XGV6C+C3"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "14 Leicester Square"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2H 7NG",
+        "regionCode": "GB"
+    },
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "priceRange": {
+        "endPrice": {
+            "currencyCode": "GBP",
+            "units": "20"
+        },
+        "startPrice": {
+            "currencyCode": "GBP",
+            "units": "10"
+        }
+    },
+    "primaryType": "restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Restaurant"
+    },
+    "rating": 4.5,
+    "regularOpeningHours": {
+        "nextCloseTime": "2025-11-26T01:00:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 10,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 1,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 10,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 1,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 10,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 1,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 10,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 1,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 10,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 3,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 10,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 3,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 10,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 10:00 AM – 1:00 AM",
+            "Tuesday: 10:00 AM – 1:00 AM",
+            "Wednesday: 10:00 AM – 1:00 AM",
+            "Thursday: 10:00 AM – 1:00 AM",
+            "Friday: 10:00 AM – 3:00 AM",
+            "Saturday: 10:00 AM – 3:00 AM",
+            "Sunday: 10:00 AM – 11:00 PM"
+        ]
+    },
+    "restroom": true,
+    "reviewSummary": {
+        "disclosureText": {
+            "languageCode": "en-US",
+            "text": "Summarized with Gemini"
+        },
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=5%401:CAIQACodChtyc19oOnBpZ24xUVRtR3V6enRVYVdPWTByZVE%7CCAIQACoqChtyc19oOnBpZ24xUVRtR3V6enRVYVdPWTByZVESCwiE6LbIBhDApeBE&d=17924085&t=8",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487605fd4ab7ca09:0x299ca9137fe6eeeb!9m1!1b1",
+        "text": {
+            "languageCode": "en-US",
+            "text": "People say this chicken restaurant serves delicious chicken sandwiches, chicken wings, and fries. They highlight the fresh food, tasty sauces, and quick service. They also like the friendly staff and clean atmosphere."
+        }
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "GRUMPY FOX",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXwD-HEJ3KatlfsfiWpCpWVMLEiWAnYHw0ShrG2qYEoT6oY5p8=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/115516509040512324510/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25jeFdEWndiWHBxTW5SRVIwOXdTWEJsV0dzeWMyYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25jeFdEWndiWHBxTW5SRVIwOXdTWEJsV0dzeWMyYxAB!2m1!1s0x487605fd4ab7ca09:0x299ca9137fe6eeeb",
+            "name": "places/ChIJCcq3Sv0FdkgR6-7mfxOpnCk/reviews/Ci9DQUlRQUNvZENodHljRjlvT25jeFdEWndiWHBxTW5SRVIwOXdTWEJsV0dzeWMyYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "On a visit to London we decided to have something to eat in Slim Chickens.\nThe outlet its self was clean and bright. The seating areas were being cleaned as soon as people were leaving.\nThe store front was wide open allowing to see the world pass by or even get to the outdoor seating with ease.\nThe outdoor seating was in an abundance with awnings for cover it made a perfect location to eat at night and feel the atmosphere of Leceister. Square.\n\nThe staff were great very helpful and extremely happy to chat with the customers.\nThey were very polite and friendly. The man who I assume to be the manager was spot on.\n\nThe food again was perfect. We absolutely loved every bite of this food.\nThe service from Order to being on our table was quick, the food was hot.\n\nI would highly suggest anyone visit this venue.\n\nThank you for a lovely meal"
+            },
+            "publishTime": "2025-09-18T08:37:19.335649342Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "On a visit to London we decided to have something to eat in Slim Chickens.\nThe outlet its self was clean and bright. The seating areas were being cleaned as soon as people were leaving.\nThe store front was wide open allowing to see the world pass by or even get to the outdoor seating with ease.\nThe outdoor seating was in an abundance with awnings for cover it made a perfect location to eat at night and feel the atmosphere of Leceister. Square.\n\nThe staff were great very helpful and extremely happy to chat with the customers.\nThey were very polite and friendly. The man who I assume to be the manager was spot on.\n\nThe food again was perfect. We absolutely loved every bite of this food.\nThe service from Order to being on our table was quick, the food was hot.\n\nI would highly suggest anyone visit this venue.\n\nThank you for a lovely meal"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Rasel Alam (Razzle Dazzle)",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVA0q_eWb3HooD2i8jZWR7e1mfn69PpbDxk0j3jjPSRIrsUo5I=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/105978126413840053236/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xoRFZHVmxiM1JrYTBWalIwZHFTMGRZYkdWRGNFRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoRFZHVmxiM1JrYTBWalIwZHFTMGRZYkdWRGNFRRAB!2m1!1s0x487605fd4ab7ca09:0x299ca9137fe6eeeb",
+            "name": "places/ChIJCcq3Sv0FdkgR6-7mfxOpnCk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoRFZHVmxiM1JrYTBWalIwZHFTMGRZYkdWRGNFRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "So as we walked in it was kinda quiet and we were getting ourselves a booth. We order & some time pass and the rubbish from the last customers were still on our table, where we had to throw it out ourselves. Fine, it's whatever.\n\nBut this is what brought down the review. My partner had bought us the 8 wing meal with fries & garlic bread and we were looking forward to it as it was my first time. The sauces were fun and we enjoyed them. The garlic bread was alright, could have been a bit warmer. The fries were good.\n\nBut when it came to the wings, if you can see in the picture, they missed one out. We didn't get get what we paid for and my partner didn't want me to cause a scene. This review would have been a 4 star if it weren't for these issues.\n\nAdvice for next time: count the wings & keep an eye out for tables.\n\nUPDATE: Went back again and the food was served properly and the service was good with clean tables and wings being counted and piping hot. Excellent stuff, I would say it's worth the money for going out because the batter is really good. IMAGE 2 UPLOADED"
+            },
+            "publishTime": "2025-08-26T06:26:53.524803343Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "3 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "So as we walked in it was kinda quiet and we were getting ourselves a booth. We order & some time pass and the rubbish from the last customers were still on our table, where we had to throw it out ourselves. Fine, it's whatever.\n\nBut this is what brought down the review. My partner had bought us the 8 wing meal with fries & garlic bread and we were looking forward to it as it was my first time. The sauces were fun and we enjoyed them. The garlic bread was alright, could have been a bit warmer. The fries were good.\n\nBut when it came to the wings, if you can see in the picture, they missed one out. We didn't get get what we paid for and my partner didn't want me to cause a scene. This review would have been a 4 star if it weren't for these issues.\n\nAdvice for next time: count the wings & keep an eye out for tables.\n\nUPDATE: Went back again and the food was served properly and the service was good with clean tables and wings being counted and piping hot. Excellent stuff, I would say it's worth the money for going out because the batter is really good. IMAGE 2 UPLOADED"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Adam Dotan",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV3bzKUyOgudBZT7h3nu90gAtSHqAc2n5C84bkD8m3kaqbIteVF=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/102639507709015843315/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2sxTmExZEtTM1UxUmpWdGJVODBUSEJNZDJwdk9VRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxTmExZEtTM1UxUmpWdGJVODBUSEJNZDJwdk9VRRAB!2m1!1s0x487605fd4ab7ca09:0x299ca9137fe6eeeb",
+            "name": "places/ChIJCcq3Sv0FdkgR6-7mfxOpnCk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxTmExZEtTM1UxUmpWdGJVODBUSEJNZDJwdk9VRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Was in Leicester Square for a night out and we said we will try Slim chicken we have never been and the menu looked good. Very helpful service and atmosphere was nice with some funny people there. Food was very big and great value. Will be back again next time. Good times."
+            },
+            "publishTime": "2025-08-15T10:29:27.579539618Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "3 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Was in Leicester Square for a night out and we said we will try Slim chicken we have never been and the menu looked good. Very helpful service and atmosphere was nice with some funny people there. Food was very big and great value. Will be back again next time. Good times."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "serdar barcin",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW2e0INP2L6ldb-nUbtPKJ-TQr-PYCMn-UosS98_XTUwMGbiZte=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/105139023333254355683/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGMGFVOVpSMmczU0c5NFIwUnJhblZhTTFwelJrRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGMGFVOVpSMmczU0c5NFIwUnJhblZhTTFwelJrRRAB!2m1!1s0x487605fd4ab7ca09:0x299ca9137fe6eeeb",
+            "name": "places/ChIJCcq3Sv0FdkgR6-7mfxOpnCk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGMGFVOVpSMmczU0c5NFIwUnJhblZhTTFwelJrRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "A decent chicken wings shop. Unlimited drinks. The sauces are delicious. You can stop here for a quick bite and a rest during your London trip."
+            },
+            "publishTime": "2025-10-17T07:08:56.548758709Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "A decent chicken wings shop. Unlimited drinks. The sauces are delicious. You can stop here for a quick bite and a rest during your London trip."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Pound W",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK8pPRJOc3Ob2Gor8d2JdzvdMv-NtwW2BHsvCa039PQLkgJmw=s128-c0x00000000-cc-rp-mo-ba2",
+                "uri": "https://www.google.com/maps/contrib/105695971313229806769/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xoVFgzUk1YMFJCTXkxSVJsWlhSVEpmUzB4TVZWRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoVFgzUk1YMFJCTXkxSVJsWlhSVEpmUzB4TVZWRRAB!2m1!1s0x487605fd4ab7ca09:0x299ca9137fe6eeeb",
+            "name": "places/ChIJCcq3Sv0FdkgR6-7mfxOpnCk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoVFgzUk1YMFJCTXkxSVJsWlhSVEpmUzB4TVZWRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "I visited around noon on a Saturday and was warmly welcomed by both the male and female staff — they were incredibly kind and attentive. Their hospitality made me feel genuinely comfortable and well looked after.\n\nThe food was delicious — served hot and crispy, just the way I like it. The restaurant was also very clean, which made the dining experience even more enjoyable.\n\nOverall, I was very impressed with both the service and the quality of the food. I’d definitely love to come back!"
+            },
+            "publishTime": "2025-06-21T11:38:16.719236565Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "5 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "I visited around noon on a Saturday and was warmly welcomed by both the male and female staff — they were incredibly kind and attentive. Their hospitality made me feel genuinely comfortable and well looked after.\n\nThe food was delicious — served hot and crispy, just the way I like it. The restaurant was also very clean, which made the dining experience even more enjoyable.\n\nOverall, I was very impressed with both the service and the quality of the food. I’d definitely love to come back!"
+            }
+        }
+    ],
+    "servesBeer": true,
+    "servesBreakfast": true,
+    "servesBrunch": true,
+    "servesCocktails": false,
+    "servesCoffee": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "servesVegetarianFood": true,
+    "servesWine": false,
+    "shortFormattedAddress": "14 Leicester Square, London",
+    "takeout": true,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "fast_food_restaurant",
+        "american_restaurant",
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 253,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.5125882302915,
+            "longitude": -0.12877701970849795
+        },
+        "low": {
+            "latitude": 51.5098902697085,
+            "longitude": -0.13147498029150198
+        }
+    },
+    "websiteUri": "https://slimchickens.co.uk/locations/leicester-square",
+    "timestamp": 1764064800
+}

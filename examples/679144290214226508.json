@@ -1,0 +1,798 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleSeating": true
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "9",
+            "shortText": "9",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Adelaide Street",
+            "shortText": "Adelaide St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2N 4HZ",
+            "shortText": "WC2N 4HZ",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJs4GOh8sEdkgRRiBFZKMP8ZE",
+                "placeId": "ChIJs4GOh8sEdkgRRiBFZKMP8ZE"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Trafalgar Square"
+                },
+                "name": "places/ChIJH-tBOc4EdkgRJ8aJ8P1CUxo",
+                "placeId": "ChIJH-tBOc4EdkgRJ8aJ8P1CUxo",
+                "straightLineDistanceMeters": 209.80914,
+                "travelDistanceMeters": 158.68991,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The National Gallery"
+                },
+                "name": "places/ChIJeclqF84EdkgRtKAjTmWFr0I",
+                "placeId": "ChIJeclqF84EdkgRtKAjTmWFr0I",
+                "straightLineDistanceMeters": 177.91759,
+                "travelDistanceMeters": 236.58597,
+                "types": [
+                    "art_gallery",
+                    "establishment",
+                    "museum",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The Connection At St Martin's"
+                },
+                "name": "places/ChIJTYQSh84EdkgRNAMG57-zuGc",
+                "placeId": "ChIJTYQSh84EdkgRNAMG57-zuGc",
+                "spatialRelationship": "ACROSS_THE_ROAD",
+                "straightLineDistanceMeters": 23.645811,
+                "travelDistanceMeters": 14.064047,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "National Portrait Gallery"
+                },
+                "name": "places/ChIJeclqF84EdkgRYkL4mtJ7rLM",
+                "placeId": "ChIJeclqF84EdkgRYkL4mtJ7rLM",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 161.90776,
+                "travelDistanceMeters": 137.89781,
+                "types": [
+                    "art_gallery",
+                    "establishment",
+                    "museum",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "St Martin-in-the-Fields Church | London"
+                },
+                "name": "places/ChIJH-tBOc4EdkgRIsJgzUZIjXU",
+                "placeId": "ChIJH-tBOc4EdkgRIsJgzUZIjXU",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 86.23409,
+                "travelDistanceMeters": 133.40213,
+                "types": [
+                    "cafe",
+                    "church",
+                    "establishment",
+                    "food",
+                    "place_of_worship",
+                    "point_of_interest",
+                    "store",
+                    "tourist_attraction"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "curbsidePickup": true,
+    "currentOpeningHours": {
+        "nextCloseTime": "2025-11-17T22:30:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 23,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 23,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 17,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 17,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 18,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 18,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 19,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 19,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 20,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 20,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 21,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 21,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 22,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 22,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 – 10:30 PM",
+            "Tuesday: 12:00 – 11:00 PM",
+            "Wednesday: 12:00 – 11:00 PM",
+            "Thursday: 12:00 – 11:00 PM",
+            "Friday: 12:00 – 11:00 PM",
+            "Saturday: 12:00 – 11:00 PM",
+            "Sunday: 12:00 – 10:30 PM"
+        ]
+    },
+    "delivery": true,
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Vasiniko"
+    },
+    "formattedAddress": "9 Adelaide St, London WC2N 4HZ, UK",
+    "goodForChildren": true,
+    "goodForGroups": true,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x487605001e96f51f:0x96cce2239742a4c!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487605001e96f51f:0x96cce2239742a4c!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=679144290214226508&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487605001e96f51f:0x96cce2239742a4c!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487605001e96f51f:0x96cce2239742a4c!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=679144290214226508&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJH_WWHgAFdkgRTCp0OSLObAk",
+    "internationalPhoneNumber": "+44 20 7836 8628",
+    "liveMusic": false,
+    "location": {
+        "latitude": 51.5092475,
+        "longitude": -0.1257811
+    },
+    "name": "places/ChIJH_WWHgAFdkgRTCp0OSLObAk",
+    "nationalPhoneNumber": "020 7836 8628",
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Vasiniko",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXtSkYr71lk1gYAyFahuohv-rUzKrc_bmNVyqeQZaxBaW1ApzE=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/112591260020202082204"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNdBYv6meHgcfYw8JE2dNeAC7urPIfu-nmYdBh4&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNdBYv6meHgcfYw8JE2dNeAC7urPIfu-nmYdBh4!2e10!4m2!3m1!1s0x487605001e96f51f:0x96cce2239742a4c",
+            "heightPx": 585,
+            "name": "places/ChIJH_WWHgAFdkgRTCp0OSLObAk/photos/AWn5SU69dgjN7lRc8FqVmPopm3J_BEyVy9bilMHDNuSN4B5p1rwd6UOaix_ckS7nYWQ-NncnBXg2oQgzS1D9olim53UQDNzrg4I5BJkz3IIociMoLj8Fu24E3fOEshEOvBtKFlNqk3wiORk2DHzwD5O9PL1LEcBc-lF-ovsudnyHnI1Zc3iVh9rgARtY6sErE9p2UhQqwRt_BHXRt_3vzb56Zp4q6T5HNQavD22KsKcUb89hnFQru54rYjQcSQRY1rpA07CP83I4l48x4t6mDnQW6aypuS4detmhpyUs8bcaPHoeEQ",
+            "widthPx": 723
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Vasiniko",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXtSkYr71lk1gYAyFahuohv-rUzKrc_bmNVyqeQZaxBaW1ApzE=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/112591260020202082204"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPRqBrXaoTmN8VYD3Ttex2cNqO-s8JjlpkAOXrd&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPRqBrXaoTmN8VYD3Ttex2cNqO-s8JjlpkAOXrd!2e10!4m2!3m1!1s0x487605001e96f51f:0x96cce2239742a4c",
+            "heightPx": 4800,
+            "name": "places/ChIJH_WWHgAFdkgRTCp0OSLObAk/photos/AWn5SU5BjotA727gu-FFeXSWR7cqKsY2n8m2RhqyEnzPikvBkiGguBjhgCYM3X9NsvBCSdA5-Xmw40zHCB3eIsWouYkQMXiq1OSwLkJauCn9G3nGW8qgW2BvBxMM32aKGBKKGzMP3OByNBsNHLIC8ZAgkSxa6Ukbu6dcHSHzLJX1_2_2yXosN4pBdoLRw4jNTwOV8r_pxDmOXDkDWnIfloINUUC9JTje0AmfX_62BDMj4EVcvxfzYWDwEslWi_rfiCddihXQ8xWpPwzq5l-qJqYQW8jnT2pWRGx5x0O460cHChxtBQ",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Leah Frost",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJYNP4oq1kFFC3JAfdRYFY2mj9Om-1HbVIq2I4JhyL5hjugZQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117991314787918084390"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCxF36wDvmAQ6bZIsmmSMU8&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCxF36wDvmAQ6bZIsmmSMU8!2e10!4m2!3m1!1s0x487605001e96f51f:0x96cce2239742a4c",
+            "heightPx": 4800,
+            "name": "places/ChIJH_WWHgAFdkgRTCp0OSLObAk/photos/AWn5SU7_QwaB7uyzsU89k0sgGD6DMpB96LwXlDtP3CDe_NukuSEQgJszW2JtCQ2RedAyyv0Q_FZZEwGNXZYO1ruipc45_BwAS-5xXWix7Ls-Pumy3lK9ayqY-PcTQlmmY_4yPrIKTq4f2_xL7oL96DrcPTQJFQ3Qh-zSmmmTOZjzkrxLX_p5Djwii87Ui4jMLfo_uaVYhXDwc1Lt6U_oYFpo97VNj1Sc2LypxNDPW0bRze9CAgDvpNQBF2gFrYWMEVLCOAShyl4MK386CkA5b4jmH7787OX1RuWf77gXNVtSvOY1wOvo0HkHIluHVaQ37kJzGHuI5lW7FpLDGQ5gZS03IaY35_Bj8Vgt2CTM9_D5xh0V1m1Jn2piYMFDMr9vuLotjqmz6wIIL6n5GvzUaeD80O_YbTaelSEN9frZ7d90hIXGWzZz35aNvcPI2Bv6vy6i",
+            "widthPx": 3600
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Alessandro Borrelli",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUWrofJvddyL9E3iCmurbzLbfxyQ4asOqvuiSdNSb4CpmXoVEI4=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/104078549326090353675"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAuasuuUgnk2F3-k1nTiEOP&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAuasuuUgnk2F3-k1nTiEOP!2e10!4m2!3m1!1s0x487605001e96f51f:0x96cce2239742a4c",
+            "heightPx": 885,
+            "name": "places/ChIJH_WWHgAFdkgRTCp0OSLObAk/photos/AWn5SU5PeICAt6GdZ9ti-pdBZc16jwQJC2enBbQBjADiGbdWUvZ4hLSKQvXc3Lilbo70NUfeVwj2f6GuzkvJIBgNdluY6ZDxIi657G5paShkd3Q1ovsrmywfSVoP2tgvL2vFziAKHapefwT1B0VuzFKL9jPQ3zHC4V1jMQHKs4JlnRga11epX8rWBBAcL5A5y2upz6TLApMEX1msMJPJ0hvyax7VrImqSaz_TCJxYgAtSI_L6QZcoSknZM06G9sfsVXdcxWim4U5m2pNC_qiJ0o4kez9Sy8r7RV3Qd5IAhaw-S7Hcz7WWgVr8BcFNVILv0ReYdOheO5pIfGOt7_twia45JiEimmVCBni1hDVC8vBiyojcNxNh4ag_CtL2IJhfiabsDssWmdaRCA2N8YgSN_SGVkQj3DxNN4ZIt_HkcG1__o0jsPp-pJvz_R8pjlLLTbR",
+            "widthPx": 1179
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Vasiniko",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXtSkYr71lk1gYAyFahuohv-rUzKrc_bmNVyqeQZaxBaW1ApzE=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/112591260020202082204"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNd7n0BWJ5k2gAtO0xhmFzjXnJHb9_moTr53MKK&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNd7n0BWJ5k2gAtO0xhmFzjXnJHb9_moTr53MKK!2e10!4m2!3m1!1s0x487605001e96f51f:0x96cce2239742a4c",
+            "heightPx": 4800,
+            "name": "places/ChIJH_WWHgAFdkgRTCp0OSLObAk/photos/AWn5SU5O2b_U4RSRmemDrX948Nwey-zjyg82zpPrbHJsc0PKD0VwB-pm5cOdBn1ER-uTGgpoEYvnOQ-tTuhE--g8OHiBzYtXsBMxXVE70Ea1qq63pDSLy44nqY0S1BR_iO-pxwBIqeWTUb8MmF0jEST5aJ1f9ngl6fHUWHVkmQ5Mo1Xt90_Bct1cNn1L_RuPEgRYVXk4vubg3nU7tHFbn6n2Y_7bQ88iiz2HByTjMzSAI7EKroRIAknDQVJzEekcfRzEEuDl1fz4quuw5D6EaBM5j-neLPdLNVN8nAm6pqWX529ktQ",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "sergio valentini",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUZpB-LS3kKx5Hvc0h5bzI60vn6k_9QS-c5_iTnBbWUDW4lq4TL=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/105555782901814617620"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhD9RDdU9Vd4Ec4UB4F2ehQC&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhD9RDdU9Vd4Ec4UB4F2ehQC!2e10!4m2!3m1!1s0x487605001e96f51f:0x96cce2239742a4c",
+            "heightPx": 3024,
+            "name": "places/ChIJH_WWHgAFdkgRTCp0OSLObAk/photos/AWn5SU7-37P9GVdh7F_HOaWt75cmWBxsANoksG1fBo4SLtkFT-63sd39bSvdMYmB-BziDdV1p41V2ZRRxJCoNbfasEFseARdStTe6UQylkJXqQX1JwLpzEJMSB3d0Q8Hztkm4Qn_q10t1Gowo427t8Tw7Z2k2g275FYvMYjpb6_xf413EaRa4F7Kdn-lAr0PEeHlKH28E2QcU_hGhXlLY9pRMR6xKXEYoI8pscHkLh-98duJHWv7-LlBuyQ9Cz2n-5FOt-_jvB-X2vv7hZM1CdzMkNQSoopPBE2TeFGw3oZVYCtGsHeLv8D_vB0MNu5Zlb5oeUi_ifxziLiGATj6v66OqplaPvYhWSOYHR4Nd8LXLWnoKIY2v_X3wvPnIAiQ3zmOBlApqdkzIfAbYy17hWmKDy2noOsLvdq_mrdMUwwmbRGDv_3fanjSuFFkuRx23-xU",
+            "widthPx": 4032
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "shiv '",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUeXr01BAajyEmzF0hkrgMNAfozF-Srzd5sPINR6cErLgwSMbtnYA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/115351300071511942567"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDzZ3Q-hpYp-Ntl7wECgf1y&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDzZ3Q-hpYp-Ntl7wECgf1y!2e10!4m2!3m1!1s0x487605001e96f51f:0x96cce2239742a4c",
+            "heightPx": 4000,
+            "name": "places/ChIJH_WWHgAFdkgRTCp0OSLObAk/photos/AWn5SU6bidnM3YqzmzFLw2vwj2JFc5-u_kA9VS3rCdMsh2HpUqNzZWcnJaQpJdvKX8nlk2e2VZ1uUQmKx5ei18Pd9z4duoP9tY2X7_R5PT3Oj_0wBeQIVpFTKkOtqH5KKi3dCI_Fshumm8okrhmx_CtP4Ou73kIOUA_rNrDKEq083pS2qCOy8oMuAOy9ZxqcAQ18yA6HXuwRwq7twJ50PQXmpxDe5UYBC_lxaxGz5TI3RxeeqApsZe4FdqJmBj9GmOi6kTZljugzi5Xg3JLyo9cD140Qv1VRKU84yqscXjauSV3rxTk0DGW3yeZHblfPEa4DpE5-BdGBAn59-zWsjsLhK4OQ3oTG3UuqDq4l8-Hqu5TUKWNvZ0iDElAggiBpRQ8snYODVWtagHkFNG3PbuWc8mVaJfqOUiLGyJ-SRpM7H61kfMw8pmdVs0S4MCw1MQ",
+            "widthPx": 3000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Fanny - Foodguidemarseille",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWW55s3Z9rQjaXfvJ2o6RzDEUsrrdySJWldSULtTx5MIW5n4rI=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/105541331808864274406"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDWzvkWfzLAtmqfFH7JfNDp&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDWzvkWfzLAtmqfFH7JfNDp!2e10!4m2!3m1!1s0x487605001e96f51f:0x96cce2239742a4c",
+            "heightPx": 4800,
+            "name": "places/ChIJH_WWHgAFdkgRTCp0OSLObAk/photos/AWn5SU4iNIMpf3kE__l-GJL8WnCibJD8DoOm3s_5TSEKL49G5BUZ9uNe7OzWiFZXWZDJj0pW6xXYmo0URbNw2JqC7nSMOO2Klg4ziU6dFZG0P8SUJkOjmiu1z8UbHkLZI4F1Dm1Io1E3-_qA-dZ8rLcgkZTIJYU-ltl9gToluArT5ZUY7tuXhh0tt3VGWlZvs2hAodqZOL2DctCLPibrFywY1XN9aYmx-PZu5s5morCI6wLd2LDQr5FFCkzjVtufExvYpRzj5ZbyOEGHhZRAywy2lYYR3AlNzGvXhTPoYdGdLb-zZFyeJ6StlCHRpIiu2XvohdWl30NXgSxgNfrjxzyOaHOCOfAi7kAfWW3REE6pO1I-eojr5FdSQqzrHtqbVa_CJgM3BMpEM3UyV2gfeYZoUMHnATwdRdXF3rHX8FgJIep9wNCYyj0iBqb3r2b364im",
+            "widthPx": 3600
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Dragan Maloševac",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUqX1pvPX3cnzSgHxAwJr1GbWWLyJwP_8_U6PhtT8W10uvlNQMZ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113984426018289118187"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKELHu8OXY0_-OJA&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKELHu8OXY0_-OJA!2e10!4m2!3m1!1s0x487605001e96f51f:0x96cce2239742a4c",
+            "heightPx": 3024,
+            "name": "places/ChIJH_WWHgAFdkgRTCp0OSLObAk/photos/AWn5SU5UgSEH-K5KHrg9VBYbTTmgCLqZWP2Te0DmVfrpLccg-sIvzJ4PjDaKj1GvqzDdVBe2XoZzczvlw5QLiedy063p_SzOTh-Abyz0XLryhWVnWfezM4L49lQLu5v097blK0RGDuOmqK7cq032rwN-aWQX4Me_eRwXk1QWOY-FEtS_tkipRrl-2DmIxi6tRsxlhMSaIYsnxOL_UIjFwjb2LRi7P_sT7KP01VEAp3gD0VS1ocjFnSYLTvyUqrHeqWVUVNXpsQbXtv_ivNudgZ8TqVxH9TMhG_P-I7-JN3HyVYvjpanqhojeOmR_WwUKPFFPHwhVseW_rJ30_9o9sjclfsYbeQju7wRvdJdlw3MM-MgzVRpYaZ0i2MkDM6qTIOjAncM-g3RP9az7Ij1bw_eD7TFLjdSPvVIg3dwjGIAxWj8",
+            "widthPx": 4032
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Jamie Hall",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWwE5veyKtV_NtBrHmUOg147Sd0yJLHTa_64ZRu-pw0BBnMDfB2dg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113095721156008116455"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDJ_Ef3RE7-b4T_WY32-yIf&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDJ_Ef3RE7-b4T_WY32-yIf!2e10!4m2!3m1!1s0x487605001e96f51f:0x96cce2239742a4c",
+            "heightPx": 3000,
+            "name": "places/ChIJH_WWHgAFdkgRTCp0OSLObAk/photos/AWn5SU6bpz56qUKxbrfTWctRbze8y7kSJON7ZKXr1XkzIiue0IOtGFv6ZkNynuUSVcjHhSZFEma9c3hkdMGs5DHE_EsBb7Z5OIKOTsxSUCkgEx_YKOXUTnSw19VWwT7JcBdh-INYFKXbhDOWokqcXqk9KAEodzz4GqKr4xpqA3-gHReENCNgCjqmPOe-Xc-rsId8P_jnJtERbHKStEHhMnfl67tpAWJayKXrfv3KaQVi16IApunH0tiaPbB5KFJ45Bj-eqEm3Q7QofdwCFe5QBjZGAMV8J6wJmUoz9JdxSvTjHZDTlSIRlygI6GK8MMJAp0C8ol0-mFMcT3euHHVfgiL7GrXSQUq5VaUMot5Et8Ps5HgRp34bGRXNwzFhgwAWdEBnhyUKzDTUhIwXZIEk_Mqt9zxJbTGVT2MaJ57XrAKZX9bXy0jGHVxsL784snx2uDS",
+            "widthPx": 4000
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV5F+MM London, UK",
+        "globalCode": "9C3XGV5F+MM"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "9 Adelaide Street"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2N 4HZ",
+        "regionCode": "GB"
+    },
+    "priceRange": {
+        "endPrice": {
+            "currencyCode": "GBP",
+            "units": "30"
+        },
+        "startPrice": {
+            "currencyCode": "GBP",
+            "units": "20"
+        }
+    },
+    "primaryType": "pizza_restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Pizza Restaurant"
+    },
+    "rating": 4.9,
+    "regularOpeningHours": {
+        "nextCloseTime": "2025-11-17T22:30:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 – 10:30 PM",
+            "Tuesday: 12:00 – 11:00 PM",
+            "Wednesday: 12:00 – 11:00 PM",
+            "Thursday: 12:00 – 11:00 PM",
+            "Friday: 12:00 – 11:00 PM",
+            "Saturday: 12:00 – 11:00 PM",
+            "Sunday: 12:00 – 10:30 PM"
+        ]
+    },
+    "reservable": true,
+    "restroom": true,
+    "reviewSummary": {
+        "disclosureText": {
+            "languageCode": "en-US",
+            "text": "Summarized with Gemini"
+        },
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=5%401:CAIQACodChtyc19oOjdaQkdJenBTQndUTS1sMWc4Tm52dEE%7CCAIQACoqChtyc19oOjdaQkdJenBTQndUTS1sMWc4Tm52dEESCwiE6LbIBhDApeBE&d=17924085&t=8",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487605001e96f51f:0x96cce2239742a4c!9m1!1b1",
+        "text": {
+            "languageCode": "en-US",
+            "text": "People say this pizza restaurant serves authentic Neapolitan pizza with fresh ingredients, and delicious calzones, carbonara, and pistachio tiramisu. They highlight the excellent service, friendly staff, and welcoming atmosphere. They also like the quick service and reasonable prices."
+        }
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Jake",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXeKZCAOKghFbhFQfy1o74haBy71P1yFBosXfXeaayNyyv1c0_h=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/116437306178608211934/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2toaGNYSlBSVFU1VDNCeVZ6RmZNRlJ3WjJWNFpYYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2toaGNYSlBSVFU1VDNCeVZ6RmZNRlJ3WjJWNFpYYxAB!2m1!1s0x487605001e96f51f:0x96cce2239742a4c",
+            "name": "places/ChIJH_WWHgAFdkgRTCp0OSLObAk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toaGNYSlBSVFU1VDNCeVZ6RmZNRlJ3WjJWNFpYYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "I was very surprised (solo traveler) today trying out this pizza and tiramisu. Lot of times places are very good reviewed but it is fake or not good, this was different.\n\nPizza dough was amazing, delicious and worth the price imo. It was a bit burnt, just a bit the bubbles but it happens. For me I have nothing bad to say, and this is lowkey hidden gem ngl."
+            },
+            "publishTime": "2025-11-06T15:50:41.768408307Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a week ago",
+            "text": {
+                "languageCode": "en",
+                "text": "I was very surprised (solo traveler) today trying out this pizza and tiramisu. Lot of times places are very good reviewed but it is fake or not good, this was different.\n\nPizza dough was amazing, delicious and worth the price imo. It was a bit burnt, just a bit the bubbles but it happens. For me I have nothing bad to say, and this is lowkey hidden gem ngl."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Alexey Subach",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLbUad5ZGMw49mlRb7vYrk1LojgyuzayO9AV1ufN1suxfVzyw=s128-c0x00000000-cc-rp-mo-ba8",
+                "uri": "https://www.google.com/maps/contrib/106339600033490415641/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2poWFdIUllPR0Z3T1ZKclNsaFhSMlZJU1RkcFVVRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2poWFdIUllPR0Z3T1ZKclNsaFhSMlZJU1RkcFVVRRAB!2m1!1s0x487605001e96f51f:0x96cce2239742a4c",
+            "name": "places/ChIJH_WWHgAFdkgRTCp0OSLObAk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poWFdIUllPR0Z3T1ZKclNsaFhSMlZJU1RkcFVVRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "The experience was good overall. The place is fairly small and offers a good selection of pizzas. The 5 formaggi was a little less interesting than a usual Quattro formaggi pizza due its selection of cheese kinds but it was still good and the dough was good too. I like my pizza a bit more baked though, and the borders were too thick. One pizza can be shared for 2 people if you are not too hungry. Focaccia provola abd tartufo was not good though - it had too much focaccia and too little cheese/sauce, to tasted like bread and did not match my expectations at all. Overall the place is good and offers decent value for money but there is nothing standing out"
+            },
+            "publishTime": "2025-11-03T08:08:01.033418429Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "2 weeks ago",
+            "text": {
+                "languageCode": "en",
+                "text": "The experience was good overall. The place is fairly small and offers a good selection of pizzas. The 5 formaggi was a little less interesting than a usual Quattro formaggi pizza due its selection of cheese kinds but it was still good and the dough was good too. I like my pizza a bit more baked though, and the borders were too thick. One pizza can be shared for 2 people if you are not too hungry. Focaccia provola abd tartufo was not good though - it had too much focaccia and too little cheese/sauce, to tasted like bread and did not match my expectations at all. Overall the place is good and offers decent value for money but there is nothing standing out"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "shiv '",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUeXr01BAajyEmzF0hkrgMNAfozF-Srzd5sPINR6cErLgwSMbtnYA=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/115351300071511942567/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w5emVESXlRMEl3UkdNelRVRnFiR1pJZVVOelJGRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5emVESXlRMEl3UkdNelRVRnFiR1pJZVVOelJGRRAB!2m1!1s0x487605001e96f51f:0x96cce2239742a4c",
+            "name": "places/ChIJH_WWHgAFdkgRTCp0OSLObAk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5emVESXlRMEl3UkdNelRVRnFiR1pJZVVOelJGRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Visited on Thursday. When you walk past the restaurant, you cannot miss it, with it's vibrant décor. We were welcomed by the waitor who served us very nicely throughout. Drinks arrived promptly and pizza took around 15-20 mins. Excellent Neapolitan pizza, with beautiful crusts (and the garlic dip is lovely). Tiramisu was a decadent way to end the meal. Will be back."
+            },
+            "publishTime": "2025-10-27T10:45:34.671438902Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "3 weeks ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Visited on Thursday. When you walk past the restaurant, you cannot miss it, with it's vibrant décor. We were welcomed by the waitor who served us very nicely throughout. Drinks arrived promptly and pizza took around 15-20 mins. Excellent Neapolitan pizza, with beautiful crusts (and the garlic dip is lovely). Tiramisu was a decadent way to end the meal. Will be back."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "AK Travels",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX4BdGdMKEQcOa-q5Q_eXiPaJnJro66YmbstmtPHeuIEcnCi6FL=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/105941935927874775106/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT214Q2JrMTZaa05IVGpRMldUZEliekZKWjJKcGNXYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214Q2JrMTZaa05IVGpRMldUZEliekZKWjJKcGNXYxAB!2m1!1s0x487605001e96f51f:0x96cce2239742a4c",
+            "name": "places/ChIJH_WWHgAFdkgRTCp0OSLObAk/reviews/Ci9DQUlRQUNvZENodHljRjlvT214Q2JrMTZaa05IVGpRMldUZEliekZKWjJKcGNXYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Vasiniko, London\n\nHad such an amazing experience at Vasiniko! The service was excellent — a special shoutout to Francesco for being so warm and attentive. The food was incredible, the Parmigiana Pizza and Bolognese were both packed with flavour and cooked to perfection!\n\nFinished off with their Pistachio Tiramisu, which was absolutely divine. Highly recommend this spot for authentic Italian food in London! 🇮🇹"
+            },
+            "publishTime": "2025-10-25T16:07:07.324400090Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "3 weeks ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Vasiniko, London\n\nHad such an amazing experience at Vasiniko! The service was excellent — a special shoutout to Francesco for being so warm and attentive. The food was incredible, the Parmigiana Pizza and Bolognese were both packed with flavour and cooked to perfection!\n\nFinished off with their Pistachio Tiramisu, which was absolutely divine. Highly recommend this spot for authentic Italian food in London! 🇮🇹"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Jonny Taylor",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWooUymAaHWDZrJtcoBxYNrr1YMtRtbM8_DURbSPUK-RoLdMuew=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/108584049681988832987/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wZk5qUkthV2hIZERKM09XTllURlpmV25JMVpXYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wZk5qUkthV2hIZERKM09XTllURlpmV25JMVpXYxAB!2m1!1s0x487605001e96f51f:0x96cce2239742a4c",
+            "name": "places/ChIJH_WWHgAFdkgRTCp0OSLObAk/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wZk5qUkthV2hIZERKM09XTllURlpmV25JMVpXYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "One of the best Neapolitan pizzas I’ve ever had. I just went for a simple margarita. The crust was just so light and fluffy, it was perfect. Service and atmosphere were OK but if you just want a great Neapolitan pizza then I would definitely recommend!"
+            },
+            "publishTime": "2025-09-17T21:41:03.440321111Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "2 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "One of the best Neapolitan pizzas I’ve ever had. I just went for a simple margarita. The crust was just so light and fluffy, it was perfect. Service and atmosphere were OK but if you just want a great Neapolitan pizza then I would definitely recommend!"
+            }
+        }
+    ],
+    "servesBeer": true,
+    "servesCocktails": true,
+    "servesCoffee": true,
+    "servesDessert": true,
+    "servesDinner": true,
+    "servesVegetarianFood": true,
+    "servesWine": true,
+    "shortFormattedAddress": "Charing Cross Underground Shopping Concourse, 9 Adelaide St, London",
+    "takeout": true,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "pizza_restaurant",
+        "italian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 2287,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.5106164302915,
+            "longitude": -0.12448846970849796
+        },
+        "low": {
+            "latitude": 51.5079184697085,
+            "longitude": -0.127186430291502
+        }
+    },
+    "websiteUri": "https://vasinikopizza.co.uk/trafalgar",
+    "timestamp": 1763481600
+}

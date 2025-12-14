@@ -1,0 +1,810 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleEntrance": false,
+        "wheelchairAccessibleParking": false,
+        "wheelchairAccessibleRestroom": false,
+        "wheelchairAccessibleSeating": false
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "13-15",
+            "shortText": "13-15",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Tavistock Street",
+            "shortText": "Tavistock St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2E 7PS",
+            "shortText": "WC2E 7PS",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJs4GOh8sEdkgRRiBFZKMP8ZE",
+                "placeId": "ChIJs4GOh8sEdkgRRiBFZKMP8ZE"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "London Transport Museum"
+                },
+                "name": "places/ChIJLZLvpcsEdkgRnDYX5KYtpA4",
+                "placeId": "ChIJLZLvpcsEdkgRnDYX5KYtpA4"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Holborn"
+                },
+                "name": "places/ChIJA7_adjUbdkgR_XPGaE3twAI",
+                "placeId": "ChIJA7_adjUbdkgR_XPGaE3twAI"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Lyceum Theatre"
+                },
+                "name": "places/ChIJcXx0Uoms2EcR8Be43HHdy2U",
+                "placeId": "ChIJcXx0Uoms2EcR8Be43HHdy2U",
+                "straightLineDistanceMeters": 84.37089,
+                "travelDistanceMeters": 79.70218,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "London Transport Museum"
+                },
+                "name": "places/ChIJ4bF21K8FdkgRDXc6FiSVAzE",
+                "placeId": "ChIJ4bF21K8FdkgRDXc6FiSVAzE",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 99.31043,
+                "travelDistanceMeters": 115.29252,
+                "types": [
+                    "cafe",
+                    "establishment",
+                    "food",
+                    "museum",
+                    "point_of_interest",
+                    "store",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Royal Ballet and Opera"
+                },
+                "name": "places/ChIJySOgh8sEdkgRCBzTYt83Klg",
+                "placeId": "ChIJySOgh8sEdkgRCBzTYt83Klg",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 149.62221,
+                "travelDistanceMeters": 186.08208,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Theatre Royal Drury Lane"
+                },
+                "name": "places/ChIJj91E_coEdkgRlUibJh13Jws",
+                "placeId": "ChIJj91E_coEdkgRlUibJh13Jws",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 63.17755,
+                "travelDistanceMeters": 85.05001,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "store",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Novello Theatre"
+                },
+                "name": "places/ChIJ9Y2XiMoEdkgRacNkr9x-4Bs",
+                "placeId": "ChIJ9Y2XiMoEdkgRacNkr9x-4Bs",
+                "straightLineDistanceMeters": 76.35856,
+                "travelDistanceMeters": 119.32687,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            }
+        ]
+    },
+    "allowsDogs": false,
+    "businessStatus": "OPERATIONAL",
+    "curbsidePickup": false,
+    "currentOpeningHours": {
+        "nextOpenTime": "2025-11-25T12:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 20,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 – 10:30 PM",
+            "Tuesday: 12:00 – 10:30 PM",
+            "Wednesday: 12:00 – 10:30 PM",
+            "Thursday: 12:00 – 10:30 PM",
+            "Friday: 12:00 – 10:30 PM",
+            "Saturday: 12:00 – 10:30 PM",
+            "Sunday: 12:00 – 8:30 PM"
+        ]
+    },
+    "delivery": false,
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Delamina Townhouse"
+    },
+    "formattedAddress": "13-15 Tavistock St, London WC2E 7PS, UK",
+    "goodForChildren": false,
+    "goodForGroups": true,
+    "goodForWatchingSports": false,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x4876056f888a2693:0x2653397f813a8452!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x4876056f888a2693:0x2653397f813a8452!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=2761614216299971666&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x4876056f888a2693:0x2653397f813a8452!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x4876056f888a2693:0x2653397f813a8452!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=2761614216299971666&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJkyaKiG8FdkgRUoQ6gX85UyY",
+    "internationalPhoneNumber": "+44 20 4586 5555",
+    "liveMusic": false,
+    "location": {
+        "latitude": 51.512286599999996,
+        "longitude": -0.1204266
+    },
+    "menuForChildren": false,
+    "name": "places/ChIJkyaKiG8FdkgRUoQ6gX85UyY",
+    "nationalPhoneNumber": "020 4586 5555",
+    "parkingOptions": {
+        "freeStreetParking": true,
+        "paidStreetParking": true
+    },
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Ben",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocISp1aipQxWnIweDYT4A0781PnMLvh4JoFtcQ3irlhjenQJBg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117904319521491855231"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDGk8lRgAHUL-JNY-HB0KYn&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDGk8lRgAHUL-JNY-HB0KYn!2e10!4m2!3m1!1s0x4876056f888a2693:0x2653397f813a8452",
+            "heightPx": 2219,
+            "name": "places/ChIJkyaKiG8FdkgRUoQ6gX85UyY/photos/AWn5SU7unvYkMCDAzG3CKNRY6SvcvxRuHDcXXN7RIjLpOf4kiS5J6sXYKtxEbxoskj8lUXrEutYkl09z_LlRN0JOl7m7c11QST9pvzfAQiFsvCBPDmpd6zlDxY3PUabyHiC4FSLPdp12Fufj6A7kGu9lwCTBaTo3dvWJLXUTT9TPDaqTQJvpasW8aluwMrk4xMSgCEHgZptaWQ0Loqw4MM96eWHC6Xr5l-T4nNl2kOw2sveWuXtUbdY7XsHG0CYNctsX1yND2ee0KcyUJ0YTUVjKNM6ub3wQUV6PlwJhSiALidzVdYyBTORaZY10BWzxpvRK_mbIPLeAMkWPBSufJx4dEj-0qjwbb0NMKxRLR2hBPsQIpOatTBCwm3LRQM1zcJoz6d8e1tJnCLslGOV86MG6e6PygsBUboGg3qXP19bWog8nWOm1vn_mLqWQX5-N659s",
+            "widthPx": 2997
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Delamina Townhouse",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocId8ToUHxyz3XvR8f5PjByNmW6H8icbaXDE9um6kk2Noj_bDw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/116287774555322473721"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPLM5GfWIJHI3bVGtyrg_KsIuKH7952KG31lZOw&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPLM5GfWIJHI3bVGtyrg_KsIuKH7952KG31lZOw!2e10!4m2!3m1!1s0x4876056f888a2693:0x2653397f813a8452",
+            "heightPx": 1772,
+            "name": "places/ChIJkyaKiG8FdkgRUoQ6gX85UyY/photos/AWn5SU72a5YayhXCb4fl7U1g4op1CMq1VZSqoO1R8CPD7tGxnT-iWl1vlD7D20wotJbQvvcsdbmeoC5av9kG3BXxlETaWKZP7u6K6PMV519TaFUMAjI9GUyeIxYWfeuiLTJsJFJvnjhe-89JNZ0gDoXdVgqN0iDmK_Psh1MTNvjNvQMSxmIJitx4yv_HR5qw0rK975O_w1TA1HIo0wicix5vLTkj5fX6XT2P6n_m5J-mzzbrHH8PkBZXRz5mett9Pe854DH0pazU0lUcrPKmpDfWuX4c7Dd96hQGAK70YGAq9zhXQA",
+            "widthPx": 1772
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Ciara Shalome",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJh99sY6yQjbn1hsATlrDdEAbpqFdx7cY4ZW0DDHUF6KL8JsQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/108495618701858705930"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAXLWRSKcpGOKDIUx5cBWsx&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAXLWRSKcpGOKDIUx5cBWsx!2e10!4m2!3m1!1s0x4876056f888a2693:0x2653397f813a8452",
+            "heightPx": 4032,
+            "name": "places/ChIJkyaKiG8FdkgRUoQ6gX85UyY/photos/AWn5SU4HOecu6cnd8RoenHWiR2eovkpiPajBMbmFsJKqKMvqBLK5oapCZtV30Dt623B1uuRa0fh6zvRhxYm39512Joy5cICc9tpjj-3CZRwOMw-_f9pJkgarAa2m0wuL-scEE-1SRS7nY7XABBpXgWN7nS_d43H_joLq_hWMuN-BeL-Wt0KnLNU1jZ56lOT3Sd2WD6ZXr3_vs-Vinzda-Wp0naKOu5dHzRTSqtI9bGNCNjfGlEZWoo-KWd4p5Vb1WqCPeLvwIj4i-Kl4h4bwpsPnzqfOyWlqPMcYJCKdbXVpN4PunAflWbFF7qHLEFkaDjRfOP53eoUnnlEk5x0wNLyL-Wb__Cv76di72u4VtWsKqOTOqehboylan73DR8Jo8Mk2HEcGfCqonfCnSPpe12JF-nvDx6TXzWKmSq42J7_PPlz47IfAGu2u8oPX0s4UaEpd",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Lucy",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjULJZn55dkMC92Aqri29G8DuZUOO0YGC5SNl8jMnM5AgE47pmjH=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113673245678981769037"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDw-If1sQE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDw-If1sQE!2e10!4m2!3m1!1s0x4876056f888a2693:0x2653397f813a8452",
+            "heightPx": 923,
+            "name": "places/ChIJkyaKiG8FdkgRUoQ6gX85UyY/photos/AWn5SU5Dak-kCL05HdwGkXPf_Fp818Zyfp3f6UF4lK8OCpW10XFyBU8_MrGEtoWJg_eYzbL93bR2Z1G7LGrmlkVJcq7oL9JaHGSbVwPsNmrQtX_Dk01-N2De5O21zw7rlMvWT0NJbwwRC7GkwIhYIMLS8lnWpUOe8jWr4D3KHsYVJIVMPjl8_GGGoGXO5IZB7yD-AxpvwpixXb5_aEz0Qdy3Ff3UKff-o1_hUMc3rNC9yc0n-OMX_Xi5U6FE5AQNll7PKJZKwborbREb55lBAnxtJWwKp07psl-X-kIjLqeF-DoyQO0nuvvdvSSE_aB5bGLVU1eJcnqBlL6bqla9_9OyDOK5NRw7s08DFi5IFT5IpjJw-vGFXc6tZFd8lijlDiPAxF3PFtFWCaM6woSqQcKf1IgGw7qm8riR0DqAhqcJazABBmg9",
+            "widthPx": 834
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Karo",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJQJ04C1AUKqexUPDISrNlVgRiygyFzTbcxiNNPQfJkcsX9SOQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/107044225865950722824"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDXGhB_nV88XnhY8hCMnOlM&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDXGhB_nV88XnhY8hCMnOlM!2e10!4m2!3m1!1s0x4876056f888a2693:0x2653397f813a8452",
+            "heightPx": 4032,
+            "name": "places/ChIJkyaKiG8FdkgRUoQ6gX85UyY/photos/AWn5SU53r3y63hTrDsSv9Gx6HAy6-ZkQ_plgcudu0gvPZG-vAWob9gBeMHF_00cDzFkdpRG9TVeFUjskZjuz3g_vvFm7mYV-WhFVs2_CXbai-vY4qATN3-b-4FrdcHRkeypiFOPCp0DtrupHcwYms76-k8Hgb4RZHmL7Tnt6e_xIWF2LyLtBy4hKtihuDPSCN99eqbFn0CAzFwyTwBWdSS44lPQqk8QMChMtcTuEYgwXf9bohl9n4PuJI3drLPFvQRNc9dqNrEIQO-I8ye7Dyin1od2OKULnNa9o7SXe4jOrXXorngfOapqt-R5A5Ek9rKy3ONMbVZslnPjZCwDzI9aw7BmYhpQvdP5LT213C_i8Woz-nqwwu1kHbH1AS-VJqDX3vxUT3HS9s4z4DUvjb_3H5pB6tzmXwK6Fdruhs3ar_Z3IkVn8DodPJmbTb0qhj1jB",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Sau Tran",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUJmsVoQ81qczegY8K1V66WhRfJAm1u8COohN5o3Y_MFE9NKIQx=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/116712867661557557128"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICP6pD_2AE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICP6pD_2AE!2e10!4m2!3m1!1s0x4876056f888a2693:0x2653397f813a8452",
+            "heightPx": 3072,
+            "name": "places/ChIJkyaKiG8FdkgRUoQ6gX85UyY/photos/AWn5SU7rZFbVT7th7lA_1H19QEUos1Vz3wErwymBNfEGr4LQ1QgHvcPfst21PyEJw4KmTkENzk7AK4CfxRSf1fP2ZLV_7axc5ymEpTGuegCfSf2NdgqKkirn8LNlZ0TVZjNnZs79R7_iRvRuVsfHWOjFQDb2CZF3rj0LFcMJphVpH2xEki5WihaI5tJ3C5b5ief0qf3g3NvQDd6feo_7AmKagbeyoedwDlH-Rmh24pXKogzCtTKrm7TtWZI5t_5YPSbp86sCasOFzNdcfWqhCiE9bAFZ-PhT7-kdozcv31WsaaVh9yxSamrx-JxSoeF1aA_XLed3R5Jel9jjxjPMJ5vZQrcWI7kNcTNX8nrI8CW-pSibXp76tANRm4mWNpYOdHbI3lfQ-fc-LrmdmpHrl-NaUC8d4wWyOt77JWHOyi7PYK8t3i0",
+            "widthPx": 4080
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Tomas Pardiñas",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWsfvD_HxdrI_2VBQnfDXzjq50GukXouUanDYXcss0xFwxmcSB2hA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/104313490113816699879"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCM8m0IEMR2SgqGwujX-RD_&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCM8m0IEMR2SgqGwujX-RD_!2e10!4m2!3m1!1s0x4876056f888a2693:0x2653397f813a8452",
+            "heightPx": 4800,
+            "name": "places/ChIJkyaKiG8FdkgRUoQ6gX85UyY/photos/AWn5SU5V4b75QXIeSc56Lz7MEQH_wJVF4DQVdSv7vBAGds5p4uNRk8DiMefLOQTny_ll_47Z1eejjTiR1rStqyQJ6s7SP29HHHxMTwWJh4MjDqQ1Kxioi8hQewNX-F2QnCRFbfw0d157GleUDDpmc9PTB9W2M64raX6h1umSWHAIvMTbQtPV9mvd5fSmEl6PZBc0b3kBguEOD116psg7IcrQ6lNHlAJg1rDSlNt1BjuSjOW_eEQCnI-iUJ1_xrcQU5OCMyED9cFCE5cyndIbx1Sm47ewOXK6ioS229-M9bkbYk7pMI2d4BVie55Wl9XybTXRSxWbnnJduIrRzx0zR10gYGWoPOcKyZLY-8N_tW_THVh-TJVb_vDxZGgZW4JjKSoOl_nfMzcnMwlpL4Da8O1VOOB_u6Ec6wU0Yx2YKSKdzM8VxKUPpIYUBnBqGISK2Jxl",
+            "widthPx": 3600
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Daisy Smith",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXbnHXxhg4k9u8pP1IISu4moySgzbRkTVeZeKjGdhdAlERAGu8o=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/103531035113422536315"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEKCrre-w65uKtAE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEKCrre-w65uKtAE!2e10!4m2!3m1!1s0x4876056f888a2693:0x2653397f813a8452",
+            "heightPx": 4032,
+            "name": "places/ChIJkyaKiG8FdkgRUoQ6gX85UyY/photos/AWn5SU6nbraFiCA9mDtWFVT-prGtP6kjOJus_m6kIzd6XrL3UGLxz2U0oJIvgB9mN2DYBaqCJ0x5FwvQ0kFj9ljc3C6ZN1ISCx6RWZ_7U0FrLGXHFccTri0HSu7OuH7GoIjWwjTyKsoAQLC0pOZC7SMf2Nw55QPM_WRx5ah--Q9IEkJ2EZ1QnXLULjRsXN7BXZgcAACXQOy3QUu_iCJo0LI2rZv4V6DzULPsgOlARqjdPvW5zhhQLPRxl1rNsEzieXk4yNVG7WVieyCcTUsItlBhyI1YZAvtfHYjeUnWTnNe1gbEyn-69ofY-kQHG7FdzUgHiDXlnR8Kxc6tmZoxssM2tUuEfYksU70j08v6U_9THZZvtYhBbXWxvtL8gyfAu7ET6GIGT2BQfxhLssK9putO0gZh8tQ--Edycb85CVrZ0MECu_W8",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Karo",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJQJ04C1AUKqexUPDISrNlVgRiygyFzTbcxiNNPQfJkcsX9SOQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/107044225865950722824"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBXGUCgXiY1EISh0mMGKE3a&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBXGUCgXiY1EISh0mMGKE3a!2e10!4m2!3m1!1s0x4876056f888a2693:0x2653397f813a8452",
+            "heightPx": 4032,
+            "name": "places/ChIJkyaKiG8FdkgRUoQ6gX85UyY/photos/AWn5SU5hDha3D3NMuIjyfJfDqDuhnXmpyg5L8btDytSLGqGmWsr7i4BH8ibUvlfglcwOurgny3W4JVkgfUP0qdIU_qD6KMtpqs_CkfROT_BG2mpca4Redyvt6P0bl08bNObxAGSpgod3PZubSjchgbTera27ZyQGGioruJDpiwJyF4FvgwsI47Vj6d40FNzk83YICApStfsQPuRCGuW_Y4ygnk7ASGfyNli0vrG14tTQm1cOqmPIYIQO1-QrOxfB1L3XVwROE8nUlUwo1gUQi-5faxnz-JvuzME2t3c4E3AaHuO9IaCAB9FBZ8T-jHEwyX9I4ZvLnD4VA_lFIb4-npzEAxGFwGYZVJrMhKWVESYf39JFsPPqy10bEljxJ_0gZJPkQeR-TuxVcHNVuQhFDqbzMAVuuLnRAE6nvl8sQ7n9Iro1EG4lnmjnQ36-iTg5DQ",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Sau Tran",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUJmsVoQ81qczegY8K1V66WhRfJAm1u8COohN5o3Y_MFE9NKIQx=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/116712867661557557128"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICP6pD_uAE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICP6pD_uAE!2e10!4m2!3m1!1s0x4876056f888a2693:0x2653397f813a8452",
+            "heightPx": 3072,
+            "name": "places/ChIJkyaKiG8FdkgRUoQ6gX85UyY/photos/AWn5SU7AvZU2qLdOUJ9_hrzaOTSSmGBvvfAMhT-GfUU2n_ECgR9pczMq50vRbqr9vhCfYZ0qrmRKTYraPHYHBqr4catnQZFM7FlDfPzsmItkgmPvxU86ZUHQsYHmEPSaOjRgFy53yYEoJgBV6yzJkqoB7PmoNtFuUMQyBTo0OGbC9ErrvPme4bMj4OjCBEoNsuIEo8h47jM5vwc_qMYqkIQd6Ww27f6hFLCW7hPbdWSzMWevV1trLYzkxPhvx_RMiVhGcB8R-QM92V9T89cK2GG-y1qzKjYJrQmNwE7aZFcR-9IPEFI4J-BBrkWMw6plavTCja_baBI4_qFyTLcJbjLVbp5TjeN7OzUb_Gz-XX_VblRS-DqtjVG8YYjc0W7L5xwNwnNEfECgjUproBsfOBxVxz0EGJkR_zXeK5iGb8Q2jZJ_6x_E",
+            "widthPx": 4080
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV6H+WR London, UK",
+        "globalCode": "9C3XGV6H+WR"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "13-15 Tavistock Street"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2E 7PS",
+        "regionCode": "GB"
+    },
+    "primaryType": "restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Restaurant"
+    },
+    "rating": 4.6,
+    "regularOpeningHours": {
+        "nextOpenTime": "2025-11-25T12:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 20,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 – 10:30 PM",
+            "Tuesday: 12:00 – 10:30 PM",
+            "Wednesday: 12:00 – 10:30 PM",
+            "Thursday: 12:00 – 10:30 PM",
+            "Friday: 12:00 – 10:30 PM",
+            "Saturday: 12:00 – 10:30 PM",
+            "Sunday: 12:00 – 8:30 PM"
+        ]
+    },
+    "reservable": true,
+    "restroom": true,
+    "reviewSummary": {
+        "disclosureText": {
+            "languageCode": "en-US",
+            "text": "Summarized with Gemini"
+        },
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=5%401:CAIQACodChtyc19oOktzMnBkYnMxZkFORTNjeFU3YWcxSmc%7CCAIQACoqChtyc19oOktzMnBkYnMxZkFORTNjeFU3YWcxSmcSCwiE6LbIBhDApeBE&d=17924085&t=8",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x4876056f888a2693:0x2653397f813a8452!9m1!1b1",
+        "text": {
+            "languageCode": "en-US",
+            "text": "People say this restaurant serves delicious roasted cauliflower, lamb, and fish, with excellent vegetarian and vegan options. They highlight the interesting wine list, the tasty kubaneh with spreads, and the divine chocolate mousse. They also like the relaxed atmosphere and attentive service."
+        }
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Jonathan Pink",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKtrBO9bv2Qu6t-98SqCHbxRJyIjX8z9soEK7W0CdsawGWIsQ=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/109673954603532849531/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pkUGMwWkViMUJPU205cmJHTXRkekUzZDBScGRrRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkUGMwWkViMUJPU205cmJHTXRkekUzZDBScGRrRRAB!2m1!1s0x4876056f888a2693:0x2653397f813a8452",
+            "name": "places/ChIJkyaKiG8FdkgRUoQ6gX85UyY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkUGMwWkViMUJPU205cmJHTXRkekUzZDBScGRrRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "This restaurant serves very tasty and different Mediterranean style food. It has dishes that cross both the African & European spectrum. We were walking by looking for a pre-show dinner. The restaurant looks enticing, relaxed and we were warmly welcomed. We sat at a window table, which had a curved sofa seat to share.\nWe had a courgette starter that was so tasty, different layers of spice and texture.\nOur mains are in the photo. My wife had the Beef Shawarma, that was delicious. I had the lamb, it is seared in spice, but is quite rare in the centre.\nThe dessert was called Mixed Berries, but was a delicious version of Eton Mess.\nThe staff were very attentive and friendly. They were happy to explain the menu and the ethos of the restaurant. The food is value for money and the atmosphere is nice. A hidden gem near Covent Garden, located on Tavistock Street."
+            },
+            "publishTime": "2025-10-03T20:19:32.686100723Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "This restaurant serves very tasty and different Mediterranean style food. It has dishes that cross both the African & European spectrum. We were walking by looking for a pre-show dinner. The restaurant looks enticing, relaxed and we were warmly welcomed. We sat at a window table, which had a curved sofa seat to share.\nWe had a courgette starter that was so tasty, different layers of spice and texture.\nOur mains are in the photo. My wife had the Beef Shawarma, that was delicious. I had the lamb, it is seared in spice, but is quite rare in the centre.\nThe dessert was called Mixed Berries, but was a delicious version of Eton Mess.\nThe staff were very attentive and friendly. They were happy to explain the menu and the ethos of the restaurant. The food is value for money and the atmosphere is nice. A hidden gem near Covent Garden, located on Tavistock Street."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Khrystyna T",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVY7Gk7VCwBpcY6gN97QL9FUNIcOIYsSVxK-zWIGj6UTTn6DZEz=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/104261197823624820950/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wcVlqZHhWREpLWlhJNVdsRk9WV3BVVkRabFYxRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wcVlqZHhWREpLWlhJNVdsRk9WV3BVVkRabFYxRRAB!2m1!1s0x4876056f888a2693:0x2653397f813a8452",
+            "name": "places/ChIJkyaKiG8FdkgRUoQ6gX85UyY/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wcVlqZHhWREpLWlhJNVdsRk9WV3BVVkRabFYxRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "We had an amazing birthday dinner at this restaurant and spent over £400 for the evening. The dining experience upstairs was excellent—great food, attentive service, and lovely atmosphere.\n\nHowever, our experience was completely let down when we moved downstairs to enjoy some wine outside. The bar manager (a lady with glasses) showed very poor customer service. She was repeatedly bothering us about moving chairs, even though we were careful not to block any areas. Worst of all, she asked us to leave before the bar had even closed, which felt extremely rude and unwelcoming.\n\nAfter spending so much for a special occasion, this was truly disappointing and unacceptable. It’s a shame that such a good meal was ruined by unprofessional and ungracious treatment at the bar. We expected far better from a place of this standard."
+            },
+            "publishTime": "2025-07-03T21:34:53.768306037Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "4 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "We had an amazing birthday dinner at this restaurant and spent over £400 for the evening. The dining experience upstairs was excellent—great food, attentive service, and lovely atmosphere.\n\nHowever, our experience was completely let down when we moved downstairs to enjoy some wine outside. The bar manager (a lady with glasses) showed very poor customer service. She was repeatedly bothering us about moving chairs, even though we were careful not to block any areas. Worst of all, she asked us to leave before the bar had even closed, which felt extremely rude and unwelcoming.\n\nAfter spending so much for a special occasion, this was truly disappointing and unacceptable. It’s a shame that such a good meal was ruined by unprofessional and ungracious treatment at the bar. We expected far better from a place of this standard."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Prof Bob",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWEI9m_pDRxthqfsE8BP9DUJ0nq-x0H6GsHOcAxsK306sYtRCk3=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/117149276093926585672/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wdlRuZExXVlJ0YUUxYVlXVjFla3MyV1hwZmMwRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wdlRuZExXVlJ0YUUxYVlXVjFla3MyV1hwZmMwRRAB!2m1!1s0x4876056f888a2693:0x2653397f813a8452",
+            "name": "places/ChIJkyaKiG8FdkgRUoQ6gX85UyY/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wdlRuZExXVlJ0YUUxYVlXVjFla3MyV1hwZmMwRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Excellent food that arrived as a tsunami of tapas size dishes from hispi cabbage to battered mushrooms (and mushroom dip), cauliflower steak and a lovely tomato aubergine dish. Excellent service and a separate room for our group of 11. Very good vegan options. Highly recommended"
+            },
+            "publishTime": "2025-06-08T12:57:55.017311018Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "5 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Excellent food that arrived as a tsunami of tapas size dishes from hispi cabbage to battered mushrooms (and mushroom dip), cauliflower steak and a lovely tomato aubergine dish. Excellent service and a separate room for our group of 11. Very good vegan options. Highly recommended"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Kirstie",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKbfW_P4V2hNUrm5Spss5_3em-xOTV9_RF0-XCGzEbHEim4og=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/111128359167979466135/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21sNVZqYzNSa0oyTVVSbk56Qk9VbUpXTTJjMFMwRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sNVZqYzNSa0oyTVVSbk56Qk9VbUpXTTJjMFMwRRAB!2m1!1s0x4876056f888a2693:0x2653397f813a8452",
+            "name": "places/ChIJkyaKiG8FdkgRUoQ6gX85UyY/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sNVZqYzNSa0oyTVVSbk56Qk9VbUpXTTJjMFMwRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "A gem in the theatre district. The food was incredible, creative options with top quality produce. Very good for gluten free options, and staff were knowledgable and accommodating for coeliac diner. Gorgeous interior, vibe is chic but not pretentious"
+            },
+            "publishTime": "2025-07-27T12:54:27.102645253Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "4 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "A gem in the theatre district. The food was incredible, creative options with top quality produce. Very good for gluten free options, and staff were knowledgable and accommodating for coeliac diner. Gorgeous interior, vibe is chic but not pretentious"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Sophie Clapton",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLXSV4VTK03kRnbtYKQtDx5WgILwBBVl8ZoRm260MtrGw1citU=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/107873143005053575598/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25CeVZteHhZbXRRTTJsbFpVazVRM05zV1ZwRVQwRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CeVZteHhZbXRRTTJsbFpVazVRM05zV1ZwRVQwRRAB!2m1!1s0x4876056f888a2693:0x2653397f813a8452",
+            "name": "places/ChIJkyaKiG8FdkgRUoQ6gX85UyY/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CeVZteHhZbXRRTTJsbFpVazVRM05zV1ZwRVQwRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Love humus - need more pitta for amount of humus. Food was good but lowkey a little dry. Like chicken was good, but not enough sweet potatoe to match amount of chicken. If that makes sense? Service was friendly but a little forgetful, and they were nice but felt the sales nature coming through. Don’t blame the waiters tho. Was nice but wouldn’t come again just for the price and not being stuffed or amazed at the flavours"
+            },
+            "publishTime": "2025-11-14T22:10:29.940535408Z",
+            "rating": 3,
+            "relativePublishTimeDescription": "a week ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Love humus - need more pitta for amount of humus. Food was good but lowkey a little dry. Like chicken was good, but not enough sweet potatoe to match amount of chicken. If that makes sense? Service was friendly but a little forgetful, and they were nice but felt the sales nature coming through. Don’t blame the waiters tho. Was nice but wouldn’t come again just for the price and not being stuffed or amazed at the flavours"
+            }
+        }
+    ],
+    "servesBeer": true,
+    "servesBrunch": true,
+    "servesCocktails": true,
+    "servesCoffee": true,
+    "servesDessert": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "servesWine": true,
+    "shortFormattedAddress": "13-15 Tavistock St, London",
+    "takeout": false,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "restaurant",
+        "mediterranean_restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+    ],
+    "userRatingCount": 175,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.5136135802915,
+            "longitude": -0.11897891970849797
+        },
+        "low": {
+            "latitude": 51.5109156197085,
+            "longitude": -0.12167688029150202
+        }
+    },
+    "websiteUri": "https://www.delaminakitchen.co.uk/delamina-townhouse/",
+    "timestamp": 1764064800
+}

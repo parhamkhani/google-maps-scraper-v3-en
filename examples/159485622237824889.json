@@ -1,0 +1,273 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "180",
+            "shortText": "180",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Strand",
+            "shortText": "Strand",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Temple",
+            "shortText": "Temple",
+            "types": [
+                "neighborhood",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2R 3DA",
+            "shortText": "WC2R 3DA",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "WITHIN",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Temple"
+                },
+                "name": "places/ChIJFxpJdLMEdkgRDlwTEZAvFIY",
+                "placeId": "ChIJFxpJdLMEdkgRDlwTEZAvFIY"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "King's College London"
+                },
+                "name": "places/ChIJ3VW0o7UEdkgR8eAcbhKByyg",
+                "placeId": "ChIJ3VW0o7UEdkgR8eAcbhKByyg"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Holborn"
+                },
+                "name": "places/ChIJA7_adjUbdkgR_XPGaE3twAI",
+                "placeId": "ChIJA7_adjUbdkgR_XPGaE3twAI"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Somerset House"
+                },
+                "name": "places/ChIJcWfE87UEdkgRoYClOMTsOQQ",
+                "placeId": "ChIJcWfE87UEdkgRoYClOMTsOQQ",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 234.06703,
+                "travelDistanceMeters": 317.77777,
+                "types": [
+                    "establishment",
+                    "museum",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "King's College London"
+                },
+                "name": "places/ChIJ3VW0o7UEdkgRjZLQfvs-ZLA",
+                "placeId": "ChIJ3VW0o7UEdkgRjZLQfvs-ZLA",
+                "straightLineDistanceMeters": 141.31732,
+                "travelDistanceMeters": 151.11037,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "university"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Australian High Commission"
+                },
+                "name": "places/ChIJz0jn7M0EdkgRi3rBwJKM4jI",
+                "placeId": "ChIJz0jn7M0EdkgRi3rBwJKM4jI",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 103.51827,
+                "travelDistanceMeters": 114.223755,
+                "types": [
+                    "embassy",
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Royal Courts of Justice"
+                },
+                "name": "places/ChIJheMywLQEdkgRbEEwYwdUwxc",
+                "placeId": "ChIJheMywLQEdkgRbEEwYwdUwxc",
+                "straightLineDistanceMeters": 182.81982,
+                "travelDistanceMeters": 220.16415,
+                "types": [
+                    "courthouse",
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Clement House, LSE"
+                },
+                "name": "places/ChIJi6zdHbUEdkgROWCCGh9MPlA",
+                "placeId": "ChIJi6zdHbUEdkgROWCCGh9MPlA",
+                "straightLineDistanceMeters": 141.16449,
+                "travelDistanceMeters": 143.44862,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "university"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Ashvin"
+    },
+    "formattedAddress": "180 Strand, Temple, London WC2R 3DA, UK",
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x487605f7121e081b:0x2369b5414448779!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487605f7121e081b:0x2369b5414448779!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=159485622237824889&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487605f7121e081b:0x2369b5414448779!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487605f7121e081b:0x2369b5414448779!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=159485622237824889&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJGwgeEvcFdkgReYdEFFSbNgI",
+    "location": {
+        "latitude": 51.5121266,
+        "longitude": -0.1143684
+    },
+    "name": "places/ChIJGwgeEvcFdkgReYdEFFSbNgI",
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true
+    },
+    "plusCode": {
+        "compoundCode": "GV6P+V7 London, UK",
+        "globalCode": "9C3XGV6P+V7"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "180 Strand"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2R 3DA",
+        "regionCode": "GB"
+    },
+    "primaryType": "restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Restaurant"
+    },
+    "rating": 3,
+    "restroom": true,
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Gunal",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL9eYdORHbyRvoX7oUGJQasDBDY8oQBebAA-WwlaoB4VyBCQQ=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/115234874438943553701/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21sd1ZGbEJTbW8xTjBKeE5uUkZVVzVaUlVrMk0yYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sd1ZGbEJTbW8xTjBKeE5uUkZVVzVaUlVrMk0yYxAB!2m1!1s0x487605f7121e081b:0x2369b5414448779",
+            "name": "places/ChIJGwgeEvcFdkgReYdEFFSbNgI/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sd1ZGbEJTbW8xTjBKeE5uUkZVVzVaUlVrMk0yYxAB",
+            "publishTime": "2025-08-14T18:42:32.651980908Z",
+            "rating": 3,
+            "relativePublishTimeDescription": "3 months ago"
+        }
+    ],
+    "servesDessert": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "shortFormattedAddress": "180 Strand, London",
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 1,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.5134975802915,
+            "longitude": -0.11291521970849797
+        },
+        "low": {
+            "latitude": 51.51079961970851,
+            "longitude": -0.11561318029150201
+        }
+    },
+    "timestamp": 1765447200
+}

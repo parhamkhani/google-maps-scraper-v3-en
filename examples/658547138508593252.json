@@ -1,0 +1,1107 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleParking": false,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": true
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "35 - 36",
+            "shortText": "35 - 36",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Bow Street",
+            "shortText": "Bow St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2E 7AU",
+            "shortText": "WC2E 7AU",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "London Transport Museum"
+                },
+                "name": "places/ChIJLZLvpcsEdkgRnDYX5KYtpA4",
+                "placeId": "ChIJLZLvpcsEdkgRnDYX5KYtpA4"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJgXlkg8sEdkgRBQIcjaxWHPs",
+                "placeId": "ChIJgXlkg8sEdkgRBQIcjaxWHPs"
+            },
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJs4GOh8sEdkgRRiBFZKMP8ZE",
+                "placeId": "ChIJs4GOh8sEdkgRRiBFZKMP8ZE"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Royal Ballet and Opera"
+                },
+                "name": "places/ChIJySOgh8sEdkgRCBzTYt83Klg",
+                "placeId": "ChIJySOgh8sEdkgRCBzTYt83Klg",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 51.78456,
+                "travelDistanceMeters": 44.359417,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Marquess of Anglesey"
+                },
+                "name": "places/ChIJtVNpD8sEdkgRW_kxR_77yN4",
+                "placeId": "ChIJtVNpD8sEdkgRW_kxR_77yN4",
+                "spatialRelationship": "BESIDE",
+                "straightLineDistanceMeters": 16.621078,
+                "travelDistanceMeters": 24.54507,
+                "types": [
+                    "bar",
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Linbury Theatre"
+                },
+                "name": "places/ChIJw27ybssEdkgRnx9Jz130OOs",
+                "placeId": "ChIJw27ybssEdkgRnx9Jz130OOs",
+                "spatialRelationship": "ACROSS_THE_ROAD",
+                "straightLineDistanceMeters": 25.932838,
+                "travelDistanceMeters": 16.61774,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Starbucks Coffee"
+                },
+                "name": "places/ChIJJ9HYxLkEdkgR27ltqHIoSlY",
+                "placeId": "ChIJJ9HYxLkEdkgR27ltqHIoSlY",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 70.193245,
+                "travelDistanceMeters": 87.98883,
+                "types": [
+                    "cafe",
+                    "establishment",
+                    "food",
+                    "meal_takeaway",
+                    "point_of_interest",
+                    "restaurant",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Theatre Royal Drury Lane"
+                },
+                "name": "places/ChIJj91E_coEdkgRlUibJh13Jws",
+                "placeId": "ChIJj91E_coEdkgRlUibJh13Jws",
+                "straightLineDistanceMeters": 75.995384,
+                "travelDistanceMeters": 93.51076,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "store",
+                    "tourist_attraction"
+                ]
+            }
+        ]
+    },
+    "allowsDogs": false,
+    "businessStatus": "OPERATIONAL",
+    "currentOpeningHours": {
+        "nextOpenTime": "2025-11-25T11:30:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 11,
+                    "minute": 30
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 11:30 AM – 9:00 PM",
+            "Tuesday: 11:30 AM – 9:00 PM",
+            "Wednesday: 11:30 AM – 9:00 PM",
+            "Thursday: 11:30 AM – 9:00 PM",
+            "Friday: 11:30 AM – 10:00 PM",
+            "Saturday: 11:30 AM – 10:00 PM",
+            "Sunday: 11:30 AM – 9:00 PM"
+        ]
+    },
+    "currentSecondaryOpeningHours": [
+        {
+            "nextCloseTime": "2025-11-25T20:45:00Z",
+            "openNow": true,
+            "periods": [
+                {
+                    "close": {
+                        "date": {
+                            "day": 30,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 0,
+                        "hour": 20,
+                        "minute": 45
+                    },
+                    "open": {
+                        "date": {
+                            "day": 30,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 0,
+                        "hour": 11,
+                        "minute": 15
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 1,
+                            "month": 12,
+                            "year": 2025
+                        },
+                        "day": 1,
+                        "hour": 20,
+                        "minute": 45
+                    },
+                    "open": {
+                        "date": {
+                            "day": 1,
+                            "month": 12,
+                            "year": 2025
+                        },
+                        "day": 1,
+                        "hour": 11,
+                        "minute": 15
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 25,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 2,
+                        "hour": 20,
+                        "minute": 45
+                    },
+                    "open": {
+                        "date": {
+                            "day": 25,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 2,
+                        "hour": 11,
+                        "minute": 15
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 26,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 3,
+                        "hour": 20,
+                        "minute": 45
+                    },
+                    "open": {
+                        "date": {
+                            "day": 26,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 3,
+                        "hour": 11,
+                        "minute": 15
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 27,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 4,
+                        "hour": 20,
+                        "minute": 45
+                    },
+                    "open": {
+                        "date": {
+                            "day": 27,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 4,
+                        "hour": 11,
+                        "minute": 15
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 28,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 5,
+                        "hour": 20,
+                        "minute": 45
+                    },
+                    "open": {
+                        "date": {
+                            "day": 28,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 5,
+                        "hour": 11,
+                        "minute": 15
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 29,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 6,
+                        "hour": 22,
+                        "minute": 45
+                    },
+                    "open": {
+                        "date": {
+                            "day": 29,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 6,
+                        "hour": 11,
+                        "minute": 15
+                    }
+                }
+            ],
+            "secondaryHoursType": "TAKEOUT",
+            "weekdayDescriptions": [
+                "Monday: 11:15 AM – 8:45 PM",
+                "Tuesday: 11:15 AM – 8:45 PM",
+                "Wednesday: 11:15 AM – 8:45 PM",
+                "Thursday: 11:15 AM – 8:45 PM",
+                "Friday: 11:15 AM – 8:45 PM",
+                "Saturday: 11:15 AM – 10:45 PM",
+                "Sunday: 11:15 AM – 8:45 PM"
+            ]
+        }
+    ],
+    "delivery": true,
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Wildwood Restaurants Covent Garden"
+    },
+    "editorialSummary": {
+        "languageCode": "en",
+        "text": "Stylish, modern restaurant chain serving European & international favourites, plus a kids' menu."
+    },
+    "formattedAddress": "35 - 36 Bow St, London WC2E 7AU, UK",
+    "goodForChildren": true,
+    "goodForGroups": true,
+    "goodForWatchingSports": false,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x487604cb11e3c84f:0x923a12222a79864!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487604cb11e3c84f:0x923a12222a79864!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=658547138508593252&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487604cb11e3c84f:0x923a12222a79864!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487604cb11e3c84f:0x923a12222a79864!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=658547138508593252&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJT8jjEcsEdkgRZJinIiKhIwk",
+    "internationalPhoneNumber": "+44 20 7836 8640",
+    "liveMusic": false,
+    "location": {
+        "latitude": 51.51301110000001,
+        "longitude": -0.1214278
+    },
+    "menuForChildren": true,
+    "name": "places/ChIJT8jjEcsEdkgRZJinIiKhIwk",
+    "nationalPhoneNumber": "020 7836 8640",
+    "outdoorSeating": false,
+    "parkingOptions": {
+        "paidStreetParking": true
+    },
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Wildwood Restaurants Covent Garden",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXjHrlz_fiqBkwM4PuqZHbS_UKeuiIirCWnsDYWI9XMUycxiTA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/111511006927353414520"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMeTghP2jLKkNma4fprrg5BLSTh-0YbhZauRZvj&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMeTghP2jLKkNma4fprrg5BLSTh-0YbhZauRZvj!2e10!4m2!3m1!1s0x487604cb11e3c84f:0x923a12222a79864",
+            "heightPx": 480,
+            "name": "places/ChIJT8jjEcsEdkgRZJinIiKhIwk/photos/AWn5SU5Emh0oUDMj8BSdalT84p1ylXCiPFEgLDCtXQllsAKNg48gDTpyYU5U3RWrrU0GLpTEP-Ps4QkXZxI9yBeqPX0FvrvILNNj97My_QRGLAhMKmDnC8TQZiaIfdPTKL3IR6Ia-EZN8NCw6EH2vE8VYSSpDD5M8-Rg4lCPMfQ_eW1BPDx1qN7icGgWx5zxPBg6LqjjzLzI9HBRrVWxehbOpqxZBArStOvcqQmQv0Hj3_7-ciLIXwxBjJu3ETG8xkr0L_LJoK-TK8HFvXIXWlOL8pZS68HoedLU5axU00dlRjlgRQ",
+            "widthPx": 720
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Wildwood Restaurants Covent Garden",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXjHrlz_fiqBkwM4PuqZHbS_UKeuiIirCWnsDYWI9XMUycxiTA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/111511006927353414520"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOuPFahCV3I9C_etsTHH3TkgIJlIXQkgjjWjw_Z&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOuPFahCV3I9C_etsTHH3TkgIJlIXQkgjjWjw_Z!2e10!4m2!3m1!1s0x487604cb11e3c84f:0x923a12222a79864",
+            "heightPx": 792,
+            "name": "places/ChIJT8jjEcsEdkgRZJinIiKhIwk/photos/AWn5SU7TPOz8X9DrvZiTJBjjSXBPReOaLZCC0BkFxJ3QLyh9DBVJv6Ld2rXkHWjao2FvqtdhXDrYGQzFxAcp0tphXP5jXWlG4YM6wyHnsA-bE1YmR5Q_lhjbRF9gFeO5Icm_MZ8_tAXhONTLWEbgalJjfQY2g7VRTs6c7wbSyS0BeODqeagXxKKNipWOqnC7UeXb8T7Wbmj8hYN8AaGqV-qthvLo56xSQwQfwp4ncEksAQdOE2k3N8dyGktN4yAKEPspyk2leLGkul8IL87Tv9UNuw2z2r4oi12Z7oM6w3IdTZ1YDA",
+            "widthPx": 1406
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Rashmi",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI0ij0RA6-7iAo6Cva9EF4jkVMOhsC276MxPmRxoeGEc0qiZA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/106653162237052682983"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC_z-yNWA&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC_z-yNWA!2e10!4m2!3m1!1s0x487604cb11e3c84f:0x923a12222a79864",
+            "heightPx": 3600,
+            "name": "places/ChIJT8jjEcsEdkgRZJinIiKhIwk/photos/AWn5SU7-PhsrTJOgItx0refMVkxJK8LDFhIcglkzMpvczet9ScknNa-ynI42mHH1bvboVxXmpNexiSnbU2P7yGus5FtoHTXx2cQF4PeI4Q_Gkj6ZS8eIH-yh7aQOdxGuG2Ij3rSyDXv9acSRRldSHmV-878jF7DkWDlU0H6bKXXI-6Q0DTcAenk2qfcXpa3LSIjHLpBcylq2sa7BFWWeEJH9fQuM2ndjyyJRj5KM1yCYRfLnPS3rit8u9wBrT3kA7S1BF1DAQVo6ZOadvsCmAbW4SBEmAH9blS98yTMCW6wvyPu2HLdA9hiNqiPdHkxOXYUafNeqKUrKx5yW__jUqHJsREoWRPLZlQW0r6OJ2OnhcVqugUMAq6nQef65jwfAhUgqT2qvteuu84h8LdUQbW5lxSg-EQZl7Y7fIxQTDGPjybMWMQ",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Richard Williams",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVvxG1LymznrQq4gh3RnR14h3eYDIGSwFqjw_5cv0EOUZFrWTw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/105729336630577846121"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCOl4HBJwx-po3TxqqEaW3G&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCOl4HBJwx-po3TxqqEaW3G!2e10!4m2!3m1!1s0x487604cb11e3c84f:0x923a12222a79864",
+            "heightPx": 2473,
+            "name": "places/ChIJT8jjEcsEdkgRZJinIiKhIwk/photos/AWn5SU46Mdqvu_eZNUF4XVvsN2sdv72URWvA2lTlZhM6fsrE8jSaYgxt6mQype9_mTQIJ2bnecC9oOBkJX_ws2TbkrQ76Pa6KyWuDDq25DK1-4Kg2je_iU5IS_Ulx9F8flUx84NqDF19DJ4ripKfo4zAQEX1CoPpNNdY_S2_suTN9ELF4p4F11CARdKhdSdVR6GqLgVaVQnkR1xZ2DtBTgo0FiWKHZCld6HObdik5enBSxa63jz2zgQXjhpeFAgL8ZK3RCCkKlkvF4BG1V_HoFS9ri3gusCXbZ4p5n_qSYUj_lsgpcpePzs4p4MPJ7FSntn-Bz1DhpRxr2REGJrlVefWAPHfVdIAhzWsJoqquNKbpxiHSZtMUPt_rrVa0BnP45qNd0mu3lie4FFyr97s32AM7hkGJob2JiuuekLqHzWRxctNKi3bHhCM9XQYZmedxFwN",
+            "widthPx": 2999
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Wildwood Restaurants Covent Garden",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXjHrlz_fiqBkwM4PuqZHbS_UKeuiIirCWnsDYWI9XMUycxiTA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/111511006927353414520"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMOBaRhbEyr2aGNF25GZUZ2tlB5DKNSn-6pqu2W&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMOBaRhbEyr2aGNF25GZUZ2tlB5DKNSn-6pqu2W!2e10!4m2!3m1!1s0x487604cb11e3c84f:0x923a12222a79864",
+            "heightPx": 638,
+            "name": "places/ChIJT8jjEcsEdkgRZJinIiKhIwk/photos/AWn5SU60_Ys-hiM_aIvdBx6BjO6yZ5_yYd0Lt8eDRnhgyBYQ5vofyTj1GWIhdoR3j-nJT1tYezDUYU7-EJrNVOoTBXuszRKddvajS_jEDDtTchJrTKpibi6PLZEeOuOiBkOZpXISt9ZoFHOrrDgFwcRyi-jBBsrQ1JIxzCvxcD_wpvcOjnWLj9MrKJw-jkuOmyrtLGmsu8eXp8Uv2Au-mOJoxo4iUCqvOjZzLqbCqCOezzPrwZnHQlLRYLmmErcX1sBE_PMh0QGPbSjPlnVp2z2sNDy3dXLtaWtNKeLXKIN9nRDA0Q",
+            "widthPx": 1191
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Jason Rogers",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX9wq1n6PDvRq3c7pOF02EIBJYCg2SGumBRwLx07cmXSqxb3xiJ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/105529253681857889257"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICfp7C5tgE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICfp7C5tgE!2e10!4m2!3m1!1s0x487604cb11e3c84f:0x923a12222a79864",
+            "heightPx": 2252,
+            "name": "places/ChIJT8jjEcsEdkgRZJinIiKhIwk/photos/AWn5SU4MiTHtdnutm1W-tqkIhoFbo10ICQ01joKdzTalPM1ClecCfFt9TgZmeVgcDo_XZGazSRaUgi41qh5f6dgTTgU_eQNXU-oqGs66vvp9NEl4CAoOah7BfXwHBJz-u88FJ0l90Qo7sjPLi7Ywrf8iJHXSJ_-9_THlpUOvqEihX0Cy2f2x_oYXV-c6EtH3-E4rkcFDGBnfwIMTemt8isnYc5X8ClS0en6HkwmgxkymFiGwHanZYNWjopdbh3OjWsMsd9ZDMSZkz-zvO030qhvvCh6xUPocwK-jAr1Fk42GbfRkvBpDqc_xgW6ZjjbZLY0fxyGHc4xudUrZJUPeMI65m9qpL8SsgID4svWubY8KtEWCxTSOK7gL4BGhZ5kh352BU-E21kXrXTKurIxPKs1r43CZn2uyHQCcmsOdtfKqlruLBKlP",
+            "widthPx": 4000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Dan Jenkins",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUxZ61OnPQ6Yvt1sMTdeS9PByVAdjkX2CaT6SdAOlzHVVUMnM4R=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/104052869523570357827"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADycTjEw55HGfRL5oAATSY&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADycTjEw55HGfRL5oAATSY!2e10!4m2!3m1!1s0x487604cb11e3c84f:0x923a12222a79864",
+            "heightPx": 4032,
+            "name": "places/ChIJT8jjEcsEdkgRZJinIiKhIwk/photos/AWn5SU70Av20EmOPZL8cjOZs7fctWJvNS5zRPaPhpEB0OVRbyPBPPmgl9Zx01EB9_QoLX2cU8UuzPvaK6JmHbL6MogWz6KXizlfcMcv2xp7aD3WTMLN9pb4a0gf1UpEj4U5bPSG16U19wjrA_mgSP_S9JF9OlrGVRPg7sknG82FcHET1ibCuCjEF3nsjsX65Jnc-J0xXAqjvb5-FEahrCjztQcZlNCR-mMG8dQ9nvXPs-yjU3LZ54UBeXnHW7JkKDWpgfC-WsboEbP-jZszy5igx_hVSSsIMbWKA5dWwiXtfOEau8uvVZB93CxHDENVTNn54Qxdrf5NxC_qfiti81J6C1BhfZgP-4UoH15vJRWR_VeS341JlAvlGICMQPmhZUBGEIhSTGmCA3Dgf5lgeIO-emOoG9EdpVTXThXDksbd9EqdfvozrG5DJh400z-nWuvnC",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Jason Rogers",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX9wq1n6PDvRq3c7pOF02EIBJYCg2SGumBRwLx07cmXSqxb3xiJ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/105529253681857889257"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICfp7DDbw&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICfp7DDbw!2e10!4m2!3m1!1s0x487604cb11e3c84f:0x923a12222a79864",
+            "heightPx": 2252,
+            "name": "places/ChIJT8jjEcsEdkgRZJinIiKhIwk/photos/AWn5SU57VTFnptllQkkr_vOS8tW8xdwg-7wzn1HmsRGHvWZJ4hvz_96zSwxw80HIHR_nTvq2pJZ2Jm7tIEIGyxv4CoQj5z4DQnmvPajYtCDgFF-tt9pg3A8nZ8n-ebgwJG995PYKF5bmUeZiEsWbqE72ETB3mxrNCxvSOCrpL5hHQuXAQ2oOruyCLtJRN653Vy3FD4EtkqicWXj7e2CmI6Yruz3vaDbTwfIA1BJzFCWu2ir5UdIuZEaCP7JEwtEBlmA1CDwJ69x5XqF_ayeNl-gvqS0u0anYvvcTxWBT_wjtdg-FJb71fbxJs4qoKx6kd-Xu-mPZDq6GyfphUbNPKh2qp5BqClS6YTXjg0fkarLfm_Pjuycc-egy96pLtVB1DZv9CipLfEi0ae_cyEjnigXtX5F3cxv1GsZXRjkJhmVugvvPqA",
+            "widthPx": 4000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "lara moniz",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIhYQ2qdc5rsgxKk-LiNBZCH3exPe6vDu9gx-g-pYQ3RU6i5w=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/107376752779533317218"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCIqMCn_gE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCIqMCn_gE!2e10!4m2!3m1!1s0x487604cb11e3c84f:0x923a12222a79864",
+            "heightPx": 4032,
+            "name": "places/ChIJT8jjEcsEdkgRZJinIiKhIwk/photos/AWn5SU7KFOwhwTHnVJIsRrbrpg-USrcgW99Hc_WhJZElv9krFWstbL_9QD5aBNTIuGO-YQGy-DMftmkyFp6eQbTiUyN5kdrU2XN6IWBV8k_RnSXZXsobnMSrnDRQMpwQRfwpyRZOIylZ2YMRhm0EuiqTWuNBIKLzfSvNeVOZ8fIj3XHMWSgM2ID1CI4WI2btLfd3ydDN2H5I5UpqW-Nh2qeDv2Vp5WJcssdbZ2Ps21jsI7N8QkLyCZd2tUjooXAoRXT0-WqO44QnHCxsxp2mAMiKWlN1CvJVoiBfrNfMsaXJ9yGJ_6cBYQJJ6wJydGiT9a9xEWdcCafEolqlUBVNbzz_hQyKM4eggk6KmsP8Gv4ILYIAvtPdzdwcsaE2lG4r4NUQ638Ap62s6_UJu2baab0SV1Gc-fx6IE0qxSZrDwYWeDe4h7X2",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "K",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKRipS23xQaBlQqc1K4TqwPClLkUOKltaTbSllc4TZBlCayBQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/116173587890562515902"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICv66Le4QE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICv66Le4QE!2e10!4m2!3m1!1s0x487604cb11e3c84f:0x923a12222a79864",
+            "heightPx": 4032,
+            "name": "places/ChIJT8jjEcsEdkgRZJinIiKhIwk/photos/AWn5SU7yDeg_b1N8hkCqPvBd9eLoPQnroubaMY2leL4vdSYG0YeeVV3ecWVZ2iO08LkfIgeMlFbm5HpJ74ANIQEcMOfalc0Iytno6MDDmcE9Na9qhkOrt5Agmy0PCB2bWUshNzuPhxFImr7LAVzWaCslNXSVo4RQCOVfDBAvxuDsCm_zffPv_mI2h5oNuY-D3iL3vG8acR8qfHUjIivlIhXtjXRIuBKKcQjm5cfehKDFEWuw6mlYa3eURZRlRnRCssonbccJLdPNa59SSOfGn_8grptiR_2ApxGFP5G9xqMCv0riL8DA6KnukOFF6PA7wON1uNXhmdRuvacQAkt6CcRpkQkItiCnA6a03_zu8P31Lhc7RoTvehEnS6MSB3XBfTrbIQqfmFBUiofQ1cFkN-DDpoZt5WSA_TLvmwU0SuOXEl3YNPEC",
+            "widthPx": 3024
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV7H+6C London, UK",
+        "globalCode": "9C3XGV7H+6C"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "35 - 36 Bow Street"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2E 7AU",
+        "regionCode": "GB"
+    },
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "priceRange": {
+        "endPrice": {
+            "currencyCode": "GBP",
+            "units": "30"
+        },
+        "startPrice": {
+            "currencyCode": "GBP",
+            "units": "20"
+        }
+    },
+    "primaryType": "pizza_restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Pizza Restaurant"
+    },
+    "rating": 4.2,
+    "regularOpeningHours": {
+        "nextOpenTime": "2025-11-25T11:30:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 11,
+                    "minute": 30
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 11:30 AM – 9:00 PM",
+            "Tuesday: 11:30 AM – 9:00 PM",
+            "Wednesday: 11:30 AM – 9:00 PM",
+            "Thursday: 11:30 AM – 9:00 PM",
+            "Friday: 11:30 AM – 10:00 PM",
+            "Saturday: 11:30 AM – 10:00 PM",
+            "Sunday: 11:30 AM – 9:00 PM"
+        ]
+    },
+    "regularSecondaryOpeningHours": [
+        {
+            "nextCloseTime": "2025-11-25T20:45:00Z",
+            "openNow": true,
+            "periods": [
+                {
+                    "close": {
+                        "day": 0,
+                        "hour": 20,
+                        "minute": 45
+                    },
+                    "open": {
+                        "day": 0,
+                        "hour": 11,
+                        "minute": 15
+                    }
+                },
+                {
+                    "close": {
+                        "day": 1,
+                        "hour": 20,
+                        "minute": 45
+                    },
+                    "open": {
+                        "day": 1,
+                        "hour": 11,
+                        "minute": 15
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "hour": 20,
+                        "minute": 45
+                    },
+                    "open": {
+                        "day": 2,
+                        "hour": 11,
+                        "minute": 15
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "hour": 20,
+                        "minute": 45
+                    },
+                    "open": {
+                        "day": 3,
+                        "hour": 11,
+                        "minute": 15
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "hour": 20,
+                        "minute": 45
+                    },
+                    "open": {
+                        "day": 4,
+                        "hour": 11,
+                        "minute": 15
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "hour": 20,
+                        "minute": 45
+                    },
+                    "open": {
+                        "day": 5,
+                        "hour": 11,
+                        "minute": 15
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "hour": 22,
+                        "minute": 45
+                    },
+                    "open": {
+                        "day": 6,
+                        "hour": 11,
+                        "minute": 15
+                    }
+                }
+            ],
+            "secondaryHoursType": "TAKEOUT",
+            "weekdayDescriptions": [
+                "Monday: 11:15 AM – 8:45 PM",
+                "Tuesday: 11:15 AM – 8:45 PM",
+                "Wednesday: 11:15 AM – 8:45 PM",
+                "Thursday: 11:15 AM – 8:45 PM",
+                "Friday: 11:15 AM – 8:45 PM",
+                "Saturday: 11:15 AM – 10:45 PM",
+                "Sunday: 11:15 AM – 8:45 PM"
+            ]
+        }
+    ],
+    "reservable": true,
+    "restroom": true,
+    "reviewSummary": {
+        "disclosureText": {
+            "languageCode": "en-US",
+            "text": "Summarized with Gemini"
+        },
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=5%401:CAIQACodChtyc19oOm5WVTZENFNrZnhxTGVLNUpoc19LQnc%7CCAIQACorChtyc19oOm5WVTZENFNrZnhxTGVLNUpoc19LQncSDAiF2tbDBhCQhMKLAQ&d=17924085&t=8",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487604cb11e3c84f:0x923a12222a79864!9m1!1b1",
+        "text": {
+            "languageCode": "en-US",
+            "text": "People say this pizza restaurant serves delicious Italian food, including pizza, pasta, and seafood dishes, as well as tasty desserts and drinks. They also highlight the good value, friendly and attentive service, and pleasant atmosphere.\n\nOther reviews mention the food can be inconsistent."
+        }
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Lisa Rittierodt",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXKPJh0Sz9TfTrxQUW4T_xRG9Pvg8vui3DfbhiWBhrfgDFk0KYx=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/102415814592828536608/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xU1ZIazNWamhUUmpsd2NVWnJTV3AyU3kxS1NXYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xU1ZIazNWamhUUmpsd2NVWnJTV3AyU3kxS1NXYxAB!2m1!1s0x487604cb11e3c84f:0x923a12222a79864",
+            "name": "places/ChIJT8jjEcsEdkgRZJinIiKhIwk/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xU1ZIazNWamhUUmpsd2NVWnJTV3AyU3kxS1NXYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "The food in Wildwood restaurant is so delicious. I ate the lasagne, which was recommended by me by our waiter and for desert i had a cookie cheesecake. Both dishes were very tasty.\nAdding to that our waiter Faizul was super kind made us feel very welcome.\nWe will definitely come back soon."
+            },
+            "publishTime": "2025-09-29T12:41:12.652412582Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "The food in Wildwood restaurant is so delicious. I ate the lasagne, which was recommended by me by our waiter and for desert i had a cookie cheesecake. Both dishes were very tasty.\nAdding to that our waiter Faizul was super kind made us feel very welcome.\nWe will definitely come back soon."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Pauline Ciereszko",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKPl8-TQS4rudOvSpx6dwXtoBUWnH_jku2VFxHtDB6aCunhjw=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/109268299083977657286/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xTFJUWk5iMGswZGpCMlZGUXlPRmRNYTBReWVIYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xTFJUWk5iMGswZGpCMlZGUXlPRmRNYTBReWVIYxAB!2m1!1s0x487604cb11e3c84f:0x923a12222a79864",
+            "name": "places/ChIJT8jjEcsEdkgRZJinIiKhIwk/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xTFJUWk5iMGswZGpCMlZGUXlPRmRNYTBReWVIYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "I recently had a superb meal at Wildwood! The British rib-eye steak was absolutely fabulous, definitely a highlight. The service was top-notch—everyone was so warm and friendly, and they really made me feel welcome. It was impressively clean with a lovely atmosphere, and I couldn’t fault the drink selection either. All in all, it was a perfect experience and I’ll definitely be back soon!"
+            },
+            "publishTime": "2025-10-08T15:35:27.086834213Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "I recently had a superb meal at Wildwood! The British rib-eye steak was absolutely fabulous, definitely a highlight. The service was top-notch—everyone was so warm and friendly, and they really made me feel welcome. It was impressively clean with a lovely atmosphere, and I couldn’t fault the drink selection either. All in all, it was a perfect experience and I’ll definitely be back soon!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Ian D",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWWbQF8EAzDJ-_VGGSK56l0L6au7s3sHb23A7j1b_k9xxz-XV8=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/109737361272807872264/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURMbmZIS2dRRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURMbmZIS2dRRRAB!2m1!1s0x487604cb11e3c84f:0x923a12222a79864",
+            "name": "places/ChIJT8jjEcsEdkgRZJinIiKhIwk/reviews/ChdDSUhNMG9nS0VJQ0FnSURMbmZIS2dRRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "When we arrived, it was packed, and we had no reservation. Fortunately, we didn’t wait too long to get a table for two. The waiter who took our orders knew the menu well and made great suggestions. When I ordered my seafood pasta, he recommended less chili, which was perfect. It’s definitely worth a visit if you’re in the area."
+            },
+            "publishTime": "2024-06-29T19:28:06.560965Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a year ago",
+            "text": {
+                "languageCode": "en",
+                "text": "When we arrived, it was packed, and we had no reservation. Fortunately, we didn’t wait too long to get a table for two. The waiter who took our orders knew the menu well and made great suggestions. When I ordered my seafood pasta, he recommended less chili, which was perfect. It’s definitely worth a visit if you’re in the area."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "David Whitlam",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKqHy_u6EHHNTO11vd-RmPCWNf13F1BfcPpUtzc7sB0QOTELQ=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/112946592606947461116/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2paRFluTkNlbEJTTlhCclRYRlZhRkJCT0d4VWIzYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paRFluTkNlbEJTTlhCclRYRlZhRkJCT0d4VWIzYxAB!2m1!1s0x487604cb11e3c84f:0x923a12222a79864",
+            "name": "places/ChIJT8jjEcsEdkgRZJinIiKhIwk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paRFluTkNlbEJTTlhCclRYRlZhRkJCT0d4VWIzYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "I walked past and decided to give this place a go, and I’m so glad I did! The food was lovely, especially the Piccante Carne and Torta della Nonna – both were spot on in taste and presentation. The service was top-notch, with a warm welcome and prompt attentiveness throughout. The atmosphere had a nice vibe, and everything was squeaky clean. I’ll definitely be back for more!"
+            },
+            "publishTime": "2025-10-13T08:24:46.139819190Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "I walked past and decided to give this place a go, and I’m so glad I did! The food was lovely, especially the Piccante Carne and Torta della Nonna – both were spot on in taste and presentation. The service was top-notch, with a warm welcome and prompt attentiveness throughout. The atmosphere had a nice vibe, and everything was squeaky clean. I’ll definitely be back for more!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Rashmi",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI0ij0RA6-7iAo6Cva9EF4jkVMOhsC276MxPmRxoeGEc0qiZA=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/106653162237052682983/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNfei15TmlBRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNfei15TmlBRRAB!2m1!1s0x487604cb11e3c84f:0x923a12222a79864",
+            "name": "places/ChIJT8jjEcsEdkgRZJinIiKhIwk/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfei15TmlBRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "I liked it that they welcomed us even with walk in on a busy Saturday night and all the more when a neighbourhood restaurant despite booking couldn’t welcome us and was not at all accommodating since we were early there.\n\nHaving tried wildwood in chelmsford previously, we preferred to dine here.\nWe were being served by Samir, he was kind & patient & he remembered not to add mushrooms in repeat order of Grilled courgette pizza even though we missed to mention & despite being so very busy.\n\nIn food, we had ordered Grilled courgette & goats cheese pizza ; vegetable primavera; super food salad ; truffle & cheese fries and focaccia.\nThe food was decent though I would have preferred pizza to be more hot.\nRepeat order of goats cheese pizza was served hot & that was delicious.\n\nGood option to dine in when around covent garden"
+            },
+            "publishTime": "2025-01-20T02:14:57.340713Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "10 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "I liked it that they welcomed us even with walk in on a busy Saturday night and all the more when a neighbourhood restaurant despite booking couldn’t welcome us and was not at all accommodating since we were early there.\n\nHaving tried wildwood in chelmsford previously, we preferred to dine here.\nWe were being served by Samir, he was kind & patient & he remembered not to add mushrooms in repeat order of Grilled courgette pizza even though we missed to mention & despite being so very busy.\n\nIn food, we had ordered Grilled courgette & goats cheese pizza ; vegetable primavera; super food salad ; truffle & cheese fries and focaccia.\nThe food was decent though I would have preferred pizza to be more hot.\nRepeat order of goats cheese pizza was served hot & that was delicious.\n\nGood option to dine in when around covent garden"
+            }
+        }
+    ],
+    "servesBeer": true,
+    "servesBreakfast": false,
+    "servesCocktails": true,
+    "servesCoffee": true,
+    "servesDessert": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "servesVegetarianFood": true,
+    "servesWine": true,
+    "shortFormattedAddress": "35 - 36 Bow St, London",
+    "takeout": true,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "pizza_restaurant",
+        "bar_and_grill",
+        "italian_restaurant",
+        "bar",
+        "food_store",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 1337,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.5143232302915,
+            "longitude": -0.12012781970849797
+        },
+        "low": {
+            "latitude": 51.5116252697085,
+            "longitude": -0.122825780291502
+        }
+    },
+    "websiteUri": "http://www.wildwoodrestaurants.co.uk/",
+    "timestamp": 1764064800
+}

@@ -1,0 +1,1256 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleParking": false,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": true
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "11",
+            "shortText": "11",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Langley Street",
+            "shortText": "Langley St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2H 9JG",
+            "shortText": "WC2H 9JG",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJs4GOh8sEdkgRRiBFZKMP8ZE",
+                "placeId": "ChIJs4GOh8sEdkgRRiBFZKMP8ZE"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "St Martin's Courtyard"
+                },
+                "name": "places/ChIJ0YfiAc0EdkgRoKYIH7344ZA",
+                "placeId": "ChIJ0YfiAc0EdkgRoKYIH7344ZA"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Royal Ballet and Opera"
+                },
+                "name": "places/ChIJySOgh8sEdkgRCBzTYt83Klg",
+                "placeId": "ChIJySOgh8sEdkgRCBzTYt83Klg",
+                "straightLineDistanceMeters": 249.91925,
+                "travelDistanceMeters": 339.98904,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Dr. Martens - Neal Street"
+                },
+                "name": "places/ChIJ9S8lwMwEdkgRBHLhxbz2ovk",
+                "placeId": "ChIJ9S8lwMwEdkgRBHLhxbz2ovk",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 61.43029,
+                "travelDistanceMeters": 74.03383,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "shoe_store",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Pineapple Dance Studios"
+                },
+                "name": "places/ChIJY7ti6cwEdkgRcV5k1BiSk6s",
+                "placeId": "ChIJY7ti6cwEdkgRcV5k1BiSk6s",
+                "spatialRelationship": "ACROSS_THE_ROAD",
+                "straightLineDistanceMeters": 35.44264,
+                "travelDistanceMeters": 31.289919,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Seven Dials"
+                },
+                "name": "places/ChIJLVbVPM0EdkgRGUvoNqAiQ30",
+                "placeId": "ChIJLVbVPM0EdkgRGUvoNqAiQ30",
+                "straightLineDistanceMeters": 60.078495,
+                "travelDistanceMeters": 120.81622,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Kohn Pedersen Fox"
+                },
+                "name": "places/ChIJfUH35cwEdkgRQ0t2OFsG_eg",
+                "placeId": "ChIJfUH35cwEdkgRQ0t2OFsG_eg",
+                "spatialRelationship": "ACROSS_THE_ROAD",
+                "straightLineDistanceMeters": 18.518024,
+                "travelDistanceMeters": 16.290962,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            }
+        ]
+    },
+    "allowsDogs": false,
+    "businessStatus": "OPERATIONAL",
+    "containingPlaces": [
+        {
+            "id": "ChIJLVbVPM0EdkgRGUvoNqAiQ30",
+            "name": "places/ChIJLVbVPM0EdkgRGUvoNqAiQ30"
+        }
+    ],
+    "curbsidePickup": false,
+    "currentOpeningHours": {
+        "nextOpenTime": "2025-11-25T11:45:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 11,
+                    "minute": 45
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 11,
+                    "minute": 45
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 11,
+                    "minute": 45
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 11,
+                    "minute": 45
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 11,
+                    "minute": 45
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 11,
+                    "minute": 45
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 11,
+                    "minute": 45
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 11:45 AM – 11:00 PM",
+            "Tuesday: 11:45 AM – 11:00 PM",
+            "Wednesday: 11:45 AM – 11:00 PM",
+            "Thursday: 11:45 AM – 11:00 PM",
+            "Friday: 11:45 AM – 11:30 PM",
+            "Saturday: 11:45 AM – 11:30 PM",
+            "Sunday: 11:45 AM – 10:30 PM"
+        ]
+    },
+    "currentSecondaryOpeningHours": [
+        {
+            "nextOpenTime": "2025-11-25T12:00:00Z",
+            "openNow": false,
+            "periods": [
+                {
+                    "close": {
+                        "date": {
+                            "day": 30,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 0,
+                        "hour": 20,
+                        "minute": 50
+                    },
+                    "open": {
+                        "date": {
+                            "day": 30,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 0,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 1,
+                            "month": 12,
+                            "year": 2025
+                        },
+                        "day": 1,
+                        "hour": 14,
+                        "minute": 30
+                    },
+                    "open": {
+                        "date": {
+                            "day": 1,
+                            "month": 12,
+                            "year": 2025
+                        },
+                        "day": 1,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 1,
+                            "month": 12,
+                            "year": 2025
+                        },
+                        "day": 1,
+                        "hour": 21,
+                        "minute": 20
+                    },
+                    "open": {
+                        "date": {
+                            "day": 1,
+                            "month": 12,
+                            "year": 2025
+                        },
+                        "day": 1,
+                        "hour": 16,
+                        "minute": 30
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 25,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 2,
+                        "hour": 14,
+                        "minute": 30
+                    },
+                    "open": {
+                        "date": {
+                            "day": 25,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 2,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 25,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 2,
+                        "hour": 21,
+                        "minute": 20
+                    },
+                    "open": {
+                        "date": {
+                            "day": 25,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 2,
+                        "hour": 16,
+                        "minute": 30
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 26,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 3,
+                        "hour": 14,
+                        "minute": 30
+                    },
+                    "open": {
+                        "date": {
+                            "day": 26,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 3,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 26,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 3,
+                        "hour": 21,
+                        "minute": 20
+                    },
+                    "open": {
+                        "date": {
+                            "day": 26,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 3,
+                        "hour": 16,
+                        "minute": 30
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 27,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 4,
+                        "hour": 14,
+                        "minute": 30
+                    },
+                    "open": {
+                        "date": {
+                            "day": 27,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 4,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 27,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 4,
+                        "hour": 21,
+                        "minute": 20
+                    },
+                    "open": {
+                        "date": {
+                            "day": 27,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 4,
+                        "hour": 16,
+                        "minute": 30
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 28,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 5,
+                        "hour": 14,
+                        "minute": 30
+                    },
+                    "open": {
+                        "date": {
+                            "day": 28,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 5,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 28,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 5,
+                        "hour": 21,
+                        "minute": 50
+                    },
+                    "open": {
+                        "date": {
+                            "day": 28,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 5,
+                        "hour": 16,
+                        "minute": 30
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 29,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 6,
+                        "hour": 21,
+                        "minute": 50
+                    },
+                    "open": {
+                        "date": {
+                            "day": 29,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 6,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                }
+            ],
+            "secondaryHoursType": "KITCHEN",
+            "weekdayDescriptions": [
+                "Monday: 12:00 – 2:30 PM, 4:30 – 9:20 PM",
+                "Tuesday: 12:00 – 2:30 PM, 4:30 – 9:20 PM",
+                "Wednesday: 12:00 – 2:30 PM, 4:30 – 9:20 PM",
+                "Thursday: 12:00 – 2:30 PM, 4:30 – 9:20 PM",
+                "Friday: 12:00 – 2:30 PM, 4:30 – 9:50 PM",
+                "Saturday: 12:00 – 9:50 PM",
+                "Sunday: 12:00 – 8:50 PM"
+            ]
+        }
+    ],
+    "delivery": false,
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Hawksmoor Seven Dials"
+    },
+    "editorialSummary": {
+        "languageCode": "en",
+        "text": "Prime cuts of matured beef, seafood & other British classics served in striking environs."
+    },
+    "formattedAddress": "11 Langley St, London WC2H 9JG, UK",
+    "goodForChildren": true,
+    "goodForGroups": true,
+    "goodForWatchingSports": false,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x487604ccdf106809:0x1a0d5f013c2e0639!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487604ccdf106809:0x1a0d5f013c2e0639!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=1877261078592620089&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487604ccdf106809:0x1a0d5f013c2e0639!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487604ccdf106809:0x1a0d5f013c2e0639!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=1877261078592620089&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJCWgQ38wEdkgROQYuPAFfDRo",
+    "internationalPhoneNumber": "+44 20 7420 9390",
+    "liveMusic": false,
+    "location": {
+        "latitude": 51.51348790000001,
+        "longitude": -0.12574559999999999
+    },
+    "menuForChildren": false,
+    "name": "places/ChIJCWgQ38wEdkgROQYuPAFfDRo",
+    "nationalPhoneNumber": "020 7420 9390",
+    "outdoorSeating": false,
+    "parkingOptions": {
+        "freeParkingLot": false
+    },
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Hawksmoor Seven Dials",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVxnBnw9bcFDXMxYJZskTh51VxbzvroYOC1LztjGWiSYtmMq7Gh=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/111815742278078935149"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNijMLZi8aR48Br-0KftTwlMaF84ksUY6Cz8KEK&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNijMLZi8aR48Br-0KftTwlMaF84ksUY6Cz8KEK!2e10!4m2!3m1!1s0x487604ccdf106809:0x1a0d5f013c2e0639",
+            "heightPx": 533,
+            "name": "places/ChIJCWgQ38wEdkgROQYuPAFfDRo/photos/AWn5SU7Gy8TeXHOYVgtA8awW6iH3S1EUx4D4DLvyxcAjsTS63fQR1HsxeO4DzdcS94vgKWkxDN8mTa477Zj25pfFbB6Y726Q_u795WZ_d8IM8wab0esaof7z1oewSn3GyD2KjAavHnWUrl0whfiFluoyfwlNiNt1DuIygXCAX4rWgs8hnytb8sk04JoC1xEOTFO781iVEBRRxp4wyPcp-DBRSVrTt7jLnJFhSwMNXHWlB5ekwygPdcI916luJDwjPLEL67tyCSTvbca49Wpiz1e0CveE6u-aXBvuWxSXUq_0K_zgew",
+            "widthPx": 800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "호호하하",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVRQwkJFpUWekbLhn60sWtO83pZ1DwqdnSmKTF5AFqm730jNlGD=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/100549386048429228551"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAwb2igwZqIz4scpIdiMqez&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAwb2igwZqIz4scpIdiMqez!2e10!4m2!3m1!1s0x487604ccdf106809:0x1a0d5f013c2e0639",
+            "heightPx": 4800,
+            "name": "places/ChIJCWgQ38wEdkgROQYuPAFfDRo/photos/AWn5SU5WygQTAa9RZqLP0LdyIfWJJvuTQumXPLIndRqR98aWeiPiV5pvbVJ66XIPEjX6S3REPadWEO-6fRY2NuSPYY7YB5NFDLggB2UiTpeAkWIAF82kFxU8Hx4K6uMtIavKSw2364XF1B3AyzMgSiGNt-W1gzMhAHudzIT3rcYNeB_BrTow8B2dHq1XYqK4IYkXRdHioRiMmRgtIT2cxN1ldNNIAyn5MDPJMY9FntgQMUewtXTDw9qU8fLJ1FMtVY3ztPE78ZPo-CzmFYOABuNqRToBJHhFaN1AT0T7CvwRU_SOqtquS9nsefaUNfYJCdjCcTOeCUW0D6pjktBy1i-hpU0DNA3k4csD_JBxd751DLopm5ozB8pBbTxgQB76DQv0LUjYhvGJdjyQ1QANTxYcjydUWxQGHQj6lFTAK_mxObWn2WqyEnhQw3tlY7lLjLrw",
+            "widthPx": 3600
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Hawksmoor Seven Dials",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVxnBnw9bcFDXMxYJZskTh51VxbzvroYOC1LztjGWiSYtmMq7Gh=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/111815742278078935149"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPezxi4fhSS-V4j09craU9OTyHTx2kzZECFSYo8&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPezxi4fhSS-V4j09craU9OTyHTx2kzZECFSYo8!2e10!4m2!3m1!1s0x487604ccdf106809:0x1a0d5f013c2e0639",
+            "heightPx": 608,
+            "name": "places/ChIJCWgQ38wEdkgROQYuPAFfDRo/photos/AWn5SU55LnB1do6oHOGG8WiE0dfmeEifr5fljmC_CG_-t20oueOKevS6EOATs2PiyuXa9eoKx7TAE88w_QRhT3SYNPIkX9pww8L4ghXssBIFZIpgfh4J9wMDwM2CEc6qlqNVHf5ZW0XK2eOAem5bGiryoR5T9oIhKpiqqE3ndDz1dBYCGrj4WLTIDWA9_ZCSch71Lzkwks1wAmTklqaF0b2lx5BNh4h-d7nSPc5SmivME9LLX-PNPhTqQwvXpU9g10QvOZpc0-KsSXONMpMVRlCJgc-5xVF-F6-_O7nq64D09cDP0g",
+            "widthPx": 1080
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Indrajit Advani",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL9YofT4WdRgZqmO9yA2U__CHbyJfsadwpknMaO6MTd5PG5KEs=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113955708735356821024"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBAaYBk9xyekdGH1lg1ln4E&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBAaYBk9xyekdGH1lg1ln4E!2e10!4m2!3m1!1s0x487604ccdf106809:0x1a0d5f013c2e0639",
+            "heightPx": 3200,
+            "name": "places/ChIJCWgQ38wEdkgROQYuPAFfDRo/photos/AWn5SU5vPI6MNsLdiMJYI_ZWlfc6lCe0CHhpMqBc_VkEsIkeSvImObsBn-jgNZiKJwhCQoohdd-WBS2s1x1P4oUl4Z-jmJjDu_ikw2ip43M9EeSxALbBEjcU7HQM0AhtvOChMg_MD-64eJ8KXB5iU-zoy3q0tKHbwlVVZ9PKfbEOutxw_9DdZCN_8nDx6v1CrT-_zBlVqMg0FnP65hesPQopfTUXocl9yiyApsoiSnVyjynsBw42Ch-HaY_DUKwd0zvWmeqhu50jG0_INXHikSTk9ydPvd7kYTOHPp5X1Ra4zXC3YFr6Eht_L_RNuRrmUaXUq-Sb3t4WEPSMs88u1p4y-r7ado1DXsiIdNXmSOgqjaSgk-NtYpwXmXoXHAddOgqfrD2sKNB_0-C04A97GCcbBh2-vMbLtmFujjGYXWg-Vl43qsIZVFF5oNMyeYRMwQ",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Sam Aberman",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWW8LD98tdvZGX2GSpZHvoTTtCKd8qb17YM2nQsTU6mmb_xz9uN7Q=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/111941996399252793572"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhATe6fcXYvaBL1K4qYadGPs&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhATe6fcXYvaBL1K4qYadGPs!2e10!4m2!3m1!1s0x487604ccdf106809:0x1a0d5f013c2e0639",
+            "heightPx": 2373,
+            "name": "places/ChIJCWgQ38wEdkgROQYuPAFfDRo/photos/AWn5SU5owIX6zdzqQcwPrN0jHHTL-NH-DrN01_YU-eY3kaO9l2JvGl-UP5hEVNvamP6ILru9J5mxi-7ef5Nhiw0VmLn68K5sZq5S7tatdth_Z78oCrCkI7KRQ9epfTqqALUKXaIs-GIrrk4h-JEonZwcMpDLl-hlNC8wPXP5ywTxt4bPA-hpvwBlabpz9NkatZRFOyF6NJKp3t3-UD7Uypofc6r54mNkJeSxrCyucfuZl7bMlmOFN9X7aFpnWZZw8BIi1hLM6fwFRJtwo2e3v4pRfvi3SnV8S7a0kTQV7J2oRuAJIjvRHcC9x6WwR9ns0-nHQ_emwFbZAsQELbbvOHHUNgB1zhM66P0xc5A0FzfwRXP6RsCF-A-OatRKnkG-menMlXwSuTxVfRoTYYJLhR8KgbnuDwrrDnrqaCadQ3qeC9oeDaaRn4E1hbmQvXmVO2X4",
+            "widthPx": 2214
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Toby H",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUOv2CJSmJ6J9dQJN7BgTIiIqWhc5E4AAFlojgiWIrC0WdMxDig=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/116850874808339671623"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCgqf2V5gE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCgqf2V5gE!2e10!4m2!3m1!1s0x487604ccdf106809:0x1a0d5f013c2e0639",
+            "heightPx": 2048,
+            "name": "places/ChIJCWgQ38wEdkgROQYuPAFfDRo/photos/AWn5SU5Cq_RY27QLg1xssFe2lCPWV3pLfp3020LLpy_lZnEkd_edwqMYPlCYZF4sbN8FrpwJfCaD5PXNEM6Agmpvrp_XSSULSoQZBsw_04vBa2fi8LZIdHngxfl9K1h_uuGw36i_mOPieXtjMS_g8M7H_u59rPkS-LhpfM5SOdo4cTtEW0f752ZgUpTYMtcqh8BDMhiYqvNXMZ-ufHMOqjGEWoHW0FYzP45AcCDwl_eU-8k7OsKRdvgUDE1qUXvG6TCJLtGXyWJoI58ozRn52wle7vzJS2EJzPMYCGX_nIFYAhWqKTSkNiqIN9CKBiUOZhVpMOs0S3_mx6ToUC-ixi4qbVMPnfCi0ghDOs8x7eu8XHrB1IffYuVEGw4Rfh_b2McXJrtk-rdLlGiuuh4u0WG3njHSnYhxKwkKnly64A1CD_EFjQk",
+            "widthPx": 1536
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Mrinalinee Sharma",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXKmv8x_FLDWBb0hUKgbkhdYdbVYo62gpga9vqf0FEw6GXnBmyxkw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113943886158058846151"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCLoYiCqkQ9OQ9B0vUZnewS&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCLoYiCqkQ9OQ9B0vUZnewS!2e10!4m2!3m1!1s0x487604ccdf106809:0x1a0d5f013c2e0639",
+            "heightPx": 2042,
+            "name": "places/ChIJCWgQ38wEdkgROQYuPAFfDRo/photos/AWn5SU7vm-6XktCjHEjHBy5wZH8ISsXCL12zou9xNa6vDuMwEPQVSFYxfEL7Zq8K9hRPmeUpttjC2rAHd9IGl064_kHneLr3k9X41C9OWK1yAFDbte0zR-sxdX9n4lyNiOVGxeNioXFYEVlm9DlMBBRebDEzVu_ogCIdHEQWJxgRTZOsr7D6vv_k_uXNXd9xg89Cdw7wGzAJj8eOI5WXtrMKzMJzuVlkJjgx3YaaaYiNl9pjqX9eXBf49zMeeP5FgJy8Ew7M08skc6UqMUSMvkjhHMN0q2xC1GC47XK8RToIyqivQOB6B2leufOcwtHUqVPWkafBMgyobhZQj80HWqp7gM2KWS4VvTMjmpdf7C0nD7iKSB4olETkbxlxWA4ihoI-eLI5AIJpWtwND8vdu2FH4D62HZ2c4hrkpahZx11WV73bQ2GekvbXwFqzt0kWOA",
+            "widthPx": 3627
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Sau Tran",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUJmsVoQ81qczegY8K1V66WhRfJAm1u8COohN5o3Y_MFE9NKIQx=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/116712867661557557128"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBOG1UJaF0fHxJ7w9t0BHq_&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBOG1UJaF0fHxJ7w9t0BHq_!2e10!4m2!3m1!1s0x487604ccdf106809:0x1a0d5f013c2e0639",
+            "heightPx": 3072,
+            "name": "places/ChIJCWgQ38wEdkgROQYuPAFfDRo/photos/AWn5SU6kAumi0JDFhomJgCKEZON4xaaSuFGZ_wZDoqR81qmyNPAe1TPT3MGkU7pGmb0NoCQIZAppod0Xst-_KAAG3YgsVu6FatI2ziZXQUp0JLsjkLGo7QMQT2YdFiPydKRjuwClABa9c7EfHsdhpF2LzLxICTOlDJ5MB4GmpuSZ6I36xyl_lPiUcZh1ZG6F19lSSg4jk6lUk2R3WD84ihm6jX_FMm-504V46V3Te4sc2aZ2hA26ZeWqGUi4TPSsQZmb7UN3japJ62bZPtSNWSdSJZerI8viT8E6VxnWbmKKCDoG3xKNFuB4s-1fXKnPcT6tsCss-iAlvY3WlMhwYQ29Ylv_kKWkwohdWKMV4X5vcErpGYQom2ZynnHwAT3fBeq5gEX2YAtw8K_rASgWIVW7VxQUIlDBJQWTQFlWz4gG5VAbBlnETABmM1g8c0T2Dg",
+            "widthPx": 4080
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Kevin 凱文 ケビン",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVDEAgdQw3PAKtKPtH9krzCbC7bbEnD6vK-bW_vuosJSIdG2e4M=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113137885493854713847"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBWuZhNE0CULgy_ApNvC0AI&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBWuZhNE0CULgy_ApNvC0AI!2e10!4m2!3m1!1s0x487604ccdf106809:0x1a0d5f013c2e0639",
+            "heightPx": 4800,
+            "name": "places/ChIJCWgQ38wEdkgROQYuPAFfDRo/photos/AWn5SU6HmukdPC9RAdTSpYK3BTOvxiPPzedhfpT6lzh_F5Cr7DYA5xS-cNKA5yB6LQNbI6uCRvoHXy-6Om4X_2dV2i9o2qPuV-lI0glcA1wWBoNDtP_oOEPqnlYjfOC2dNck5ipxDhd_7RImWfRW9Q53JvGbdt-kgotATqwXjH2kUXGFVMymGhjabXuspOOrHaV5BVyt9LrjuQhl1wuMGxP6oD8e37YXqz1DhAXJfzour-NpSPaV6xiLo3Kmibd_dvrY4FpWf3LoaT8_QhiCPDtSZbiHhizis5cs-XSMC7774ZRbw1OfT1vRMc6_-yzJFwzQTMkYGtPtz8-0_LxUDQ_ifCz2uKa1Zu-dloae0UQwcu_2yLirDocWJg_gRxRNfXDA4nkH0S-4mKYNno0mKIHwIj8ZLGL9IxxV0omkPsYnKzteM-S4Z9S--HbPWr78llFs",
+            "widthPx": 3600
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Dave West",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK6IzqxWXCc-tI2X2tZeKlx26wITTJZZenz49IHsskzYlZAVw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113506626097591753805"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKENn7oOL8g9vcrAE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKENn7oOL8g9vcrAE!2e10!4m2!3m1!1s0x487604ccdf106809:0x1a0d5f013c2e0639",
+            "heightPx": 3600,
+            "name": "places/ChIJCWgQ38wEdkgROQYuPAFfDRo/photos/AWn5SU5AdSoaFMsPv-2xl_TaB3lXVRMfZyyAeIKk8TMw-akOFZYP9aoGplXCCwS30r97uy8TAZ-Tx6BgqtXwnG2mOqqdTS4gYiaSogylzLq2Z7mTfASvyxwNUTkhafFj_sHKediqeOC9n1I_bq4GP3EBjr7-LaGQeFMZe9EuRJr7ZfRiF70NK7zAjIQc_0xShmsv33FLYCIPa1Y0wmRsP66Uax-pTtiiKx6av-W_PxSj8jUv5v1vv0K0OyT5CqBYGcd8ooOlqq34LgazatM6ZGQLoTIUh9CLHrkoIaymbm8pRSVD57hV5VTjqYHye-kAiQFMvk85zWh6v7EWWDZ3-BmnWH5LCZ18z7ktY0IjqfepvKpPS7B51xKPtVb9apD_ETsuPpFb3kwEKstNkRgcJIHU7HZR4EZVZ6ed0FTWtzaqKhh1rq-_",
+            "widthPx": 4800
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV7F+9P London, UK",
+        "globalCode": "9C3XGV7F+9P"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "11 Langley Street"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2H 9JG",
+        "regionCode": "GB"
+    },
+    "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+    "primaryType": "steak_house",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Steak House"
+    },
+    "rating": 4.6,
+    "regularOpeningHours": {
+        "nextOpenTime": "2025-11-25T11:45:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 11,
+                    "minute": 45
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 11,
+                    "minute": 45
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 11,
+                    "minute": 45
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 11,
+                    "minute": 45
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 11,
+                    "minute": 45
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 11,
+                    "minute": 45
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 11,
+                    "minute": 45
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 11:45 AM – 11:00 PM",
+            "Tuesday: 11:45 AM – 11:00 PM",
+            "Wednesday: 11:45 AM – 11:00 PM",
+            "Thursday: 11:45 AM – 11:00 PM",
+            "Friday: 11:45 AM – 11:30 PM",
+            "Saturday: 11:45 AM – 11:30 PM",
+            "Sunday: 11:45 AM – 10:30 PM"
+        ]
+    },
+    "regularSecondaryOpeningHours": [
+        {
+            "nextOpenTime": "2025-11-25T12:00:00Z",
+            "openNow": false,
+            "periods": [
+                {
+                    "close": {
+                        "day": 0,
+                        "hour": 20,
+                        "minute": 50
+                    },
+                    "open": {
+                        "day": 0,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "day": 1,
+                        "hour": 14,
+                        "minute": 30
+                    },
+                    "open": {
+                        "day": 1,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "day": 1,
+                        "hour": 21,
+                        "minute": 20
+                    },
+                    "open": {
+                        "day": 1,
+                        "hour": 16,
+                        "minute": 30
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "hour": 14,
+                        "minute": 30
+                    },
+                    "open": {
+                        "day": 2,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "hour": 21,
+                        "minute": 20
+                    },
+                    "open": {
+                        "day": 2,
+                        "hour": 16,
+                        "minute": 30
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "hour": 14,
+                        "minute": 30
+                    },
+                    "open": {
+                        "day": 3,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "hour": 21,
+                        "minute": 20
+                    },
+                    "open": {
+                        "day": 3,
+                        "hour": 16,
+                        "minute": 30
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "hour": 14,
+                        "minute": 30
+                    },
+                    "open": {
+                        "day": 4,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "hour": 21,
+                        "minute": 20
+                    },
+                    "open": {
+                        "day": 4,
+                        "hour": 16,
+                        "minute": 30
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "hour": 14,
+                        "minute": 30
+                    },
+                    "open": {
+                        "day": 5,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "hour": 21,
+                        "minute": 50
+                    },
+                    "open": {
+                        "day": 5,
+                        "hour": 16,
+                        "minute": 30
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "hour": 21,
+                        "minute": 50
+                    },
+                    "open": {
+                        "day": 6,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                }
+            ],
+            "secondaryHoursType": "KITCHEN",
+            "weekdayDescriptions": [
+                "Monday: 12:00 – 2:30 PM, 4:30 – 9:20 PM",
+                "Tuesday: 12:00 – 2:30 PM, 4:30 – 9:20 PM",
+                "Wednesday: 12:00 – 2:30 PM, 4:30 – 9:20 PM",
+                "Thursday: 12:00 – 2:30 PM, 4:30 – 9:20 PM",
+                "Friday: 12:00 – 2:30 PM, 4:30 – 9:50 PM",
+                "Saturday: 12:00 – 9:50 PM",
+                "Sunday: 12:00 – 8:50 PM"
+            ]
+        }
+    ],
+    "reservable": true,
+    "restroom": true,
+    "reviewSummary": {
+        "disclosureText": {
+            "languageCode": "en-US",
+            "text": "Summarized with Gemini"
+        },
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=5%401:CAIQACodChtyc19oOjJFZ2dHYVhJV3JMQUtuUHNTSFZNZXc%7CCAIQACoqChtyc19oOjJFZ2dHYVhJV3JMQUtuUHNTSFZNZXcSCwiE6LbIBhDApeBE&d=17924085&t=8",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487604ccdf106809:0x1a0d5f013c2e0639!9m1!1b1",
+        "text": {
+            "languageCode": "en-US",
+            "text": "People say this steakhouse offers delicious steaks, including chateaubriand, porterhouse, and ribeye, as well as a fantastic Sunday roast and sticky toffee pudding. They highlight the generous portions, the high quality of the food, and the excellent value, especially for the set menu and Sunday roast. They also like the attentive, friendly, and professional service, and the lively atmosphere."
+        }
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Indrajit Advani",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL9YofT4WdRgZqmO9yA2U__CHbyJfsadwpknMaO6MTd5PG5KEs=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/113955708735356821024/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21OallVNUdiVkJpV0UxTGVVUjBTalpoT0ZkbmJIYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21OallVNUdiVkJpV0UxTGVVUjBTalpoT0ZkbmJIYxAB!2m1!1s0x487604ccdf106809:0x1a0d5f013c2e0639",
+            "name": "places/ChIJCWgQ38wEdkgROQYuPAFfDRo/reviews/Ci9DQUlRQUNvZENodHljRjlvT21OallVNUdiVkJpV0UxTGVVUjBTalpoT0ZkbmJIYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Hawksmoor Seven Dials is just a short walk from Covent Garden tube station, on the corner just past Pineapple Dance Studio and the soon-to-open Guinness bar.\n\nThe front desk staff were a little cold (unfortunately as their main job is to welcome people in!) but our main server, Amanda, was lovely. She outlined what was available when we explained that we would, ideally, like to share a really juicy steak. She recommended prime rib, which at around 1kg (and a cost of 130 pounds) was more than enough for the three of us. She recommended medium rare to bring out the flavour of the fat and I have to say it was prepared perfectly. The meat was high quality and truly delicious - perhaps the best steak we've had in London so far though we haven't visited super high end places like Smith & Wollensky. It wasn't as good as Japanese wagyu that we've had in Asia but it was really good.\nWe ordered bone marrow & onions with Amanda giving us some extra bread, which was delicious. The garlic mushrooms were among the best we've ever had - the seasoning was extraordinary. Perhaps the fries could have been a bit more generous considering that we ordered a sharing steak.\nThe one disappointment was the drinks. They had some specials on offer that were priced very affordably but they tasted little more than funky fruit juice while the bloody mary that I ordered was remarkably small and watery given the price of 13.75 pounds."
+            },
+            "publishTime": "2025-09-26T14:27:53.775430690Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Hawksmoor Seven Dials is just a short walk from Covent Garden tube station, on the corner just past Pineapple Dance Studio and the soon-to-open Guinness bar.\n\nThe front desk staff were a little cold (unfortunately as their main job is to welcome people in!) but our main server, Amanda, was lovely. She outlined what was available when we explained that we would, ideally, like to share a really juicy steak. She recommended prime rib, which at around 1kg (and a cost of 130 pounds) was more than enough for the three of us. She recommended medium rare to bring out the flavour of the fat and I have to say it was prepared perfectly. The meat was high quality and truly delicious - perhaps the best steak we've had in London so far though we haven't visited super high end places like Smith & Wollensky. It wasn't as good as Japanese wagyu that we've had in Asia but it was really good.\nWe ordered bone marrow & onions with Amanda giving us some extra bread, which was delicious. The garlic mushrooms were among the best we've ever had - the seasoning was extraordinary. Perhaps the fries could have been a bit more generous considering that we ordered a sharing steak.\nThe one disappointment was the drinks. They had some specials on offer that were priced very affordably but they tasted little more than funky fruit juice while the bloody mary that I ordered was remarkably small and watery given the price of 13.75 pounds."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Mark Graver",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIfhX9SqRb8C_b_n57e5E-_Kqqjm7Jxh6JCG83ur1l8CBmqwQ=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/106471654307143414329/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wbFJuWjJSVUY1YTJkT1VsRlBlUzFUVDJodU9VRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wbFJuWjJSVUY1YTJkT1VsRlBlUzFUVDJodU9VRRAB!2m1!1s0x487604ccdf106809:0x1a0d5f013c2e0639",
+            "name": "places/ChIJCWgQ38wEdkgROQYuPAFfDRo/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wbFJuWjJSVUY1YTJkT1VsRlBlUzFUVDJodU9VRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "We were told by a friend to visit for a Sunday Roast, OMG! What a fantastic meal, the veg was so tasty, the stuffing and cauliflower cheese were to die for, the Yorkshire puddings were gigantic and the meat just melted in your mouth. Would recommend 100% and will definitely be returning."
+            },
+            "publishTime": "2025-11-16T18:04:12.185767188Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a week ago",
+            "text": {
+                "languageCode": "en",
+                "text": "We were told by a friend to visit for a Sunday Roast, OMG! What a fantastic meal, the veg was so tasty, the stuffing and cauliflower cheese were to die for, the Yorkshire puddings were gigantic and the meat just melted in your mouth. Would recommend 100% and will definitely be returning."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Amber Paul",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV9atREwQV2nV7MM2pZXQDrDOR2vP42x41Ncy0HhLOPoLOViI12=s128-c0x00000000-cc-rp-mo-ba6",
+                "uri": "https://www.google.com/maps/contrib/105508288101061392959/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20wdFgzRk9XVVJGVTJGdGFHZGxkMWhRYzFRNE0zYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20wdFgzRk9XVVJGVTJGdGFHZGxkMWhRYzFRNE0zYxAB!2m1!1s0x487604ccdf106809:0x1a0d5f013c2e0639",
+            "name": "places/ChIJCWgQ38wEdkgROQYuPAFfDRo/reviews/Ci9DQUlRQUNvZENodHljRjlvT20wdFgzRk9XVVJGVTJGdGFHZGxkMWhRYzFRNE0zYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "We ate here on 9 October 2025. When we come back to London, this will be a regular stopping place.\n\nWe split the smaller ribeye steak. The meat was absolutely delicious!! It was very tender & cooked perfectly. We had the sourdough & butter before our meal, then each had a butter & herb salad & I had the buttered spring potatoes.\n\nWe split the upside down apple & almond cake. We switched the sour cream ice cream for the caramel ice cream. We were not as impressed with the dessert & probably won't order it again.\n\nWe were there an hour & a half, so this is not the place to go if you're on a tight schedule. We did book reservations, to make sure we could get in."
+            },
+            "publishTime": "2025-10-10T19:26:52.611286935Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "We ate here on 9 October 2025. When we come back to London, this will be a regular stopping place.\n\nWe split the smaller ribeye steak. The meat was absolutely delicious!! It was very tender & cooked perfectly. We had the sourdough & butter before our meal, then each had a butter & herb salad & I had the buttered spring potatoes.\n\nWe split the upside down apple & almond cake. We switched the sour cream ice cream for the caramel ice cream. We were not as impressed with the dessert & probably won't order it again.\n\nWe were there an hour & a half, so this is not the place to go if you're on a tight schedule. We did book reservations, to make sure we could get in."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Meija&Kaj",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVRR0xDhxG9OWFiEd8taP4Qt-vOORqu8cJlwPWt46e0fZsnIQ0=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/101319379849752851211/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xb1Z6VmtNRGhuZVZoWU9HVkdjR0Z3T1hONFVGRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xb1Z6VmtNRGhuZVZoWU9HVkdjR0Z3T1hONFVGRRAB!2m1!1s0x487604ccdf106809:0x1a0d5f013c2e0639",
+            "name": "places/ChIJCWgQ38wEdkgROQYuPAFfDRo/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xb1Z6VmtNRGhuZVZoWU9HVkdjR0Z3T1hONFVGRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Ahhhh, it had been 6 long years since our prior visit to UK (thanks covid...), and we had greatly missed Hawksmoor Seven Dials, our staple in our London trips. To no surprise, the dinner experience did not disappoint. It was great to see the venue interior unchanged, as well as the welcoming and pleasant atmosphere created by the staff. The food: simply superb. Our starter was the Hawksmoor smoked salmon. The salmon (delivered exclusively to Hawksmoor) was just divine, on par with the best salmon we have ever had (the other place is Rick's The Seafood Restaurant). There should be songs written about that salmon! The tasty Guinness bread works perfectly with the salmon. Our regular for the main course is the fillet, this time only the 275 gram ones - wish we had had space for more! The fillet was as good as ever at Hawksmoor Seven Dials - the best steak we have ever had (quite many times...). The accompanying (and our regular) choices - the just perfect peppercorn sauce, the creamed spinach, the baked sweet potato, the heritage tomatoes - complemented and perfected the main course. The dessert: as always, the sticky toffee pudding. Unchanged and awesome. The three courses we had with wines recommended by our nice and knowledgeable waiter, Teilo: Grüner Veltliner with the salmon, Pulenta Hawksmoor with the steaks, and Lustau East India with the stickies - all worked very well with the food.\n\nWith too many of our London regulars unfortunately having sacrificed the quality, it was so great to see that Hawksmoor has not compromised on anything, whether it be the ingredients, the end product, the level of service, or the staff. It is actually perplexing how Hawksmoor has been able to attract staff that keeps on delivering the same unchanged pleasant trademark Hawksmoor experience. Hawksmoor Seven Dials is what a truly great restaurant experience is: superb food in very nice surroundings, with stellar staff. Oh Hawksmoor Seven Dials, we miss you so much already!"
+            },
+            "publishTime": "2025-10-11T22:16:13.436237602Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Ahhhh, it had been 6 long years since our prior visit to UK (thanks covid...), and we had greatly missed Hawksmoor Seven Dials, our staple in our London trips. To no surprise, the dinner experience did not disappoint. It was great to see the venue interior unchanged, as well as the welcoming and pleasant atmosphere created by the staff. The food: simply superb. Our starter was the Hawksmoor smoked salmon. The salmon (delivered exclusively to Hawksmoor) was just divine, on par with the best salmon we have ever had (the other place is Rick's The Seafood Restaurant). There should be songs written about that salmon! The tasty Guinness bread works perfectly with the salmon. Our regular for the main course is the fillet, this time only the 275 gram ones - wish we had had space for more! The fillet was as good as ever at Hawksmoor Seven Dials - the best steak we have ever had (quite many times...). The accompanying (and our regular) choices - the just perfect peppercorn sauce, the creamed spinach, the baked sweet potato, the heritage tomatoes - complemented and perfected the main course. The dessert: as always, the sticky toffee pudding. Unchanged and awesome. The three courses we had with wines recommended by our nice and knowledgeable waiter, Teilo: Grüner Veltliner with the salmon, Pulenta Hawksmoor with the steaks, and Lustau East India with the stickies - all worked very well with the food.\n\nWith too many of our London regulars unfortunately having sacrificed the quality, it was so great to see that Hawksmoor has not compromised on anything, whether it be the ingredients, the end product, the level of service, or the staff. It is actually perplexing how Hawksmoor has been able to attract staff that keeps on delivering the same unchanged pleasant trademark Hawksmoor experience. Hawksmoor Seven Dials is what a truly great restaurant experience is: superb food in very nice surroundings, with stellar staff. Oh Hawksmoor Seven Dials, we miss you so much already!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Simon Narracott",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXzSBtrsGaJ06z73TaOOaub6cscVj372jARRzbJWzwFMbP_qGNgVw=s128-c0x00000000-cc-rp-mo-ba6",
+                "uri": "https://www.google.com/maps/contrib/106577250266166492547/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pJeWFXZGlVM0JpZW0xTGVscE9hWE5VY0VKUVNsRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pJeWFXZGlVM0JpZW0xTGVscE9hWE5VY0VKUVNsRRAB!2m1!1s0x487604ccdf106809:0x1a0d5f013c2e0639",
+            "name": "places/ChIJCWgQ38wEdkgROQYuPAFfDRo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pJeWFXZGlVM0JpZW0xTGVscE9hWE5VY0VKUVNsRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Superb food, and not overpriced for what you get. You will leave happy.\nBut, the staff dress really scruffy, and the only way of identifying them is to look for people who don't look like they should be there.   Such a shame."
+            },
+            "publishTime": "2025-11-04T19:29:13.663979217Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "2 weeks ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Superb food, and not overpriced for what you get. You will leave happy.\nBut, the staff dress really scruffy, and the only way of identifying them is to look for people who don't look like they should be there.   Such a shame."
+            }
+        }
+    ],
+    "servesBeer": true,
+    "servesBreakfast": false,
+    "servesBrunch": false,
+    "servesCocktails": true,
+    "servesCoffee": true,
+    "servesDessert": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "servesVegetarianFood": true,
+    "servesWine": true,
+    "shortFormattedAddress": "11 Langley St, London",
+    "takeout": false,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "steak_house",
+        "wine_bar",
+        "seafood_restaurant",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 4552,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.51483373029149,
+            "longitude": -0.12435286970849799
+        },
+        "low": {
+            "latitude": 51.5121357697085,
+            "longitude": -0.12705083029150202
+        }
+    },
+    "websiteUri": "https://www.thehawksmoor.com/locations/seven-dials/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+    "timestamp": 1764064800
+}

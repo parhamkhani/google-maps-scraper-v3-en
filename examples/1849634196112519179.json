@@ -1,0 +1,810 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleRestroom": true
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en",
+            "longText": "24 Cambridge Circus 84-86"
+        },
+        {
+            "languageCode": "en",
+            "longText": "Charing Cross Road",
+            "shortText": "Charing Cross Rd",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2H 8AA",
+            "shortText": "WC2H 8AA",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Palace Theatre"
+                },
+                "name": "places/ChIJSSX_mtIEdkgRB6GDxlSJGFs",
+                "placeId": "ChIJSSX_mtIEdkgRB6GDxlSJGFs"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJs4GOh8sEdkgRRiBFZKMP8ZE",
+                "placeId": "ChIJs4GOh8sEdkgRRiBFZKMP8ZE"
+            },
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Soho"
+                },
+                "name": "places/ChIJm39Ln9QEdkgR0l1-U8xXTuQ",
+                "placeId": "ChIJm39Ln9QEdkgR0l1-U8xXTuQ"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Palace Theatre"
+                },
+                "name": "places/ChIJYxVJmtIEdkgRSFNK6hLhPvQ",
+                "placeId": "ChIJYxVJmtIEdkgRSFNK6hLhPvQ",
+                "straightLineDistanceMeters": 45.00065,
+                "travelDistanceMeters": 51.100983,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Nisbets Catering Equipment Shaftesbury Avenue Store"
+                },
+                "name": "places/ChIJz0cAXM0EdkgRuyvNH7CspO8",
+                "placeId": "ChIJz0cAXM0EdkgRuyvNH7CspO8",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 60.937088,
+                "travelDistanceMeters": 76.05782,
+                "types": [
+                    "establishment",
+                    "furniture_store",
+                    "home_goods_store",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Wingstop Cambridge Circus"
+                },
+                "name": "places/ChIJ7eZuNk4FdkgRkoeSfjqIYDY",
+                "placeId": "ChIJ7eZuNk4FdkgRkoeSfjqIYDY",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 62.52165,
+                "travelDistanceMeters": 46.896355,
+                "types": [
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The Cambridge"
+                },
+                "name": "places/ChIJ9SpAn9IEdkgR_Knrbky2MJU",
+                "placeId": "ChIJ9SpAn9IEdkgR_Knrbky2MJU",
+                "spatialRelationship": "BESIDE",
+                "straightLineDistanceMeters": 16.583447,
+                "travelDistanceMeters": 11.610879,
+                "types": [
+                    "bar",
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Soho Fire Station"
+                },
+                "name": "places/ChIJf2FWiNIEdkgRG2VaMMbrq2c",
+                "placeId": "ChIJf2FWiNIEdkgRG2VaMMbrq2c",
+                "straightLineDistanceMeters": 121.587875,
+                "travelDistanceMeters": 132.09665,
+                "types": [
+                    "establishment",
+                    "fire_station",
+                    "point_of_interest"
+                ]
+            }
+        ]
+    },
+    "allowsDogs": false,
+    "businessStatus": "OPERATIONAL",
+    "curbsidePickup": false,
+    "currentOpeningHours": {
+        "nextCloseTime": "2025-11-25T23:30:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 22,
+                    "minute": 45
+                },
+                "open": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 23,
+                    "minute": 45
+                },
+                "open": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 45
+                },
+                "open": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 7,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 7:00 AM – 11:30 PM",
+            "Tuesday: 7:00 AM – 11:30 PM",
+            "Wednesday: 7:00 AM – 11:30 PM",
+            "Thursday: 7:00 AM – 11:30 PM",
+            "Friday: 7:00 AM – 11:45 PM",
+            "Saturday: 7:00 AM – 11:45 PM",
+            "Sunday: 7:00 AM – 10:45 PM"
+        ]
+    },
+    "delivery": true,
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "McDonald's"
+    },
+    "editorialSummary": {
+        "languageCode": "en",
+        "text": "Classic, long-running fast-food chain known for its burgers & fries."
+    },
+    "formattedAddress": "24 Cambridge Circus 84-86, Charing Cross Rd, London WC2H 8AA, UK",
+    "goodForChildren": true,
+    "goodForGroups": true,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x487604cd7eb3e9f5:0x19ab388067b3b00b!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487604cd7eb3e9f5:0x19ab388067b3b00b!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=1849634196112519179&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487604cd7eb3e9f5:0x19ab388067b3b00b!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487604cd7eb3e9f5:0x19ab388067b3b00b!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=1849634196112519179&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJ9emzfs0EdkgRC7CzZ4A4qxk",
+    "internationalPhoneNumber": "+44 20 3077 1189",
+    "location": {
+        "latitude": 51.513669199999995,
+        "longitude": -0.1291465
+    },
+    "menuForChildren": true,
+    "name": "places/ChIJ9emzfs0EdkgRC7CzZ4A4qxk",
+    "nationalPhoneNumber": "020 3077 1189",
+    "outdoorSeating": true,
+    "parkingOptions": {
+        "freeParkingLot": true,
+        "freeStreetParking": false,
+        "paidParkingLot": false
+    },
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Mari Muñoz",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLrOaiVRuBBhPtoldrPfdrDmKKt56DvN8208uqQ8I3ykgjkwPc=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/106593738692771464094"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICm9_vlTQ&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICm9_vlTQ!2e10!4m2!3m1!1s0x487604cd7eb3e9f5:0x19ab388067b3b00b",
+            "heightPx": 4032,
+            "name": "places/ChIJ9emzfs0EdkgRC7CzZ4A4qxk/photos/AWn5SU4oVfNSVSqHetRy7nnuKx8QDwr-biTgoTCrR_HWqefCOYhKIzJ9MhqI-U2LrYR4odNQ5Y4iwUtWj6f13OjPxYTfG8hX2yABqyRrWjDmqGRv5qoHSzZ3R-r9Khrpet9ZG_PjS8s_JLCTzVY9XUvaZoPhdIdE_o3RDtE-O-oqL8FGfrEHf3qmn2beThBWYOSzhdgAeb14QKYqwhe6gpUhbtz2TYgoX_TqDD-41LLjP3R0BjTQaMakFqRuh9Ci6espdvZ2kZqOf5newu58xj3U86AAaOqC3QJXuzV7lF38iXXiD536ppHxSLeAUNwd-IrBVNTYlGDU58ycJ0321t4uRDu6E_HE0qJ-9WN6m4myYDG4cjgepvd1R_JrPHQkiaR8Di2kbn2nmf5BdrysrXB1SyBWrrzGwAq1Si8mAQHf03A",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "McDonald's",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXc3jQJIdb_WcBiOk748Y0JlVWK3Eun28jHf7krHMPNkQ9QWUyf=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/100087807475155032210"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNqmnvYRBue9YQt-RxxUmyiAOVWj8DyuMA8xUEu&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNqmnvYRBue9YQt-RxxUmyiAOVWj8DyuMA8xUEu!2e10!4m2!3m1!1s0x487604cd7eb3e9f5:0x19ab388067b3b00b",
+            "heightPx": 472,
+            "name": "places/ChIJ9emzfs0EdkgRC7CzZ4A4qxk/photos/AWn5SU6cnai1LsZx2Gc5viJnq8vNLF5kQIgcvO9HmMFhvjf-9maRW3b4cLKMiIU0W-74AwICJgvpkr_Jwhy6uNn7UJE-W_2320HAuj5FhaZrDAJfWyBb-x82cA6RXG3Fc2Kpcn-ZSg6Ic-XBSg1ybuQxBhDEYhyUb1k_H-p0z24z8viGnnQu4EEYjK9qujECSFEqGlOO66yhKWEuVulqwc5Wm36jTh6ikeUDaoPGCeI5cyqNSjpSRGRKVDQ934YF7WTunE5cqYzp-CeizA72c7VvyYrCf9eJ-SCdKpgjb3nNLFSjnQ",
+            "widthPx": 832
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "mcdonaldskinhead",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjViwZCVY-Vtg1-kUeBZaa5YLAwaSXDLIw5xyqAKBiZvV4PYjos=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117403392977461978153"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICl-ebtVQ&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICl-ebtVQ!2e10!4m2!3m1!1s0x487604cd7eb3e9f5:0x19ab388067b3b00b",
+            "heightPx": 4032,
+            "name": "places/ChIJ9emzfs0EdkgRC7CzZ4A4qxk/photos/AWn5SU57Gb9lmGwsFmigvHD3Yn5LovKbLPeCQEiSmIIsvAEYKquclZprK6Xwcl1M7kB9PphdzZctBI3GHhoChjh31TAo7ybuaSRPb1GPeXW870yPts59s-wXQUvILQfm6KbB-JCy8q-dLjgHeS09EtGsgsTUz8JeF2TaWVpK0L1VtEmuqltinPSD6M9vs4LBa6hECst2-LmDEuHaItxg7oNp1-wu8zXzXnuXseh2MAvydjJPxdHSsxe9p4N97vtEDXb5dT6RHMhGe7T05OV9HeAAzp8YArrUIA1D5NS0ArKfJFsUxohdc97qCdp4oSbFEVwnQrGE_5bAzyE-B8E7dqGtwSaNkZ4mhQY6EvbkZjx2rHMozK7qMHokUgyKSpgUTHUp0DrN6L6BEFE5pE-aTYHZf1-CVdbauvcxq27G4uec-owI3g",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Dmytro Maliuk",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUv768Xvy-Id_VEITlDHRhsq2gt5DI2VwFZ0dqH7AU6ZvN2UYtQKg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113512636889263084446"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDv2_PNDg&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDv2_PNDg!2e10!4m2!3m1!1s0x487604cd7eb3e9f5:0x19ab388067b3b00b",
+            "heightPx": 3072,
+            "name": "places/ChIJ9emzfs0EdkgRC7CzZ4A4qxk/photos/AWn5SU40Wsi_l-FzSAyRvYIlnYOt65kuVVsG9Iki6MwwiK1PZWpzDj7xkm0Kh4-3aah1bZcr36h98rPAUzwA3gvN1Iww9dVJ1wRZRhEkt1fc1l35K3Sq4kiaJ0UyNPULR-B7c6tkK5HdtLzYboa1T5VNL7brtE3aeNJ8JDDrnYKuQ0G0HsWjPVA9J0QATgiGviKroHgJVZo9Gq8YuFZWB98XmIoOT2gz_WUZUxmtbrIeVpk6ojKYlGxE-BN2BoP5w1GYzr7Gl45uhccGB9YEH-N54VCymKzPRbA6lUykLho6S2G26TBtz6bOxt_PB0-d2tID1G1wPUUT3O_0UYo_-H6FHxKWEVkDXS9Fqtr-yZmqKt0ZrZ82LueQ3Qd_V_NHlfMP9tFBvDAXLL7a-QGsIw3uwjncJJLJpHukI1g_lJbOwf7Oow",
+            "widthPx": 4096
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "McDonald's",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXc3jQJIdb_WcBiOk748Y0JlVWK3Eun28jHf7krHMPNkQ9QWUyf=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/100087807475155032210"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOZVmZG1liDYHhB-YGfcu4F1xevZI-158_aWZ1f&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOZVmZG1liDYHhB-YGfcu4F1xevZI-158_aWZ1f!2e10!4m2!3m1!1s0x487604cd7eb3e9f5:0x19ab388067b3b00b",
+            "heightPx": 472,
+            "name": "places/ChIJ9emzfs0EdkgRC7CzZ4A4qxk/photos/AWn5SU5RAM1SEgn2GNHnZmNsrVYWGwIXV9RSfS7vv9odHdQ9ZZ8TbuuHA80YMqfG7aBq7FKHIkaTlHAsd6nO58bXfp5W4hMYM-CNsARB30dQGmNLMkYzRFOsYUlNzYUHDbOsOF_7BjM5hyZOoxSw_VnCPyzQirYDMfTpHcNuZPgTN2-lyL7f2K1SAfUpBYFUNIdLrJ0_ALWrkKac1l-ENRJgg5Njjw8TGDK6oA6wXItorw5g0-1l-MWp3ef8hiNE-RRyjkFm9bmrrEETKvul8Nqozl6Z73j_jGkdxphb8mKy7xFH5A",
+            "widthPx": 832
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "McDonald's",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXc3jQJIdb_WcBiOk748Y0JlVWK3Eun28jHf7krHMPNkQ9QWUyf=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/100087807475155032210"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNHakhauBRCukPXL2C2QjvpsN8PoAVzrtw6vc3i&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNHakhauBRCukPXL2C2QjvpsN8PoAVzrtw6vc3i!2e10!4m2!3m1!1s0x487604cd7eb3e9f5:0x19ab388067b3b00b",
+            "heightPx": 472,
+            "name": "places/ChIJ9emzfs0EdkgRC7CzZ4A4qxk/photos/AWn5SU6tZuwXcssG8YLyxsw8KmVK8kk2UT-FIFoXg6LYaM-83_ttkQf8J6sAiKw9xSUmjzY6dVJbyuCUj9mCt1qecq4dJsZKgupii4xw8mVs6V0wksH1vstRN3bAZ-tO4TiiQhjJ1OWaTkkEW5nG3mixH2n6M5KCdXwJPWcBFT9BaPW8XXmzK4X9iu0DwRWOtVf54kgf-B2A53SdT1GXdQzIUEYg2_BvTFw73TYvaCLSwG_UF0u841WNp1JQGdFtOw9HtREOXUS04J4_88KPylMN35IXOkFOD7yhs60lcCiPQojAEQ",
+            "widthPx": 832
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "McDonald's",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXc3jQJIdb_WcBiOk748Y0JlVWK3Eun28jHf7krHMPNkQ9QWUyf=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/100087807475155032210"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMwtaXeljYAKu3ZW0qXVeCSHeWtmVWaHkyKR4R9&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMwtaXeljYAKu3ZW0qXVeCSHeWtmVWaHkyKR4R9!2e10!4m2!3m1!1s0x487604cd7eb3e9f5:0x19ab388067b3b00b",
+            "heightPx": 472,
+            "name": "places/ChIJ9emzfs0EdkgRC7CzZ4A4qxk/photos/AWn5SU4qBOMfl2Ys3wVml9Xo0Qm5rNmDltoFQiwsG_GeG0wpamTFhEOvGL_D-o1STO2n2UWH02Shl7Ns-96HXP3xk8yfOL20rD9OZBFbM3Swq6RPiQPer9eMU_O3-sSDbXcehmUg0C_jgHf22hIHLz5oVWE2DCgb6TZ2CkMvrZgFzyPnRpT7MZYPPA-WyFc5-cRnXbS5R-tiZOAIH9oUJvzvxnYD90K26X-zHUjfVUMqdpi04JWIosi6edtmFaDCCJmxUT0-P58rHvIC5wCGiWgGz00pqFv_xkhY858Q3RVILLQqvg",
+            "widthPx": 832
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "McDonald's",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXc3jQJIdb_WcBiOk748Y0JlVWK3Eun28jHf7krHMPNkQ9QWUyf=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/100087807475155032210"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNLYfYwj5fTAXGIratJGeKrVJbuqQlaxQiErYV0&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNLYfYwj5fTAXGIratJGeKrVJbuqQlaxQiErYV0!2e10!4m2!3m1!1s0x487604cd7eb3e9f5:0x19ab388067b3b00b",
+            "heightPx": 472,
+            "name": "places/ChIJ9emzfs0EdkgRC7CzZ4A4qxk/photos/AWn5SU7tkjIN3RR9r43GPBJ4I9EY8MhK6NCItvqNke0A3DHnr7OsWQJguu_HysosPjbCfHaXRd1ElQ4O3fCB3PR0XUXXP9x0-S2cj6LnJkDoZAwu3a6Piz2W8Vr1v2lxleXYCpXfsTlaxs0z7-mLcks7pi9B7fj6O_YxcO-VKAezlzgmZJeGYvAhI3rMsM3wv4Ra7sWL7yqhiv23LZLw0SzQVKnQb1qmMzIq0-mIE3ReOIOUKMTZhhZ-BLtCkS9oWl2DOswq3E4ND7c_aruk9N2bX1_ATXx0uuMvPzU7yglzpgt2_w",
+            "widthPx": 832
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Dmytro Maliuk",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUv768Xvy-Id_VEITlDHRhsq2gt5DI2VwFZ0dqH7AU6ZvN2UYtQKg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113512636889263084446"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDvu8GhoAE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDvu8GhoAE!2e10!4m2!3m1!1s0x487604cd7eb3e9f5:0x19ab388067b3b00b",
+            "heightPx": 3072,
+            "name": "places/ChIJ9emzfs0EdkgRC7CzZ4A4qxk/photos/AWn5SU4KxyKtCh56hPD05KGjpIId0t4YSVajNx0iwgdf1XlErawzzv48NTf1mY7qUH5cokSbcRUPgr9W96-s5WmtPlsWnJEEZPNeBHCsgGhOhhNDynov-1hGOIZ88FbXCq-CiExkIvWc1P6q4hEb0uhFhVyweEH9lY1mwSiXKDiHN6OGQ-Y86vIZC0jFeqTHLMEJx5uQCmwrPYFXkscnwZ2XfDQDghstrbSO2eohznnDTbt338Obsy6YJS7pm9NxERJbh7IbXCO_5_wPEDxqALcPXIRtu0bR5sBpCGWBdBdS-c_46xP0cwOzIg3ndyzEysif8149S-RX0YbYRvZg6lVqU3HG7EqRChn5sMjmVPZWK9ZcW95qL_kNtQYcnjIp8JHZehYc_xWs-5ixeHrZPG5RPpFp3m1hA-89Ic9BHrlz-_Nbv9o6",
+            "widthPx": 4096
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "McDonald's",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXc3jQJIdb_WcBiOk748Y0JlVWK3Eun28jHf7krHMPNkQ9QWUyf=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/100087807475155032210"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNR2Y8lnwkEKHEu1bWp6Ptm0JQ95Hxp6M5vwD_r&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNR2Y8lnwkEKHEu1bWp6Ptm0JQ95Hxp6M5vwD_r!2e10!4m2!3m1!1s0x487604cd7eb3e9f5:0x19ab388067b3b00b",
+            "heightPx": 472,
+            "name": "places/ChIJ9emzfs0EdkgRC7CzZ4A4qxk/photos/AWn5SU7CVjr-BBlCr8i8HPyp23pgEmQeq8KmVZENN4u60GVNeIU98uv-MXA4BvolrTLO-4VRSPoZQj25i9cDJNezikWXPd9HAvvevffp6jw766B889OAZIphkemQD4q5m9XSJhM4kRu95YsTosrrAJuUfU4wQHnqqCABb1MvXHrvoF6QHPa553MSP8ZimFSCzu0Wm1UEIzFI-2j_-bWzpgdPwhyqDXozisV_6QgPlsdobM6EgBJlezA-eyIn3Icrmmj1Wl2eXXe-pJsaadkaOdtJqIoI7DGhUe9cLwVU-LffbMNx2Q",
+            "widthPx": 832
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV7C+F8 London, UK",
+        "globalCode": "9C3XGV7C+F8"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "24 Cambridge Circus 84-86",
+            "Charing Cross Road"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2H 8AA",
+        "regionCode": "GB"
+    },
+    "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+    "priceRange": {
+        "endPrice": {
+            "currencyCode": "GBP",
+            "units": "10"
+        },
+        "startPrice": {
+            "currencyCode": "GBP",
+            "units": "1"
+        }
+    },
+    "primaryType": "fast_food_restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Fast Food Restaurant"
+    },
+    "rating": 3.7,
+    "regularOpeningHours": {
+        "nextCloseTime": "2025-11-25T23:30:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 22,
+                    "minute": 45
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 23,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 23,
+                    "minute": 45
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 45
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 7,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 7:00 AM – 11:30 PM",
+            "Tuesday: 7:00 AM – 11:30 PM",
+            "Wednesday: 7:00 AM – 11:30 PM",
+            "Thursday: 7:00 AM – 11:30 PM",
+            "Friday: 7:00 AM – 11:45 PM",
+            "Saturday: 7:00 AM – 11:45 PM",
+            "Sunday: 7:00 AM – 10:45 PM"
+        ]
+    },
+    "restroom": true,
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Damian Lubanski",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVyF2xV9dZdywFa1md3248dNYPclO-xtgmdqGcLQRnNEfZoddL0=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/113582047194126552417/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xVM2JFVTJRWFZsUVY5UVdVSndlR2RGUkdaUE1HYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xVM2JFVTJRWFZsUVY5UVdVSndlR2RGUkdaUE1HYxAB!2m1!1s0x487604cd7eb3e9f5:0x19ab388067b3b00b",
+            "name": "places/ChIJ9emzfs0EdkgRC7CzZ4A4qxk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xVM2JFVTJRWFZsUVY5UVdVSndlR2RGUkdaUE1HYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Veru busy and big spot. and no wonder, considering where is it based. Lots of space downstairs to seat and it was also clean event it was full of customers. Some old lady was working there as a cleaner, she was so polite and thanking people who give her rubbish, it made me sad.\n\nFood was good, I got much bigger portion of chips than expected, burger was ok too, standard for MC, and I even got a bit of crunch from gherkin."
+            },
+            "publishTime": "2025-11-15T20:10:04.151491324Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "a week ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Veru busy and big spot. and no wonder, considering where is it based. Lots of space downstairs to seat and it was also clean event it was full of customers. Some old lady was working there as a cleaner, she was so polite and thanking people who give her rubbish, it made me sad.\n\nFood was good, I got much bigger portion of chips than expected, burger was ok too, standard for MC, and I even got a bit of crunch from gherkin."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Iain Miller",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUjl1ik7OXb7vTREpo4h1Vqw-auETsxGjM25-4nfPGqAjpynnbB=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/109636641097268712577/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tOMGVYbGFUMGszVW1SR2JtTmFjMDlZU1d4RU5IYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOMGVYbGFUMGszVW1SR2JtTmFjMDlZU1d4RU5IYxAB!2m1!1s0x487604cd7eb3e9f5:0x19ab388067b3b00b",
+            "name": "places/ChIJ9emzfs0EdkgRC7CzZ4A4qxk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOMGVYbGFUMGszVW1SR2JtTmFjMDlZU1d4RU5IYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Lunch time on a very quiet Friday.  Drinks had obviously been pre poured and left in the side, the coke was flat and ice cubes almost melted. Fries undercooked, burgers didn’t have enough ketchup or mustard, just about the worst maccies I’ve experienced anywhere in the world. All said the place was clean and not busy."
+            },
+            "publishTime": "2025-11-07T13:07:28.027238769Z",
+            "rating": 2,
+            "relativePublishTimeDescription": "2 weeks ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Lunch time on a very quiet Friday.  Drinks had obviously been pre poured and left in the side, the coke was flat and ice cubes almost melted. Fries undercooked, burgers didn’t have enough ketchup or mustard, just about the worst maccies I’ve experienced anywhere in the world. All said the place was clean and not busy."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Lauren Downing",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWRNnZv6HNgjPr_0BHVKLIag8XiU9hBad6SVWcY8NPxrdPimuowqw=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/102830245120311917726/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25CR1dHbEtSbHBzVmtkVlRXSlRNMVIwT0UxUVJsRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CR1dHbEtSbHBzVmtkVlRXSlRNMVIwT0UxUVJsRRAB!2m1!1s0x487604cd7eb3e9f5:0x19ab388067b3b00b",
+            "name": "places/ChIJ9emzfs0EdkgRC7CzZ4A4qxk/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CR1dHbEtSbHBzVmtkVlRXSlRNMVIwT0UxUVJsRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "This McDonald’s was absolutely packed with people looking for somewhere to sit and eat. But, lo and behold, the downstairs seating area was closed, resulting in people having to stand and eat. Staff seemed unfazed.\n\nFurthermore, the kitchen got our order wrong. Initially, no drink was served and staff had to be prompted before it was supplied. Upon starting to eat, we realised the extra ingredients we’d paid for were not present on the burgers. We were not the only patrons to experience this; while waiting for our order to be prepared, we witnessed two other patrons complain about incorrect orders at the pick-up counter.\n\nSteer clear of this McDonalds branch if you value your money and a pleasant eating experience. Genuinely the worst McDonald’s I’ve ever had the displeasure of experiencing."
+            },
+            "publishTime": "2025-11-02T21:54:00.056361896Z",
+            "rating": 1,
+            "relativePublishTimeDescription": "3 weeks ago",
+            "text": {
+                "languageCode": "en",
+                "text": "This McDonald’s was absolutely packed with people looking for somewhere to sit and eat. But, lo and behold, the downstairs seating area was closed, resulting in people having to stand and eat. Staff seemed unfazed.\n\nFurthermore, the kitchen got our order wrong. Initially, no drink was served and staff had to be prompted before it was supplied. Upon starting to eat, we realised the extra ingredients we’d paid for were not present on the burgers. We were not the only patrons to experience this; while waiting for our order to be prepared, we witnessed two other patrons complain about incorrect orders at the pick-up counter.\n\nSteer clear of this McDonalds branch if you value your money and a pleasant eating experience. Genuinely the worst McDonald’s I’ve ever had the displeasure of experiencing."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Andrew Taylor",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIYmAIKg-9TLQsDGmELcWP_nINKtjNr8d13KgU7d-QrdpSPIQ=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/110529074666249844524/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2trdE5sVm5Oakk0WkU0d1VqSlROelY2VlhKUVpGRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2trdE5sVm5Oakk0WkU0d1VqSlROelY2VlhKUVpGRRAB!2m1!1s0x487604cd7eb3e9f5:0x19ab388067b3b00b",
+            "name": "places/ChIJ9emzfs0EdkgRC7CzZ4A4qxk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2trdE5sVm5Oakk0WkU0d1VqSlROelY2VlhKUVpGRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Similar experience to most, after waiting 15 mins for food! Several items missing, which they tried to replace with fries! As they didn’t have them.\n\nSo instead of been honest, just hope you leave and don’t check the bag.\n\nStaff only interested in going home."
+            },
+            "publishTime": "2025-10-09T22:54:57.926607033Z",
+            "rating": 1,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Similar experience to most, after waiting 15 mins for food! Several items missing, which they tried to replace with fries! As they didn’t have them.\n\nSo instead of been honest, just hope you leave and don’t check the bag.\n\nStaff only interested in going home."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Howard Coan",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJQNPdVDy1YiDYnfu_xolKwniK6cT8V2EOaRHjIP7OeQKQQyy0=s128-c0x00000000-cc-rp-mo-ba7",
+                "uri": "https://www.google.com/maps/contrib/106575731761064758242/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25Zek5WQnlaMk5RVlV3MWQwRlljRXBsTjFadFYzYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25Zek5WQnlaMk5RVlV3MWQwRlljRXBsTjFadFYzYxAB!2m1!1s0x487604cd7eb3e9f5:0x19ab388067b3b00b",
+            "name": "places/ChIJ9emzfs0EdkgRC7CzZ4A4qxk/reviews/Ci9DQUlRQUNvZENodHljRjlvT25Zek5WQnlaMk5RVlV3MWQwRlljRXBsTjFadFYzYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Staff are OK but could be more approachable. As with everywhere, they prefer you to use the self service rather than a manned till. Plenty of seats and it was clean."
+            },
+            "publishTime": "2025-10-19T13:52:39.154345573Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Staff are OK but could be more approachable. As with everywhere, they prefer you to use the self service rather than a manned till. Plenty of seats and it was clean."
+            }
+        }
+    ],
+    "servesBeer": false,
+    "servesBreakfast": true,
+    "servesCoffee": true,
+    "servesDessert": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "servesVegetarianFood": true,
+    "servesWine": false,
+    "shortFormattedAddress": "24 Cambridge Circus 84-86, Charing Cross Rd, London",
+    "takeout": true,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "fast_food_restaurant",
+        "hamburger_restaurant",
+        "diner",
+        "breakfast_restaurant",
+        "american_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 2882,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.514964630291495,
+            "longitude": -0.127879569708498
+        },
+        "low": {
+            "latitude": 51.512266669708495,
+            "longitude": -0.13057753029150204
+        }
+    },
+    "websiteUri": "https://www.mcdonalds.com/gb/en-gb.html?cid=RF:YEXT:GMB:8261457:Clicks:DIRSYN:",
+    "timestamp": 1764064800
+}

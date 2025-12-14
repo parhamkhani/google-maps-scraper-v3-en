@@ -1,0 +1,818 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleParking": false
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "135",
+            "shortText": "135",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Strand",
+            "shortText": "Strand",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2R 1HH",
+            "shortText": "WC2R 1HH",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The Courtauld Gallery"
+                },
+                "name": "places/ChIJvZhvcMoEdkgRSEqR4FUUmts",
+                "placeId": "ChIJvZhvcMoEdkgRSEqR4FUUmts"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The Savoy"
+                },
+                "name": "places/ChIJqUbg0ssEdkgR8QSuJx1uIAs",
+                "placeId": "ChIJqUbg0ssEdkgR8QSuJx1uIAs"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Somerset House"
+                },
+                "name": "places/ChIJDXs-9bUEdkgRopQeoxGAuPU",
+                "placeId": "ChIJDXs-9bUEdkgRopQeoxGAuPU"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Lyceum Theatre"
+                },
+                "name": "places/ChIJcXx0Uoms2EcR8Be43HHdy2U",
+                "placeId": "ChIJcXx0Uoms2EcR8Be43HHdy2U",
+                "straightLineDistanceMeters": 81.69572,
+                "travelDistanceMeters": 66.51356,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "One Aldwych"
+                },
+                "name": "places/ChIJq5XIW8oEdkgRqmg5RAC_ih8",
+                "placeId": "ChIJq5XIW8oEdkgRqmg5RAC_ih8",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 58.433563,
+                "travelDistanceMeters": 43.442726,
+                "types": [
+                    "bar",
+                    "establishment",
+                    "food",
+                    "lodging",
+                    "point_of_interest",
+                    "restaurant",
+                    "spa"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Hotel Strand Continental"
+                },
+                "name": "places/ChIJHcs2bsoEdkgR69xdATKwDzo",
+                "placeId": "ChIJHcs2bsoEdkgR69xdATKwDzo",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 42.217186,
+                "travelDistanceMeters": 25.869204,
+                "types": [
+                    "establishment",
+                    "lodging",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Somerset House"
+                },
+                "name": "places/ChIJcWfE87UEdkgRoYClOMTsOQQ",
+                "placeId": "ChIJcWfE87UEdkgRoYClOMTsOQQ",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 128.30476,
+                "travelDistanceMeters": 106.65159,
+                "types": [
+                    "establishment",
+                    "museum",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Caffè Nero"
+                },
+                "name": "places/ChIJaXCXasoEdkgRqPzfOtdfM8Y",
+                "placeId": "ChIJaXCXasoEdkgRqPzfOtdfM8Y",
+                "spatialRelationship": "BESIDE",
+                "straightLineDistanceMeters": 24.829329,
+                "travelDistanceMeters": 34.373028,
+                "types": [
+                    "cafe",
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "store"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "curbsidePickup": false,
+    "currentOpeningHours": {
+        "nextCloseTime": "2025-11-25T21:00:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 19,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 11,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 7:00 AM – 9:00 PM",
+            "Tuesday: 7:00 AM – 9:00 PM",
+            "Wednesday: 7:00 AM – 9:00 PM",
+            "Thursday: 7:00 AM – 9:00 PM",
+            "Friday: 7:00 AM – 9:00 PM",
+            "Saturday: 11:00 AM – 9:00 PM",
+            "Sunday: 11:00 AM – 7:00 PM"
+        ]
+    },
+    "delivery": true,
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "LEON Strand (Waterloo Bridge)"
+    },
+    "editorialSummary": {
+        "languageCode": "en",
+        "text": "Outlet of a health-conscious counter-serve chain taking inspiration from around the Mediterranean."
+    },
+    "formattedAddress": "135 Strand, London WC2R 1HH, UK",
+    "goodForChildren": true,
+    "goodForGroups": true,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x487605d48eebfd6b:0x516d2528a26810b!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487605d48eebfd6b:0x516d2528a26810b!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=366711671624204555&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487605d48eebfd6b:0x516d2528a26810b!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487605d48eebfd6b:0x516d2528a26810b!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=366711671624204555&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJa_3rjtQFdkgRC4EmilLSFgU",
+    "internationalPhoneNumber": "+44 20 3906 1814",
+    "location": {
+        "latitude": 51.511299699999995,
+        "longitude": -0.1189119
+    },
+    "name": "places/ChIJa_3rjtQFdkgRC4EmilLSFgU",
+    "nationalPhoneNumber": "020 3906 1814",
+    "parkingOptions": {
+        "freeParkingLot": true
+    },
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Dr. Markus Winkler",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWao4_ly0yj1cHcyz4w288Yy9JB-GAepsgMoCr9uOzJi0R6IRWx=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/109365993931624408027"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDD68Ct8wE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDD68Ct8wE!2e10!4m2!3m1!1s0x487605d48eebfd6b:0x516d2528a26810b",
+            "heightPx": 3024,
+            "name": "places/ChIJa_3rjtQFdkgRC4EmilLSFgU/photos/AWn5SU6aDTl6hruB-7O5UO8p2YFW6FhWPt4e6tIqpTYHYSgv-j_5m5511xxa2zK7OLwj-TzpeSZHBAuz1e5qbJXTy6FWdHimBXWHgBKlQ-6NaKPJ5u0RqK0sW5pn0WpoZmpSxtHuVhNXH1SHssuPfkqu5Y5z_WYovSPd98HDviYBG346zCWujaRQtdTQ5TAT_GjoMjbpdun2h15ItLacBgWOmYGOq-I4BFfg_c87My7L_Qf5JQPH0cuAMsRmok2DitEWszoMKoYYx9bvtjnktU4EfMijel-d9HVLj-rkEFdGj2Hb8-xehMuECocsiKuo-NS3nwYCxR9Xd3Uw49iBMvI1BQkc02bk7r1nejJ4J71b43O2whPODakXUZJyu_VohZtDU71IyGpRagyLefq85xBAZQkezEj7rXemYaeHxnX10cwXMqjS",
+            "widthPx": 4032
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "LEON Strand (Waterloo Bridge)",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXveckkT8DysLC6Q63ZiCUEufFZmALlQ3sQWYAEp-fjXQaZf7sb=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110620634327389312625"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNF9QtLvlLAmxirtReXCdSe920mgtBacMeohP1q&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNF9QtLvlLAmxirtReXCdSe920mgtBacMeohP1q!2e10!4m2!3m1!1s0x487605d48eebfd6b:0x516d2528a26810b",
+            "heightPx": 640,
+            "name": "places/ChIJa_3rjtQFdkgRC4EmilLSFgU/photos/AWn5SU4AJlIIJ-7FOzPrz5JC8pOM5BxZfxp04eho6SvbQFYH7JKmeB4MlRisJ5RGHo7ThHIjF8O0e4hOs9iTlGTfxyniFfCuyXoTqHMGY4scNQsUAH6lol82C9ydnh7O_dqpg3MdX5zsbLD-ck7USLjrXV2twBiyk9AVJ-YOClNIKea-5P2SXWJYZsljVDrBklBNzdRfwKIKNcZ4b8ZqPk7G6zFO76Zu06PjIC4fQbX8gBiY0iQ7Fbf0Yvi5WGTR8ezLS4fJ0ZYmj8U4lC1La5BUXnB0_nQkoo7WHcuoaXEoN9GxnQ",
+            "widthPx": 960
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "LEON Strand (Waterloo Bridge)",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXveckkT8DysLC6Q63ZiCUEufFZmALlQ3sQWYAEp-fjXQaZf7sb=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110620634327389312625"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMBezb0hwR3HmyLk_UkhOAWQOTANBmXs-hOGVw2&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMBezb0hwR3HmyLk_UkhOAWQOTANBmXs-hOGVw2!2e10!4m2!3m1!1s0x487605d48eebfd6b:0x516d2528a26810b",
+            "heightPx": 1920,
+            "name": "places/ChIJa_3rjtQFdkgRC4EmilLSFgU/photos/AWn5SU6VE8nCDoj2Saa3QN7-Tfy9M3mxhk664gEqT5tq4tEFu1BNjWOLxDTYL_G5kVNrrbCSKfteLIizL7PJVnWH60RlJAFsJIFblcX0G1iWjrcX2x1krrP2vk2tJaxWAosG4DHFZtb2_9Onth1GYcThmLUh-kVTzJY0GlizNZai-uqX_cTNaVll-hUJPBnnk6zpv_F1I2oqna5jpCOgLgMkvPuivqvC_P-BNH9X-lEwGeEbT7PcYIWv1h8Qdianc4z82syNud9Z7rjp2M6nCmxq4-MR3k6jQKJMk9eGJ9nCKQqe0A",
+            "widthPx": 1280
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "LEON Strand (Waterloo Bridge)",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXveckkT8DysLC6Q63ZiCUEufFZmALlQ3sQWYAEp-fjXQaZf7sb=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110620634327389312625"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOkBd-Dcgx0n4P5B4ASk8aw8Ygwc-90UzZ8YWjw&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOkBd-Dcgx0n4P5B4ASk8aw8Ygwc-90UzZ8YWjw!2e10!4m2!3m1!1s0x487605d48eebfd6b:0x516d2528a26810b",
+            "heightPx": 640,
+            "name": "places/ChIJa_3rjtQFdkgRC4EmilLSFgU/photos/AWn5SU6E9rHmK-_T9RJftmK89voGNSWA4UaQLgBopmND1E5fBRdwZ_PWMmbQ1nalg2DJGtdb3X0Q7Al-5sMEuna9I45xmnx7Cwz5MwDcnjbC_NKD8r28FOiIBR-4S_tuatTKa3D1ARjmxSkKywe5mK6wl6L_xQaZ9-C92i2tHY4dLtgAx9m46bni9oE5gm9lccT8EsvGwnRXjrIcl1qehRHYOy04au_eZuzR-BhbBCr0SI0Aa9lW7g3ejzfUcpGueM9PvtGhm-RX3-a0JHcn1zLnG2iebwbFZHWjAy6uUfwDbQgBig",
+            "widthPx": 960
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "LEON Strand (Waterloo Bridge)",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXveckkT8DysLC6Q63ZiCUEufFZmALlQ3sQWYAEp-fjXQaZf7sb=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110620634327389312625"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipN_ST1JKfGqt3ftgerENKTl-AJ_vr9y8J-J6Yce&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN_ST1JKfGqt3ftgerENKTl-AJ_vr9y8J-J6Yce!2e10!4m2!3m1!1s0x487605d48eebfd6b:0x516d2528a26810b",
+            "heightPx": 1440,
+            "name": "places/ChIJa_3rjtQFdkgRC4EmilLSFgU/photos/AWn5SU6pajH3cjs4lO-BrguHFS3SDfAB32lfAtrEp9ACudz9dkyb3-TqpdaXUk-dkTYXHh4UtxJBuQgb5UB-V9Qqei42MX8YMnLISd9n2CtbTV432inuY5RBz3_0ZMdM0DPexOtIm4EGQ2Zu0hwCdG-HUzQkb_1yg22QS0uPtp6i73pDjSBd5qZ9ZLAEkt9NaHvJNtoRmGbCRP66DO7r3uuBZw7EEtEIhMj-g2fg0a6OGJWFqwI7_FF7IEQp3FAEbPbLC82B_HMm2QC6MdfshQl2sY5OlipbwipkOlNFtLdGRubOkw",
+            "widthPx": 960
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "LEON Strand (Waterloo Bridge)",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXveckkT8DysLC6Q63ZiCUEufFZmALlQ3sQWYAEp-fjXQaZf7sb=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110620634327389312625"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPE-wpao-DObOL6chG8YML88bDZEg6kVYFygWvn&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPE-wpao-DObOL6chG8YML88bDZEg6kVYFygWvn!2e10!4m2!3m1!1s0x487605d48eebfd6b:0x516d2528a26810b",
+            "heightPx": 1920,
+            "name": "places/ChIJa_3rjtQFdkgRC4EmilLSFgU/photos/AWn5SU7tTOz4W2O0Z5UUoSzzm_y8rbmvojqYP4QmD7GxWaGbtxbAsvAiQrAr6b2X9SsAoc8zir6oEXIEewfS4koYBE0RAahT1K0GNyvXJdkbdJcBjoaNd8d901J8aXPlxVMcG8X_DwfTjUTeUMogB_n1xjMsE4xllMZnHxw5yNfELCEy_xNNfCZDkC_YqRP3a8lYAr5KTuKsXfr4LGoP_fKfrCrurE3g_QmMyaKZpT-282jD4dNDHj5M9fU7o8w9L0HcY-aLa79D6Y4IT-0paE2G0ULtkD2QDCPgv_2ft-6fBGAdFA",
+            "widthPx": 1280
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "LEON Strand (Waterloo Bridge)",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXveckkT8DysLC6Q63ZiCUEufFZmALlQ3sQWYAEp-fjXQaZf7sb=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110620634327389312625"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPpa8dv5rp2V5Dx2zO31CMDg8VrQMsO8WwKyy_U&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPpa8dv5rp2V5Dx2zO31CMDg8VrQMsO8WwKyy_U!2e10!4m2!3m1!1s0x487605d48eebfd6b:0x516d2528a26810b",
+            "heightPx": 1920,
+            "name": "places/ChIJa_3rjtQFdkgRC4EmilLSFgU/photos/AWn5SU5WyZDwKOwUz0TJJZ5vYOlWTwdPR0Tnplp1qztsAN5-HIpuAwjf1Ja5l9fr49awj-HzDQ396FCqZFZKWzZ66twicSJOhpuRRH-ChhyINJJwWkTWqwISEjeFgeu-CH7uTFW86pUAeQUEl8ntkwcTop_VtIzPqQfdk91JXcPVqq5QwOZQq9bL1aCa_6-QP0-aab3E96B7N7DLWMq3cuEpDzbYWiVgbPTKGxFr23rhR7NuGDRwyFyKzg9-nWJ6j8z5JUocfo8Jtl6ddQlKLVg28az58t2Mh3r9pJxesM9YQ1lQ3A",
+            "widthPx": 1280
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "LEON Strand (Waterloo Bridge)",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXveckkT8DysLC6Q63ZiCUEufFZmALlQ3sQWYAEp-fjXQaZf7sb=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110620634327389312625"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOyvGGdrWjLV3KHv2NuR9d8k91QiR37rEAkTExP&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOyvGGdrWjLV3KHv2NuR9d8k91QiR37rEAkTExP!2e10!4m2!3m1!1s0x487605d48eebfd6b:0x516d2528a26810b",
+            "heightPx": 640,
+            "name": "places/ChIJa_3rjtQFdkgRC4EmilLSFgU/photos/AWn5SU5uo5r6VZkb58RURUg7C003FcokHVg-RJ6xh-PqG14a_4hWg65YzvL6kYXLAkRqs7qb3TQ4yP_9OJQfHzbB21MAEYxH20xN1TuzGr8krq3FDu5nYWEBPcYG1C4U1DamQYB5HccLvXPcfl0VfhZH8XuVJcXVOaNQgPZn1DR24ATCHl3ccvR2MJwTR6slm2fvMX5OYHIuHzQcbadbM_3pZ6q38e4v3vawM_jiOb_HKT7_xwULF5U24i5SrO3dN-0Qm3RDv6d57M5PbT4izLdqFtZnUwDgeNCSl_ezJZBrUDFiGQ",
+            "widthPx": 960
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "LEON Strand (Waterloo Bridge)",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXveckkT8DysLC6Q63ZiCUEufFZmALlQ3sQWYAEp-fjXQaZf7sb=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110620634327389312625"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPAM2PlEDD7zSFkFs6fof1k_nYLqnXyUe2Gy_1K&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPAM2PlEDD7zSFkFs6fof1k_nYLqnXyUe2Gy_1K!2e10!4m2!3m1!1s0x487605d48eebfd6b:0x516d2528a26810b",
+            "heightPx": 640,
+            "name": "places/ChIJa_3rjtQFdkgRC4EmilLSFgU/photos/AWn5SU5XdjJh00ggatzniyvEl0Sjd2Voh7a41iftyv2fMMhHv8HWK1kdcY7GKFXqWDB4g6JFnrOOI3QwNors68SF9fatutSaYWKdaVFfO8_X-yrF7ejewmAfNJh29o-1XC0E5tpd7XRwFKbBH0Fr8IY8lwPE-GGtUFz6osUNmBsizvw5Im9OxiP7hDOeFTNt96kLXLHTm-vfxVTZ32z3uBi5eJcRh_qLb6MXIyigYuerOq-jHns9ruuTikb4l-jmIzgSRGUFgW_cqAgDtZMDFM6iHUHfiZzhBrvyH-ARAxqJZFTqsQ",
+            "widthPx": 960
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "LEON Strand (Waterloo Bridge)",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXveckkT8DysLC6Q63ZiCUEufFZmALlQ3sQWYAEp-fjXQaZf7sb=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110620634327389312625"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM6lGAWgSr-vnqfmX49KbDYOPqgLSgdFnj8FSPL&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM6lGAWgSr-vnqfmX49KbDYOPqgLSgdFnj8FSPL!2e10!4m2!3m1!1s0x487605d48eebfd6b:0x516d2528a26810b",
+            "heightPx": 1344,
+            "name": "places/ChIJa_3rjtQFdkgRC4EmilLSFgU/photos/AWn5SU5bgfJfz8uvwLtCR4z3W2qvGKobnDpWa9Zn6KzyMTi1JpivU3cvlVQ89QrYgLdUdUZV3N3lhpISAg7OCZUZ-vaQfER0GVhbzmjdxkB9ZHsHk_zxzARVeu3eqSCD4SgamUjyUwiMhg7Lw9RGbHkoVipkhU8feHekx05A3MCsCTPfWY9UUuMCC5CIY4mdjhc1t3BT0BXez9rlPHiOVAhc8UpCZe11u8v6sNzPA9yQMeZJvx0lUIyBvkZuU4ZajaiuREIw_ZQWMM4UoBQKc3T4dbtcyDLPm_lgZA0IVW6e7DLokA",
+            "widthPx": 960
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV6J+GC London, UK",
+        "globalCode": "9C3XGV6J+GC"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "135 Strand"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2R 1HH",
+        "regionCode": "GB"
+    },
+    "priceRange": {
+        "endPrice": {
+            "currencyCode": "GBP",
+            "units": "10"
+        },
+        "startPrice": {
+            "currencyCode": "GBP",
+            "units": "1"
+        }
+    },
+    "primaryType": "fast_food_restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Fast Food Restaurant"
+    },
+    "rating": 4.4,
+    "regularOpeningHours": {
+        "nextCloseTime": "2025-11-25T21:00:00Z",
+        "openNow": true,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 19,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 11,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 7,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 21,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 11,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 7:00 AM – 9:00 PM",
+            "Tuesday: 7:00 AM – 9:00 PM",
+            "Wednesday: 7:00 AM – 9:00 PM",
+            "Thursday: 7:00 AM – 9:00 PM",
+            "Friday: 7:00 AM – 9:00 PM",
+            "Saturday: 11:00 AM – 9:00 PM",
+            "Sunday: 11:00 AM – 7:00 PM"
+        ]
+    },
+    "reviewSummary": {
+        "disclosureText": {
+            "languageCode": "en-US",
+            "text": "Summarized with Gemini"
+        },
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=5%401:CAIQACodChtyc19oOnJmRk1wQ1REX3Z1RFBqbzk3NExvNUE%7CCAIQACorChtyc19oOnJmRk1wQ1REX3Z1RFBqbzk3NExvNUESDAiP_t7FBhDO88-oAQ&d=17924085&t=8",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487605d48eebfd6b:0x516d2528a26810b!9m1!1b1",
+        "text": {
+            "languageCode": "en-US",
+            "text": "People say this fast food restaurant offers a great variety of breakfast options, including hash browns with Korean dip and halloumi and avocado buns, as well as fresh coffee with a good range of options. They also highlight the quick prep time, easy-order screens, and nice customisation options.\n\nSome reviews mention the staff can be unhelpful."
+        }
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Alessio C",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUJWNZ7SBJTNt2StMnvyCRhBTlUFSfuTBA6HHhSQGrxobmDMK5i=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/118303422896849321049/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25aYWFGOUJkVzV4V0ZGd2FWaDJPVmxwTmtSZlFrRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aYWFGOUJkVzV4V0ZGd2FWaDJPVmxwTmtSZlFrRRAB!2m1!1s0x487605d48eebfd6b:0x516d2528a26810b",
+            "name": "places/ChIJa_3rjtQFdkgRC4EmilLSFgU/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aYWFGOUJkVzV4V0ZGd2FWaDJPVmxwTmtSZlFrRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "The rice was so dry and chewy, just like when you open a pack of pre cooked one for £0.99 and don’t microwave it. Look at the picture; looks like pebbles.\n\nI had to ask to kindly clean the table cause all tables were dirty and there were used tissues on the floor.\n\nPerson handling food had no gloves and was handling various items and food with the hands.\n\nI mean… no.\n\nLeon, what’s happening to your brand promise?\nHealthy food? No. That’s re heated LIDL rice."
+            },
+            "publishTime": "2025-06-25T19:20:40.696372614Z",
+            "rating": 1,
+            "relativePublishTimeDescription": "5 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "The rice was so dry and chewy, just like when you open a pack of pre cooked one for £0.99 and don’t microwave it. Look at the picture; looks like pebbles.\n\nI had to ask to kindly clean the table cause all tables were dirty and there were used tissues on the floor.\n\nPerson handling food had no gloves and was handling various items and food with the hands.\n\nI mean… no.\n\nLeon, what’s happening to your brand promise?\nHealthy food? No. That’s re heated LIDL rice."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "mairin",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXe6x6MQGNQH25GNBzO_NBBaHVnmNhJEs1w-1dcIDFRuMKcsGU=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/102434686012006265915/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSWGIxUldhbFZpVFRCdk1uWjFNRjlYY1dReVpVRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSWGIxUldhbFZpVFRCdk1uWjFNRjlYY1dReVpVRRAB!2m1!1s0x487605d48eebfd6b:0x516d2528a26810b",
+            "name": "places/ChIJa_3rjtQFdkgRC4EmilLSFgU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSWGIxUldhbFZpVFRCdk1uWjFNRjlYY1dReVpVRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "i had a great experience with the staff here, who offered to remake my drink for me after not being 100% sure whether they’d made my coffee with oat milk or not, without me having to say anything! as someone with a dairy allergy who also doesn’t like to be a bother, this is very important for me and it was very kind and proper of them to make sure they were serving the right orders  despite the busy lunchtime hour I had come at. they also kindly let me give the other drink to my friend for free, instead of letting it go to waste. the coffee was also great! thank you for the great service :)"
+            },
+            "publishTime": "2025-09-25T23:59:10.590617672Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "i had a great experience with the staff here, who offered to remake my drink for me after not being 100% sure whether they’d made my coffee with oat milk or not, without me having to say anything! as someone with a dairy allergy who also doesn’t like to be a bother, this is very important for me and it was very kind and proper of them to make sure they were serving the right orders  despite the busy lunchtime hour I had come at. they also kindly let me give the other drink to my friend for free, instead of letting it go to waste. the coffee was also great! thank you for the great service :)"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Filip Micicoi",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKu5mqZ_J2cLLnjCxUdkxj76iLeUBW3JZNyM4xZ38L4qfXecv8=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/118396316544980605696/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4TVlrMXZTaTFvY1hoS2FHdE5VRTh4WDAweFVtYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4TVlrMXZTaTFvY1hoS2FHdE5VRTh4WDAweFVtYxAB!2m1!1s0x487605d48eebfd6b:0x516d2528a26810b",
+            "name": "places/ChIJa_3rjtQFdkgRC4EmilLSFgU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4TVlrMXZTaTFvY1hoS2FHdE5VRTh4WDAweFVtYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Food was fantastic! Very friendly staff and good ambience. Only downside is that the indoor tables are dirty. Recommend"
+            },
+            "publishTime": "2025-10-13T18:12:49.185747605Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Food was fantastic! Very friendly staff and good ambience. Only downside is that the indoor tables are dirty. Recommend"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Elena Smith",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLns_ShgIMGIENGGryk3bbwp8EzMcY9hR8sAB_UF9ZT74dQ6A=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/101801618691429910399/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWb00ydGthRFpaYWpadlVtaGtNbVkzTVY5aVVtYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWb00ydGthRFpaYWpadlVtaGtNbVkzTVY5aVVtYxAB!2m1!1s0x487605d48eebfd6b:0x516d2528a26810b",
+            "name": "places/ChIJa_3rjtQFdkgRC4EmilLSFgU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWb00ydGthRFpaYWpadlVtaGtNbVkzTVY5aVVtYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Very busy location during lunch time, but otherwise quiet. Came a few times to study in the morning, before it gets busy. Food options are good and filling, and they have student discount. Team has always been friendly and efficient, but it does get busy so they might be a bit occupied. Very convenient for students in the area"
+            },
+            "publishTime": "2025-09-15T13:27:07.056689952Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Very busy location during lunch time, but otherwise quiet. Came a few times to study in the morning, before it gets busy. Food options are good and filling, and they have student discount. Team has always been friendly and efficient, but it does get busy so they might be a bit occupied. Very convenient for students in the area"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Alexandra Kappke",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVWcz2395LU_aWAva-q89pwT4sWyp11ytO5QxfYrFHgN3ZnNjH7=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/106683203230934068452/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRazdPXzBRRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRazdPXzBRRRAB!2m1!1s0x487605d48eebfd6b:0x516d2528a26810b",
+            "name": "places/ChIJa_3rjtQFdkgRC4EmilLSFgU/reviews/ChdDSUhNMG9nS0VJQ0FnTURRazdPXzBRRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Felt welcomed to used wifi and charge phone. Allergens are very well exposed on the ordering machine. Kind staff, clean place and good wifi. Single tables give you a wonderful view of the building used in the fist HP movie to be Gringottes bank so it was awesome to make a stop for a refreshment at this place and enjoy the view. Food was ok for balcony food."
+            },
+            "publishTime": "2025-03-13T22:46:06.254747Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "8 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Felt welcomed to used wifi and charge phone. Allergens are very well exposed on the ordering machine. Kind staff, clean place and good wifi. Single tables give you a wonderful view of the building used in the fist HP movie to be Gringottes bank so it was awesome to make a stop for a refreshment at this place and enjoy the view. Food was ok for balcony food."
+            }
+        }
+    ],
+    "servesBeer": false,
+    "servesBreakfast": true,
+    "servesCoffee": true,
+    "servesDessert": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "servesWine": false,
+    "shortFormattedAddress": "135 Strand, London",
+    "takeout": true,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "fast_food_restaurant",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+    ],
+    "userRatingCount": 157,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.512682580291504,
+            "longitude": -0.11761971970849801
+        },
+        "low": {
+            "latitude": 51.509984619708504,
+            "longitude": -0.12031768029150204
+        }
+    },
+    "websiteUri": "https://leon.co/restaurants/waterloo-bridge/?utm_source=Yext&utm_medium=GBP",
+    "timestamp": 1764064800
+}

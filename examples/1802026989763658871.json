@@ -1,0 +1,824 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleParking": false,
+        "wheelchairAccessibleSeating": true
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "21",
+            "shortText": "21",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Wellington Street",
+            "shortText": "Wellington St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2E 7DN",
+            "shortText": "WC2E 7DN",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJs4GOh8sEdkgRRiBFZKMP8ZE",
+                "placeId": "ChIJs4GOh8sEdkgRRiBFZKMP8ZE"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "London Transport Museum"
+                },
+                "name": "places/ChIJLZLvpcsEdkgRnDYX5KYtpA4",
+                "placeId": "ChIJLZLvpcsEdkgRnDYX5KYtpA4"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The Savoy"
+                },
+                "name": "places/ChIJqUbg0ssEdkgR8QSuJx1uIAs",
+                "placeId": "ChIJqUbg0ssEdkgR8QSuJx1uIAs"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Lyceum Theatre"
+                },
+                "name": "places/ChIJcXx0Uoms2EcR8Be43HHdy2U",
+                "placeId": "ChIJcXx0Uoms2EcR8Be43HHdy2U",
+                "spatialRelationship": "WITHIN",
+                "straightLineDistanceMeters": 25.362844,
+                "travelDistanceMeters": 4.9170446,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "One Aldwych"
+                },
+                "name": "places/ChIJq5XIW8oEdkgRqmg5RAC_ih8",
+                "placeId": "ChIJq5XIW8oEdkgRqmg5RAC_ih8",
+                "straightLineDistanceMeters": 40.52107,
+                "travelDistanceMeters": 124.64817,
+                "types": [
+                    "bar",
+                    "establishment",
+                    "food",
+                    "lodging",
+                    "point_of_interest",
+                    "restaurant",
+                    "spa"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Novello Theatre"
+                },
+                "name": "places/ChIJ9Y2XiMoEdkgRacNkr9x-4Bs",
+                "placeId": "ChIJ9Y2XiMoEdkgRacNkr9x-4Bs",
+                "straightLineDistanceMeters": 79.17642,
+                "travelDistanceMeters": 104.03099,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Royal Ballet and Opera"
+                },
+                "name": "places/ChIJySOgh8sEdkgRCBzTYt83Klg",
+                "placeId": "ChIJySOgh8sEdkgRCBzTYt83Klg",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 204.71535,
+                "travelDistanceMeters": 220.56746,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "London Transport Museum"
+                },
+                "name": "places/ChIJ4bF21K8FdkgRDXc6FiSVAzE",
+                "placeId": "ChIJ4bF21K8FdkgRDXc6FiSVAzE",
+                "straightLineDistanceMeters": 116.49266,
+                "travelDistanceMeters": 115.02376,
+                "types": [
+                    "cafe",
+                    "establishment",
+                    "food",
+                    "museum",
+                    "point_of_interest",
+                    "store",
+                    "tourist_attraction"
+                ]
+            }
+        ]
+    },
+    "allowsDogs": false,
+    "businessStatus": "OPERATIONAL",
+    "containingPlaces": [
+        {
+            "id": "ChIJcXx0Uoms2EcR8Be43HHdy2U",
+            "name": "places/ChIJcXx0Uoms2EcR8Be43HHdy2U"
+        }
+    ],
+    "curbsidePickup": true,
+    "currentOpeningHours": {
+        "nextOpenTime": "2025-11-25T15:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 15,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 15,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 3:00 – 10:30 PM",
+            "Tuesday: 3:00 – 10:30 PM",
+            "Wednesday: 12:00 – 11:00 PM",
+            "Thursday: 12:00 – 11:00 PM",
+            "Friday: 12:00 – 11:00 PM",
+            "Saturday: 12:00 – 11:00 PM",
+            "Sunday: 12:00 – 10:30 PM"
+        ]
+    },
+    "delivery": true,
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Paro - Covent Garden & Strand - Best Indian Restaurant London"
+    },
+    "formattedAddress": "21 Wellington St, London WC2E 7DN, UK",
+    "goodForChildren": true,
+    "goodForGroups": true,
+    "goodForWatchingSports": false,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x487605c056e8911f:0x190215ffe8878477!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487605c056e8911f:0x190215ffe8878477!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=1802026989763658871&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487605c056e8911f:0x190215ffe8878477!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487605c056e8911f:0x190215ffe8878477!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=1802026989763658871&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJH5HoVsAFdkgRd4SH6P8VAhk",
+    "internationalPhoneNumber": "+44 20 3722 0951",
+    "liveMusic": false,
+    "location": {
+        "latitude": 51.5115791,
+        "longitude": -0.1200931
+    },
+    "menuForChildren": true,
+    "name": "places/ChIJH5HoVsAFdkgRd4SH6P8VAhk",
+    "nationalPhoneNumber": "020 3722 0951",
+    "outdoorSeating": false,
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Paro - Covent Garden & Strand - Best Indian Restaurant London",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX7--lx8ErLAYquFOk8P93lG5UibNKQ1yeoc6Lbu2Mwv0esVNH_=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/116645206695526075513"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNw_FfDr7SyeuEqKkCXWx65fGJFFJdVenhr6ssl&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNw_FfDr7SyeuEqKkCXWx65fGJFFJdVenhr6ssl!2e10!4m2!3m1!1s0x487605c056e8911f:0x190215ffe8878477",
+            "heightPx": 4800,
+            "name": "places/ChIJH5HoVsAFdkgRd4SH6P8VAhk/photos/AWn5SU6qdewo1koXB7XcwI2Ey6AGXYpo5C6V-XPFBdTxD2jNBjatKR0uwVfnSa-yhKojcq01yLk6k5Nw9c1Wgx6BQZO4kYvdZvR8F-rn88wGU23f-1g7uOEOvlqwZXRyJJ1bByVtjT4X-xZsg5DvKHdgIUv7vtptz_GHhZnx_soWcXsOrAPwiqNUUSCtfKDYyCsDU61CXT3hpZuP_VeV64ra4PNPZYY9nn1FyXJqqygtRylduygivR5wYuMc5Kjk8je0hpFaafuD-cU4cy1vo5tT3gViKG-isXo8sFPCFLhnD4--CA",
+            "widthPx": 3200
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Paro - Covent Garden & Strand - Best Indian Restaurant London",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX7--lx8ErLAYquFOk8P93lG5UibNKQ1yeoc6Lbu2Mwv0esVNH_=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/116645206695526075513"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMhZ3fRtTkLduR6xRBmvWVa1xX8YrgqEBGQJovz&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMhZ3fRtTkLduR6xRBmvWVa1xX8YrgqEBGQJovz!2e10!4m2!3m1!1s0x487605c056e8911f:0x190215ffe8878477",
+            "heightPx": 1339,
+            "name": "places/ChIJH5HoVsAFdkgRd4SH6P8VAhk/photos/AWn5SU7q1l-Q2uiKkDaT2XQ2-NIl8WJIlFmNix9rhs7dHH6sLm6gbAJg4fkignWhH-hwgFTDeIqzCEJUzVcFdA3oXSwqR0s5CQQ_NEN6bz8LpN_vvaPCvbgQ8kRV4OCdI7BL6Kuu6Z2v1CFYl5MBTtWjuTqNW603QPuAeN5eQTGDQc3yBQ_l5rxga0A4JEZKukx9oa-J2NlYRDW14oQGG4H4dr3aQyyqZi79yv5banzsYKo9dZXBW4ujbA4KxuIy_QYWPMxnGy2RCWm2qLFg92ZeJ79r_yJyqtU1T-V1fRQOudq4cA",
+            "widthPx": 2005
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Tom Ariel",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL7bgopKi1hUqFMvwwqvSyTCEoP3sbFy5U7NjrJf60fSL-RCw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/104172653892384477157"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDMHITFrBgH7fcVWz9D3DAc&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDMHITFrBgH7fcVWz9D3DAc!2e10!4m2!3m1!1s0x487605c056e8911f:0x190215ffe8878477",
+            "heightPx": 3147,
+            "name": "places/ChIJH5HoVsAFdkgRd4SH6P8VAhk/photos/AWn5SU79oqV_s9Ze4PFYeFnMkmR6MlicnRPIO8Lr3cj7xSdyWteodXsHqLMw5bIPUEgzL3rKtzjB8M7jMn61ndssQ07AgvkoJ3-vYtkl1zYfvbrQT0Yypt4Wm4RKlJBV_iKco_mAuMRnippw0e4qZWJBBC2oRxGMNkuvQ8o86lDiDx0sl7PUU3OMEdxAMtWH1ffH7TWsU8guUAE2wzQkQL-dKvgz7CgBoO5r6bYNcZWtynttYQKidXP2u3KOvFakv_vDS_yZCbX5MZdYmiwUTYQZ_5WTAe2DOYbyphdGsWz6X3Jf3p1m5h5EYW4vvlxK305IdoZ1fbJf9XysakAXiH2mR4yVrIQ49wDUdm0NR9KDKXbglPW1JnLF2U-cb50YKMh1ogm4AZH6DYdM3DdtF7vWfeUsdQs9ItkqeikfMe1lusVIy0dzTHXnzfqNEAFXbeGx",
+            "widthPx": 4283
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Jen/Kay Top",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU0aRD6BeI9Oyd5OXi0NIDcBgRLFMY9DnvNVEPHey0Kx4HLrUci=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117312357748901432288"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEJ7N_r6bkpTS9gE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEJ7N_r6bkpTS9gE!2e10!4m2!3m1!1s0x487605c056e8911f:0x190215ffe8878477",
+            "heightPx": 4032,
+            "name": "places/ChIJH5HoVsAFdkgRd4SH6P8VAhk/photos/AWn5SU4V_BWJy29vAbL8X-DXjfOHGAS5kOYUnDhWfPCCKtFqWcP30-5-dd3SN-NzD0x6uYC-lJiA4gBgBawQB6WIMaNJREuaudqwAJP8GTtP6fjMwR3gCkyX3NUyeb4BD8vkvdsLqr4PEfQmFtDsZV5owfCTd0X7TnMAdX-dqYv7tujmJ6gaZIe9kR-PKk44COwj7xJ7sfBZ1MzBaWpCJxvUiZHbi28OHUEAlZ3aPM1osGb20ZIrdf9lu31ITM-1eUOgur748uEAShMPZsxMVI5TRHhC2jGLrJvh8bWCP59XNlzaSNxxAhjxiKLlyZQTAIM_nal1d_rorbTmp9oc5zhuO6b4IAnKxJD0TNPXjOKVM4I6gXBg0zkoAB8si_BA1MhNPvCYtpzQl3vAMjBnBGm62RuZR3zXcjOS7WDFmjSL1s6_GAcB",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Henri A. Tomic",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJlpG_ztMm1G3jlJOQjuhBWXj9b55PdlrfmM_uEJ4dMv7Rjb54=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/101347573834775353843"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCVYsOW9IaJ_ANI0M9BJlh9&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCVYsOW9IaJ_ANI0M9BJlh9!2e10!4m2!3m1!1s0x487605c056e8911f:0x190215ffe8878477",
+            "heightPx": 4032,
+            "name": "places/ChIJH5HoVsAFdkgRd4SH6P8VAhk/photos/AWn5SU5yiOmkosR0W3NJ5W8NH57JdKqdVT_JkcRki5vSqDKN4kJFm213KJM5xuNVZrHWKye0OFdjAZfwKNYovdvSV8TCZmLxR16hjYOfTvjKaeG7VMUwCjxI1xYORoLhLTPwc7YCZJKnixaV0rLfywDBb-A-pb2nIAQTCnFFySZ-g7rHvts5X_cRr5StGtOuIo6T3neGfLDA_iXDV3tONsoLphMuh0SfBqQXc91uM0Q0Fx4GTX_LGrTGDk3ys5dhjPM5u46EVJ8rtx-oVrXKWeruwsec2Dxab2nOYq4mZb5tFNgCcnmof4GOp11DvmGT_EtI_CXx32rUkG3A07gz-mUJkolFEKzi8Rl5tOu4mrzRhYkECp8xdpxaX2rWvN6BmLQHpapTD08MTHXWs4GsGu2XLYRznvaBBZ4mFSu-jZ6HHWjm78mM_QYFYyTzFv3BMxd_",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Cynthia Espinola",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWrwBFVG2gRWEmYxfZZA5FAL5grYJwrs9hRBprPFJwH7-JnpwBI=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/115905442631206621411"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhB3DPak4ymT00Qlgnqg4GHY&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhB3DPak4ymT00Qlgnqg4GHY!2e10!4m2!3m1!1s0x487605c056e8911f:0x190215ffe8878477",
+            "heightPx": 4032,
+            "name": "places/ChIJH5HoVsAFdkgRd4SH6P8VAhk/photos/AWn5SU7VJjfdaRHa5bX68Hu4Ogu2-JnsrWqidDB0fNh7Y9wE7C7xdgzMp8vX8AEM5SED7wehXRj24ZY_lKRDMHkvi8uvnsMc42EvywrZcNpmviQmXglRicsfaViwwIWJ3VqSZMshiQs0UoUDETkGZTJYabeWTsaWhsI2582kBuamYTVG_YFqdBnXmjUHu5UVicKsenq3_OSoPB2LUv9h0cULp0neJTI4R6mfX44i6VWEfh1gVN6pBMDQGCt8uSMm9n5KmwMvLISx61I85onEUw3SLku99JtnZSa4p0-l718lQHpgzHfV_cEJ6c6uzMxobqGGhgQvqdEOR_F9-GWN1MnX-ayU3d46Zt8KHmkrC4K3Vt2kEC5KhGYxoeNbXAiIv7unIOO12Z_LJGPwh07UVUAohqOE3mhY7DNM6ugNvpjbr2T2GAA8K0xNZWcFtV3GQzu6",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Andreas Augustini",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWTlNPcTjei3SFiq_rrbsfudm4Mb0PRvD4v1-wtQHRmjSIHET3YBQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/101230032285511582669"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhB4PRj8HlpH-CKGHS1bJbfX&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhB4PRj8HlpH-CKGHS1bJbfX!2e10!4m2!3m1!1s0x487605c056e8911f:0x190215ffe8878477",
+            "heightPx": 4032,
+            "name": "places/ChIJH5HoVsAFdkgRd4SH6P8VAhk/photos/AWn5SU44qZt-Si8mVY99gsYdbJbLnUjxspHlh5igsIjPy9Mq2jfsiu7UnSXfddqiNfALhAKQkZwJprdenMD40QZLyAe-KzFFsZoCJehx44_P3Xyou-dl1mfGsgW-w2jdQuEn_rgAWTz0ieJnhv_zmroA6uRIB9GZemMjQqIxstsqqWXAeRATPTn7zR14JIZ3sgmgsvJRKeopPVvm30mkyVDrO0MiHXLVGmolLk-bQcSz2gsRu_LdDnc5Nmm8oAu22CScl-Leg8tR_-2HbFq4LEgod1JnIq10NibOiKm_AdzQzYgix_jplUT5ZFCl5hSH_V3u-6CPXaB7b6ky_6-w_VO-qLc9LAFjouktPgnQ6h_mXDVCdA7AAXjopJ7cN3zjDegQwAmNM2MUbSU-ZRwGwLiiV4soKxFjWw-86CilmtYEcxAi-ReApiZgvRNDky_cDvu-",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Hussein Ladha",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLP5aFz3Z2PEbV1FnIrDcZRSiO7C91XG0aZS_gEUBn3yQiohw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/107407596919838873464"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEMaNjc-NobeDsgE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEMaNjc-NobeDsgE!2e10!4m2!3m1!1s0x487605c056e8911f:0x190215ffe8878477",
+            "heightPx": 3000,
+            "name": "places/ChIJH5HoVsAFdkgRd4SH6P8VAhk/photos/AWn5SU5BFE06nwOI9z749Q-rrLS3JMLbsrsTbXvw6TTFLtcb5dIz2lyWQmTj6kB-3_zHStzCKf4djAz35nTcgwqvacxDzGGsJxtngCDNQ2A0P-ujLAvj-VBNFGYzrPyt4tcQ1GSYVTeoqibpk_kPqy0OBocLJJVyS2g2vd9H5C_X1zo2pZAOks2QdtSQQKsOPsLKoP33FwzXEWDEhZGgm8xAsLmX79tD6jhzh6rXMI41N-Q0U1oGY_8bUUl2FEY-XMeM9UMr6876qt3ScPFxcDjNReM-EJPIyjW7BvkLCgSzFgaFYpuIdP-Dqing_V6WAYZDjfVEvkuscNWFB_VbYZ3PHi3KrtuTganUU0a4NTxx5vK0QYGNX6DnnkwqBs4Zg8LCNGxGDPOm2Ed0rbIhsX4Zl5tQamVweSVp8bpp3mhzMlZ3EmiH",
+            "widthPx": 4000
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Jun ZHANG",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUy3jgmQzjY6KSP18LjjPiz4lrUF_Ckrp464CCJfgjgjh_SOmg9=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/115305278932760986174"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEOjm2r_96ProPQ&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEOjm2r_96ProPQ!2e10!4m2!3m1!1s0x487605c056e8911f:0x190215ffe8878477",
+            "heightPx": 1280,
+            "name": "places/ChIJH5HoVsAFdkgRd4SH6P8VAhk/photos/AWn5SU7vA7PpdXyoKiTDQxC_bJkkzRNfXj6GIXexXtNcphcb_adkz3wotKQwxlQPwfUF751wXptLMr6_6kmycXrUCpLwcboJ3nbOacWv98N83CdxucMezc5a2aVzbOiTFvH4Yv2QfU35FheRCS9G0dfsV8RGTiXUqSxBs397u9nHlHzuUeu381axE2p7yRY9NF_iEzyPXC4vLnZjp6dOtcUdC2S7Z-Nvfu2DZVal_5kJmp6Upi3WlN9Xg_EVdqSz9qyXA-SSgNU28NVfvME6EKF7IamHOEwQGPDhtjpxx01dCVgBHjPJjDJsk8b4Rhf6_SQHRUKmhLbc_RoSDCbn5obF64oj-9g85lxLrOoezDeA55N-jk1Z5yt513b__UqGET4OGzMgIakVCtoetGxgFiJY-zE49cC0wwl-7iyQX23euS6FaA",
+            "widthPx": 1706
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Hasitha Weerasinghe",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKFItHuJ1JJn4tD-pTzDyoEyAu8kFodEN0qfbFdwiybI2Ck1w=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117340263566028344555"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDv77mqBQ&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDv77mqBQ!2e10!4m2!3m1!1s0x487605c056e8911f:0x190215ffe8878477",
+            "heightPx": 3739,
+            "name": "places/ChIJH5HoVsAFdkgRd4SH6P8VAhk/photos/AWn5SU6PNoI6tBEddWIg6NwiiW2zKWDK2zPZl4TDG3xVbX3i3fvQanay1lJrSj9E9569w2H9j8oHV_IUoI8QIWJCjU7pB6NNt55Zxy0x3jnqzRXllsj1vhtbT-ovsyPhfTm4GRTKgWSQ7tNDMcW3hRwOjE3oqGSFpNJZCjo67Fm_HWHoQoPp3qyjMDDdW5T-tVLoiRGvctmwcxCUU2wZbjdt-yPbatJvwIrvBkjPJevGz1ajJePsSew9lyRfaJPuW3pJLlGDaNvhsQj6yiknXojgrbpznSy3Akj4MtWbYJJbgEL9l_1LyjkktiqZJ_5RXexuJWdLQyGFlGv-NaglovojwTabOYpBtJ1hXAb3_P5lL6oqDG7epihIhRw-ldXsbY4zqTax-tcypR8vVSKN3CCf-9EOSegZfQzaTw1FG6FX5pc",
+            "widthPx": 4096
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV6H+JX London, UK",
+        "globalCode": "9C3XGV6H+JX"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "21 Wellington Street"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2E 7DN",
+        "regionCode": "GB"
+    },
+    "priceRange": {
+        "endPrice": {
+            "currencyCode": "GBP",
+            "units": "30"
+        },
+        "startPrice": {
+            "currencyCode": "GBP",
+            "units": "20"
+        }
+    },
+    "primaryType": "indian_restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Indian Restaurant"
+    },
+    "rating": 4.7,
+    "regularOpeningHours": {
+        "nextOpenTime": "2025-11-25T15:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 15,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 15,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 3:00 – 10:30 PM",
+            "Tuesday: 3:00 – 10:30 PM",
+            "Wednesday: 12:00 – 11:00 PM",
+            "Thursday: 12:00 – 11:00 PM",
+            "Friday: 12:00 – 11:00 PM",
+            "Saturday: 12:00 – 11:00 PM",
+            "Sunday: 12:00 – 10:30 PM"
+        ]
+    },
+    "reservable": true,
+    "restroom": true,
+    "reviewSummary": {
+        "disclosureText": {
+            "languageCode": "en-US",
+            "text": "Summarized with Gemini"
+        },
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=5%401:CAIQACodChtyc19oOjM5WERadUo5QUc2V2otM1VhbTRzMlE%7CCAIQACorChtyc19oOjM5WERadUo5QUc2V2otM1VhbTRzMlESDAjqk_HEBhDnrZWIAg&d=17924085&t=8",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487605c056e8911f:0x190215ffe8878477!9m1!1b1",
+        "text": {
+            "languageCode": "en-US",
+            "text": "People say this Indian restaurant serves delicious lamb shank, butter chicken, and samosas. They highlight the generous portions, good value for money, and authentic flavors. They also like the attentive staff and quick service."
+        }
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Vikram Singh",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU52IQOHIHmETsERZn6MLE7pBftwb86C7cKuDnobwaFlEmR-wl2=s128-c0x00000000-cc-rp-mo-ba4",
+                "uri": "https://www.google.com/maps/contrib/115078022049760078839/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tkbFMyVXlWbkZuVGtOR1NYZG9kV2N6UkhWdGFFRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkbFMyVXlWbkZuVGtOR1NYZG9kV2N6UkhWdGFFRRAB!2m1!1s0x487605c056e8911f:0x190215ffe8878477",
+            "name": "places/ChIJH5HoVsAFdkgRd4SH6P8VAhk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkbFMyVXlWbkZuVGtOR1NYZG9kV2N6UkhWdGFFRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Booked a table for my sisters Birthday on Sunday evening. Location was easy to locate and was next to Lion King Musical theatre at Holborn. There was a well dressed person standing at door who very politely warned us of the step ahead. Upon arrival, we were brought to the table. Even though we made s special request to have a nicer table we were given a booth table upon entrance do that could have been better. I asked if we could move to a table next to the window and we were brought a better table. Staff were extremely attentive and very helpful with smile on their faces. Our food came on time and it was hot which we loved. We brought a cake along and gave that to one of the staff working there and was brought to our table with everyone singing which made my sisters day. They also gave us a birthday card which was quite attentive of them. Over all great experience which could have been excellent if our meals itself would be in par with service and attentiveness."
+            },
+            "publishTime": "2025-10-22T13:05:26.300894660Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Booked a table for my sisters Birthday on Sunday evening. Location was easy to locate and was next to Lion King Musical theatre at Holborn. There was a well dressed person standing at door who very politely warned us of the step ahead. Upon arrival, we were brought to the table. Even though we made s special request to have a nicer table we were given a booth table upon entrance do that could have been better. I asked if we could move to a table next to the window and we were brought a better table. Staff were extremely attentive and very helpful with smile on their faces. Our food came on time and it was hot which we loved. We brought a cake along and gave that to one of the staff working there and was brought to our table with everyone singing which made my sisters day. They also gave us a birthday card which was quite attentive of them. Over all great experience which could have been excellent if our meals itself would be in par with service and attentiveness."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Simran Thakur",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUxUZe_8UPGdJjA6RneSyIcXnv8KTylbOw--_I6cRqY9cdWVWtk=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/108911740693334314994/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pKb09GOXBTWEZQVXpWMWVtRlBWMnBMVWtFd1NsRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKb09GOXBTWEZQVXpWMWVtRlBWMnBMVWtFd1NsRRAB!2m1!1s0x487605c056e8911f:0x190215ffe8878477",
+            "name": "places/ChIJH5HoVsAFdkgRd4SH6P8VAhk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKb09GOXBTWEZQVXpWMWVtRlBWMnBMVWtFd1NsRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Came here to celebrate my friend’s birthday, and everything was just perfect! The food was delicious, the décor was beautiful, and the drinks were great. Fuhad took excellent care of us. At the end, he surprised us with a heartwarming birthday card, which was such a thoughtful. It really made the celebration special. Highly recommend this place!"
+            },
+            "publishTime": "2025-10-26T17:30:52.864356945Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "4 weeks ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Came here to celebrate my friend’s birthday, and everything was just perfect! The food was delicious, the décor was beautiful, and the drinks were great. Fuhad took excellent care of us. At the end, he surprised us with a heartwarming birthday card, which was such a thoughtful. It really made the celebration special. Highly recommend this place!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Leah Flatman",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLl8HfKnympUQ5syJ9xLUwIPr55n1MiA5vyuVCE1vuX_lITGA=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/103431190551964723747/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xONFJFRjNSemQ2U3pOd1pFWmZSMFpyWTI5QmIzYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xONFJFRjNSemQ2U3pOd1pFWmZSMFpyWTI5QmIzYxAB!2m1!1s0x487605c056e8911f:0x190215ffe8878477",
+            "name": "places/ChIJH5HoVsAFdkgRd4SH6P8VAhk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xONFJFRjNSemQ2U3pOd1pFWmZSMFpyWTI5QmIzYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Had a fantastic experience at Paro Indian Restaurant in Covent Garden! The food was absolutely amazing — full of flavour, beautifully presented, and clearly made with care. We went for the pre-theatre menu, which was not only delicious but also very reasonably priced and great value for central London.\nThe atmosphere was warm, welcoming, and vibrant — perfect for a relaxed evening out before a show.\nA special shout-out to Joy, our server, who made the experience even better. He was incredibly attentive, friendly, and happy to help with anything we needed. Such lovely service really added to the overall experience.\nHighly recommend this spot if you're in the area — we'll definitely be back!"
+            },
+            "publishTime": "2025-10-04T17:58:20.454470346Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Had a fantastic experience at Paro Indian Restaurant in Covent Garden! The food was absolutely amazing — full of flavour, beautifully presented, and clearly made with care. We went for the pre-theatre menu, which was not only delicious but also very reasonably priced and great value for central London.\nThe atmosphere was warm, welcoming, and vibrant — perfect for a relaxed evening out before a show.\nA special shout-out to Joy, our server, who made the experience even better. He was incredibly attentive, friendly, and happy to help with anything we needed. Such lovely service really added to the overall experience.\nHighly recommend this spot if you're in the area — we'll definitely be back!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Noble Paul",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU2XjfhCSp96e_5e3yvbwQcRq8c90aJO6PShYVPsIr1XP_kim7eWw=s128-c0x00000000-cc-rp-mo-ba6",
+                "uri": "https://www.google.com/maps/contrib/114101156130195685077/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pKQmIwOVdWVVpMV2xsM09HSmxVVVEzVkVvelYwRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKQmIwOVdWVVpMV2xsM09HSmxVVVEzVkVvelYwRRAB!2m1!1s0x487605c056e8911f:0x190215ffe8878477",
+            "name": "places/ChIJH5HoVsAFdkgRd4SH6P8VAhk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKQmIwOVdWVVpMV2xsM09HSmxVVVEzVkVvelYwRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "I recently came here with my family, we had a 3pm booking. Pre-booking is kinda essential, the place gets really busy. The interior is lovely, very unique and really adds to the vibe. Staffs were very friendly and helpful too.\n\nFood wise, I’d give it maybe 6/10. Felt like something was missing. One of the starters my sister ordered came a bit undercooked, but once we said it, they did bring out a fresh plate which was nice.\n\nFor families coming with a stroller, just to note there’s only a small area at reception where you leave the stroller. They also have a nappy changing room which is handy.\n\nOverall, good restaurant and worth a visit, just food could be little better."
+            },
+            "publishTime": "2025-08-28T16:43:02.001577304Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "2 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "I recently came here with my family, we had a 3pm booking. Pre-booking is kinda essential, the place gets really busy. The interior is lovely, very unique and really adds to the vibe. Staffs were very friendly and helpful too.\n\nFood wise, I’d give it maybe 6/10. Felt like something was missing. One of the starters my sister ordered came a bit undercooked, but once we said it, they did bring out a fresh plate which was nice.\n\nFor families coming with a stroller, just to note there’s only a small area at reception where you leave the stroller. They also have a nappy changing room which is handy.\n\nOverall, good restaurant and worth a visit, just food could be little better."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "christian cespedes",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWTlNdgsuEyJ6rhxMphgKab7jHC3xMVnGnNniAfBNj8t4mfN0o=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/115340019067594020729/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21sS1dqbFJSakpoTmtNeE0wRmFObXhNYWxaMllrRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sS1dqbFJSakpoTmtNeE0wRmFObXhNYWxaMllrRRAB!2m1!1s0x487605c056e8911f:0x190215ffe8878477",
+            "name": "places/ChIJH5HoVsAFdkgRd4SH6P8VAhk/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sS1dqbFJSakpoTmtNeE0wRmFObXhNYWxaMllrRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "My wife and I were in town for a few days on business and leisure. We were lucky enough to find an opening and an available reservation at Paro.\n\nAmazing experience all the way around from hospitality to service and from appetizers to mains. It lives up to the reviews.\n\nJoy made sure everything was perfect. Can’t wait to visit London again with dining here as a priority!"
+            },
+            "publishTime": "2025-11-15T21:55:15.433297450Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a week ago",
+            "text": {
+                "languageCode": "en",
+                "text": "My wife and I were in town for a few days on business and leisure. We were lucky enough to find an opening and an available reservation at Paro.\n\nAmazing experience all the way around from hospitality to service and from appetizers to mains. It lives up to the reviews.\n\nJoy made sure everything was perfect. Can’t wait to visit London again with dining here as a priority!"
+            }
+        }
+    ],
+    "servesBeer": true,
+    "servesCocktails": true,
+    "servesCoffee": true,
+    "servesDessert": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "servesVegetarianFood": true,
+    "servesWine": true,
+    "shortFormattedAddress": "21 Wellington St, London",
+    "takeout": true,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "indian_restaurant",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+    ],
+    "userRatingCount": 5888,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.5130384802915,
+            "longitude": -0.11865806970849799
+        },
+        "low": {
+            "latitude": 51.51034051970851,
+            "longitude": -0.12135603029150202
+        }
+    },
+    "websiteUri": "https://paroindian.com/",
+    "timestamp": 1764064800
+}

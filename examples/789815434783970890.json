@@ -1,0 +1,1258 @@
+{
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "26-29",
+            "shortText": "26-29",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Drury Lane",
+            "shortText": "Drury Ln",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2B 5RL",
+            "shortText": "WC2B 5RL",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "King's College London"
+                },
+                "name": "places/ChIJ3VW0o7UEdkgR8eAcbhKByyg",
+                "placeId": "ChIJ3VW0o7UEdkgR8eAcbhKByyg"
+            },
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Holborn"
+                },
+                "name": "places/ChIJA7_adjUbdkgR_XPGaE3twAI",
+                "placeId": "ChIJA7_adjUbdkgR_XPGaE3twAI"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJs4GOh8sEdkgRRiBFZKMP8ZE",
+                "placeId": "ChIJs4GOh8sEdkgRRiBFZKMP8ZE"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Essentials London"
+                },
+                "name": "places/ChIJbd_9rjQbdkgRpeh1OTDMP9A",
+                "placeId": "ChIJbd_9rjQbdkgRpeh1OTDMP9A",
+                "spatialRelationship": "ACROSS_THE_ROAD",
+                "straightLineDistanceMeters": 28.896774,
+                "travelDistanceMeters": 26.75884,
+                "types": [
+                    "beauty_salon",
+                    "doctor",
+                    "establishment",
+                    "health",
+                    "pharmacy",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The Top Secret Comedy Club"
+                },
+                "name": "places/ChIJ6zivZswEdkgR8Vd0G2Df5KE",
+                "placeId": "ChIJ6zivZswEdkgR8Vd0G2Df5KE",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 37.215668,
+                "travelDistanceMeters": 39.283382,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Gillian Lynne Theatre"
+                },
+                "name": "places/ChIJ7eA75soEdkgRZXtgpYnGHYI",
+                "placeId": "ChIJ7eA75soEdkgRZXtgpYnGHYI",
+                "straightLineDistanceMeters": 36.044632,
+                "travelDistanceMeters": 51.08507,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "store",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The Marlborough Head"
+                },
+                "name": "places/ChIJ77_aTcsEdkgRcCamkQMzbTc",
+                "placeId": "ChIJ77_aTcsEdkgRcCamkQMzbTc",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 49.108845,
+                "travelDistanceMeters": 58.64941,
+                "types": [
+                    "bar",
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Royal Ballet and Opera"
+                },
+                "name": "places/ChIJySOgh8sEdkgRCBzTYt83Klg",
+                "placeId": "ChIJySOgh8sEdkgRCBzTYt83Klg",
+                "straightLineDistanceMeters": 244.86516,
+                "travelDistanceMeters": 296.33472,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            }
+        ]
+    },
+    "businessStatus": "OPERATIONAL",
+    "currentOpeningHours": {
+        "nextOpenTime": "2025-11-25T12:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 15,
+                    "minute": 45
+                },
+                "open": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 21,
+                    "minute": 45
+                },
+                "open": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 21,
+                    "minute": 45
+                },
+                "open": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 21,
+                    "minute": 45
+                },
+                "open": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 21,
+                    "minute": 45
+                },
+                "open": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 21,
+                    "minute": 45
+                },
+                "open": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 21,
+                    "minute": 45
+                },
+                "open": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 – 9:45 PM",
+            "Tuesday: 12:00 – 9:45 PM",
+            "Wednesday: 12:00 – 9:45 PM",
+            "Thursday: 12:00 – 9:45 PM",
+            "Friday: 12:00 – 9:45 PM",
+            "Saturday: 12:00 – 9:45 PM",
+            "Sunday: 12:00 – 3:45 PM"
+        ]
+    },
+    "currentSecondaryOpeningHours": [
+        {
+            "nextOpenTime": "2025-11-25T12:00:00Z",
+            "openNow": false,
+            "periods": [
+                {
+                    "close": {
+                        "date": {
+                            "day": 30,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 0,
+                        "hour": 16,
+                        "minute": 0
+                    },
+                    "open": {
+                        "date": {
+                            "day": 30,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 0,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 1,
+                            "month": 12,
+                            "year": 2025
+                        },
+                        "day": 1,
+                        "hour": 15,
+                        "minute": 0
+                    },
+                    "open": {
+                        "date": {
+                            "day": 1,
+                            "month": 12,
+                            "year": 2025
+                        },
+                        "day": 1,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 1,
+                            "month": 12,
+                            "year": 2025
+                        },
+                        "day": 1,
+                        "hour": 22,
+                        "minute": 30
+                    },
+                    "open": {
+                        "date": {
+                            "day": 1,
+                            "month": 12,
+                            "year": 2025
+                        },
+                        "day": 1,
+                        "hour": 17,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 25,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 2,
+                        "hour": 15,
+                        "minute": 0
+                    },
+                    "open": {
+                        "date": {
+                            "day": 25,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 2,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 25,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 2,
+                        "hour": 22,
+                        "minute": 30
+                    },
+                    "open": {
+                        "date": {
+                            "day": 25,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 2,
+                        "hour": 17,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 26,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 3,
+                        "hour": 15,
+                        "minute": 0
+                    },
+                    "open": {
+                        "date": {
+                            "day": 26,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 3,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 26,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 3,
+                        "hour": 22,
+                        "minute": 30
+                    },
+                    "open": {
+                        "date": {
+                            "day": 26,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 3,
+                        "hour": 17,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 27,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 4,
+                        "hour": 15,
+                        "minute": 0
+                    },
+                    "open": {
+                        "date": {
+                            "day": 27,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 4,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 27,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 4,
+                        "hour": 22,
+                        "minute": 30
+                    },
+                    "open": {
+                        "date": {
+                            "day": 27,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 4,
+                        "hour": 17,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 28,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 5,
+                        "hour": 15,
+                        "minute": 0
+                    },
+                    "open": {
+                        "date": {
+                            "day": 28,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 5,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 28,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 5,
+                        "hour": 22,
+                        "minute": 30
+                    },
+                    "open": {
+                        "date": {
+                            "day": 28,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 5,
+                        "hour": 17,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 29,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 6,
+                        "hour": 15,
+                        "minute": 0
+                    },
+                    "open": {
+                        "date": {
+                            "day": 29,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 6,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "date": {
+                            "day": 29,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 6,
+                        "hour": 22,
+                        "minute": 30
+                    },
+                    "open": {
+                        "date": {
+                            "day": 29,
+                            "month": 11,
+                            "year": 2025
+                        },
+                        "day": 6,
+                        "hour": 17,
+                        "minute": 0
+                    }
+                }
+            ],
+            "secondaryHoursType": "KITCHEN",
+            "weekdayDescriptions": [
+                "Monday: 12:00 – 3:00 PM, 5:00 – 10:30 PM",
+                "Tuesday: 12:00 – 3:00 PM, 5:00 – 10:30 PM",
+                "Wednesday: 12:00 – 3:00 PM, 5:00 – 10:30 PM",
+                "Thursday: 12:00 – 3:00 PM, 5:00 – 10:30 PM",
+                "Friday: 12:00 – 3:00 PM, 5:00 – 10:30 PM",
+                "Saturday: 12:00 – 3:00 PM, 5:00 – 10:30 PM",
+                "Sunday: 12:00 – 4:00 PM"
+            ]
+        }
+    ],
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "TOWN Restaurant"
+    },
+    "formattedAddress": "26-29 Drury Ln, London WC2B 5RL, UK",
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x48761bcfa9573381:0xaf5fcf40c6b564a!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x48761bcfa9573381:0xaf5fcf40c6b564a!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=789815434783970890&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x48761bcfa9573381:0xaf5fcf40c6b564a!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x48761bcfa9573381:0xaf5fcf40c6b564a!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=789815434783970890&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJgTNXqc8bdkgRSlZrDPT89Qo",
+    "internationalPhoneNumber": "+44 20 3500 7515",
+    "location": {
+        "latitude": 51.515094500000004,
+        "longitude": -0.12289
+    },
+    "name": "places/ChIJgTNXqc8bdkgRSlZrDPT89Qo",
+    "nationalPhoneNumber": "020 3500 7515",
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "TOWN Restaurant",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUaxbpgIJ8rCYHt9GUOv2otcKXN-VpU_xK9oQZW6iid7DeLZig=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/109462507261493570705"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPbEjnddiP3ZHd8fnhwJMBbBRjj2UOzKHDxUw7D&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPbEjnddiP3ZHd8fnhwJMBbBRjj2UOzKHDxUw7D!2e10!4m2!3m1!1s0x48761bcfa9573381:0xaf5fcf40c6b564a",
+            "heightPx": 3201,
+            "name": "places/ChIJgTNXqc8bdkgRSlZrDPT89Qo/photos/AWn5SU6MeZeGaGE2nRc0Dk7RyLJAFTNkqlMRY-BT4c3cwru5zWdECGOI9FuejCxqOfUIVDjdPdviQLcAgD6aWJLH1Y1_8BTvKaxhn6etLU709DMM2JP8lKzrCe_TFdAfQUhD_UKJCCd_zHASthBxa061E7nYizdlS7BW_88rOR_VpCCjQEAW8kMadXdjR2wXnaUjjUB7r22GwC1usBcINElJD_fgeqYnnwpP0CriKYOLYFWqBG2NQFxar7YvMzIhuJuOdIqV1hUD-VQQ9p0nwV7bL6Oq8C6L_2pbRILdUuo9FHPOCg",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Alexandre Istamboulian (Alex)",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX6sIScp0eFVGtmUuZImyLHt6ojPcS8GQ6O7p6rauknGiGyRTgHpQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/116713224625041486813"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDNMy51c48wjsAac96oX1h2&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDNMy51c48wjsAac96oX1h2!2e10!4m2!3m1!1s0x48761bcfa9573381:0xaf5fcf40c6b564a",
+            "heightPx": 4800,
+            "name": "places/ChIJgTNXqc8bdkgRSlZrDPT89Qo/photos/AWn5SU72Xi66QIGAfsp9bnqHV2PhV1G8FE57ufnBdElr0i8pfcJBnfBB80F177shyaRqWENTQhxZd5HqLzrEWLi6qZUpe4j1-XSAlUmTuA5OUPyCZwANHyupOvSNQmZ36HCw7g5YllHYfGuOXstHPvrALe4ndHdYASsPG1zAseLB3O4KqCMowZxqhAaj8zeKOusg-V0uIZLwUnBrrShbnDJNnJpCJ17GiSQ_UVXwE8Iu-NMWmuOsjsTYppwVXELLxzFxpsvznyRXjFaP0ytcl9FG5i8kNCx1vPTJOGCGI3azJztCxvrVxKvwXs4XbgEgx-beiFJZGCgPDJk6CuwcT8AUTAWftIYXOyfxwNWQ5wLV-VhA-CNy3ia2RLrDYJ7K7wqnQAj55Ytqq-Sbii68uZMNW6pMJV1ynMscLOPJALl8hnZ50JDbyKTVlg0JNbXt5Q",
+            "widthPx": 3600
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Ekkapon Bunjongkhayai",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV_x8vbnDmIJYIvywpA6D5LfxvwOsubQ2-rUDhYKay_dp_S_Kc=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/101662708956448060728"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBc27f4nV5-y-yJTdLEcIoK&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBc27f4nV5-y-yJTdLEcIoK!2e10!4m2!3m1!1s0x48761bcfa9573381:0xaf5fcf40c6b564a",
+            "heightPx": 3024,
+            "name": "places/ChIJgTNXqc8bdkgRSlZrDPT89Qo/photos/AWn5SU5n3A8RlTeJxpIDuKS4sMqQBZMTO5Q9lCpF3JwXwOG2XQk-XQouq3UNc6xSuqRiHy8_ZoWqGueY8UarBsoCz-aI4GiljE1VztFk71nDT4PDNT8hjisoC2sb0mWv4uci_-qKbEt_1dyAA-RVaLo0Xmhwcc2_OYpyHQvzvapZ9kXDAwPicu2nQHntVPLAnvY5n5q0ViVyzQQbmhZ7tzNUr9JzXOsPqi_fAwOmmrNYgHgw3tekREiA8hK6DsFO5iaJD7CKBs3cnYmLVK_GBx3ChbTRPErTDAuDCY-52EqahU1100h3eqtcI1wEK9JecqP44CIXVT9zo-zMPaPN29-UO0j85qHiPp8IATxItGppnYU_i8u5lQ6UR3EbceDsZ7nM10XtGRiKdnc7Gwu8c303-UwgQgcZPwZ5OYEMZAbVkuLSzLAyYvlolPt21Vf_JvI-",
+            "widthPx": 4032
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Dom Manley",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWM9aAABzd0NJ3lyVAoC_ds1PibW_ZoTsF71xLRw3TQh8mAKbvagg=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/102708440573208445086"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEPqy1760346z0QE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEPqy1760346z0QE!2e10!4m2!3m1!1s0x48761bcfa9573381:0xaf5fcf40c6b564a",
+            "heightPx": 4800,
+            "name": "places/ChIJgTNXqc8bdkgRSlZrDPT89Qo/photos/AWn5SU4BkY305tW50x4Tfg20skwMHzQ9XdRI1OqvlmFokJibJYHLxT_TZh6AilvT3FsIUvnYfo3W3dyYM-pr7QkYxegdYvKEFatM2lfCDgY2N6iajUouD8slPnUV79Zq1rFEaQEsIC_bxw7TRliJ0b_EXtABZMaUtCvNYscoAgX4LbxZzGXPmBEUB29w4UEUSmdPtagXTixU5LwPqYyIstXQuKmQ64BaWazkCMCCNMumH7MmnnM7CWL9bX611HKNvSgCUQPFdtwjsMen4L-qZO80mrZzpfD-YanJHAfWskd2UgmUeLHipvn2RsQB3Rw3iglMJLuOk5AVE1v7d5RQ8of-WP_NURs_6Qr9M1t6m0VCo5z8gPvUclSq9MU_goyhFatIOrt9xv5vR2G1nldJLOqPFElxykHJylKTP7T4Ntjlx5hPG-J5",
+            "widthPx": 3600
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Ola Shadare",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVhAnMziGyTts3hvj3cVay40YV-NEmiv5rdH-59EMFCyjOKjc7Ksw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113593383584851995217"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDJWAzJFSpz-JsW1Wzsebgd&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDJWAzJFSpz-JsW1Wzsebgd!2e10!4m2!3m1!1s0x48761bcfa9573381:0xaf5fcf40c6b564a",
+            "heightPx": 3072,
+            "name": "places/ChIJgTNXqc8bdkgRSlZrDPT89Qo/photos/AWn5SU7P3t8r4vQn0gqkIxSYnI7HRyv77rFcv7GBteE4sH-DKF3YLsDXRxdfL3JHitMFydm6WiQ8L2s-gYyYddmupYXKft_1WnQcV-3S3T8pEIwAy2BHavjqhY0V00SceaO0fgyMSz5LMh9qGIqT0EgC6kDvBRfJ1k37VG6BKfCyn37sYsfhzQ5k0YN8sVvGCToieUScXlCQ7hbLq092QcSlst3qPisIxBctxeV-CYsHsxUCRnfwwob0-U4a54cr57Gj4j8EfqI3YB0DMNZdpNOe2jzz_GaHGQ3w1LN416lrVZ5RsYmNr3ELSaQjU6E7qJ3mfLTZXrtGHKKygfcJcljwKItLLiM4qxNtuskwoh0nbIhwq6FSno0ZXy31di1T2PI7JJIZXUeMuVimnYi9WvvLVg_da7M1ocb1IfjAu_fDKC6IyOdLcbf1-oDpEzBAyQ",
+            "widthPx": 4096
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "TOWN Restaurant",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUaxbpgIJ8rCYHt9GUOv2otcKXN-VpU_xK9oQZW6iid7DeLZig=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/109462507261493570705"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOrVp2Ua1USnwRyp9k_j4dkubVpSEcXNonlUwjq&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOrVp2Ua1USnwRyp9k_j4dkubVpSEcXNonlUwjq!2e10!4m2!3m1!1s0x48761bcfa9573381:0xaf5fcf40c6b564a",
+            "heightPx": 3201,
+            "name": "places/ChIJgTNXqc8bdkgRSlZrDPT89Qo/photos/AWn5SU7sl96FFJ6j2CeBUwqPup8-0YZhux26s8tfgF6fPBFAPub2tr_6Zlquuelfa8ti3dFM057_8Sd6X0UaEPmftyjotpD5KNhpqDx8xdZIeeUY8tmi37_givCEYua93OK_ZMlDSthsgomzpb1pLndtnnJyMAbtZ7SVx48YKjG_LgmHAyjfJVtQLwREKXPSUUQVqVvzzY6l-yDPvB_gnD-Qx4XzUdwP2cxD_xO73ALh6xyeQo-5OSo1oPeCf_rsfSH93nP3rmXPALkyPpHsw_iTPbNI3oCKZHF_plGR-vwWS0dFFQ",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "James Tabor",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLKpXGPv14lLBgBF4HXVxmT2wuteghSEXRaAfLQfqqNiOCdcw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/102520923554316872575"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEM_RmeOoyt_BvwE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEM_RmeOoyt_BvwE!2e10!4m2!3m1!1s0x48761bcfa9573381:0xaf5fcf40c6b564a",
+            "heightPx": 3600,
+            "name": "places/ChIJgTNXqc8bdkgRSlZrDPT89Qo/photos/AWn5SU7kjvNWmYCDCaF996HnFUZX5rlwpxS9XCXrtSEEnCRR8nz208iKyULVDTJi3EPTFo3yjBxWQlC9BMmcJJX7tO6mDKEWFY6o8ik42mUwU6vKkm6sk5OTWBKLZpyEAax8rJNaFYza0lIYfJIEqU30FLXCoxYekSq7RTJpgKAGKeLnC4TcqDWwpGxCJLOdIjXDT0_nBm_f9COS0LnjG4kLbZK0HBJajtno95oE7audIa0n4pLWxXf8n-BCWDlzwnQycvpqTCTDKPuqnyHmJKHwXgX1L8fFD0Dr1ohwRmcWJL4jg9oAeKX84AtckGmRvh-jLuaAuc-FHs78uXWPIuH4jJ0thjLw-mvf3RzUzmwASe6EMrGXUHBC2Lzs6vTr_i74OJ7L270pvOXL-HuxQ3Ua_z8klSm9hrcDunneeItiNuZ72nfJ",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Anne-Jolie",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUF-oyDVgVtEWBhPXzW3_tVnvqg0wPgsRsJ76kyM0_v5NiC8QXCAA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/104827288249156712763"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAp734HF6N659qhH7CJJwdF&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAp734HF6N659qhH7CJJwdF!2e10!4m2!3m1!1s0x48761bcfa9573381:0xaf5fcf40c6b564a",
+            "heightPx": 3024,
+            "name": "places/ChIJgTNXqc8bdkgRSlZrDPT89Qo/photos/AWn5SU5Y81eBBUQA8-wwm3q4Uf1jNVX6aTyhyxzQzsET9CTGGOwBaRCYDMx9AyEEruWB-IrQCMn1rmacXojRhFj4hsLClEsSEwp77MJMISmt2D7FcCCDHMumWR3X9xJEPqtSP6d8Z8gvpQ770DXoKnFuNnxtmiAWHcLPuLlR9NiDSITVm0Y5W6_c120qsZyutbCGLF3U_FVIkZnhyvb3dPHv-aejbwdDdGafEgh_SBoCABNIkAqMzEZX9z47T8OaeGmfNUfhLLODWih4LCVj8MToPhqYYZEfYI6iUq9rdrd1-22NWnKuzLkhn1Kg6M2O-psMrL0eOFaXwb6B75myv4O7Zd-xkDcd7Crjk0P13SAAnkhwOhsWtrrpI2oa5X0kDYw4p-eXdyKSVSlVXfPtrnf6MNCKUZaE8JKoA6wa43Q29S1Uurs-KAmGusjgJ2dqVA",
+            "widthPx": 4032
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Adam Layton",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWFoUEUw2OjyXAx4k60z7woie9OA9vS6bxg_8aAXaqv4r084nBE=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/104034004044423097388"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCYya398AE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCYya398AE!2e10!4m2!3m1!1s0x48761bcfa9573381:0xaf5fcf40c6b564a",
+            "heightPx": 4032,
+            "name": "places/ChIJgTNXqc8bdkgRSlZrDPT89Qo/photos/AWn5SU7-YMQsIZcbQlyYf0Ezqx5QuxZnRFQehGJJbg6Ifi_Oz8M6n6XU_Nd0-GGd6BGkKSYnwgiW5ZZiYp7zkz1EPjJiNoarXPaX9xy-l246dxZWbgfaJx_UYE8xOTbC4vywLVlpR2cDepDV9M8QvriB5cYX21BsersJImfvaqAOIKQaQaVa0JSibYqHcrbz0UUM-YroYyHjaiHB90n8FSKL8yO0v5LNzW2SREHNazCSe3gyYA70t5ToOLcgT-49O57sVwPJRkrjm0Fs_4WdLQooO7PuLGSnDOUBj3_af73VwfwpuyBYnpRO-DQCDUVVcOhvZ9IOIYtMcvtJUNHD47MkF6brGWRzOVwm1fwWKvzsThuGJk4oNK7G4arZXv2llcjlhryJI_eSit1uptTpiAfFU1YNWujmJ7vT9PclSWtGtZ2zKVE",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Ola Shadare",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVhAnMziGyTts3hvj3cVay40YV-NEmiv5rdH-59EMFCyjOKjc7Ksw=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113593383584851995217"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBA7VX05ePEF7RPW7DJcjPj&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBA7VX05ePEF7RPW7DJcjPj!2e10!4m2!3m1!1s0x48761bcfa9573381:0xaf5fcf40c6b564a",
+            "heightPx": 3072,
+            "name": "places/ChIJgTNXqc8bdkgRSlZrDPT89Qo/photos/AWn5SU5IdBBOzZh2Wi67EsGeQqOKeRGVSZUvvI1dbjpRO7AY2BSZNYr-Fl88i6qh6IIi46pdbOc4MH8pzvTBjEaRpcAc_N63PXVuzyoaWOsRcptljTJSOl3ClC0dpuZwhgHV7kRGnROlVC8PkduyXb-zgDM4K_maq-Yr8bmNumEwkC-Aof-ob1poAfjVHKOPa0Q31xTJkApoy1tjGqY64qGeOzicKB8lHw-hkAmAt910UIyAwe3tiZZ4wpEaa_vfiyDYMA0iA12-N4b5P9qcSdByR_bfGb-lxj9NODhtIKG5t9Mwfj8n_knGfWHXojdySHEKn7HeEKwD1-h62V7OC9mBdnHj46Y3pwCaZNAuwjf138XYeD0ST5txoUZHz9zgUQZ7Zsd1hwh5RFhTJk-qVMWd8xl3Is-A-WToqmQyp37Uetqn6iFaKM5ChgbSnab29w",
+            "widthPx": 4096
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV8G+2R London, UK",
+        "globalCode": "9C3XGV8G+2R"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "26-29 Drury Lane"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2B 5RL",
+        "regionCode": "GB"
+    },
+    "primaryType": "restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Restaurant"
+    },
+    "rating": 4.6,
+    "regularOpeningHours": {
+        "nextOpenTime": "2025-11-25T12:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 15,
+                    "minute": 45
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 21,
+                    "minute": 45
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 21,
+                    "minute": 45
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 21,
+                    "minute": 45
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 21,
+                    "minute": 45
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 21,
+                    "minute": 45
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 21,
+                    "minute": 45
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 – 9:45 PM",
+            "Tuesday: 12:00 – 9:45 PM",
+            "Wednesday: 12:00 – 9:45 PM",
+            "Thursday: 12:00 – 9:45 PM",
+            "Friday: 12:00 – 9:45 PM",
+            "Saturday: 12:00 – 9:45 PM",
+            "Sunday: 12:00 – 3:45 PM"
+        ]
+    },
+    "regularSecondaryOpeningHours": [
+        {
+            "nextOpenTime": "2025-11-25T12:00:00Z",
+            "openNow": false,
+            "periods": [
+                {
+                    "close": {
+                        "day": 0,
+                        "hour": 16,
+                        "minute": 0
+                    },
+                    "open": {
+                        "day": 0,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "day": 1,
+                        "hour": 15,
+                        "minute": 0
+                    },
+                    "open": {
+                        "day": 1,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "day": 1,
+                        "hour": 22,
+                        "minute": 30
+                    },
+                    "open": {
+                        "day": 1,
+                        "hour": 17,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "hour": 15,
+                        "minute": 0
+                    },
+                    "open": {
+                        "day": 2,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "hour": 22,
+                        "minute": 30
+                    },
+                    "open": {
+                        "day": 2,
+                        "hour": 17,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "hour": 15,
+                        "minute": 0
+                    },
+                    "open": {
+                        "day": 3,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "hour": 22,
+                        "minute": 30
+                    },
+                    "open": {
+                        "day": 3,
+                        "hour": 17,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "hour": 15,
+                        "minute": 0
+                    },
+                    "open": {
+                        "day": 4,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "hour": 22,
+                        "minute": 30
+                    },
+                    "open": {
+                        "day": 4,
+                        "hour": 17,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "hour": 15,
+                        "minute": 0
+                    },
+                    "open": {
+                        "day": 5,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "hour": 22,
+                        "minute": 30
+                    },
+                    "open": {
+                        "day": 5,
+                        "hour": 17,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "hour": 15,
+                        "minute": 0
+                    },
+                    "open": {
+                        "day": 6,
+                        "hour": 12,
+                        "minute": 0
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "hour": 22,
+                        "minute": 30
+                    },
+                    "open": {
+                        "day": 6,
+                        "hour": 17,
+                        "minute": 0
+                    }
+                }
+            ],
+            "secondaryHoursType": "KITCHEN",
+            "weekdayDescriptions": [
+                "Monday: 12:00 – 3:00 PM, 5:00 – 10:30 PM",
+                "Tuesday: 12:00 – 3:00 PM, 5:00 – 10:30 PM",
+                "Wednesday: 12:00 – 3:00 PM, 5:00 – 10:30 PM",
+                "Thursday: 12:00 – 3:00 PM, 5:00 – 10:30 PM",
+                "Friday: 12:00 – 3:00 PM, 5:00 – 10:30 PM",
+                "Saturday: 12:00 – 3:00 PM, 5:00 – 10:30 PM",
+                "Sunday: 12:00 – 4:00 PM"
+            ]
+        }
+    ],
+    "reservable": true,
+    "reviewSummary": {
+        "disclosureText": {
+            "languageCode": "en-US",
+            "text": "Summarized with Gemini"
+        },
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=5%401:CAIQACodChtyc19oOmJvZ245d1VYRlh4bFVIV1NHa19PalE%7CCAIQACorChtyc19oOmJvZ245d1VYRlh4bFVIV1NHa19PalESDAi_2OfEBhD44ZHwAg&d=17924085&t=8",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x48761bcfa9573381:0xaf5fcf40c6b564a!9m1!1b1",
+        "text": {
+            "languageCode": "en-US",
+            "text": "People say this restaurant serves delicious scallops, steak, and sage leaves, and the bread with gravy is a must-try. They highlight the innovative and tasty dishes, and the fun, modern vibe. They also like the attentive and friendly staff."
+        }
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Ekkapon Bunjongkhayai",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV_x8vbnDmIJYIvywpA6D5LfxvwOsubQ2-rUDhYKay_dp_S_Kc=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/101662708956448060728/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT201eWVGQTBTSFpMYlRWYU5FZDJURVZWWTBwRVlsRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201eWVGQTBTSFpMYlRWYU5FZDJURVZWWTBwRVlsRRAB!2m1!1s0x48761bcfa9573381:0xaf5fcf40c6b564a",
+            "name": "places/ChIJgTNXqc8bdkgRSlZrDPT89Qo/reviews/Ci9DQUlRQUNvZENodHljRjlvT201eWVGQTBTSFpMYlRWYU5FZDJURVZWWTBwRVlsRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "The Best Restaurant in TOWN, their Potato Sourdough from 8 months Yeast is fantastic, The Steak is superb, recommended! and Risotto with Bone Marrow is great as well and The Dessert is just perfect. The decoration is Top! I have walked pass and seen this shop from scratch until now. Absolutely grateful to have such a good Restaurant in Drury ln. Best in TOWN."
+            },
+            "publishTime": "2025-11-19T19:44:32.853500766Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "in the last week",
+            "text": {
+                "languageCode": "en",
+                "text": "The Best Restaurant in TOWN, their Potato Sourdough from 8 months Yeast is fantastic, The Steak is superb, recommended! and Risotto with Bone Marrow is great as well and The Dessert is just perfect. The decoration is Top! I have walked pass and seen this shop from scratch until now. Absolutely grateful to have such a good Restaurant in Drury ln. Best in TOWN."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "David Watts",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ1jK8RFdeymvJX0mcKy0KBZn97whw2CNHQ09Xyw0ITtR9VRg=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/115737911876668116658/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xCQ1gwRkVhbVl6TUZoRFRHcG9OV2RHYVRsblVWRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCQ1gwRkVhbVl6TUZoRFRHcG9OV2RHYVRsblVWRRAB!2m1!1s0x48761bcfa9573381:0xaf5fcf40c6b564a",
+            "name": "places/ChIJgTNXqc8bdkgRSlZrDPT89Qo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCQ1gwRkVhbVl6TUZoRFRHcG9OV2RHYVRsblVWRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "TOWN Restaurant came recommended, and lived up to its billing.\n\nA beautiful space, really very unique - bold, but not overwhelming.\n\nStaff were charming, and helpful throughout- looking after us and our dog very well (he was given my plenty of fuss, and some water in a lovely bowl!).\n\nThe food was mostly excellent. Of the snacks, the fried sage leaves were unique and the bread super. For starters, we shared the saffron risotto (with some delicious bone marrow) and the ricotta ravioli - both delicious. For the mains, the pork with peaches was fantastic but for me, the lobster was a bit of a let down.\n\nDrinks were all excellent - we had a few cocktails, including what's possibly the best vodka martini I've ever had - truly top notch. Great wine list as well - a good range of options and prices.\n\nHighly recommended!"
+            },
+            "publishTime": "2025-08-31T12:48:42.088876984Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "TOWN Restaurant came recommended, and lived up to its billing.\n\nA beautiful space, really very unique - bold, but not overwhelming.\n\nStaff were charming, and helpful throughout- looking after us and our dog very well (he was given my plenty of fuss, and some water in a lovely bowl!).\n\nThe food was mostly excellent. Of the snacks, the fried sage leaves were unique and the bread super. For starters, we shared the saffron risotto (with some delicious bone marrow) and the ricotta ravioli - both delicious. For the mains, the pork with peaches was fantastic but for me, the lobster was a bit of a let down.\n\nDrinks were all excellent - we had a few cocktails, including what's possibly the best vodka martini I've ever had - truly top notch. Great wine list as well - a good range of options and prices.\n\nHighly recommended!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Ola Shadare",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVhAnMziGyTts3hvj3cVay40YV-NEmiv5rdH-59EMFCyjOKjc7Ksw=s128-c0x00000000-cc-rp-mo-ba7",
+                "uri": "https://www.google.com/maps/contrib/113593383584851995217/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tabVdIUnRhV3A2YlVOa1J6RjFPR3h2TXpSVE4yYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tabVdIUnRhV3A2YlVOa1J6RjFPR3h2TXpSVE4yYxAB!2m1!1s0x48761bcfa9573381:0xaf5fcf40c6b564a",
+            "name": "places/ChIJgTNXqc8bdkgRSlZrDPT89Qo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tabVdIUnRhV3A2YlVOa1J6RjFPR3h2TXpSVE4yYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "This is a new venture recently opened by British Chef Steve Parle.\nThe main dining room is large and airy.\nThe menu offers a mixture of Mediterranean, Middle Eastern and Asian cuisine made with British ingredients.\nThe food was well presented and on the whole tasted very good.\nI can recommend the Wild farmed steak, the Potato Sourdough, and the Kashmiri Risotto with Bone Marrow.\nThe service was friendly and efficient.\nMy only negative is that some of the items appear overpriced especially the Coombes head Cured Mangalita Shoulder however we enjoyed our lunch and our time there."
+            },
+            "publishTime": "2025-09-24T10:54:03.321969592Z",
+            "rating": 4,
+            "relativePublishTimeDescription": "2 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "This is a new venture recently opened by British Chef Steve Parle.\nThe main dining room is large and airy.\nThe menu offers a mixture of Mediterranean, Middle Eastern and Asian cuisine made with British ingredients.\nThe food was well presented and on the whole tasted very good.\nI can recommend the Wild farmed steak, the Potato Sourdough, and the Kashmiri Risotto with Bone Marrow.\nThe service was friendly and efficient.\nMy only negative is that some of the items appear overpriced especially the Coombes head Cured Mangalita Shoulder however we enjoyed our lunch and our time there."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Elly Ross",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKZjEufMMWMs5P8VpyKZqSEBDLBnPsbI3Tag09mTOcd_UsDbA=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/109464988648845594317/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21oU1JGbFZOVUpWVFdwNFNEbHlhVEUyU1cxelRFRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21oU1JGbFZOVUpWVFdwNFNEbHlhVEUyU1cxelRFRRAB!2m1!1s0x48761bcfa9573381:0xaf5fcf40c6b564a",
+            "name": "places/ChIJgTNXqc8bdkgRSlZrDPT89Qo/reviews/Ci9DQUlRQUNvZENodHljRjlvT21oU1JGbFZOVUpWVFdwNFNEbHlhVEUyU1cxelRFRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "The room is lovely, the tables aren't too close together and the music not too loud. The food was fabulous. It's hard to pick a favourite dish but I'd probably highlight the scallops with chilli butter, the crab salad and the cod and clam curry. But what lifts this from a 4 to a 5 star review is the service from Jacob, Davido and Sven. So warm, friendly and efficient. We felt at home and we will return."
+            },
+            "publishTime": "2025-10-04T22:28:25.084600667Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "The room is lovely, the tables aren't too close together and the music not too loud. The food was fabulous. It's hard to pick a favourite dish but I'd probably highlight the scallops with chilli butter, the crab salad and the cod and clam curry. But what lifts this from a 4 to a 5 star review is the service from Jacob, Davido and Sven. So warm, friendly and efficient. We felt at home and we will return."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Chris Kelly",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVDhGrKRIpfr0ZZvvv_20JBol72Wday1Yek6b0NvLW58Lr-9nq8=s128-c0x00000000-cc-rp-mo-ba5",
+                "uri": "https://www.google.com/maps/contrib/100407985095528794007/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tkVGFqVnhkV2R4UzE4NGQzUlVkbFJCT1ZONGQyYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkVGFqVnhkV2R4UzE4NGQzUlVkbFJCT1ZONGQyYxAB!2m1!1s0x48761bcfa9573381:0xaf5fcf40c6b564a",
+            "name": "places/ChIJgTNXqc8bdkgRSlZrDPT89Qo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkVGFqVnhkV2R4UzE4NGQzUlVkbFJCT1ZONGQyYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Pleasant restaurant upmarket to what we usually do. Efficient theatre menu but expect to double the price if you order wine. Food was excellent quality and served quickly. Staff service was perfectly acceptable but seemed not quite trained fully in restaurant customer service - but that's only a minor observation as it was still fine. Atmosphere was good in that tables are not close together as you find at some London restaurants, but it was a bit noisy. Sometimes I think London restaurants could use sound dampening furnishings and reduce echo potential in order to quieten the atmosphere a bit."
+            },
+            "publishTime": "2025-08-10T10:29:14.788349686Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "3 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Pleasant restaurant upmarket to what we usually do. Efficient theatre menu but expect to double the price if you order wine. Food was excellent quality and served quickly. Staff service was perfectly acceptable but seemed not quite trained fully in restaurant customer service - but that's only a minor observation as it was still fine. Atmosphere was good in that tables are not close together as you find at some London restaurants, but it was a bit noisy. Sometimes I think London restaurants could use sound dampening furnishings and reduce echo potential in order to quieten the atmosphere a bit."
+            }
+        }
+    ],
+    "servesCocktails": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "servesWine": true,
+    "shortFormattedAddress": "26-29 Drury Ln, London",
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+    ],
+    "userRatingCount": 158,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.5164493802915,
+            "longitude": -0.12153216970849795
+        },
+        "low": {
+            "latitude": 51.5137514197085,
+            "longitude": -0.124230130291502
+        }
+    },
+    "websiteUri": "https://www.town.restaurant/",
+    "timestamp": 1764064800
+}

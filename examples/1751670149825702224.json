@@ -1,0 +1,782 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleParking": false
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "70",
+            "shortText": "70",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Long Acre",
+            "shortText": "Long Acre",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2E 9JS",
+            "shortText": "WC2E 9JS",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJs4GOh8sEdkgRRiBFZKMP8ZE",
+                "placeId": "ChIJs4GOh8sEdkgRRiBFZKMP8ZE"
+            },
+            {
+                "containment": "OUTSKIRTS",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Holborn"
+                },
+                "name": "places/ChIJA7_adjUbdkgR_XPGaE3twAI",
+                "placeId": "ChIJA7_adjUbdkgR_XPGaE3twAI"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "King's College London"
+                },
+                "name": "places/ChIJ3VW0o7UEdkgR8eAcbhKByyg",
+                "placeId": "ChIJ3VW0o7UEdkgR8eAcbhKByyg"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Royal Ballet and Opera"
+                },
+                "name": "places/ChIJySOgh8sEdkgRCBzTYt83Klg",
+                "placeId": "ChIJySOgh8sEdkgRCBzTYt83Klg",
+                "straightLineDistanceMeters": 148.18819,
+                "travelDistanceMeters": 174.81242,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Caffè Nero"
+                },
+                "name": "places/ChIJSQWsWssEdkgRGHAsGJ8jI9E",
+                "placeId": "ChIJSQWsWssEdkgRGHAsGJ8jI9E",
+                "spatialRelationship": "ACROSS_THE_ROAD",
+                "straightLineDistanceMeters": 18.648678,
+                "travelDistanceMeters": 7.198181,
+                "types": [
+                    "cafe",
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "store"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The Marlborough Head"
+                },
+                "name": "places/ChIJ77_aTcsEdkgRcCamkQMzbTc",
+                "placeId": "ChIJ77_aTcsEdkgRcCamkQMzbTc",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 57.230217,
+                "travelDistanceMeters": 77.0709,
+                "types": [
+                    "bar",
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The Sun Tavern"
+                },
+                "name": "places/ChIJO29yW8sEdkgRYntt1mjVMyk",
+                "placeId": "ChIJO29yW8sEdkgRYntt1mjVMyk",
+                "spatialRelationship": "DOWN_THE_ROAD",
+                "straightLineDistanceMeters": 33.50619,
+                "travelDistanceMeters": 34.93616,
+                "types": [
+                    "bar",
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Elliot Rhodes"
+                },
+                "name": "places/ChIJJ10nT8sEdkgRKRPAQhp4eIQ",
+                "placeId": "ChIJJ10nT8sEdkgRKRPAQhp4eIQ",
+                "spatialRelationship": "ACROSS_THE_ROAD",
+                "straightLineDistanceMeters": 26.867418,
+                "travelDistanceMeters": 18.30185,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "store"
+                ]
+            }
+        ]
+    },
+    "allowsDogs": true,
+    "businessStatus": "OPERATIONAL",
+    "curbsidePickup": false,
+    "currentOpeningHours": {
+        "nextOpenTime": "2025-11-25T11:30:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 19,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 19,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 19,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 19,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 19,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 19,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 11:30 AM – 7:30 PM",
+            "Tuesday: 11:30 AM – 7:30 PM",
+            "Wednesday: 11:30 AM – 7:30 PM",
+            "Thursday: 11:30 AM – 7:30 PM",
+            "Friday: 11:30 AM – 7:30 PM",
+            "Saturday: 12:00 – 7:30 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "delivery": true,
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Skewers Covent Garden"
+    },
+    "formattedAddress": "70 Long Acre, London WC2E 9JS, UK",
+    "goodForChildren": true,
+    "goodForWatchingSports": false,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x4876057b52116c7d:0x184f2eb874042950!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x4876057b52116c7d:0x184f2eb874042950!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=1751670149825702224&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x4876057b52116c7d:0x184f2eb874042950!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x4876057b52116c7d:0x184f2eb874042950!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=1751670149825702224&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJfWwRUnsFdkgRUCkEdLguTxg",
+    "internationalPhoneNumber": "+44 20 4618 1502",
+    "liveMusic": false,
+    "location": {
+        "latitude": 51.5142822,
+        "longitude": -0.12230260000000001
+    },
+    "name": "places/ChIJfWwRUnsFdkgRUCkEdLguTxg",
+    "nationalPhoneNumber": "020 4618 1502",
+    "parkingOptions": {
+        "freeParkingLot": true
+    },
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Skewers Covent Garden",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW8fCNbson3IlM3AcjAw8wim2YVXGhloi6OzHApFyFOUaJyInI=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117293821504647426285"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMC2KCAUOQ4HZkyMu_hf_84G1V-UsQyl-vDaoWD&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMC2KCAUOQ4HZkyMu_hf_84G1V-UsQyl-vDaoWD!2e10!4m2!3m1!1s0x4876057b52116c7d:0x184f2eb874042950",
+            "heightPx": 3201,
+            "name": "places/ChIJfWwRUnsFdkgRUCkEdLguTxg/photos/AWn5SU7EL50rG91iynYpMQGAuXhk56bMKU6OT0slOllTF2MlNSWYrjcBu8GbXji8AixfQjLAzXq-WurlUTMte7f3bzUBd2VpzpYArjS7SYugbJd87L5DRoY76lNcZOWWIJsfOSEwwh_TASh02Wt4iQ3TKOFLx51ZQ7tB7bX8OX3R3g6wUCcZipImks0dVgfrpys8t3BLHfFtM7q46-UPjk1NnJ6gYCxKItRIQoCPlt8O-6R3se4lqWJcH3VwhljJvhN8ALiSZzGGo6SjjxC-BrtbqR-uDBGFMhGXKKHC4D-07nq3mA",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Skewers Covent Garden",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW8fCNbson3IlM3AcjAw8wim2YVXGhloi6OzHApFyFOUaJyInI=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117293821504647426285"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPwn6-NokZh3MN79Ln-wp3OsSgOSo_wZTnbP2I4&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPwn6-NokZh3MN79Ln-wp3OsSgOSo_wZTnbP2I4!2e10!4m2!3m1!1s0x4876057b52116c7d:0x184f2eb874042950",
+            "heightPx": 3551,
+            "name": "places/ChIJfWwRUnsFdkgRUCkEdLguTxg/photos/AWn5SU7QnMJ_k0N7OBGLwSMESUKHCT6FxcHM2O1tyBRveNnvhbWv8W5ThmX3y4Lnwp72QHMwvG_2yZgcVWTRlGWHRnnsa26xLNffLO2AIYzl0tfA1Jo_rANoU5S2XwLYEC5Q-PXEmc7LFPClkj3eQIFoAyH6EjIO3HcxHGTAJ4XOOlgibWs0S45iwlXRWh_EmUd1Fc7pSWkFTNv0Pmb6CZXNVzu-5UpG0vcgxFRK6PnaRAi5nnnM3ibW2P-_e-u9yPchVOGPkv3JBe787hTOXEAtOrbyUWlYZFIEqnMKnDNFkOMZAQ",
+            "widthPx": 3551
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Skewers Covent Garden",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW8fCNbson3IlM3AcjAw8wim2YVXGhloi6OzHApFyFOUaJyInI=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117293821504647426285"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPhCyOtzFNX5wGbR3hO9DoFa10-pIOnBRIfkgGd&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPhCyOtzFNX5wGbR3hO9DoFa10-pIOnBRIfkgGd!2e10!4m2!3m1!1s0x4876057b52116c7d:0x184f2eb874042950",
+            "heightPx": 3200,
+            "name": "places/ChIJfWwRUnsFdkgRUCkEdLguTxg/photos/AWn5SU7yFiBJta3qswmAPmpafbRl0jQMcjLC89XAQTY_IW0bffKxhPeM6KaFugUtvQYF1zV2nIRAsyyivkidfLug1FSN9NES8EFtziNg4V4bpnUllKGhDtzex11wF7XHG1ACIzz4ob2ZwhuPEJh-KwfUBpNEftZ5tY7DO8zfg8l-prpJcafecJ3aMSmfqTUZk3ZZkuuOZj9pZ_0hBrfOqoZg3pgJaQOz0pk5jWduFhyAfwhFGvC2A2kVIecYvBOHFQoryGt0P8hV9leJM5jT6wvrsWJgkSnJJcwoHyTiD77vYN-0SA",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Skewers Covent Garden",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW8fCNbson3IlM3AcjAw8wim2YVXGhloi6OzHApFyFOUaJyInI=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117293821504647426285"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPvDbxjKTrXHQJ8ImOvohENboIyAGoCEmTSIsn-&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPvDbxjKTrXHQJ8ImOvohENboIyAGoCEmTSIsn-!2e10!4m2!3m1!1s0x4876057b52116c7d:0x184f2eb874042950",
+            "heightPx": 3840,
+            "name": "places/ChIJfWwRUnsFdkgRUCkEdLguTxg/photos/AWn5SU5WNCILKuLWafhf57yCyCr9p9AW7bUNqj3tqDSQfHMG46ZCVFaWeWlrdn4dkb1mSOlAUlx5fgYjy6vkecwmWAHf8vEMZPlJsoI3MxOlXE7DNlKbQx6wjBZ1Y7fN_DMwh1VNlP1mo7bN-MWM3wqrF8vX50ZBhF9Zo97-f_FK4G_sKg2nTSGxq3AcunZQm7lAcJ6_MK77cLR4yrqGvnvDhFUtjL8_-oPnHc6OBk0LAB3AEsgsj-Q78-1wnuIyD0R7HFXHN5Lt_4VUqKCEW1mBBIOVwQMN1goz_FxIIVeeKqYxjw",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Skewers Covent Garden",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW8fCNbson3IlM3AcjAw8wim2YVXGhloi6OzHApFyFOUaJyInI=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117293821504647426285"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPeJqDhLo5z4Jj8lMHU3KVOFVgMPzJkFWAoygug&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPeJqDhLo5z4Jj8lMHU3KVOFVgMPzJkFWAoygug!2e10!4m2!3m1!1s0x4876057b52116c7d:0x184f2eb874042950",
+            "heightPx": 3648,
+            "name": "places/ChIJfWwRUnsFdkgRUCkEdLguTxg/photos/AWn5SU5_Nc1HP_2h0SXkOPrTayxqvORPiw10hiUtGVrODFI7-TxmnOFkEJ_4UbqlfXbd72eO_E-BGC8AqiB0PhcVZ2pD_Hambvqx-bWpfQ10s-4Co0XRGyuG9xbggacKT9f6FVEGMu1n7YqDFLgKtCnoIazA29kwN7ZkO32LHBgTaD87s4MXjcsX3Bxed-hau7BjUYANS620HsadTALg9E0m0TAKcgsTlaP-9mOzonb9FSnss_CjuYdf6v8iwzDTv93f4nLgMhUJqWm9bFnL-HBe17oXQSuHat_9inu1g4Y1VE9hGQ",
+            "widthPx": 3648
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Skewers Covent Garden",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW8fCNbson3IlM3AcjAw8wim2YVXGhloi6OzHApFyFOUaJyInI=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117293821504647426285"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNXr4XPlRkWC7RPWU8wQa0td3AArDJ_uYwkEHUe&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNXr4XPlRkWC7RPWU8wQa0td3AArDJ_uYwkEHUe!2e10!4m2!3m1!1s0x4876057b52116c7d:0x184f2eb874042950",
+            "heightPx": 3840,
+            "name": "places/ChIJfWwRUnsFdkgRUCkEdLguTxg/photos/AWn5SU4bryQ5wmjC2yMTKmeXcOHSM1OgaBfk8U0ZP14RbWPj0xHjXBIqHvZfU3n5GRlOYBUN1YqgSdXCHhZyQ8neyoFa_RTOv9QSM_RI8ntIJf9XibNXxzIbHUHvyCD6kVxMr0BNaB9bFFsGVOWK0a6AIchS3I8mLO4U2eiFlu3eLsl8LT6abaE_rQtWf9lF7ZYR2vmYodI94i8bk45Tr1_DoUrFsYWiYSxaD-ODEYLZUBnLdFpkFzyMLKFXUOUpEQua-FYkprtDHyds9Ne0O6tmioq53XS2QTACQ4TTNT5e0HrykQ",
+            "widthPx": 4800
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Skewers Covent Garden",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW8fCNbson3IlM3AcjAw8wim2YVXGhloi6OzHApFyFOUaJyInI=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117293821504647426285"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOanL9wivMtYYLpRNd46KpqglBHkJ0ox3yIjnKh&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOanL9wivMtYYLpRNd46KpqglBHkJ0ox3yIjnKh!2e10!4m2!3m1!1s0x4876057b52116c7d:0x184f2eb874042950",
+            "heightPx": 4800,
+            "name": "places/ChIJfWwRUnsFdkgRUCkEdLguTxg/photos/AWn5SU73CJC4MeMA3kar-9jRRKO89hhKdhQGL6m5gdQ1mE7Nf5icqgd7PPRkjo56FHIV-RMl0GPQW6EmkF8LtKiGt_mAYmIouN0xTE68kK6mt_T2KSykjAuqDp-V3xJL4eisqYENhK9AXL53pPcJoVP-GHAS1FCSfE1lk469N64NdsMSfvljFTN9tGC3G7Tx46SdCLayahKX3ym0PDE_XOUVAMazbtV4VgKgQRgtaC9HngQKgel1nXcq78PHW5j9mpQoTq2v3u9xzD0uPh2KBf91DA3lP06RUtd5_u8ERs7Hc-nGYw",
+            "widthPx": 3201
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Skewers Covent Garden",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW8fCNbson3IlM3AcjAw8wim2YVXGhloi6OzHApFyFOUaJyInI=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117293821504647426285"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOIzv_ZPXC-UgHv5TacDH4GA083-BI3N_OiqZgS&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOIzv_ZPXC-UgHv5TacDH4GA083-BI3N_OiqZgS!2e10!4m2!3m1!1s0x4876057b52116c7d:0x184f2eb874042950",
+            "heightPx": 3648,
+            "name": "places/ChIJfWwRUnsFdkgRUCkEdLguTxg/photos/AWn5SU6BdcEMP21SpdBDO-Tp93_FeSo2bE5U826Zo28SPPg-YZejJFpJXdhltpbTHB5jMjBAdu5p2ikMUXAyWBXKsrm73xZLsANj9gI9_IAPztOjV1-Gt-i745j8rCo84e-kaQ0pmHP-2bTcPnyqSpoQVic3G2M5N-AsO5Ybz2wB3hZ5FBhmw3526E5_doufRx8ZeE4ks9JHogy2OW_q0VenS0EyyMFn6UHFB3oyz78yYoXAwplvS0TVaCRxDkUq1fZggOuycAtKz45odyweQ4U_261scGO3DYm2ZAazLL_9fc78_w",
+            "widthPx": 3648
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "dennis pascual",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWvvff7OWQ3T5oYKaBiIm_5Jd7jtd0qp8IQo39MStyvF9BrqWY=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/107624889651301879982"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhCbsfFd5fxJV0BUN5QLtHSP&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCbsfFd5fxJV0BUN5QLtHSP!2e10!4m2!3m1!1s0x4876057b52116c7d:0x184f2eb874042950",
+            "heightPx": 4800,
+            "name": "places/ChIJfWwRUnsFdkgRUCkEdLguTxg/photos/AWn5SU7SV3xkoSH8nveMFJpDNltx3zOk0a6B7ey-j0x-ykueHOft6FYJZvQRpN_q_FblSUPl0CzMcxBHPn6n-OPny5Scdm_8NHXeKNZ4JX665Bz3Y3pYtMsBKuLhnU3-iSjATC-OK0Bi26DcDpKtsm9RKJ8HrF-fprqAczcp6nCV5rPzE8S2hWHKAy3R4RMtcbv485Rit1tVLIHqLrY4HmJpneSAyJQ1Mrf0qiSjWO7Bf69AP_C3QomxjCSJLd2FtjIGz5GkT1klZqgaho_AZ60kiKYo87nJW8-o4CT2Xtxlbw0oeiHfTG_mZJ8CJluyPXC-hnSXoxtUADn6Q9wdUlLGmBo_8DjMkCZs0oVuZc66j0jEz2FwNTZOtMNYb9UysEtJaymqQsmbWQbWQcl3giPu8DY3uXovpz556hACDasGTupYGyK_qAY9ghAoe1Kn7hXT",
+            "widthPx": 3600
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Krisztina Czibla",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ7YD3Ho9tD9fUeEnAjFC0-gcpZhto8dzz9uUJc5AjJhjyFng=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/113967648390372742239"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhBXKFTPp3VR48tNkep57MZ2&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBXKFTPp3VR48tNkep57MZ2!2e10!4m2!3m1!1s0x4876057b52116c7d:0x184f2eb874042950",
+            "heightPx": 3840,
+            "name": "places/ChIJfWwRUnsFdkgRUCkEdLguTxg/photos/AWn5SU7mwzJp8Is6bZr-oOO-KkYtdX7o_3fWAJxQezYIgMuCkbCd0BcD-UeIxsrZXAfn52PYsmE1EeIj3T0wvrFgZyugSjqMTaLKBMRa-kk_dQlvvvSsa2dymHNFgmr2QDJ-qHImJngzGHfa8TmTdoxKNewNt7vtDGwYf1jzbG-qSVPOmZ0vtmkuAq71mukyv4yoGTraumdAPNv2xPHpfUCDK6giQaFPuFLz9ww4pyXaqXv2AkIR-gRCkTOxfA_SyTguuzQl0ruC-bsBC6CqfeQheh2htpN_1RWhP8cdIDH2BGlU0NL0CEIV0scm5crdDt0q8LG94YAOVfbQjg8mWSrENaRzejKmP5xeyvmWeYyFsnmaDvP05OP0TfDwP5EzeCIGjbL4x2JoPjCsuVh8w3s3Pw24eKAzExJVmWkWc6iC1Y3cInkUjBr_1hLrQGvERA",
+            "widthPx": 2160
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV7H+P3 London, UK",
+        "globalCode": "9C3XGV7H+P3"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "70 Long Acre"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2E 9JS",
+        "regionCode": "GB"
+    },
+    "priceRange": {
+        "endPrice": {
+            "currencyCode": "GBP",
+            "units": "20"
+        },
+        "startPrice": {
+            "currencyCode": "GBP",
+            "units": "10"
+        }
+    },
+    "primaryType": "mediterranean_restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Mediterranean Restaurant"
+    },
+    "rating": 4.7,
+    "regularOpeningHours": {
+        "nextOpenTime": "2025-11-25T11:30:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 19,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 19,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 19,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 19,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 19,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 11,
+                    "minute": 30
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 19,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 11:30 AM – 7:30 PM",
+            "Tuesday: 11:30 AM – 7:30 PM",
+            "Wednesday: 11:30 AM – 7:30 PM",
+            "Thursday: 11:30 AM – 7:30 PM",
+            "Friday: 11:30 AM – 7:30 PM",
+            "Saturday: 12:00 – 7:30 PM",
+            "Sunday: Closed"
+        ]
+    },
+    "reservable": true,
+    "restroom": true,
+    "reviewSummary": {
+        "disclosureText": {
+            "languageCode": "en-US",
+            "text": "Summarized with Gemini"
+        },
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=5%401:CAIQACodChtyc19oOnZTMXBDbkFzak5vZXl2c0YtNlVMblE%7CCAIQACorChtyc19oOnZTMXBDbkFzak5vZXl2c0YtNlVMblESDAiRpfHEBhCUsIqzAQ&d=17924085&t=8",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x4876057b52116c7d:0x184f2eb874042950!9m1!1b1",
+        "text": {
+            "languageCode": "en-US",
+            "text": "People say this Mediterranean restaurant serves delicious chicken katsu, salmon salad bowls, and other fresh, healthy options. They highlight the modest prices, generous portions, and quick service. They also like the vibrant atmosphere and friendly, attentive staff."
+        }
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Shahriar Mazumdar",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJD8tXU7f_Lf59Yu0hi8k7Ek9mH6cwl5ikCCWeYPoKyNN-K-g=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/112176179044742656726/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VQZnNodXo4NHV2Ym1RRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VQZnNodXo4NHV2Ym1RRRAB!2m1!1s0x4876057b52116c7d:0x184f2eb874042950",
+            "name": "places/ChIJfWwRUnsFdkgRUCkEdLguTxg/reviews/ChdDSUhNMG9nS0VQZnNodXo4NHV2Ym1RRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Easily one of the best casual dining food places we’ve been to. Give it a try, you won’t regret it! The flavors are simple but so well executed, wow"
+            },
+            "publishTime": "2025-05-23T15:40:32.237619Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "6 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Easily one of the best casual dining food places we’ve been to. Give it a try, you won’t regret it! The flavors are simple but so well executed, wow"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Jaisie Pearman",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVjxjOktFVIJ5H0Ab2N9pbG0dI9fA9SS6SoWBiBmTJKiZGDAEoc=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/107330549159517197031/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3NWNybHlnRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3NWNybHlnRRAB!2m1!1s0x4876057b52116c7d:0x184f2eb874042950",
+            "name": "places/ChIJfWwRUnsFdkgRUCkEdLguTxg/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3NWNybHlnRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "I visited for a takeaway lunch but was left disappointed. The idea is great and the staff are friendly, but the wait time and the quality of food was lacking. The sauce was sparse and the salads dry. The ‘Greek’ salad is literally dry lettuce ends with a tiny bit of tomato and cucumber. The coleslaw was dry. For £12.50 I don’t think it’s worth it unfortunately."
+            },
+            "publishTime": "2025-03-27T06:37:43.078621Z",
+            "rating": 3,
+            "relativePublishTimeDescription": "8 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "I visited for a takeaway lunch but was left disappointed. The idea is great and the staff are friendly, but the wait time and the quality of food was lacking. The sauce was sparse and the salads dry. The ‘Greek’ salad is literally dry lettuce ends with a tiny bit of tomato and cucumber. The coleslaw was dry. For £12.50 I don’t think it’s worth it unfortunately."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Krisztina Czibla",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ7YD3Ho9tD9fUeEnAjFC0-gcpZhto8dzz9uUJc5AjJhjyFng=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/113967648390372742239/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GNmVsRkZUM0J5WW1GakxXSm9MVXRYY21GQ1kwRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GNmVsRkZUM0J5WW1GakxXSm9MVXRYY21GQ1kwRRAB!2m1!1s0x4876057b52116c7d:0x184f2eb874042950",
+            "name": "places/ChIJfWwRUnsFdkgRUCkEdLguTxg/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GNmVsRkZUM0J5WW1GakxXSm9MVXRYY21GQ1kwRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "I was very pleased with the service. The food is delicious with plenty of choice and the staff are friendly. Definitely recommended. 😊💕"
+            },
+            "publishTime": "2025-07-01T12:13:38.819193605Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "4 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "I was very pleased with the service. The food is delicious with plenty of choice and the staff are friendly. Definitely recommended. 😊💕"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Dinesh Muniandy",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIF2HZFsm9NGKUqp70gNmJrreYkbXGy0rV4ImCTumPYESsgsA=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/109905247512951162859/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s1WWF6aDRkR2d0T1ZacFZFRk9lVTFaUlUxa1puYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1WWF6aDRkR2d0T1ZacFZFRk9lVTFaUlUxa1puYxAB!2m1!1s0x4876057b52116c7d:0x184f2eb874042950",
+            "name": "places/ChIJfWwRUnsFdkgRUCkEdLguTxg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1WWF6aDRkR2d0T1ZacFZFRk9lVTFaUlUxa1puYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Excellent service, delicious and healthy food - has authentic Mediterranean touch, tasty and generous portion. Advice to management - please keep up the great work and service.\n\nThe price is also very reasonable, given that it’s next to Covent Garden - and honestly rivals the other large restaurant establishments."
+            },
+            "publishTime": "2025-10-11T11:52:09.613260326Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Excellent service, delicious and healthy food - has authentic Mediterranean touch, tasty and generous portion. Advice to management - please keep up the great work and service.\n\nThe price is also very reasonable, given that it’s next to Covent Garden - and honestly rivals the other large restaurant establishments."
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "kayhan direkoglu",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXH0hUVFZNgrrQ3RnGox1akm8xHTXquIOgDhwRMwq8_f8hReVs=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/106380991295583686890/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJSDR3ZHFZMkktRjBRRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJSDR3ZHFZMkktRjBRRRAB!2m1!1s0x4876057b52116c7d:0x184f2eb874042950",
+            "name": "places/ChIJfWwRUnsFdkgRUCkEdLguTxg/reviews/ChdDSUhNMG9nS0VJSDR3ZHFZMkktRjBRRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Amazing food feel so fresh and healthy love the choices and the fact that you can customise your meal deal. I think this restaurant is a great deal. The chef ( Murat) is very attentive and helpful. Very knowledgeable. I would definitely come back. This place could be my regularto go place while I’m watching my diet these days! The black things you put on the rice I’ve never seen anywhere in the world so tasty yummy"
+            },
+            "publishTime": "2025-05-07T05:30:59.855140Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "6 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Amazing food feel so fresh and healthy love the choices and the fact that you can customise your meal deal. I think this restaurant is a great deal. The chef ( Murat) is very attentive and helpful. Very knowledgeable. I would definitely come back. This place could be my regularto go place while I’m watching my diet these days! The black things you put on the rice I’ve never seen anywhere in the world so tasty yummy"
+            }
+        }
+    ],
+    "servesBeer": true,
+    "servesDessert": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "servesVegetarianFood": true,
+    "servesWine": true,
+    "shortFormattedAddress": "70 Long Acre, London",
+    "takeout": true,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "mediterranean_restaurant",
+        "asian_restaurant",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+    ],
+    "userRatingCount": 142,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.51562053029149,
+            "longitude": -0.12102386970849797
+        },
+        "low": {
+            "latitude": 51.51292256970849,
+            "longitude": -0.12372183029150202
+        }
+    },
+    "websiteUri": "https://www.skewerslondon.co.uk/",
+    "timestamp": 1764064800
+}

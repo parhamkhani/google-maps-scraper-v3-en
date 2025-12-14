@@ -1,0 +1,819 @@
+{
+    "accessibilityOptions": {
+        "wheelchairAccessibleParking": false
+    },
+    "addressComponents": [
+        {
+            "languageCode": "en-US",
+            "longText": "26",
+            "shortText": "26",
+            "types": [
+                "street_number"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Earlham Street",
+            "shortText": "Earlham St",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Seven Dials",
+            "shortText": "Seven Dials",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "London",
+            "shortText": "London",
+            "types": [
+                "postal_town"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "Greater London",
+            "shortText": "Greater London",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "England",
+            "shortText": "England",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en",
+            "longText": "United Kingdom",
+            "shortText": "GB",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "languageCode": "en-US",
+            "longText": "WC2H 9LN",
+            "shortText": "WC2H 9LN",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "addressDescriptor": {
+        "areas": [
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "St Martin's Courtyard"
+                },
+                "name": "places/ChIJ0YfiAc0EdkgRoKYIH7344ZA",
+                "placeId": "ChIJ0YfiAc0EdkgRoKYIH7344ZA"
+            },
+            {
+                "containment": "NEAR",
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Covent Garden"
+                },
+                "name": "places/ChIJs4GOh8sEdkgRRiBFZKMP8ZE",
+                "placeId": "ChIJs4GOh8sEdkgRRiBFZKMP8ZE"
+            }
+        ],
+        "landmarks": [
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Palace Theatre"
+                },
+                "name": "places/ChIJYxVJmtIEdkgRSFNK6hLhPvQ",
+                "placeId": "ChIJYxVJmtIEdkgRSFNK6hLhPvQ",
+                "spatialRelationship": "AROUND_THE_CORNER",
+                "straightLineDistanceMeters": 156.56369,
+                "travelDistanceMeters": 157.94095,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "The Mousetrap at St. Martin's Theatre"
+                },
+                "name": "places/ChIJ2dkqXs0EdkgRlVUsXtEbwsQ",
+                "placeId": "ChIJ2dkqXs0EdkgRlVUsXtEbwsQ",
+                "straightLineDistanceMeters": 92.35611,
+                "travelDistanceMeters": 129.84782,
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "tourist_attraction"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Rossopomodoro Covent Garden"
+                },
+                "name": "places/ChIJ2cjoEc0EdkgRNs0j8LonCYg",
+                "placeId": "ChIJ2cjoEc0EdkgRNs0j8LonCYg",
+                "straightLineDistanceMeters": 76.75521,
+                "travelDistanceMeters": 111.73828,
+                "types": [
+                    "bar",
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "NBCUniversal"
+                },
+                "name": "places/ChIJv4f2tzIbdkgR9ockIRcTijo",
+                "placeId": "ChIJv4f2tzIbdkgR9ockIRcTijo",
+                "straightLineDistanceMeters": 275.85693,
+                "travelDistanceMeters": 257.1974,
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "displayName": {
+                    "languageCode": "en",
+                    "text": "Radisson Blu Hotel, London Mercer Street"
+                },
+                "name": "places/ChIJa02JOs0EdkgRYMpqzoQ-qNI",
+                "placeId": "ChIJa02JOs0EdkgRYMpqzoQ-qNI",
+                "spatialRelationship": "BESIDE",
+                "straightLineDistanceMeters": 29.247383,
+                "travelDistanceMeters": 29.502089,
+                "types": [
+                    "establishment",
+                    "lodging",
+                    "point_of_interest"
+                ]
+            }
+        ]
+    },
+    "allowsDogs": false,
+    "businessStatus": "OPERATIONAL",
+    "currentOpeningHours": {
+        "nextOpenTime": "2025-11-25T12:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 30,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 1,
+                        "month": 12,
+                        "year": 2025
+                    },
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 25,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 26,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "date": {
+                        "day": 27,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 28,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "date": {
+                        "day": 29,
+                        "month": 11,
+                        "year": 2025
+                    },
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 – 10:30 PM",
+            "Tuesday: 12:00 – 10:30 PM",
+            "Wednesday: 12:00 – 10:30 PM",
+            "Thursday: 12:00 – 10:30 PM",
+            "Friday: 12:00 – 11:00 PM",
+            "Saturday: 12:00 – 11:00 PM",
+            "Sunday: 12:00 – 10:00 PM"
+        ]
+    },
+    "delivery": true,
+    "dineIn": true,
+    "displayName": {
+        "languageCode": "en",
+        "text": "Rosa's Thai Covent Garden"
+    },
+    "editorialSummary": {
+        "languageCode": "en",
+        "text": "Casual eatery with a warm vibe offering typical Thai dishes made with carefully sourced ingredients."
+    },
+    "formattedAddress": "26 Earlham St, Seven Dials, London WC2H 9LN, UK",
+    "goodForChildren": true,
+    "goodForGroups": true,
+    "goodForWatchingSports": false,
+    "googleMapsLinks": {
+        "directionsUri": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x487604cd3e014efd:0x23b136026458bf76!3e0?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "photosUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487604cd3e014efd:0x23b136026458bf76!10e5?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "placeUri": "https://maps.google.com/?cid=2571896246106636150&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487604cd3e014efd:0x23b136026458bf76!9m1!1b1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+        "writeAReviewUri": "https://www.google.com/maps/place//data=!4m3!3m2!1s0x487604cd3e014efd:0x23b136026458bf76!12e1?g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA"
+    },
+    "googleMapsUri": "https://maps.google.com/?cid=2571896246106636150&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAEgAA",
+    "iconBackgroundColor": "#FF9E67",
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "id": "ChIJ_U4BPs0EdkgRdr9YZAI2sSM",
+    "internationalPhoneNumber": "+44 20 3627 6716",
+    "liveMusic": false,
+    "location": {
+        "latitude": 51.513637499999994,
+        "longitude": -0.1273773
+    },
+    "menuForChildren": false,
+    "name": "places/ChIJ_U4BPs0EdkgRdr9YZAI2sSM",
+    "nationalPhoneNumber": "020 3627 6716",
+    "outdoorSeating": false,
+    "parkingOptions": {
+        "freeParkingLot": false
+    },
+    "paymentOptions": {
+        "acceptsCashOnly": false,
+        "acceptsCreditCards": true,
+        "acceptsDebitCards": true,
+        "acceptsNfc": true
+    },
+    "photos": [
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Rosa's Thai Covent Garden",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVmMcEa_NBE_ZvmkrIkWevIti4kf8SG2sHDQlFZqv95PKsbAO8=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110074428344605118641"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMRj-E9cyzSBlRod0whSNsHTgKca05RTJYePLFv&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMRj-E9cyzSBlRod0whSNsHTgKca05RTJYePLFv!2e10!4m2!3m1!1s0x487604cd3e014efd:0x23b136026458bf76",
+            "heightPx": 800,
+            "name": "places/ChIJ_U4BPs0EdkgRdr9YZAI2sSM/photos/AWn5SU5BB9riJWDN-Xf40-bjMmrjd0_GcDAESNZDpzuKCSv7o1174f4CwcjHHFRnJFHN7U0ZfmR8SOzgd1WGN5htmqFKyaui2zDKabWpnLTB-pJPDKQbUs3_tD1skaRCyPjWah8OZLWz3ItswX3QuEV0b63o7Yh0yG9d2lYcg6Bs1UT_gvdH0SgqjYsARribDQsHy6__3-e-bvomS3tFMLtXNiyThV9O-Ld4dVmYizmDkhXwSOop6urDFD8bLO2bq0g7XJdtfsGv8WcblwAwjHjLqm1xFea8VeRpJ8Ul7HSVTSB3Jw",
+            "widthPx": 1200
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Rosa's Thai Covent Garden",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVmMcEa_NBE_ZvmkrIkWevIti4kf8SG2sHDQlFZqv95PKsbAO8=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110074428344605118641"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNJ06jdX8WIf9q6cRYh6kqF5pD_1SgSDmNx0H0V&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNJ06jdX8WIf9q6cRYh6kqF5pD_1SgSDmNx0H0V!2e10!4m2!3m1!1s0x487604cd3e014efd:0x23b136026458bf76",
+            "heightPx": 832,
+            "name": "places/ChIJ_U4BPs0EdkgRdr9YZAI2sSM/photos/AWn5SU5HJtSgMEJss6kZ4J6uec-y4qiHbOqCThRXppGktCdvhnVaAwRleXRpF8HALU5lLrM_Xfwf0HPcnRXQyfdjbz-2RegHcpdrV5k90TvgEZg7L36_cRPOb9MkPe-O7JU2mkT0PMoiyLvM9_IPwQxS1UF3pSS0Mtxv9YDUG5drpWWfHwFUsj5X7BVpZwsforXZly1S7Hl2y-Zwszb-OmBGf5DSAZdWkdMHo_6_fbSXlRpNv2YcL-WBGee4oYAQ7gjsSU1tZibg6FAps-oBE1urloCBfiFEDIVzJ0YHC21RxAa8qg",
+            "widthPx": 1372
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "sorn nutrumpha",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK2_qBQj7FAFqodtdLcINU3idBgegQVsKwCafleZvVARCaZJA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/101605731198676969372"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhASfsA_mSDOfQgCmAGWdJ1B&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhASfsA_mSDOfQgCmAGWdJ1B!2e10!4m2!3m1!1s0x487604cd3e014efd:0x23b136026458bf76",
+            "heightPx": 4032,
+            "name": "places/ChIJ_U4BPs0EdkgRdr9YZAI2sSM/photos/AWn5SU4dc6cjSnoBhaD4hDpC6GsYKajPFvMTw_6ZC17AQ2df7MEFN_EodshyWuyqHgD5148PWOw-BW3poTQ5w2-FqyWF6QasAHnpZaUVos5HkRHedcjHu_wggkkzQiDhHrB5z-ifGjNwDabEbExig-sEOmVU2GAjMHqp1mUlAqrEWPkDy-uqnVAP1BQw8EO11-zGWhA5usgYO7DhHIqO2f-KZbYgtldSAhqIy5b2bqehi4akkDtAXnd8q7amX95wjh2kpnhmnX7Nk8w8twxVlSAgo13QrY-uHKJx3i2Qu7AdhlAojpP9069rxEu-b_TYwDesA1myOf3_jedjFTnrLKoLt8eVRp0ABf2z5i8dsPEt2i3LN1tnyZQENpdZD_5n9A_Degi3G2fCUixuTPyVxFSbdo5DThK8QkLa1NMXUqoccw6TnHK_Ev2jXujrv-Lt_Plb",
+            "widthPx": 3024
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Javier Celaya",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVEItVvUEBUEpiA9bU_0xm5DhLQiwSY5GJXJgLx4JExQ2HW2X0KuA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/106171666470491958355"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhDJYLSM-MRbUZrpZpKLnlFu&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDJYLSM-MRbUZrpZpKLnlFu!2e10!4m2!3m1!1s0x487604cd3e014efd:0x23b136026458bf76",
+            "heightPx": 3072,
+            "name": "places/ChIJ_U4BPs0EdkgRdr9YZAI2sSM/photos/AWn5SU4NetZKHxqJV3ONwR7mP6dZrRKFXTZvHPJszbfXrBA1lrly9jPdJfFbJ6p6YqFFtlFDUx9EfLYAzFvaFf5AGrYIBETttV2qwAFUWN9YZ7_XuYdz7KvATp2o7hNtDmWLiIsM-dxYEtP-vUHlV_xhrj54HATH7HzJpuoEIaKkcKRatPpUFNvBppLmYfYhTVywsLadtAIyLDdyW-vxsJ95rRpVwT-7AiJhYv_MHItyD2Gwk_S1VOaGhjvgnZgM1f8TUMlZio94O7o9uJBCNqxDeHyNJP_OJCl_ejDGPh-zTeqmX9MD9L9QvjB6GXrjyi_1adhcPWhv3sFkF04kmnNkSeYeRnI82ABFDSF3LLOWdIblmNKGtk-XG4AN-G528JtRS-J5sOh1ZaARxDYZ4Xpf6aaC5_bb79gWpHuisE1rMXinCdSIbr2XxRHvlJpP2Q",
+            "widthPx": 4096
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Annette Estrada",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLjxlO8AuqoGnRgqzKTIucqj4PbSikFx-IBSlASN9Dg_JEt-g=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/102042416059577771001"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAUokslsAcUFi1NQaUphl1i&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAUokslsAcUFi1NQaUphl1i!2e10!4m2!3m1!1s0x487604cd3e014efd:0x23b136026458bf76",
+            "heightPx": 4800,
+            "name": "places/ChIJ_U4BPs0EdkgRdr9YZAI2sSM/photos/AWn5SU50xoZgEhadppsCIswQn7JI_cDIqhuAUPF-CCB_ItZBNWvXFUeih-1VmbDPXeVihrn8bm8MxYhnfjNpqOtbCPVPQ2ZiacafxGs_Pz2nB_duH14QBhp-m_pGKkrSClndReKO3tT80v6Y93mZ7m54vVg6mno3K045yvrRAxgavrJiIj-qe3mKrrxSsrJLiPP8u66qBz3yqkpSwQb8YP2xmCqKDpCHn_1fxps6YrJ9xO1oP41ItOKLdDkCr3EaSyz_8y1EhPsNQvSElvtw32k3P9Lg3OtYGI1fWHWnYmiwoZeTnr05kT5UX0ktP1nff5EyLBIQVM9ImOA0qI-iyIZGAEEfxKW7DzFX2QTq9U_WUrYRXn7ADLrqTyC-wCP1qpBwBZ3XKJo7I75c4ccI9r5f3t_RarSOy1b5UZ_Y-00gb2P0j2mneQYkHOrZmJmVqUiE",
+            "widthPx": 3600
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Rosa's Thai Covent Garden",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVmMcEa_NBE_ZvmkrIkWevIti4kf8SG2sHDQlFZqv95PKsbAO8=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110074428344605118641"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipN1kOzxG5rzioEwY0bfERu_Eqn5oSZv3yfZ3W8F&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN1kOzxG5rzioEwY0bfERu_Eqn5oSZv3yfZ3W8F!2e10!4m2!3m1!1s0x487604cd3e014efd:0x23b136026458bf76",
+            "heightPx": 1311,
+            "name": "places/ChIJ_U4BPs0EdkgRdr9YZAI2sSM/photos/AWn5SU4eVNSackmTJFwwr3_zfX3LLJdO2T8m_WD_S1zcR9xj9dtkdwVVYSaSRpirjklm6joP_XY_yOmyBgDkOUAga7Z8mrHJH9AM1bs9M-uZ10vSuk5FTKDc96XMRSPuRSAPGDj9LReDozYpNK_GvoRWrDPPJMhVfmgPjjY6dNACEc01IyYHMOCqE_wKNEGEApTi_jXsM8C9iLOFdBJ5CBH-wM4mpOkD63_b-sOsq8Ac8ECiNaWBF-Qrnv5EvjZfeazEyHQQitPXPVu4lE-Ori4STVqzzFiErBflHmZRk-6m5uHbAQ",
+            "widthPx": 1966
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Panayiotis Yiavris",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU35NXT1-Nk2SvJBqGVwOitW7W7dnWIzwS4YYtIzHXes_RRHH_cZA=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/114887967351080083515"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC3v4-F0wE&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC3v4-F0wE!2e10!4m2!3m1!1s0x487604cd3e014efd:0x23b136026458bf76",
+            "heightPx": 4080,
+            "name": "places/ChIJ_U4BPs0EdkgRdr9YZAI2sSM/photos/AWn5SU7UMjWEyMgIEkBdmPEyPLHcOrsOMEJSPbxiv8gIHGcnQ8PA62yK5m3NkPKOJ6Cm3eQ8S1KHoeZ5JVJAcIfHtafNB5rZoh1i3PcH2fl409DfPoQC3pvWpRjm53sHfHP0B3BVyPAxgdRLBTJKhjzoYoxVJO-4JheF6AbRqv06hVFPqeaDiw98Bs_gGsL72qsm87bCUHsPa67UxFLqxRwTjv4N0Ug3TjAKZnvJaoVd1jNZlJxN53dlnTiyNYZIqo4zmumNDm0F7XentiLqKE96LjB1MXW1h9XQN9IdWvaIM644uGS3FIRi9TxPVm5ivzsiOaTiOSAco-wF5Etqhd80YxqifuV_zKC-PWxEb8lyhMI8cfDgaJCehyMHB7ssDQDOwgtM-9Fp8DOMGJSk-TXZJC8cUxM_pQOJflEwiq81FUCJCLU2",
+            "widthPx": 3072
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Pranjali Khule",
+                    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK1fjFZ9VwDpcqw-e-gIr5KdXAbPml6eKSNQ_yNx9paRCTZHQ=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/117861775341960768347"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCgsYbCKA&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCgsYbCKA!2e10!4m2!3m1!1s0x487604cd3e014efd:0x23b136026458bf76",
+            "heightPx": 659,
+            "name": "places/ChIJ_U4BPs0EdkgRdr9YZAI2sSM/photos/AWn5SU4-zUFdsZo3qk_BZfqEl-GLV2_uD2xDuoIKeVgfJm_4seZPO3IfXmQl7fNC8cDstiRqhpoXehbmgn0eQ__neqwxK27EApRHmzHy7eIeceXV705jqqfRjx4SGh9QcAhATGL_dhtMj_Uo1SqOqw0AG_yJ0ec-YQA-Le-wHo3xXDkl5rXcp4kLI3mZoz_ExXDM8dTE5L0Y_DuTnMGkLKNj7HLCGSpqH8rQmoIocoSLRmkyO9pK5WxSdy9AyahqRUTsddyeKiAdmALunOQKHVgTan7L0mCsODcTiIvkTIr8yZvqpmGJBgJVQ7AjjchoadOjr3FQ7iC4hZpZC-D3YrV792LAKvaaGB_upO2zLPwE-iLgmq1iw7CSN6bTWNiT1vVhjmIDeCRDsEZ_Ll4vQckgQLRyCPUUAGaDUckU34Nx4DKbmA",
+            "widthPx": 687
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Kirsty Phillips",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVYjohd3wEcPOTwjvEJDtSBMXaRhmMh8m1N-6vuY2x1ggf449g=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/114896906645123714605"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAknuo0tt7Ee7TAywv5J_sO&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAknuo0tt7Ee7TAywv5J_sO!2e10!4m2!3m1!1s0x487604cd3e014efd:0x23b136026458bf76",
+            "heightPx": 3024,
+            "name": "places/ChIJ_U4BPs0EdkgRdr9YZAI2sSM/photos/AWn5SU4rqm3Ci2_4wuQR1EoT3xsZaQfBbP2dIjGNNxMogVbvPgbiGXm2jkJPWp_U8gsbeY3mCsJrRuVNw895r97p51wMFRGqSh89ZZ57fspibG1666HmXnfxSDnNqKUK-jDu6MPausQtrJj_c8279eRHBVlepRNCKQMeM76A63jz3h4UHWsVTxsUneMR81_Qf9tCzTVG6VSLBbZLYgMbyKnoA43h1cQ9WBxLYfWiWQ1X6IeGHvWhdQtpkRcXhKPmvqjn5zLDE33ky3NeN7Q-GbQjilzROQBi68lyVaSKYhKSfBS5cA6NnC0WHvK4bEbfj7Fnt0m63N00XNJk9GjlmZXAXI8OSi-Cx1AgoVKxEMZaQ0BEDBQ1C9oc0jsTCi8qGkfwgWna89EExBX2_hTqkVCb5PaMgdi-iyhBpcxsXVNkGgThqTG51bSCgGmrFKHzDHGP",
+            "widthPx": 4032
+        },
+        {
+            "authorAttributions": [
+                {
+                    "displayName": "Rosa's Thai Covent Garden",
+                    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVmMcEa_NBE_ZvmkrIkWevIti4kf8SG2sHDQlFZqv95PKsbAO8=s100-p-k-no-mo",
+                    "uri": "https://maps.google.com/maps/contrib/110074428344605118641"
+                }
+            ],
+            "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipP0ELjmrOTNL0PJ6Q5ky9ENSgaE8GkRViMzHOy_&hl=en-US",
+            "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP0ELjmrOTNL0PJ6Q5ky9ENSgaE8GkRViMzHOy_!2e10!4m2!3m1!1s0x487604cd3e014efd:0x23b136026458bf76",
+            "heightPx": 1311,
+            "name": "places/ChIJ_U4BPs0EdkgRdr9YZAI2sSM/photos/AWn5SU6ZiFW6JH36HdfOi8gNeDTKZh3GZjGZjnptgDN5C8GrNu73PLzv8GEfH6FGJHzMe4NUIyRQd0XxeuywLSYAusiNx0f0Bg6Pp4UUV3BDTrnrGyuB8pFonCZokxfHMoH0LpfUC_oKrIGEg7vjRdCJx5TVCcN7OnSda1lXS3xfVo6vf2JQ9I9jC6Qw6Mh0c0wy1siSyA0SLetcm3RI3109BiiaPKNevYGC9zTJyRtXxuCYqZrCRBJxtGYCOMxNDIpCbNAPmmya_tRdNoaSdbXhoGCfoyxra5ImfMZYUPwAqEEKfQ",
+            "widthPx": 1966
+        }
+    ],
+    "plusCode": {
+        "compoundCode": "GV7F+F2 London, UK",
+        "globalCode": "9C3XGV7F+F2"
+    },
+    "postalAddress": {
+        "addressLines": [
+            "26 Earlham Street",
+            "Seven Dials"
+        ],
+        "languageCode": "en-US",
+        "locality": "London",
+        "postalCode": "WC2H 9LN",
+        "regionCode": "GB"
+    },
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "priceRange": {
+        "endPrice": {
+            "currencyCode": "GBP",
+            "units": "30"
+        },
+        "startPrice": {
+            "currencyCode": "GBP",
+            "units": "20"
+        }
+    },
+    "primaryType": "thai_restaurant",
+    "primaryTypeDisplayName": {
+        "languageCode": "en-US",
+        "text": "Thai Restaurant"
+    },
+    "rating": 4.6,
+    "regularOpeningHours": {
+        "nextOpenTime": "2025-11-25T12:00:00Z",
+        "openNow": false,
+        "periods": [
+            {
+                "close": {
+                    "day": 0,
+                    "hour": 22,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 0,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 1,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 1,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 2,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 2,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 3,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 3,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 4,
+                    "hour": 22,
+                    "minute": 30
+                },
+                "open": {
+                    "day": 4,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 5,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 5,
+                    "hour": 12,
+                    "minute": 0
+                }
+            },
+            {
+                "close": {
+                    "day": 6,
+                    "hour": 23,
+                    "minute": 0
+                },
+                "open": {
+                    "day": 6,
+                    "hour": 12,
+                    "minute": 0
+                }
+            }
+        ],
+        "weekdayDescriptions": [
+            "Monday: 12:00 – 10:30 PM",
+            "Tuesday: 12:00 – 10:30 PM",
+            "Wednesday: 12:00 – 10:30 PM",
+            "Thursday: 12:00 – 10:30 PM",
+            "Friday: 12:00 – 11:00 PM",
+            "Saturday: 12:00 – 11:00 PM",
+            "Sunday: 12:00 – 10:00 PM"
+        ]
+    },
+    "reservable": true,
+    "restroom": true,
+    "reviewSummary": {
+        "disclosureText": {
+            "languageCode": "en-US",
+            "text": "Summarized with Gemini"
+        },
+        "flagContentUri": "https://www.google.com/local/review/rap/report?postId=5%401:CAIQACodChtyc19oOjd3N1NiMzVGczVUdkU3S1JFMGJzenc%7CCAIQACorChtyc19oOjd3N1NiMzVGczVUdkU3S1JFMGJzencSDAi_2OfEBhD44ZHwAg&d=17924085&t=8",
+        "reviewsUri": "https://www.google.com/maps/place//data=!4m4!3m3!1s0x487604cd3e014efd:0x23b136026458bf76!9m1!1b1",
+        "text": {
+            "languageCode": "en-US",
+            "text": "People say this Thai restaurant serves delicious dishes like Pad Thai, Pad See Ewe, and Green Curry, with generous portions and authentic flavors. They highlight the reasonable prices and cozy, intimate atmosphere. They also like the friendly and attentive service."
+        }
+    },
+    "reviews": [
+        {
+            "authorAttribution": {
+                "displayName": "Floriane Natalizi",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW7GITPfulHLgLFQHYuVJDa0LD-DTvbkXooBMa-vaPzi4-6tURWjQ=s128-c0x00000000-cc-rp-mo-ba2",
+                "uri": "https://www.google.com/maps/contrib/116235317681543628092/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pkbWFtODVSbGhQZUhodWNGazNWbEpTVXpKaVZuYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkbWFtODVSbGhQZUhodWNGazNWbEpTVXpKaVZuYxAB!2m1!1s0x487604cd3e014efd:0x23b136026458bf76",
+            "name": "places/ChIJ_U4BPs0EdkgRdr9YZAI2sSM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkbWFtODVSbGhQZUhodWNGazNWbEpTVXpKaVZuYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Great food. The red curry was excellent and the chicken satay too. James and Sam are super organised, efficient and friendly. You can tell they care about providing a great service. Just go, don’t hesitate!"
+            },
+            "publishTime": "2025-11-03T19:13:16.303950953Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "3 weeks ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Great food. The red curry was excellent and the chicken satay too. James and Sam are super organised, efficient and friendly. You can tell they care about providing a great service. Just go, don’t hesitate!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Emily Crown",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWpYD7y11JXVO34nOVb9Pp_bPkCY9npz3BXQZ-Dm4Hsl6ySCzS9=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/110437655316386557331/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25sMGFuZzVNVWxYVUVabFlWVjNiMnByWVdkbFUyYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sMGFuZzVNVWxYVUVabFlWVjNiMnByWVdkbFUyYxAB!2m1!1s0x487604cd3e014efd:0x23b136026458bf76",
+            "name": "places/ChIJ_U4BPs0EdkgRdr9YZAI2sSM/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sMGFuZzVNVWxYVUVabFlWVjNiMnByWVdkbFUyYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Stumbled upon this little spot for lunch and so happy I did! It was very tasty, fresh, and a great environment. The service was great and I would absolutely come back again. My favorite item I had were the vegetable rolls. Definitely worth giving it a try!"
+            },
+            "publishTime": "2025-10-15T18:25:29.934599023Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Stumbled upon this little spot for lunch and so happy I did! It was very tasty, fresh, and a great environment. The service was great and I would absolutely come back again. My favorite item I had were the vegetable rolls. Definitely worth giving it a try!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Dawn Kaur",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ49v_TqpMQD319ut3d7Nc3ckUlnOFxpCmCdq8sGpQhkFF3UQ=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/106826440776427631363/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pscFEzWm5VUzFtUzIxMVozQklkMVJGU2pWT09WRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pscFEzWm5VUzFtUzIxMVozQklkMVJGU2pWT09WRRAB!2m1!1s0x487604cd3e014efd:0x23b136026458bf76",
+            "name": "places/ChIJ_U4BPs0EdkgRdr9YZAI2sSM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pscFEzWm5VUzFtUzIxMVozQklkMVJGU2pWT09WRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "I had a fantastic experience at Rosa’s Thai in Covent Garden! From the moment we walked in, the atmosphere was warm and welcoming. A special shoutout to General Manager Nicky, who went above and beyond to make us feel at home, incredibly friendly, attentive, and professional.\nThe service was outstanding throughout, and the food was absolutely delicious! fresh, full of flavour, and beautifully presented. Whether you're a Thai food lover or trying it for the first time, this place is a must-visit"
+            },
+            "publishTime": "2025-10-02T19:51:14.285208511Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "a month ago",
+            "text": {
+                "languageCode": "en",
+                "text": "I had a fantastic experience at Rosa’s Thai in Covent Garden! From the moment we walked in, the atmosphere was warm and welcoming. A special shoutout to General Manager Nicky, who went above and beyond to make us feel at home, incredibly friendly, attentive, and professional.\nThe service was outstanding throughout, and the food was absolutely delicious! fresh, full of flavour, and beautifully presented. Whether you're a Thai food lover or trying it for the first time, this place is a must-visit"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "RT Shaw",
+                "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUHcCxqBVcM8ra5qfFr2_cZ4dVRvtKCYv9v-r8D5swKFOHmJMfA=s128-c0x00000000-cc-rp-mo-ba3",
+                "uri": "https://www.google.com/maps/contrib/107142590719469951819/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pkUWQyMXJkM0J3V25ST1NWbHhWVk55UWxad2JIYxAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkUWQyMXJkM0J3V25ST1NWbHhWVk55UWxad2JIYxAB!2m1!1s0x487604cd3e014efd:0x23b136026458bf76",
+            "name": "places/ChIJ_U4BPs0EdkgRdr9YZAI2sSM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkUWQyMXJkM0J3V25ST1NWbHhWVk55UWxad2JIYxAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Vegan incredible! Watch out for the sauce on the fresh rolls, sweet, sour and finished with some unexpected but enjoyable heat. The drunken noodles were excellent as well. The tofu fried rive was very good, but the noodles were better...Did not have to wait as we got right in between shows at the palace theater but it did get busy as soon as we were leaving. A must try!"
+            },
+            "publishTime": "2025-07-17T10:01:00.014699793Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "4 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Vegan incredible! Watch out for the sauce on the fresh rolls, sweet, sour and finished with some unexpected but enjoyable heat. The drunken noodles were excellent as well. The tofu fried rive was very good, but the noodles were better...Did not have to wait as we got right in between shows at the palace theater but it did get busy as soon as we were leaving. A must try!"
+            }
+        },
+        {
+            "authorAttribution": {
+                "displayName": "Ratedfood",
+                "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLfVJ5I0SEtmgElqSYuD3nt2ZYXM2cijNRxqvXDN8K0g0FqzA=s128-c0x00000000-cc-rp-mo",
+                "uri": "https://www.google.com/maps/contrib/101006869001003828410/reviews"
+            },
+            "flagContentUri": "https://www.google.com/local/review/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xSMGQydEJlRzg1VTJFdFpUZGlSMU50Y1ZWVmIxRRAB&d=17924085&t=1",
+            "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSMGQydEJlRzg1VTJFdFpUZGlSMU50Y1ZWVmIxRRAB!2m1!1s0x487604cd3e014efd:0x23b136026458bf76",
+            "name": "places/ChIJ_U4BPs0EdkgRdr9YZAI2sSM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSMGQydEJlRzg1VTJFdFpUZGlSMU50Y1ZWVmIxRRAB",
+            "originalText": {
+                "languageCode": "en",
+                "text": "Fantastic lunch at Rosa’s Thai Covent Garden! The £15 Saiphin’s Lunch Deal is amazing value-generous, flavour-packed, and super satisfying. The grilled giant prawns are a must have, wrap them in lettuce with vermicelli and spicy peanut sauce… unreal! Huge thanks to Nikki for being such a warm and welcoming host, she really made our visit special. Highly recommend!"
+            },
+            "publishTime": "2025-09-10T21:32:29.313458035Z",
+            "rating": 5,
+            "relativePublishTimeDescription": "2 months ago",
+            "text": {
+                "languageCode": "en",
+                "text": "Fantastic lunch at Rosa’s Thai Covent Garden! The £15 Saiphin’s Lunch Deal is amazing value-generous, flavour-packed, and super satisfying. The grilled giant prawns are a must have, wrap them in lettuce with vermicelli and spicy peanut sauce… unreal! Huge thanks to Nikki for being such a warm and welcoming host, she really made our visit special. Highly recommend!"
+            }
+        }
+    ],
+    "servesBeer": true,
+    "servesBreakfast": false,
+    "servesBrunch": false,
+    "servesCocktails": true,
+    "servesCoffee": true,
+    "servesDessert": true,
+    "servesDinner": true,
+    "servesLunch": true,
+    "servesVegetarianFood": true,
+    "servesWine": true,
+    "shortFormattedAddress": "Sartaj Indian Restaurant, 26 Earlham St, Seven Dials, London",
+    "takeout": true,
+    "timeZone": {
+        "id": "Europe/London"
+    },
+    "types": [
+        "thai_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "userRatingCount": 2759,
+    "utcOffsetMinutes": 0,
+    "viewport": {
+        "high": {
+            "latitude": 51.515028780291495,
+            "longitude": -0.12601071970849795
+        },
+        "low": {
+            "latitude": 51.512330819708495,
+            "longitude": -0.12870868029150198
+        }
+    },
+    "websiteUri": "https://rosasthai.com/locations/rosas-thai-restaurant-delivery-takeaway-sevendials?utm_campaign=gmb&utm_medium=organic&utm_source=local",
+    "timestamp": 1764064800
+}
