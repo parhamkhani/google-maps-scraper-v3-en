@@ -1,4 +1,4 @@
-# Google Maps Scraper v3 (EN)
+# Google Maps Scraper v3
 
 A tool for extracting **accurate and comprehensive place data from Google Maps**. This scraper collects **full place details**, including **name, category, precise address, geographic coordinates, international and local phone numbers, opening hours, user ratings, service features**, and other related metadata.  
 The generated output consists of **raw responses retrieved directly from the official Google Maps Places API**. The data is stored **without modification**, preserving the original **field names, structure, and semantics** exactly as returned by Google, making it suitable for **geospatial data analysis, auditing, and location-based software development**.
