@@ -1,17 +1,15 @@
 # Google Maps Scraper v3
 
-A tool for extracting **accurate and comprehensive place data from Google Maps**. This scraper collects **full place details**, including **name, category, precise address, geographic coordinates, international and local phone numbers, opening hours, user ratings, service features**, and other related metadata.  
-The generated output consists of **raw responses retrieved directly from the official Google Maps Places API**. The data is stored **without modification**, preserving the original **field names, structure, and semantics** exactly as returned by Google, making it suitable for **geospatial data analysis, auditing, and location-based software development**.
+A tool for extracting **accurate and comprehensive place data from Google Maps**. This scraper collects **full place details**,  The generated output consists of **raw responses retrieved directly from the official Google Maps Places API**. The data is stored **without modification**, preserving the original **field names, structure, and semantics** exactly as returned by Google, making it suitable for **geospatial data analysis, auditing, and location-based software development**.
 
 The purpose of this repository is to **demonstrate the scraper and provide verified samples of raw place data directly collected from the official Google Maps Places API**. If you require **custom place datasets**, you may contact me for **tailored data extraction**, without geographic or place-type limitations.
 
 ---
-
 ## 🔹 Sample Output
 
 - A sample dataset for **100 restaurants in London** is available in the [examples](https://github.com/parhamkhani/google-maps-scraper-v3-en/tree/main/examples) directory.
 
-### Example Google Maps place + simplified JSON output
+### Example Google Maps place and corresponding raw JSON output
 
 <div style="text-align: center; margin: 20px;">
   <img src="https://github.com/parhamkhani/google-maps-scraper-v3-en/blob/main/Toklas.png"
@@ -826,101 +824,19 @@ The purpose of this repository is to **demonstrate the scraper and provide verif
 
 ---
 
-## 🧬 Output JSON Field Structure
 
-```
-id
-name
-displayName
-├── languageCode
-└── text
+## Custom Data Requests
 
-formattedAddress
-addressComponents
-├── languageCode
-├── longText
-├── shortText
-└── types
+In addition to raw data extraction, I can provide **custom data processing and transformation** based on your requirements.
 
-addressDescriptor
-├── areas
-│   ├── containment
-│   ├── displayName
-│   │   ├── languageCode
-│   │   └── text
-│   ├── name
-│   └── placeId
-└── landmarks
-    ├── displayName
-    │   ├── languageCode
-    │   └── text
-    ├── name
-    ├── placeId
-    ├── spatialRelationship
-    ├── straightLineDistanceMeters
-    ├── travelDistanceMeters
-    └── types
+This includes:
+- cleaning and restructuring the raw data
+- filtering or aggregating specific attributes
+- converting outputs into any required format (JSON, CSV, GeoJSON, SQL, etc.)
+- delivering datasets tailored for analytics, databases, or downstream applications
 
-location
-├── latitude
-└── longitude
+If you need processed, structured, or analysis-ready place datasets, feel free to contact me with your specifications.
 
-googleMapsUri
-googleMapsLinks
-├── directionsUri
-├── photosUri
-├── placeUri
-├── reviewsUri
-└── writeAReviewUri
-
-businessStatus
-
-currentOpeningHours
-├── nextOpenTime
-├── openNow
-├── periods
-│   ├── close
-│   │   ├── date
-│   │   │   ├── day
-│   │   │   ├── month
-│   │   │   └── year
-│   │   ├── day
-│   │   ├── hour
-│   │   └── minute
-│   └── open
-│       ├── date
-│       │   ├── day
-│       │   ├── month
-│       │   └── year
-│       ├── day
-│       ├── hour
-│       └── minute
-└── weekdayDescriptions
-
-internationalPhoneNumber
-nationalPhoneNumber
-
-paymentOptions
-├── acceptsCashOnly
-└── acceptsDebitCards
-
-dineIn
-liveMusic
-
-iconMaskBaseUri
-iconBackgroundColor
-
-photos
-├── authorAttributions
-│   ├── displayName
-│   ├── photoUri
-│   └── uri
-├── flagContentUri
-├── googleMapsUri
-├── heightPx
-├── name
-└── widthPx
-```
 
 ---
 
